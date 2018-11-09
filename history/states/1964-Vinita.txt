@@ -1,0 +1,21 @@
+state={
+	id=1964
+	name="STATE_1964"
+	
+	state_category=city
+	
+	history = {
+		owner = USA
+		add_core_of = USA
+		add_core_of = UTH
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		1806 2043 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+}

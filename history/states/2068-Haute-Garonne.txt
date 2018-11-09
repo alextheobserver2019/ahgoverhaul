@@ -1,0 +1,22 @@
+state={
+	id=2068
+	name="STATE_2068"
+	
+	state_category=wasteland
+	
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = FRA
+
+	}
+	
+	provinces={
+		3915 
+	}
+	manpower=458647
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,20 @@
+state={
+	id=1994
+	name="STATE_1994"
+	
+	state_category=rural
+	
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		720 954 1604 1655 4508 7611 7626 7831 9682 10457 10461 12305 12497 12697 
+	}
+	manpower=1240120
+	buildings_max_level_factor=1.000
+}

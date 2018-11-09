@@ -1,0 +1,27 @@
+
+state={
+	id=2028
+	name="STATE_2028"
+	resources={
+		tungsten=24.000
+	}
+
+	history={
+		owner = AST
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+
+		}
+		add_core_of = AST
+
+	}
+
+	provinces={
+		1514 12957
+	}
+	manpower=714600
+	buildings_max_level_factor=1.000
+	state_category=town
+}

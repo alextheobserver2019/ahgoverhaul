@@ -1,0 +1,22 @@
+
+state={
+	id=1557
+	name="STATE_1557"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SDN
+
+	}
+
+	provinces={
+		1953 7996 10908 
+	}
+	manpower=242848
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

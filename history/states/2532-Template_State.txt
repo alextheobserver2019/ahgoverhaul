@@ -1,0 +1,17 @@
+state={
+	id=2532
+	name="STATE_2532"
+	history={
+		owner = AST 
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		14014
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}

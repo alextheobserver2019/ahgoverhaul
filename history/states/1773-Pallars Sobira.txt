@@ -1,0 +1,22 @@
+state={
+	id=1773
+	name="STATE_1773"
+	
+	state_category=wasteland
+	
+	history={
+		owner = SPR
+		buildings = {
+			infrastructure = 8
+
+		}
+		add_core_of = SPR
+
+	}
+	
+	provinces={
+		3898 3899 
+	}
+	manpower=4813
+	buildings_max_level_factor=1.000
+}

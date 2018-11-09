@@ -1,0 +1,19 @@
+state={
+	id=2664
+	name="STATE_2664"
+	history={
+		owner = USA 
+		add_core_of = USA
+		add_core_of = CSA
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		14146
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}

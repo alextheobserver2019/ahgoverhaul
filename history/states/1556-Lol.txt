@@ -1,0 +1,22 @@
+
+state={
+	id=1556
+	name="STATE_1556"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SDN
+
+	}
+
+	provinces={
+		4033 10764 10857 
+	}
+	manpower=21671
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

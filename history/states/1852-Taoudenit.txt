@@ -1,0 +1,22 @@
+state={
+	id=1852
+	name="STATE_1852"
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = MRI
+
+	}
+
+	provinces={
+		13412 
+	}
+	manpower=600
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable = yes
+}

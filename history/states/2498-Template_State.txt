@@ -1,0 +1,17 @@
+state={
+	id=2498
+	name="STATE_2498"
+	history={
+		owner = EBG 
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		13980
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}

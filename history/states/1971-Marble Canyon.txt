@@ -1,0 +1,20 @@
+state={
+	id=1971
+	name="STATE_1971"
+	
+	state_category=rural
+	
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		13432 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+}

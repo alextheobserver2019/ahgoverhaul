@@ -1,0 +1,25 @@
+
+state={
+	id=885
+	name="STATE_885"
+
+	history={
+		owner = ENG
+		victory_points = {
+			7872 3 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = ZMB
+
+	}
+
+	provinces={
+		12677 697 7872
+	}
+	manpower=2011200
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

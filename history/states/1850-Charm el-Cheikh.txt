@@ -1,0 +1,21 @@
+state={
+	id=1850
+	name="STATE_1850"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = EGY
+
+	}
+
+	provinces={
+		4161 10002 12073 
+	}
+	manpower=48666
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,17 @@
+state={
+	id=2589
+	name="STATE_2589"
+	history={
+		owner = FRA 
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		14071
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}

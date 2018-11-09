@@ -1,0 +1,15 @@
+state=
+{
+	id=2303
+	name="STATE_2303"
+	manpower = 41621
+	state_category = small_island
+	history= {
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+	}
+	provinces= { 13814 }
+}

@@ -1,0 +1,17 @@
+state={
+	id=2410
+	name="STATE_2410"
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		13892
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}

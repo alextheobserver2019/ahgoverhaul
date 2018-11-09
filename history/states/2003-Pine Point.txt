@@ -1,0 +1,20 @@
+state={
+	id=2003
+	name="STATE_2003"
+	
+	state_category=rural
+	
+	history = {
+		owner = CAN
+		add_core_of = CAN
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		7696 10703 13265 
+	}
+	manpower=300
+	buildings_max_level_factor=1.000
+}

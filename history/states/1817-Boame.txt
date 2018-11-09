@@ -1,0 +1,15 @@
+state={
+	id=1817
+	name="STATE_1817"
+	provinces={
+		8094 
+	}
+	history = {
+	owner = ENG
+	add_core_of = DER
+	add_core_of = SOM
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

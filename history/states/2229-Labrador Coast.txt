@@ -1,0 +1,23 @@
+state={
+	id=2229
+	name="STATE_2229"
+	
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 7
+
+		}
+		add_core_of = NFL
+		add_core_of = CAN
+
+	}
+	
+	provinces={
+		4720 
+	}
+	
+	manpower=3019
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

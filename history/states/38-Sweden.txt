@@ -1,0 +1,27 @@
+
+state={
+	id=38
+	name="STATE_38"
+
+	history={
+		owner = SWE
+		buildings = {
+			infrastructure = 4
+			air_base = 3
+			130 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = SWE
+
+	}
+
+	provinces={
+		113 125 130 182 184 205 3108 6010 6063 6067 6126 6129 9035 9088 9141 9151 9154 11040 11120 11123 11129 11147 11148 11185 11187 11209 
+	}
+	manpower=301352
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

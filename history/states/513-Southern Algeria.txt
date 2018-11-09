@@ -1,0 +1,23 @@
+
+state={
+	id=513
+	name="STATE_513" # Tlemcen
+	resources={
+		tungsten=12
+	}
+	manpower = 811486
+	
+	state_category = wasteland
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = ALG
+	}
+
+	provinces={
+		1126 1967 4970 5053 12018 12888 13074 2049 4903 5035 12711 12842 9960
+	}
+}

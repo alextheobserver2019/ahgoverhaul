@@ -1,0 +1,22 @@
+state={
+	id=2373
+	name="STATE_2373"
+	
+	history={
+		owner = BEL
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = COG
+
+	}
+	
+	provinces={
+		191 
+	}
+	
+	manpower=12952
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

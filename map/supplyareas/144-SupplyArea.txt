@@ -1,0 +1,9 @@
+
+supply_area={
+	id=144
+	name="SUPPLYAREA_144"
+	value=2
+	states={
+		466 927 1248 1255 1445 1444 1443 2012 2013 2014 
+	}
+}

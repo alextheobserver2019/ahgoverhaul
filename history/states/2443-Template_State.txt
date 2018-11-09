@@ -1,0 +1,18 @@
+state={
+	id=2443
+	name="STATE_2443"
+	history={
+		owner = VEN 
+		add_core_of = VEN
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		13925
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}

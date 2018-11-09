@@ -1,0 +1,18 @@
+state={
+	id=2435
+	name="STATE_2435"
+	history={
+		owner = CUB
+		add_core_of = CUB 
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		13917
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}

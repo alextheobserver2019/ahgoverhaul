@@ -1,0 +1,9 @@
+
+supply_area={
+	id=35
+	name="SUPPLYAREA_35"
+	value=10
+	states={
+		108 107 817 816 1156 1210 1733 1732 1731 1734 1735 2277 
+	}
+}

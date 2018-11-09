@@ -1,0 +1,23 @@
+state={
+	id=1860
+	name="STATE_1860"
+	state_category=rural
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+		add_core_of = DKU
+
+	}
+	
+	provinces={
+		685 6674 9628 9632 9647 11609 11614 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=2219
+	name="STATE_2219"
+	
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SAU
+
+	}
+	
+	provinces={
+		13747 13749 13751 13753 13754 13757 13759 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

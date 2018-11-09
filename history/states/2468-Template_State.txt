@@ -1,0 +1,17 @@
+state={
+	id=2468
+	name="STATE_2468"
+	history={
+		owner = ENG 
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		13950
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}

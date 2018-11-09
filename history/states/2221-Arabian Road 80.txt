@@ -1,0 +1,22 @@
+state={
+	id=2221
+	name="STATE_2221"
+
+	state_category=wasteland
+	
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SAU
+
+	}
+	
+	provinces={
+		13741 13748 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+}

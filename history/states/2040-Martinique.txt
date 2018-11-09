@@ -1,0 +1,22 @@
+state={
+	id=2040
+	name="STATE_2040"
+	manpower = 244290
+
+	state_category = rural
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			177 = {
+				naval_base = 3
+			}
+		}
+	}
+	
+	provinces={
+		177 
+	}
+}

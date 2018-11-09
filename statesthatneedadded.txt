@@ -1,0 +1,68 @@
+Format: Province IDs, State Name, State ID
+In Progress:
+12894 and 13079 in Aden 659
+4211 in Bangka Island 1046
+149 in Leningrad 195
+7587 in Ambon 2167
+10342 in The Moluccas 668
+9952 in Hokuriku 534
+13037 in Kuril Islands 555
+1515 in Kuril Islands 555
+10184 in Mindanao 627
+12234 and 12219 in Lesser Sunda Islands 667
+4306 in Java 335
+1570 in Northern Territory 520
+7884 in Alaska 463
+13080 in Alaska 463
+7115 and 1123 in Okinawa 526
+13287 in Channel Islands 984
+10321 in Andaman Islands 733
+4310 in Perak 1930
+7542 in West Papua 669
+
+Eventually:
+9197 9164 3072 in Volkhov 244
+71 6154 9212 6225 9242 8 11191 6086 in Novgorod 263
+248 and 11234 in Pskov 209
+387 and 9386 in Nevel 210
+
+Not as urgent:
+
+10373 10334 4615 in North Island 284
+7742 10710 4748 in North Island 284
+10609 1786 1746 4718 12664 in North Island 284
+12362 in North Island 284
+1814 in North Island 284
+7826 1801 4804 7692 in North Island 284 
+12632 in South Island 723
+2197 in South Island 723
+5195 in South Island 723
+8212 12966 in South Island 723
+8232 12980 12974 in South Island 723
+8241 and 12988 in South Island 723
+2211 and 2203 in South Island 723
+
+Eventually these but not now:
+
+4288 and 10272 in Central Islands 624
+7307 in Central Islands 624
+7385 in Cebu 628
+12118 and 12153 in Cebu 628
+1368 7423 1368 in Cebu 628
+7417 7360 7389 4399 1421 in Mindanao 627
+12457 in West Papua 669
+1437 in Ternate 2168
+10219 in Lesser Sunda Islands 667
+4273 in Lesser Sunda Islands 667
+7293 in Lesser Sunda Islands 667
+10191 and 12162 in Lesser Sunda Islands 667
+9859 in Tohoku 533
+8188 5185 11015 in Madagascar 543
+5128 in Madagascar 543
+10993 and 8246 in Madagascar 543
+8180 12956 2200 in Madagascar 543
+7003 in Dodecanese 164
+
+
+
+

@@ -1,0 +1,23 @@
+
+state={
+	id=211
+	name="STATE_211"
+
+	history={
+		owner = BUL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+
+		}
+		add_core_of = BUL
+
+	}
+
+	provinces={
+		6967 9769 9919 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

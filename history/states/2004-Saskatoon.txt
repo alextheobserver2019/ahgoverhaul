@@ -1,0 +1,22 @@
+
+state={
+	id=2004
+	name="STATE_2004"
+
+	history={
+		owner = CAN
+		add_core_of = CAN
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		3721 4218 4872 5119 12636 12688 
+	}
+	manpower=12049
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

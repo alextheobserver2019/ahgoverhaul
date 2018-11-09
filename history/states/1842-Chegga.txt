@@ -1,0 +1,23 @@
+state={
+	id=1842
+	name="STATE_1842"
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = MRT
+		add_core_of = MOR
+
+	}
+
+	provinces={
+		13417 13481 
+	}
+	manpower=96
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable = yes
+}
