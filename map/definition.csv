@@ -14191,3 +14191,16 @@
 14186;99;99;235;land;false;urban;0
 14187;99;99;240;land;false;urban;0
 14188;99;99;245;land;false;urban;0
+14189;99;99;250;land;false;plains;0
+14190;99;99;255;land;false;plains;0
+
+14191;199;199;5;land;false;urban;0
+14192;199;199;10;land;false;urban;0
+14193;199;199;15;land;false;urban;0
+14194;199;199;20;land;false;urban;0
+14195;199;199;25;land;false;urban;0
+14196;199;199;30;land;false;urban;0
+14197;199;199;35;land;true;urban;0
+14198;199;199;40;land;false;urban;0
+14199;199;199;45;land;true;urban;0
+14200;199;199;50;land;true;urban;0
