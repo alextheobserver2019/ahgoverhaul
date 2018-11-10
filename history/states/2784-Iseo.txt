@@ -1,0 +1,20 @@
+state={
+	id=2784
+	name="STATE_2784"
+	history={
+		
+		owner = ITA 
+		add_core_of = ITA
+		add_core_of = VNC
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		11568 
+	}
+	manpower=1000 
+  state_category=pastoral
+	buildings_max_level_factor=1.000
+}

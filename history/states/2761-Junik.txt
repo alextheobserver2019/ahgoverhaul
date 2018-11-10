@@ -1,0 +1,21 @@
+state={
+	id=2761
+	name="STATE_2761"
+	history={
+		
+		owner = YUG 
+		add_core_of = SER
+		add_core_of = KOS
+		add_claim_by = MNT
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		14195 
+	}
+	manpower=1000 
+  state_category=pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=2763
+	name="STATE_2763"
+	history={
+		
+		owner = ITA 
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		14189 
+	}
+	manpower=1000 
+  state_category=pastoral
+	buildings_max_level_factor=1.000
+}

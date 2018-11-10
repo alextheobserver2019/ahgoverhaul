@@ -1,0 +1,19 @@
+state={
+	id=2777
+	name="STATE_2777"
+	history={
+		
+		owner = FIN 
+		add_core_of = FIN
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		6183 
+	}
+	manpower=1000 
+  state_category=pastoral
+	buildings_max_level_factor=1.000
+}
