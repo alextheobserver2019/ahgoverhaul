@@ -1,0 +1,19 @@
+state={
+	id=2828
+	name="STATE_2828"
+	history={
+		
+		owner = CAT 
+		add_core_of = CAT
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		14238
+	}
+	manpower=1000 
+  state_category=pastoral
+	buildings_max_level_factor=1.000
+}
