@@ -3,15 +3,15 @@ state={
 	name="STATE_2848"
 	history={
 		
-		owner = CAT 
-		add_core_of = CAT
+		owner = CAN 
+		add_core_of = CAN
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		14258
+		1393
 	}
 	manpower=1000 
   state_category=pastoral

@@ -3,8 +3,8 @@ state={
 	name="STATE_2837"
 	history={
 		
-		owner = CAT 
-		add_core_of = CAT
+		owner = AST 
+		add_core_of = AST
 		buildings = {
 			infrastructure = 4
 			

@@ -1,0 +1,19 @@
+state={
+	id=2862
+	name="STATE_2862"
+	history={
+		
+		owner = SAF 
+		add_core_of = SAF
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		14271
+	}
+	manpower=1000 
+  state_category=pastoral
+	buildings_max_level_factor=1.000
+}
