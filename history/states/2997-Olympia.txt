@@ -1,0 +1,10 @@
+state={
+	id=2997
+	name="STATE_2997"
+	provinces={
+		7386 
+	}
+	manpower=1000 
+ state_category=pastoral
+	buildings_max_level_factor=1.000
+}

@@ -13,16 +13,7 @@ state={
 			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 1
-			dockyard = 1
 			air_base = 3
-			1408 = {
-				naval_base = 5
-
-			}
-			10548 = {
-				naval_base = 1
-
-			}
 
 		}
 		add_core_of = CAN
@@ -35,7 +26,7 @@ state={
 	}
 
 	provinces={
-		1323 1408 1411 1737 1858 4343 4413 4870 4877 7677 7753 7761 7820 7853 10228 10258 10273 10548 10644 12578 14261 14259 14258
+		1737 4343 7677 7753 7761 7853 10644 14261
 	}
 	manpower=638165
 	buildings_max_level_factor=1.000
