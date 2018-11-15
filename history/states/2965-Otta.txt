@@ -1,6 +1,15 @@
 state={
 	id=2965
 	name="STATE_2965"
+	history={
+		
+		owner = NOR 
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
 	provinces={
 		6114 9135 9227 11206 
 	}

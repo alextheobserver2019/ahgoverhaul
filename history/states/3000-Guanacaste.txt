@@ -1,6 +1,16 @@
 state={
 	id=3000
 	name="STATE_3000"
+	history={
+		
+		owner = COS 
+		add_core_of = COS
+		add_core_of = NIC
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
 	provinces={
 		13092 
 	}

@@ -1,6 +1,15 @@
 state={
 	id=2917
 	name="STATE_2917"
+	history={
+		
+		owner = SPR 
+		add_core_of = SPR
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
 	provinces={
 		3945 6879 9757 9852 11742 11870 
 	}

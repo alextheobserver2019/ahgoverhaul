@@ -1,6 +1,16 @@
 state={
 	id=3091
 	name="STATE_3091"
+	history={
+		
+		owner = SOV 
+		add_core_of = SOV
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
 	provinces={
 		1591 
 	}

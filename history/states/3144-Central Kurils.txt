@@ -1,0 +1,18 @@
+state={
+	id=3144
+	name="STATE_3144"
+	history={
+		
+		owner = JAP 
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		1515 
+	}
+	manpower=1000 
+ state_category = small_island
+	buildings_max_level_factor=1.000
+}

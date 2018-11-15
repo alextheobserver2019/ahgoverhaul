@@ -1,6 +1,15 @@
 state={
 	id=3004
 	name="STATE_3004"
+	history={
+		
+		owner = USA 
+		add_core_of = USA
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
 	provinces={
 		1831 9910 10478 
 	}

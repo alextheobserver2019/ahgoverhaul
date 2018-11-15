@@ -1,6 +1,17 @@
 state={
 	id=3068
 	name="STATE_3068"
+	history={
+		
+		owner = SIK 
+ add_core_of = PRC 
+ add_core_of = CHI 
+		add_core_of = SIK
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
 	provinces={
 		7693 
 	}
