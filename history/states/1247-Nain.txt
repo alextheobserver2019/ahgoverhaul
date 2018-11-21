@@ -4,7 +4,7 @@ state={
 	name="STATE_1247"
 
 	history={
-		owner = ENG
+		owner = NFL
 		buildings = {
 			infrastructure = 8
 			12503 = {

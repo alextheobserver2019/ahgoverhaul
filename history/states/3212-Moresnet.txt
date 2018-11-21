@@ -1,0 +1,20 @@
+state={
+	id=3212
+	name="STATE_3212"
+	history={
+		owner = BEL 
+		add_core_of = BEL
+		add_core_of = WLL
+		add_claim_by = HOL
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		14301 
+	}
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

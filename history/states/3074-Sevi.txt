@@ -3,8 +3,8 @@ state={
 	name="STATE_3074"
 	history={
 		
-		owner = TUV 
-		add_core_of = TUV
+		owner = TAN 
+		add_core_of = TAN
 		add_core_of = SOV
 		buildings = {
 			infrastructure = 4

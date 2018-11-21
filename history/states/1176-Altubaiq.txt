@@ -4,7 +4,7 @@ state={
 	name="STATE_1176"
 	impassable = yes
 	history={
-		owner = ENG
+		owner = JOR
 		buildings = {
 			infrastructure = 0
 

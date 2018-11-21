@@ -7,7 +7,7 @@ state={
 
 	history={
 		add_core_of = VIN
-		owner = FRA
+		owner = VIN
 		buildings = {
 			infrastructure = 3
 

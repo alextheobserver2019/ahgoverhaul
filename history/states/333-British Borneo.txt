@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = MAL
+		owner = SRW
 		
 		buildings = {
 			infrastructure = 3
@@ -20,6 +20,7 @@ state={
 
 		}
 		add_core_of = MAL
+		add_core_of = SRW
 
 	}
 

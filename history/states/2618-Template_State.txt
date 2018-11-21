@@ -2,7 +2,7 @@ state={
 	id=2618
 	name="STATE_2618"
 	history={
-		owner = SOV 
+		owner = POR 
 		buildings = {
 			infrastructure = 4
 			
@@ -12,6 +12,6 @@ state={
 		14100
 	}
 	manpower=1000 
- state_category=small_island
+ state_category=pastoral
 	buildings_max_level_factor=1.000
 }

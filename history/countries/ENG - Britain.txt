@@ -44,7 +44,7 @@ set_technology = {
 	radio = 1
 	radio_detection = 1
 }
-
+give_guarantee = SHH
 add_ideas = {
 	stiff_upper_lip
 	ENG_the_war_to_end_all_wars
@@ -81,15 +81,44 @@ if = {
 		target = AST
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
-	}
+	
 	set_autonomy = {
 		target = NZL
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
 	}
+	set_autonomy = {
+		target = PAL
+		autonomous_state = autonomy_colony
+		freedom_level = 0.2
+	}
+	set_autonomy = {
+		target = JOR
+		autonomous_state = autonomy_colony
+		freedom_level = 0.2
+	}
+	set_autonomy = {
+		target = EGY
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.2
+	set_autonomy = {
+		target = BEI
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.2
+	}
+	set_autonomy = {
+		target = SRW
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.2
+	}
+	}
 	else = {
 		puppet = MAL
 		puppet = RAJ
+		puppet = PAL
+		puppet = JOR
+		puppet = BEI
+		puppet = SRW
 	}
 }
 

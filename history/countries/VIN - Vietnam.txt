@@ -90,9 +90,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ngô Đình Diêm"
+	name = "Eugène Jean Louis René Robin"
 	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
+	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 	expire = "1953.3.1"
 	ideology = conservatism
 	traits = {

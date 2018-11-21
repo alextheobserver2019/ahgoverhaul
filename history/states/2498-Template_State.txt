@@ -2,7 +2,7 @@ state={
 	id=2498
 	name="STATE_2498"
 	history={
-		owner = EBG 
+		owner = ENG 
 		buildings = {
 			infrastructure = 4
 			

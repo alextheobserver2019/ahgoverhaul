@@ -2,7 +2,8 @@ state={
 	id=2658
 	name="STATE_2658"
 	history={
-		owner = FRA 
+		owner = VIN 
+		add_core_of = VIN
 		buildings = {
 			infrastructure = 4
 			

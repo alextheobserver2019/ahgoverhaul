@@ -127,7 +127,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Sveinn Björnsson"
+	name = "Hermann Jónasson"
 	desc = ""
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
 	expire = "1965.1.1"

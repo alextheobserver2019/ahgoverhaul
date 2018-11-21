@@ -417,8 +417,8 @@ CAM = {
 }
 
 MAL = {
-	color = rgb { 213  169  121 }
-	color_ui = rgb { 213  169  121 }
+	color = rgb { 100 100 0  } 
+	color_ui = rgb { 100 100 0 } 
 }
 
 MNT = {
@@ -1027,134 +1027,16 @@ D15 = {
 	color = rgb { 194 140 86 }
 	color_ui = rgb { 252 182 112 }
 }
-SBR = {
-	color = rgb { 213 239 210 }
-	color_ui = rgb { 213 239 210 }	
+BEI = {
+	color = rgb { 252 242 120 }
+	color_ui = rgb { 252 242 120 }
 }
-KHA = {
-	color = rgb { 65 96 147}
-	color_ui = rgb { 65 96 147}	
+
+SWK = {
+	color = rgb { 131 102 1 }
+	color_ui = rgb { 131 102 1 }
 }
-AMU = {
-	color = rgb { 145 125 110}
-	color_ui = rgb { 145 125 110}	
-}
-ALI = {
-	color = rgb { 29 112 34}
-	color_ui = rgb { 29 112 34}	
-}
-NVO = {
-	color = rgb { 163 35 65}
-	color_ui = rgb { 163 35 65}	
-}
-TOM = {
-	color = rgb { 5 36 178}
-	color_ui = rgb { 5 36 178}	
-}
-OMS = {
-	color = rgb { 155 47 20}
-	color_ui = rgb { 155 47 20}	
-}
-TYU = {
-	color = rgb { 105 135 77}
-	color_ui = rgb { 105 135 77}	
-}
-CHE = {
-	color = rgb { 188 149 41}
-	color_ui = rgb { 188 149 41}	
-}
-SVR = {
-	color = rgb { 91 140 23}
-	color_ui = rgb { 91 140 23}	
-}
-YML = {
-	color = rgb { 204 12 48}
-	color_ui = rgb { 204 129 48}	
-}
-MSC = {
-	color = rgb { 224 151 103}
-	color_ui = rgb { 224 151 103}	
-}
-KMI = {
-	color = rgb { 186 34 0}
-	color_ui = rgb { 186 34 0}	
-}
-ARH = {
-	color = rgb { 135 29 5}
-	color_ui = rgb { 135 29 5}	
-}
-VLG = {
-	color = rgb { 12 140 8}
-	color_ui = rgb { 12 140 8}	
-}
-IVN = {
-	color = rgb { 168 85 147}
-	color_ui = rgb { 168 85 147}	
-}
-ULA = {
-	color = rgb { 117 105 114}
-	color_ui = rgb { 117 105 114}	
-}
-PNZ = {
-	color = rgb { 218 229 94}
-	color_ui = rgb { 218 229 94}	
-}
-SRT = {
-	color = rgb { 159 160 141}
-	color_ui = rgb { 159 160 141}	
-}
-KZN = {
-	color = rgb { 6 165 136}
-	color_ui = rgb { 6 165 136}	
-}
-VLD = {
-	color = rgb { 50 99 58}
-	color_ui = rgb { 50 99 58}	
-}
-DKU = {
-	color = rgb { 229 208 45}
-	color_ui = rgb { 229 208 45}	
-}
-PTG = {
-	color = rgb { 16 114 5}
-	color_ui = rgb { 16 114 5}	
-}
-MRM = {
-	color = rgb { 119 88 145}
-	color_ui = rgb { 119 88 145}	
-}
-CRM = {
-	color = rgb { 135 28 1}
-	color_ui = rgb { 135 28 1}	
-}
-PRR = {
-	color = rgb { 190 252 75}
-	color_ui = rgb { 190 252 75}	
-}
-ORN = {
-	color = rgb { 10 153 100}
-	color_ui = rgb { 10 153 100}	
-}
-BSH = {
-	color = rgb { 150 91 24}
-	color_ui = rgb { 150 91 24}	
-}
-URL = {
-	color = rgb { 86 135 79}
-	color_ui = rgb { 86 135 79}	
-}
-KSA = {
-	color = rgb { 112 114 107}
-	color_ui = rgb { 10 153 100}	
-}
-KRV = {
-	color = rgb { 183 44 0}
-	color_ui = rgb { 183 44 0}	
-}
-PCR = {
-	color = rgb { 146 170 168}
-	color_ui = rgb { 146 170 168}	
-}
+
 HAM = {
        color = rgb { 150 6 58 }
        color_ui = rgb { 150 6 58 }
@@ -1199,10 +1081,6 @@ LOU = {
 TUG = {
        color = rgb { 178 143 110}
        color_ui = rgb { 178 143 110}
-}
-QNX = {
-       color = rgb { 232 23 117}
-       color_ui = rgb { 232 23 117}
 }
 XIG = {
        color = rgb { 116 195 211}

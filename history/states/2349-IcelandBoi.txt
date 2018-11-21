@@ -9,11 +9,10 @@ state=
 	
 	history=
 	{
-		owner = DEN
+		owner = ICE
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = DEN
 		add_core_of = ICE
 	}
 	provinces=

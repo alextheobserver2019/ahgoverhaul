@@ -6,7 +6,7 @@ state={
 		victory_points = {
 			7371 1 
 		}
-		owner = MAL
+		owner = SRW
 		buildings = {
 			infrastructure = 3
 			7371 = {
@@ -15,6 +15,7 @@ state={
 			}
 		}
 		add_core_of = MAL
+		add_core_of = SRW
 
 	}
 

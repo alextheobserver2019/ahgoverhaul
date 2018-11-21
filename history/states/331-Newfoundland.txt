@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = ENG
+		owner = NFL
 		victory_points = {
 			12505 3 
 		}

@@ -109,6 +109,7 @@ GND = "countries/Guangdong Clique.txt"
 PIL = "countries/Pailingmiao Council.txt"
 SHG = "countries/Shangdong.txt"
 EHC = "countries/East Hebei.txt"
+SHH = "countries/Shanghai.txt"
 
 ##Middle-East##
 HTY = "countries/Hatay.txt"

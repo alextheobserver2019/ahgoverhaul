@@ -36,6 +36,7 @@ set_technology = {
 	base_strike = 1
 
 }
+give_guarantee = SHH
 
 #Monroe Doctrine
 give_guarantee = CAN
