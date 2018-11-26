@@ -81,7 +81,7 @@ if = {
 		target = AST
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
-	
+	}
 	set_autonomy = {
 		target = NZL
 		autonomous_state = autonomy_dominion
@@ -101,6 +101,7 @@ if = {
 		target = EGY
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
+	}
 	set_autonomy = {
 		target = BEI
 		autonomous_state = autonomy_dominion

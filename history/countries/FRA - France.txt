@@ -65,6 +65,7 @@ if = {
 	else = {
 	puppet = SYR
 	puppet = VIN
+	}
 }
 set_politics = {
 
