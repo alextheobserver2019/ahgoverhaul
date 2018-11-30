@@ -7,7 +7,6 @@ set_technology = {
 	infantry_weapons = 1
 	mass_assault = 1
 }
-add_ideas = MON_nomadic
 1939.1.1 = {
 	add_to_war = {
 		targeted_alliance = CHI
@@ -60,8 +59,6 @@ add_ideas = MON_nomadic
 		improved_machine_tools = 1
 		advanced_machine_tools = 1
 		synth_oil_experiments = 1
-		oil_plant = 1
-		improved_oil_plant = 1
 		construction1 = 1
 		construction2 = 1
 		construction3 = 1

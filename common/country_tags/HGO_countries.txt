@@ -110,6 +110,7 @@ PIL = "countries/Pailingmiao Council.txt"
 SHG = "countries/Shangdong.txt"
 EHC = "countries/East Hebei.txt"
 SHH = "countries/Shanghai.txt"
+HMI = "countries/Hami.txt"
 
 ##Middle-East##
 HTY = "countries/Hatay.txt"

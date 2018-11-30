@@ -36,7 +36,7 @@ state={
 	}
 
 	provinces={
-		531 2022 4313 7397 7911 12797 12882 
+		2022 4313 7397 7911 12797 12882 
 	}
 	manpower=3705400
 	buildings_max_level_factor=1.000
