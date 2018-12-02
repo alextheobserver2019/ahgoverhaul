@@ -376,8 +376,8 @@ PixelShader =
 		#if 1
 			vArrowColor.rgb = RGBtoHSV(vArrowColor.rgb);
 			vArrowColor.r = mod( vArrowColor.r, 6.0 ); //H
-			vArrowColor.g *= 0.4; //S
-			vArrowColor.b *= 0.4; //V
+			vArrowColor.g *= 1.0; //S
+			vArrowColor.b *= 1.0; //V
 			vArrowColor.rgb = HSVtoRGBPost(vArrowColor.rgb);
 
 			float4 vColor = saturate( vPattern * vArrowColor );
@@ -425,8 +425,8 @@ PixelShader =
 			#if 1
 				vArrowColor.rgb = RGBtoHSV(vArrowColor.rgb);
 				vArrowColor.r = mod( vArrowColor.r, 6.0 ); //H
-				vArrowColor.g *= 0.4; //S
-				vArrowColor.b *= 0.4; //V
+				vArrowColor.g *= 1.0; //S
+				vArrowColor.b *= 1.0; //V
 				vArrowColor.rgb = HSVtoRGBPost(vArrowColor.rgb);
 
 				float4 vColor = saturate( vPattern * vArrowColor );

@@ -1,3 +1,0 @@
-
-NDefines.NMilitary.RIVER_CROSSING_PENALTY = -0.45
-NDefines.NMilitary.RIVER_CROSSING_SPEED_PENALTY = -0.37

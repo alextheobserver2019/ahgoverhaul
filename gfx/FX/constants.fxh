@@ -80,7 +80,7 @@ static const float 	ICE_NOISE_TILING  			= 0.1f;
 static const float WATER_COLOR_LIGHTNESS = 0.5;
 static const float WATER_RIPPLE_EFFECT = 0.0025;
 
-static const float COLORMAP_OVERLAY_STRENGTH = 0.80f;
+static const float COLORMAP_OVERLAY_STRENGTH = 0.78f;
 static const float3 FAKE_CUBEMAP_COLOR = float3(0.0f, 0.0f, 0.0f);
 static const float 	BORDER_TILE = 0.4f;
 
@@ -138,9 +138,9 @@ static const float GB_CAM_MIN = 170.0f;
 static const float GB_CAM_MAX = 175.0f; 
 static const float GB_CAM_MAX_FILLING_CLAMP = 1.0f; 
 static const float GB_THRESHOLD = 0.7f;
-static const float GB_THRESHOLD2 = 0.02f; 
+static const float GB_THRESHOLD2 = 0.05f; 
 static const float GB_OUTLINE_CUTOFF_SEA = 0.990f; 
-static const float GB_OPACITY_NEAR = 0.0f;
+static const float GB_OPACITY_NEAR = 1.0f;
 static const float GB_OPACITY_FAR = 1.0f;
 static const float BORDER_NIGHT_DESATURATION_MAX = 0.0f; 
 static const float BORDER_FOW_REMOVAL_FACTOR = 1.0f;
