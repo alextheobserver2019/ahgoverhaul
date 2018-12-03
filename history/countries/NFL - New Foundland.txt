@@ -1,4 +1,4 @@
-﻿capital = 468
+﻿capital = 2736
 
 oob = "NFL_1936"
 

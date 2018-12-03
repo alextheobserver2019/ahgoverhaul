@@ -1,0 +1,19 @@
+state={
+	id=3410
+	name="STATE_3410"
+	provinces={
+		4219 10229 12258 
+	}
+	
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}
