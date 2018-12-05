@@ -1,0 +1,129 @@
+﻿capital = 524
+
+oob = "CHI_gen"
+
+set_technology = {
+	infantry_weapons = 1
+	gw_artillery = 1
+	
+}
+
+set_cosmetic_tag = TWN_JAP
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 10
+		}
+
+		fascism = {
+			popularity = 80
+		}
+		
+		communism = {
+			popularity = 5
+		}
+		neutrality = {
+			popularity = 5
+		}
+	}
+	ruling_party = fascism
+}
+
+
+
+create_country_leader = {
+	name = "Xie Xuehong"
+	desc = ""
+	picture = "gfx/leaders/East Asia/Xie_Xuehong.dds" 
+	expire = "1970.11.5"
+	ideology = marxism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Kenzo Nakagawa"
+	desc = ""
+	picture = "gfx/leaders/Japan/Kenzo_Nakagawa.dds"
+	expire = "1944.6.26"
+	ideology = fascism_ideology
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Lee Teng-hui"
+	desc = ""
+	picture = "gfx/leaders/East Asia/Lee_Teng-hui.dds"
+	expire = "2019.1.15"
+	ideology = conservatism
+	traits = {
+		
+	}
+}
+
+
+
+1939.1.1 = {
+
+	add_to_war = {
+		targeted_alliance = JAP
+		enemy = CHI
+	}
+
+	add_political_power = 1198
+	
+	#generic focuses
+	complete_national_focus = army_effort
+	complete_national_focus = equipment_effort
+	complete_national_focus = motorization_effort
+	complete_national_focus = aviation_effort
+	complete_national_focus = naval_effort
+	complete_national_focus = flexible_navy
+	complete_national_focus = industrial_effort
+	complete_national_focus = construction_effort
+	complete_national_focus = production_effort
+	
+	set_technology = {
+		#doctrines
+		grand_battle_plan = 1
+		trench_warfare = 1
+		fleet_in_being = 1
+		battlefleet_concentration = 1
+
+		#electronics
+		electronic_mechanical_engineering = 1
+		radio = 1
+		radio_detection = 1
+		mechanical_computing = 1
+
+		#industry
+		basic_machine_tools = 1
+		improved_machine_tools = 1
+		advanced_machine_tools = 1
+		synth_oil_experiments = 1
+		oil_plant = 1
+		construction1 = 1
+		construction2 = 1
+		dispersed_industry = 1
+		dispersed_industry2 = 1
+	}
+	
+	create_country_leader = {
+	name = "Seizo Kobayashi"
+	desc = ""
+	picture = "gfx/leaders/Japan/Seizo_Kobayashi.dds"
+	expire = "1953.3.1"
+	ideology = fascism_ideology
+	traits = {
+		
+	}
+	}
+}
+
+
+
