@@ -3,6 +3,8 @@ state={
 	name="STATE_2624"
 	history={
 		owner = JAP 
+		add_core_of = MIC
+		add_core_of = PAC
 		buildings = {
 			infrastructure = 4
 			

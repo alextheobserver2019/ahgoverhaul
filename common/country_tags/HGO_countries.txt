@@ -83,13 +83,12 @@ FIJ = "countries/Fiji.txt"
 KIR = "countries/Kiribati.txt"
 TAH = "countries/Tahiti.txt"
 SAM = "countries/Samoa.txt"
-#need to make tonga
 
 ##Africa##
 ALG = "countries/Algeria.txt"
-MAR = "countries/Morocco.txt"
+MOR = "countries/Morocco.txt"
 TUN = "countries/Tunisia.txt"
-MRT = "countries/Mauritania.txt"
+MAU = "countries/Mauritania.txt"
 MRI = "countries/Mali.txt"
 SDN = "countries/Sudan.txt"
 NAM = "countries/Namibia.txt"
@@ -99,19 +98,14 @@ ZMB = "countries/Zambia.txt"
 GHA = "countries/Ghana.txt"
 TSD = "countries/Chad.txt"
 MLW = "countries/Malawi.txt"
-CMR = "countries/Cameroon.txt"
+KMR = "countries/Cameroon.txt"
 NGA = "countries/Nigeria.txt"
 TGR = "countries/Tangier.txt"
 MDG = "countries/Madagascar.txt"
 DJI = "countries/Djibouti.txt"
-#LES = "countries/Lesotho.txt" needs imported
-#SWZ = "countries/Swaziland.txt" needs imported
-#IVC = "countries/Ivory Coast.txt" needs imported
-#BNI = "countries/Benin.txt" needs imported
-#TGO = "countries/Togo.txt" needs imported
-#need to make Upper Volta, Gabon, Niger, Guinea, Burundi, Rwanda, Zanzibar, probably should make West Cameroon
-##Africa Imported from CU##
+# probably should make West Cameroon
 
+##Africa Imported from CU##
 #Portuguese
 GBS = "countries/Guinea Bissau.txt"
 CVD = "countries/Cape Verde.txt"
@@ -133,7 +127,6 @@ CMR = "countries/Comoros.txt"
 EQG = "countries/Equatorial Guinea.txt"
 SAH = "countries/Western Sahara.txt"
 RIF = "countries/Rif.txt"
-
 ORA = "countries/Oranje.txt"
 ##Asia##
 TKM = "countries/Turkmenistan.txt"
@@ -174,11 +167,10 @@ KUR = "countries/Kurdistan.txt"
 UAE = "countries/UAE.txt"
 CYP = "countries/Cyprus.txt"
 KUW = "countries/Kuwait.txt"
-#bottom 4 need imported
+BHR = "countries/Bahrain.txt"
+#bottom 2 need imported PLUS NORTH BORNEO
 #HJZ = "countries/Hejaz.txt"
 #JBL = "countries/Jabal Shammar.txt"
-#QUA = "countries/Qatar.txt"
-#BAH = "countries/Bahrain.txt"
 ##Imported
 ADN = "countries/Aden.txt"
 ##America##
@@ -210,7 +202,7 @@ UTH = "countries/Utah.txt"
 ARZ = "countries/Arizona.txt"
 NWY = "countries/New York.txt"
 BRC = "countries/British Columbia.txt"
-CSC = "countries/Cascadia.txt"
+CAS = "countries/Cascadia.txt"
 #Imported
 BAH = "countries/Bahamas.txt"
 TNT = "countries/Trinidad.txt"
@@ -265,6 +257,26 @@ TRI = "countries/Trieste.txt"
 HAM = "countries/Hamburg.txt"
 BER = "countries/Berlin.txt"
 LCC = "countries/Lucca.txt"
+
+##Imported from UES##
+
+BEN = "countries/benin.txt"
+BRN = "countries/burundi.txt"
+UVO = "countries/burkina faso.txt"
+COD = "countries/cote d'ivoire.txt"
+GAB = "countries/gabon.txt"
+GUI = "countries/guinea.txt"
+LES = "countries/lesotho.txt"
+NIG = "countries/niger.txt"
+QAT = "countries/qatar.txt"
+RWA = "countries/rwanda.txt"
+SSU = "countries/south sudan.txt"
+SWA = "countries/swaziland.txt"
+TOG = "countries/togo.txt"
+TON = "countries/tonga.txt"
+TUV = "countries/tuvalu.txt"
+VAN = "countries/vanuatu.txt"
+ZAN = "countries/zanzibar.txt"
 
 ##France##
 NND = "countries/Normandy.txt"

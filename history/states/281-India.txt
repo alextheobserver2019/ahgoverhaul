@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = ENG
+		add_core_of = MDV
 		buildings = {
 			infrastructure = 3
 			4967 = {

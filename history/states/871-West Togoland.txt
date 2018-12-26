@@ -5,6 +5,7 @@ state={
 	history={
 		owner = ENG
 		add_core_of = GHA
+		add_claim_by = TOG
 		buildings = {
 			infrastructure = 3
 

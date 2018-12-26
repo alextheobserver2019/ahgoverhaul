@@ -1,0 +1,19 @@
+state={
+	id=3466
+	name="STATE_3466"
+	provinces={
+		6418 6440 
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = CZE
+		add_core_of = CZE
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}

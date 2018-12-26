@@ -11,8 +11,7 @@ state={
 
 	history={
 		owner = FRA
-		add_core_of = FRA
-		add_core_of = CMR
+		add_core_of = KMR
 		buildings = {
 			infrastructure = 1
 		}

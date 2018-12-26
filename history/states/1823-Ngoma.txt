@@ -6,7 +6,7 @@ state={
 	}
 	history = {
 	owner = ENG
-	add_core_of = KEN
+	add_core_of = UGA
 	}
 	manpower=365866
 	buildings_max_level_factor=1.000

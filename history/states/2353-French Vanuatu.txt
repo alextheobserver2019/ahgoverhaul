@@ -10,6 +10,7 @@ state={
 
 	history={
 		owner = FRA
+		add_core_of = VAN
 		buildings = {
 			infrastructure = 3
 			12120 = {

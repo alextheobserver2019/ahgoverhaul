@@ -10,13 +10,13 @@ state={
 
 		}
 		add_core_of = POL
-		add_core_of = GAL
+		add_core_of = GLC
 		add_core_of = LMK
 
 	}
 
 	provinces={
-		417 466 3410 
+		417 3410 
 	}
 	manpower=2100401
 	buildings_max_level_factor=1.000

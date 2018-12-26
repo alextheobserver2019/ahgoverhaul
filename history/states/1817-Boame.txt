@@ -6,7 +6,7 @@ state={
 	}
 	history = {
 	owner = ENG
-	add_core_of = DER
+	add_core_of = SML
 	add_core_of = SOM
 	}
 	manpower=1

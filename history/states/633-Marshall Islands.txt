@@ -8,6 +8,8 @@ state={
 
 	history={
 		owner = JAP
+		add_core_of = MAR
+		add_core_of = PAC
 		buildings = {
 			infrastructure = 3
 			air_base = 2

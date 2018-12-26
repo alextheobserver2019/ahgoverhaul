@@ -4,6 +4,8 @@ state={
 
 	history={
 		owner = RAJ
+		add_core_of = BHR
+		add_claim_by = PER
 		buildings = {
 			infrastructure = 1
 

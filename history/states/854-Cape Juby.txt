@@ -12,7 +12,7 @@ state={
 			}
 
 		}
-		add_core_of = MAR
+		add_core_of = MOR
 
 	}
 

@@ -10,6 +10,7 @@ state={
 
 	history={
 		owner = ENG
+		add_core_of = VAN
 		buildings = {
 			infrastructure = 3
 			1237 = {

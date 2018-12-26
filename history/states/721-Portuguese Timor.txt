@@ -5,6 +5,8 @@ state={
 
 	history={
 		owner = POR
+		add_core_of = ETM
+		add_claim_by = INS
 		buildings = {
 			infrastructure = 3
 			12190 = {

@@ -8,6 +8,7 @@ state={
 			}
 		add_core_of = SPR
 		add_core_of = POR
+		add_core_of = ANL
 		victory_points = {
 			13348 1
 			}

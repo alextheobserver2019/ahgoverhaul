@@ -8,7 +8,8 @@ state={
 			infrastructure = 3
 
 		}
-		add_core_of = KEN
+		add_core_of = TAZ
+		add_claim_by = ZAN
 
 	}
 	

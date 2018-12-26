@@ -7,6 +7,7 @@ state={
 
 	history={
 		owner = RAJ
+		add_core_of = QAT
 		buildings = {
 			infrastructure = 2
 			8051 = {

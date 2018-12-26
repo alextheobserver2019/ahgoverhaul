@@ -4,6 +4,7 @@ state={
 	
 	history={
 		owner = FRA
+		add_core_of = GUI
 		buildings = {
 			infrastructure = 3
 

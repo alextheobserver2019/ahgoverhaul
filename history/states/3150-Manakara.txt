@@ -4,6 +4,7 @@ state={
 	history={
 		
 		owner = FRA 
+		add_core_of = MDG
 		buildings = {
 			infrastructure = 4
 			

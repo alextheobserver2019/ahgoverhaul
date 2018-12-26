@@ -18,9 +18,10 @@ state={
 			}
 		}
 		add_core_of = FRA
+		add_core_of = CSC
 	}
 
 	provinces={
-		3838 9851 11804 
+		3838
 	}
 }

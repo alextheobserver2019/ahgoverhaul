@@ -12,12 +12,12 @@ state={
 			infrastructure = 1
 
 		}
-		add_core_of = MAR
+		add_core_of = MOR
 
 	}
 
 	provinces={
-		1102 4108 4139 11943 
+		4139 11943 
 	}
 	manpower=1700000
 	buildings_max_level_factor=1.000

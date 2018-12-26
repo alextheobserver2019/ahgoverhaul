@@ -3,6 +3,7 @@ state={
 	name="STATE_2699"
 	history={
 		owner = ENG 
+		add_core_of = MAU
 		buildings = {
 			infrastructure = 4
 			

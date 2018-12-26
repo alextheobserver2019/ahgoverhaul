@@ -10,12 +10,12 @@ state={
 
 		}
 		add_core_of = POL
-		add_core_of = GAL
+		add_core_of = GLC
 
 	}
 
 	provinces={
-		442 6499 6522 11507 
+		442 6499 11507 
 	}
 	manpower=235321
 	buildings_max_level_factor=1.000

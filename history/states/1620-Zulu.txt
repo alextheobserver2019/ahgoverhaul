@@ -14,6 +14,7 @@ state={
 
 		}
 		add_core_of = SAF
+		add_core_of = ORA
 		victory_points = {
 			1468 3 
 		}

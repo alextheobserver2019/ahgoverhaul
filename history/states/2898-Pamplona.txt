@@ -5,13 +5,14 @@ state={
 		
 		owner = SPR 
 		add_core_of = SPR
+		add_core_of = BAS
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		932 3931 3933 9857 
+		932 3931 3933 9857 3735
 	}
 	manpower=1000 
  state_category=pastoral

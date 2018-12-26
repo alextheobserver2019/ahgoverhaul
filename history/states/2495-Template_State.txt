@@ -3,6 +3,7 @@ state={
 	name="STATE_2495"
 	history={
 		owner = ENG 
+		add_core_of = BAH
 		buildings = {
 			infrastructure = 4
 			
