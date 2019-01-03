@@ -1,15 +1,8 @@
 state={
 	id=2445
 	name="STATE_2445"
-	history={
-		owner = HOL 
-		buildings = {
-			infrastructure = 4
-			
-		}
-	}
 	provinces={
-		13927
+		288
 	}
 	manpower=1000 
  state_category=small_island

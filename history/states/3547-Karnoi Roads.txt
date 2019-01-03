@@ -1,0 +1,19 @@
+state={
+	id=3547
+	name="STATE_3547"
+	provinces={
+		14519 
+	}
+	manpower = 1000
+	
+	state_category = wasteland
+
+	history={
+		owner = ENG
+		add_core_of = SUD
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}

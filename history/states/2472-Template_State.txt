@@ -1,16 +1,8 @@
 state={
 	id=2472
 	name="STATE_2472"
-	history={
-		owner = ENG 
-		add_core_of = BAH
-		buildings = {
-			infrastructure = 4
-			
-		}
-	}
 	provinces={
-		13954
+		288
 	}
 	manpower=1000 
  state_category=small_island

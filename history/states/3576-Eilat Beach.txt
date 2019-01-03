@@ -1,0 +1,20 @@
+state={
+	id=3576
+	name="STATE_3576"
+	provinces={
+		14570 
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = PAL
+		add_core_of = PAL
+		add_core_of = ISR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}

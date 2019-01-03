@@ -1,0 +1,21 @@
+state={
+	id=3555
+	name="STATE_3555"
+	provinces={
+		14448 14449 
+	}
+	manpower = 1000
+	
+	state_category = wasteland
+
+	history={
+		owner = SPR
+		add_core_of = MOR
+		add_core_of = MAU
+		add_core_of = SAH
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}

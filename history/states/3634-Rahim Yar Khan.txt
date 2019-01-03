@@ -1,0 +1,19 @@
+state={
+	id=3634
+	name="STATE_3634"
+	provinces={
+		1107 7903 14624 14625 14626 14627
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = RAJ
+		add_core_of = PAK
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}

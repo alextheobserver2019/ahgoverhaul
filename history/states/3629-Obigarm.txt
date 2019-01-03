@@ -1,0 +1,20 @@
+state={
+	id=3629
+	name="STATE_3629"
+	provinces={
+		4542 14635 14636
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = SOV
+		add_core_of = TJI
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}

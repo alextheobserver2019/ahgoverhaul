@@ -1,19 +1,8 @@
 state={
 	id=2506
 	name="STATE_2506"
-	history={
-		owner = USA 
-		add_core_of = USA
-		add_core_of = FLO
-		add_core_of = CSA
-
-		buildings = {
-			infrastructure = 4
-			
-		}
-	}
 	provinces={
-		13988
+		288
 	}
 	manpower=1000 
  state_category=small_island

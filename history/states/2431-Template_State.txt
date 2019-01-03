@@ -1,15 +1,8 @@
 state={
 	id=2431
 	name="STATE_2431"
-	history={
-		owner = CUB
-		buildings = {
-			infrastructure = 4
-			
-		}
-	}
 	provinces={
-		13913
+		288
 	}
 	manpower=1000 
  state_category=small_island

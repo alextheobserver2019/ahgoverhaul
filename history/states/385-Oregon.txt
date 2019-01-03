@@ -18,7 +18,7 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = ORG
-		add_core_of = CSC
+		add_core_of = CAS
 		victory_points = {
 			3513 1 
 		}

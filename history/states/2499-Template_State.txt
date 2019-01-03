@@ -13,7 +13,7 @@ state={
 		}
 	}
 	provinces={
-		13981
+		13981 13982 13983
 	}
 	manpower=1000 
  state_category=small_island

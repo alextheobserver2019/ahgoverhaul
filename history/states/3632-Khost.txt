@@ -1,0 +1,19 @@
+state={
+	id=3632
+	name="STATE_3632"
+	provinces={
+		14630
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}
