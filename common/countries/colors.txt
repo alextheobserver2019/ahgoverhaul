@@ -859,7 +859,7 @@ KUR = {
 	color = rgb { 150 123 182 }
 	color_ui = rgb { 176 123 182 }
 }
-GAL = {
+GLC = {
 	color = rgb { 178 49 73 }
 	color_ui = rgb { 178 49 73 }
 }
