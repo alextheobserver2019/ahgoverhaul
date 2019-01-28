@@ -1,0 +1,19 @@
+state={
+	id=3707
+	name="STATE_3707"
+	provinces={
+		1527 6737 10339 10393 11589 12312 12368 
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}

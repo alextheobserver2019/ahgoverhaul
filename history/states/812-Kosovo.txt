@@ -6,7 +6,7 @@ state={
 	history={
 		owner = YUG
 		victory_points = {
-			6940 5 
+			13270 5 
 		}
 		buildings = {
 			infrastructure = 3
@@ -19,7 +19,7 @@ state={
 	}
 
 	provinces={
-		6940 13270 
+		13270 
 	}
 	manpower=40100
 	buildings_max_level_factor=1.000

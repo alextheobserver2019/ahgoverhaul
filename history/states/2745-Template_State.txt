@@ -13,7 +13,7 @@ state={
 		13049
 	}
 	manpower=1000 
- state_category=small_island
+ state_category=wasteland
  impassable = yes
 	buildings_max_level_factor=1.000
 }
