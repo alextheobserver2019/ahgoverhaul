@@ -11,6 +11,7 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = SOV
+		add_core_of = UKR
 	}
 	provinces={
 		3421 6474 6493 

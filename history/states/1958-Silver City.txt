@@ -15,7 +15,7 @@ state={
 
 		}
 		add_core_of = USA
-		add_claim_by = CSA
+		add_core_of = CSA
 		add_core_of = ARZ
 
 	}

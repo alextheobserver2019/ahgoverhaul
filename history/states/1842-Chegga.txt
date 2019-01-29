@@ -9,7 +9,6 @@ state={
 
 		}
 		add_core_of = MAU
-		add_core_of = MOR
 
 	}
 

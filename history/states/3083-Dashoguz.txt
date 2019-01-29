@@ -5,7 +5,7 @@ state={
 		
 		owner = SOV 
 		add_core_of = SOV
-		add_core_of = TRM
+		add_core_of = UZB
 		buildings = {
 			infrastructure = 4
 			

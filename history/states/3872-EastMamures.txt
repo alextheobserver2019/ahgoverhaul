@@ -1,10 +1,9 @@
 state={
-	id=3325
-	name="STATE_3325"
+	id=3872
+	name="STATE_3872"
 	provinces={
-		577 
+		13717 
 	}
-	
 	manpower = 1000
 	
 	state_category = pastoral
@@ -12,7 +11,7 @@ state={
 	history={
 		owner = ROM
 		add_core_of = ROM
-		add_core_of = GLC
+		add_core_of = TRV
 		buildings = {
 			infrastructure = 1
 		}

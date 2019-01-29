@@ -8,8 +8,8 @@ state={
 		buildings = {
 			infrastructure = 4
 		}
-		add_claim_by = CZE
 		add_core_of = SIL
+		add_core_of = GLC
 
 	}
 
