@@ -89,12 +89,12 @@ if = {
 	}
 	set_autonomy = {
 		target = PAL
-		autonomous_state = autonomy_colony
+		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
 	}
 	set_autonomy = {
 		target = JOR
-		autonomous_state = autonomy_colony
+		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
 	}
 	set_autonomy = {
@@ -112,6 +112,11 @@ if = {
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
 	}
+	set_autonomy = {
+		target = BOT
+		autonomous_state = autonomy_puppet
+		freedom_level = 0.2
+	}
 	else = {
 		puppet = MAL
 		puppet = RAJ
@@ -119,6 +124,7 @@ if = {
 		puppet = JOR
 		puppet = BEI
 		puppet = SRW
+		puppet = BOT
 	}
 }
 

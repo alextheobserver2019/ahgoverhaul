@@ -1,4 +1,4 @@
-﻿capital = 333 #Hanoi
+﻿capital = 1927 #Hanoi
 
 oob = "SRW_1936"
 
