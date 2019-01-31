@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = RAJ
+		owner = ADN
 		add_core_of = ADN
 		buildings = {
 			infrastructure = 1

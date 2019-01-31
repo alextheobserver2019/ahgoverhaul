@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = RAJ
+		owner = UAE
 		add_core_of = PER
 		add_core_of = UAE
 		buildings = {

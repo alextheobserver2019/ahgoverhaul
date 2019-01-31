@@ -3,7 +3,7 @@ state={
 	name="STATE_1504"
 	
 	history={
-		owner = ENG
+		owner = ZMB
 		buildings = {
 			infrastructure = 3
 

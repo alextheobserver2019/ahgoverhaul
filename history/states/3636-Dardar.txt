@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = SOV
+		owner = TJK
 		add_core_of = TJK
 		add_core_of = SOV
 		buildings = {

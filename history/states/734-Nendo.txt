@@ -5,7 +5,7 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = FRA
+		owner = SLM
 		add_core_of = SLM
 		buildings = {
 			infrastructure = 3

@@ -6,7 +6,7 @@ state={
 	
 	history=
 	{
-		owner = ENG
+		owner = SLE
 		add_core_of = SLE
 		buildings = {
 			infrastructure = 3

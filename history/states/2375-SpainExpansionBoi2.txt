@@ -3,7 +3,7 @@ state={
 	name="STATE_2375"
 	
 	history={
-		owner = FRA
+		owner = KMR
 		buildings = {
 			infrastructure = 3
 

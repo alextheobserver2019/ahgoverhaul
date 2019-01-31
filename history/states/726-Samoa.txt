@@ -4,7 +4,7 @@ state={
 	name="STATE_726"
 
 	history={
-		owner = NZL
+		owner = SAM
 		add_core_of = SAM
 		buildings = {
 			infrastructure = 3

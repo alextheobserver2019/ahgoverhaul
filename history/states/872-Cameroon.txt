@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = KMR
 		buildings = {
 			infrastructure = 3
 

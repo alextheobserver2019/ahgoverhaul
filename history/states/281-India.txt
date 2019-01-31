@@ -7,7 +7,7 @@ state={
 	state_category = enclave
 
 	history={
-		owner = ENG
+		owner = MDV
 		add_core_of = MDV
 		buildings = {
 			infrastructure = 3

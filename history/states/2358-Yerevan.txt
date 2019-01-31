@@ -4,7 +4,7 @@ state={
 	name="STATE_2358"
 
 	history={
-		owner = SOV
+		owner = TSC
 		victory_points = {
 			12320 1 
 		}
@@ -15,6 +15,7 @@ state={
 
 		}
 		add_core_of = SOV
+		add_core_of = TSC
 		add_core_of = ARM
 		
 

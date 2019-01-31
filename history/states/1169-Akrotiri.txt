@@ -7,7 +7,7 @@ state={
 	state_category = rural
 	history=
 	{
-		owner = ENG
+		owner = CYP
 		add_claim_by = CYP
 		buildings = {
 			infrastructure = 3

@@ -7,7 +7,7 @@ state={
 	
 	history=
 	{
-		owner = ENG
+		owner = SEY
 		add_core_of = SEY
 		buildings = {
 			infrastructure = 3

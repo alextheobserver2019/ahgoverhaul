@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = AST
+		owner = NGU
 		add_core_of = PNG
 		buildings = {
 			infrastructure = 1

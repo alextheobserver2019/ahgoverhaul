@@ -4,7 +4,7 @@ state={
 	name="STATE_1011"
 
 	history={
-		owner = SOV
+		owner = BLR
 		buildings = {
 			infrastructure = 3
 

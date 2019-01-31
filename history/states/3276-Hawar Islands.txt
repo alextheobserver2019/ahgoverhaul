@@ -10,7 +10,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = RAJ
+		owner = QAT
 		add_core_of = QAT
 		add_claim_by = BHR
 		buildings = {

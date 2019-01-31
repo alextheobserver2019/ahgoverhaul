@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = ENG
+		owner = GHA
 		add_core_of = GHA
 		buildings = {
 			infrastructure = 1

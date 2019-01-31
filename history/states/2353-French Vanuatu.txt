@@ -9,7 +9,7 @@ state={
 	state_category = small_island
 
 	history={
-		owner = FRA
+		owner = VAN
 		add_core_of = VAN
 		buildings = {
 			infrastructure = 3

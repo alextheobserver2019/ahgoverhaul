@@ -4,7 +4,7 @@ state={
 	name="STATE_1614"
 
 	history={
-		owner = ENG
+		owner = SML
 		add_core_of = SOM
 		add_core_of = SML
 		buildings = {

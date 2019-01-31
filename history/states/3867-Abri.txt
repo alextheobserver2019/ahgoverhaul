@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = ENG
+		owner = SDN
 		add_core_of = SDN
 		buildings = {
 			infrastructure = 1

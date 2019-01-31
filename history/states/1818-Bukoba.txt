@@ -5,7 +5,7 @@ state={
 		13621 
 	}
 	history = {
-	owner = ENG
+	owner = TAZ
 	add_core_of = TAZ
 	}
 	manpower=1

@@ -4,7 +4,7 @@ state={
 	name="STATE_1558"
 
 	history={
-		owner = ENG
+		owner = SDN
 		buildings = {
 			infrastructure = 3
 

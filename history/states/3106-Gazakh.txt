@@ -3,8 +3,9 @@ state={
 	name="STATE_3106"
 	history={
 		
-		owner = SOV 
+		owner = TSC 
 		add_core_of = SOV
+		add_core_of = TSC
 		add_core_of = AZR
 		buildings = {
 			infrastructure = 4

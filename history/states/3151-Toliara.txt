@@ -3,7 +3,7 @@ state={
 	name="STATE_3151"
 	history={
 		
-		owner = FRA 
+		owner = MDG 
 		add_core_of = MDG
 		buildings = {
 			infrastructure = 4

@@ -5,7 +5,7 @@ state={
 		13624 
 	}
 	history = {
-	owner = ENG
+	owner = UGA
 	add_core_of = UGA
 	}
 	manpower=1

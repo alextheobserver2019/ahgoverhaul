@@ -7,7 +7,7 @@ state={
 	state_category = small_island
 	
 	history={
-		owner = ENG
+		owner = BLZ
 		buildings = {
 			infrastructure = 4
 		}

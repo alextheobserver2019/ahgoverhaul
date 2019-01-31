@@ -10,7 +10,7 @@ state= {
 
 	history=
 	{
-		owner = ENG
+		owner = CYP
 		add_core_of = CYP
 		buildings = {
 			infrastructure = 4

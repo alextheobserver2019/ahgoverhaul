@@ -3,7 +3,7 @@ state={
 	name="STATE_2260"
 	
 	history={
-		owner = ENG
+		owner = TAZ
 		add_core_of = TAZ
 		add_claim_by = ZAN
 		buildings = {

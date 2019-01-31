@@ -3,7 +3,8 @@ state={
 	name="STATE_2715"
 	history={
 		
-		owner = AST 
+		owner = SLM
+		add_core_of = SLM
 		buildings = {
 			infrastructure = 4
 			

@@ -3,7 +3,7 @@ state={
 	name="STATE_1522"
 	
 	history={
-		owner = ENG
+		owner = TAZ
 		buildings = {
 			infrastructure = 3
 

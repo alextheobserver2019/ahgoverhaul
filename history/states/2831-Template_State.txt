@@ -3,7 +3,7 @@ state={
 	name="STATE_2831"
 	history={
 		
-		owner = ITA 
+		owner = ERI 
 		add_core_of = ERI
 		buildings = {
 			infrastructure = 4

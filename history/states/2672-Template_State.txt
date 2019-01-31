@@ -2,7 +2,8 @@ state={
 	id=2672
 	name="STATE_2672"
 	history={
-		owner = JAP 
+		owner = PAC
+		add_core_of = PAC
 		buildings = {
 			infrastructure = 4
 			

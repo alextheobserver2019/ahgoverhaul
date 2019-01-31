@@ -10,7 +10,7 @@ state={
 
 
 	history={
-		owner = ENG
+		owner = JAM
 		add_core_of = TNT
 		buildings = {
 			infrastructure = 3

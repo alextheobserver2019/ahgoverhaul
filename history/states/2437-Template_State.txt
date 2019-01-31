@@ -2,8 +2,7 @@ state={
 	id=2437
 	name="STATE_2437"
 	history={
-		owner = ENG 
-		add_core_of = ENG
+		owner = JAM 
 		buildings = {
 			infrastructure = 4
 			

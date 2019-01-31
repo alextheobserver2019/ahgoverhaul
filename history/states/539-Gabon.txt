@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = FEA
 		add_core_of = GBO
 		
 		buildings = {

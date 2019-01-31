@@ -4,7 +4,7 @@ state={
 	name="STATE_2034"
 
 	history={
-		owner = SOV
+		owner = TSC
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
@@ -13,6 +13,7 @@ state={
 
 		}
 		add_core_of = SOV
+		add_core_of = TSC
 		add_core_of = GEO
 		
 

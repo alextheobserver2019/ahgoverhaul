@@ -3,7 +3,7 @@ state={
 	name="STATE_1574"
 	
 	history={
-		owner = FRA
+		owner = FWA
 		add_core_of = GUI
 		buildings = {
 			infrastructure = 3

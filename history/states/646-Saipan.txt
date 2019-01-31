@@ -6,8 +6,8 @@ state=
 	manpower=21657
 	history=
 	{
-		owner = JAP
-		add_core_of = JAP
+		owner = PAC
+		add_core_of = PAC
 		buildings = {
 			infrastructure = 3
 			air_base = 3
@@ -25,6 +25,6 @@ state=
 
 	}
 	provinces={
-		3995 13023 
+		3995 
 	}
 }

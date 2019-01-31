@@ -9,7 +9,7 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = ITA
+		owner = LBA
 		add_core_of = NIG
 		add_core_of = LBA
 		buildings = {

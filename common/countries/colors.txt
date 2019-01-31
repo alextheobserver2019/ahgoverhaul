@@ -1115,3 +1115,55 @@ EHC = {
        color = rgb { 219 244 105}
        color_ui = rgb { 219 244 105}
 }
+FEA = {
+color = rgb { 0 0 255 }
+color_ui = rgb { 0 0 255 }
+}
+FWA = {
+color = rgb { 0 0 255 }
+color_ui = rgb { 0 0 255 }
+}
+NCM = {
+color = rgb { 255 128 128 }
+color_ui = rgb { 255 128 128 }
+}
+SCM = {
+color = rgb { 255 128 128 }
+color_ui = rgb { 255 128 128 }
+}
+WPP = {
+color = rgb { 255 128 64 }
+color_ui = rgb { 255 128 64 }
+}
+STR = {
+color = rgb { 255 128 128 }
+color_ui = rgb { 255 128 128 }
+}
+SGP = {
+color = rgb { 128 64 0 }
+color_ui = rgb { 128 64 0 }
+}
+NBO = {
+color = rgb { 255 128 128 }
+color_ui = rgb { 255 128 128 }
+}
+WTO = {
+color = rgb { 255 128 128 }
+color_ui = rgb { 255 128 128 }
+}
+RUU = {
+color = rgb { 249 188 6 }
+color_ui = rgb { 249 188 6 }
+}
+NGU = {
+color = rgb { 0 64 128 }
+color_ui = rgb { 0 64 128 }
+}
+SKM = {
+color = rgb { 64 0 64 }
+color_ui = rgb { 64 0 64 }
+}
+TSC = {
+color = rgb { 168 0 0 }
+color_ui = rgb { 168 0 0 }
+}

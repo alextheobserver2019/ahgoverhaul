@@ -10,7 +10,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = FRA
+		owner = KMR
 		add_core_of = KMR
 		buildings = {
 			infrastructure = 1

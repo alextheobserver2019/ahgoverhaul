@@ -3,7 +3,7 @@ state={
 	name="STATE_1532"
 	
 	history={
-		owner = ENG
+		owner = UGA
 		buildings = {
 			infrastructure = 3
 

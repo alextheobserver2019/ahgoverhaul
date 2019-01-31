@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = RAJ
+		owner = UAE
 		add_core_of = UAE
 		victory_points = {
 			7960 1 

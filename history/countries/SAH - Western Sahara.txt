@@ -53,8 +53,8 @@ set_convoys = 20
 		improved_machine_tools = 1
 		advanced_machine_tools = 1
 		synth_oil_experiments = 1
-		oil_plant = 1
-		improved_oil_plant = 1
+		
+		
 		construction1 = 1
 		construction2 = 1
 		dispersed_industry = 1
@@ -83,12 +83,13 @@ set_politics = {
 			popularity = 60
 		}
 	}
+
 	
 	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
-	
+}
 	create_country_leader = {
 	name = "Antonio de Oro Pulido"
 	desc = ""
@@ -98,7 +99,6 @@ set_politics = {
 	traits = {
 		#
 	}
-}
 }
 
 create_country_leader = {

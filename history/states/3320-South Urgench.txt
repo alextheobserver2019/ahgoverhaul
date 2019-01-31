@@ -11,7 +11,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = SOV
+		owner = UZB
 		add_core_of = SOV
 		add_core_of = UZB
 		buildings = {

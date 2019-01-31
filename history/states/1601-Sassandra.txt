@@ -3,7 +3,7 @@ state={
 	name="STATE_1601"
 	
 	history={
-		owner = FRA
+		owner = FWA
 		add_core_of = IVC
 		buildings = {
 			infrastructure = 3
