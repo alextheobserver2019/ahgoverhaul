@@ -139,9 +139,9 @@ set_politics = {
 set_convoys = 40
 
 create_country_leader = {
-	name = "Thorvald Stauning"
-	desc = "POLITICS_THORVALD_STAUNING_DESC"
-	picture = "Portrait_Denmark_Thorvald_Stauning.dds"
+	name = "Christian X"
+	desc = ""
+	picture = "Portrait_Christian_X.dds"
 	expire = "1965.1.1"
 	ideology = socialism
 	traits = {

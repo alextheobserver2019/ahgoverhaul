@@ -24,15 +24,15 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 90
+			popularity = 10
 		}
 		
 		neutrality = {
-			popularity = 10
+			popularity = 90
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 50
 	elections_allowed = no
@@ -46,11 +46,11 @@ add_ideas = {
 
 
 create_country_leader = {
-	name = "General Council"
+	name = "Justi Guitart i Vilardebo"
 	desc = ""
-	picture = "Portrait_Andorra_General_council.dds"
+	picture = "Portrait_Justi_Guitart_i_Vilardebo.dds"
 	expire = "1960.1.1"
-	ideology = conservatism
+	ideology = despotism
 	traits = {
 		
 	}

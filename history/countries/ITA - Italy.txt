@@ -49,7 +49,28 @@ set_technology = {
 		type = annex_everything
 	}
 	give_guarantee = ALB
-
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = SOM
+		autonomous_state = autonomy_kommisariat
+	}
+	set_autonomy = {
+		target = ERI
+		autonomous_state = autonomy_kommisariat
+	}
+	set_autonomy = {
+		target = LBA
+		autonomous_state = autonomy_kommisariat
+	}
+	else = {
+		puppet = SOM
+		puppet = ERI
+		puppet = LBA
+	}
+}
 1939.1.1 = {
 
 	add_political_power = 1198
@@ -171,9 +192,9 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "Benito Mussolini"
+	name = "Victor Emmanuel III"
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
-	picture = "Portrait_Italy_Benito_Mussolini.dds"
+	picture = "Portrait_Italy_Victor_Emmanuel_III.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {

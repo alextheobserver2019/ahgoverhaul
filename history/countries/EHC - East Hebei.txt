@@ -35,8 +35,8 @@ set_politics = {
 
 create_country_leader = {
 	name = "Yin Ju-keng"
-	desc = "POLITICS_DEMCHUGDONGRUB_DESC"
-	picture = ""
+	desc = ""
+	picture = "Portrait_Yin_Ju-Keng.dds"
 	expire = "1965.1.1"
 	ideology = rexism
 	traits = {

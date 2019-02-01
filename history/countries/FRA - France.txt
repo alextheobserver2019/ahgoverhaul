@@ -72,11 +72,41 @@ if = {
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
 	}
+	set_autonomy = {
+		target = FEA
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = FWA
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = DJI
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = KMR
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = MDG
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = TGO
+		autonomous_state = autonomy_colony
+	}
 	else = {
 	puppet = SYR
 	puppet = VIN
 	puppet = MOR
 	puppet = TUN
+	puppet = FEA
+	puppet = FWA
+	puppet = DJI
+	puppet = KMR
+	puppet = MDG
+	puppet = TGO
 	}
 }
 set_politics = {
@@ -133,6 +163,15 @@ create_country_leader = {
 	}
 }
 
+create_country_leader = {
+	name = "Albert François Lebrun"
+	desc = ""
+	picture = "Portrait_Albert_Lebrun.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+	}
+}
 create_country_leader = {
 	name = "Maurice Thorez"
 	desc = "POLITICS_MAURICE_THOREZ_DESC"

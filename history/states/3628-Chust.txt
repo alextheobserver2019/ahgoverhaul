@@ -2,15 +2,15 @@ state={
 	id=3628
 	name="STATE_3628"
 	provinces={
-		10488 14637 
+		14637 
 	}
 	manpower = 1000
 	
 	state_category = pastoral
 
 	history={
-		owner = UZB
-		add_core_of = UZB
+		owner = TJK
+		add_core_of = TJK
 		add_core_of = SOV
 		buildings = {
 			infrastructure = 1

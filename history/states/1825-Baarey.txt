@@ -6,6 +6,7 @@ state={
 	}
 	history = {
 	owner = ETH
+	controller = SOM
 	add_core_of = ETH
 	}
 	manpower=1

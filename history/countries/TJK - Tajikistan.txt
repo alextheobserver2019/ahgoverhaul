@@ -1,7 +1,7 @@
 ﻿capital = 742
 
 oob = "TJK_1936"
-
+set_cosmetic_tag = TJK_SOV
 set_research_slots = 3
 
 # Starting tech

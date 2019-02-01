@@ -77,13 +77,12 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Chiang Kai-Shek"
-	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
-	picture = "Portrait_China_Chiang_Kai_Shek.dds"
+	name = "Lin Sen"
+	desc = ""
+	picture = "Portrait_Lin_Sen.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
-		generallissimo
 	}
 }
 

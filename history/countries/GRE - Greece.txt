@@ -55,9 +55,9 @@ set_politics = {
 set_stability = 0.75
 
 create_country_leader = {
-	name = "Ioannis Metaxas"
-	desc = "POLITICS_IOANNIS_METAXAS_DESC"
-	picture = "Portrait_Greece_Ioannis_Metaxas.dds"
+	name = "George III"
+	desc = ""
+	picture = "Portrait_George_III.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {

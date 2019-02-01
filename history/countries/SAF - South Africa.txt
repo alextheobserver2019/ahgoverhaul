@@ -37,6 +37,19 @@ if = {
 	add_opinion_modifier = { target = ENG modifier = SAF_anti_british_sentiment }
 }
 
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = NAM
+		autonomous_state = autonomy__integrated_puppet
+	}
+	else = {
+		puppet = NAM
+	}
+}
+
 1939.1.1 = {
 
 	add_political_power = 1198

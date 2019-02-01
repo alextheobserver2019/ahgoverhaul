@@ -22,7 +22,23 @@ add_ideas = {
 	BEL_king_leopold_iii
 }
 
-
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = RUU
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = COG
+		autonomous_state = autonomy_colony
+	}
+	else = {
+		puppet = RUU
+		puppet = COG
+	}
+}
 
 set_politics = {
 
@@ -51,9 +67,9 @@ set_convoys = 80
 set_stability = 0.75
 
 create_country_leader = {
-	name = "Hubert Pierlot"
+	name = "Leopold III"
 	desc = "POLITICS_HUBERT_PIERLOT_DESC"
-	picture = "Portrait_Belgium_Hubert_Pierlot.dds"
+	picture = "POLITICS_LEOPOLD_III_DESC"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {
