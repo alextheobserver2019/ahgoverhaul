@@ -1,4 +1,8 @@
 
+SUD_CON = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
 MAL_UK = {
     color = rgb { 201 56 93 }
     color_ui = rgb { 255 73 121 }
@@ -212,7 +216,6 @@ BOH = {
 	color_ui= rgb { 170 125 30 }
 <<<<<<< HEAD
 }
-
 #paint_it
 
 
