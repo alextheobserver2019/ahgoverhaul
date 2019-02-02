@@ -193,10 +193,10 @@ set_politics = {
 set_stability = 0.6
 
 create_country_leader = {
-	name = "Prince Paul"
-	desc = "POLITICS_PRINCE_PAUL_DESC"
-	picture = "Portrait_Yugoslavia_Prince_Paul.dds"
-	expire = "1965.1.1"
+	name = "Peter II"
+	desc = ""
+	picture = "Portrait_Peter_II.dds"
+	expire = "1985.1.1"
 	ideology = despotism
 	traits = {
 		#

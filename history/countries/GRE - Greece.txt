@@ -55,9 +55,9 @@ set_politics = {
 set_stability = 0.75
 
 create_country_leader = {
-	name = "George III"
+	name = "George II"
 	desc = ""
-	picture = "Portrait_George_III.dds"
+	picture = "Portrait_George_II.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {

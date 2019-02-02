@@ -79,7 +79,7 @@ set_politics = {
 		}
 
 		fascism = {
-			popularity = 5
+			popularity = 90
 		}
 		
 		communism = {
@@ -87,11 +87,11 @@ set_politics = {
 		}
 		
 		neutrality = {
-			popularity = 90
+			popularity = 5
 		}
 	}
 	
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = yes
@@ -152,9 +152,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Francisco de Barcelos Rolão Preto"
-	desc = "POLITICS_FRANSISCO_BARCELOS_ROLAO_PRETO_DESC"
-	picture = "gfx/leaders/South America/Portrait_South_America_Generic_land_4.dds"
+	name = "Óscar Carmona"
+	desc = ""
+	picture = "Portrait_Oscar_Carmona.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {

@@ -266,7 +266,7 @@ if = {
 		autonomous_state = autonomy_dominion
 	}
 	set_autonomy = {
-		target = SIK
+		target = SKM
 		autonomous_state = autonomy_dominion
 	}
 	else = {
@@ -297,7 +297,7 @@ if = {
 		puppet = CEY
 		puppet = NBO
 		puppet = ZAN
-		puppet = SIK
+		puppet = SKM
 		puppet = BHU
 		puppet = GUY
 		puppet = BLZ
@@ -497,9 +497,9 @@ create_country_leader = {
 
 
 create_country_leader = {
-	name = "Stanley Baldwin"
-	desc = "POLITICS_STANLEY_BALDWIN_DESC"
-	picture = "gfx//leaders//ENG//Portrait_Britain_Stanley_Baldwin.dds"
+	name = "George V"
+	desc = ""
+	picture = "Portrait_Britain_George_V.dds"
 	expire = "1938.1.1"
 	ideology = liberalism
 	traits = {
