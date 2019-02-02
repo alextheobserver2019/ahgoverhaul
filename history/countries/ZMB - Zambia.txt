@@ -9,7 +9,7 @@ set_technology = {
 }
 
 set_convoys = 5
-
+set_cosmetic_tag = ZMB_ENG
 set_politics = {
 
 	parties = {

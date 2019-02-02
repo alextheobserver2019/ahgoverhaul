@@ -9,7 +9,7 @@ set_technology = {
 }
 
 set_convoys = 5
-set_cosmetic_tag = KEN
+set_cosmetic_tag = KEN_ENG
 1939.1.1 = {
 	#generic focuses
 	complete_national_focus = army_effort

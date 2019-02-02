@@ -3,7 +3,7 @@
 oob = "MAL_1936"
 
 set_research_slots = 3
-
+set_cosmetic_tag = MAL_UK
 # Starting tech
 # clone of UK
 set_technology = {
