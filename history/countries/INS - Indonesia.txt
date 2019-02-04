@@ -55,9 +55,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "A. T. van Starkenborgh Stachouwer"
+	name = "Bonifacius Cornelis de Jonge"
 	desc = ""
-	picture = "GFX_portrait_indonesia_at_van_starkenborgh"
+	picture = "Bonifacius_Cornelis_de_Jonge.dds"
 	expire = "1953.3.1"
 	ideology = conservatism 
 	traits = {
