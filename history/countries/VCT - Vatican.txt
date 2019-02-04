@@ -22,7 +22,7 @@ set_politics = {
 	}
 	
 	ruling_party = neutrality
-	last_election = "1922.2.6"
+	last_election = "1932.2.6"
 	election_frequency = 60
 	elections_allowed = yes
 }

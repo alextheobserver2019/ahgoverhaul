@@ -129,9 +129,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Johan Nygaardsvold"
-	desc = "POLITICS_JOHAN_NYGAARDSVOLD_DESC"
-	picture = "Portrait_Norway_Johan_Nygaardsvold.dds"
+	name = "Haakon VII"
+	desc = ""
+	picture = "Portrait_Haakon_VII.dds"
 	expire = "1965.1.1"
 	ideology = socialism
 	traits = {

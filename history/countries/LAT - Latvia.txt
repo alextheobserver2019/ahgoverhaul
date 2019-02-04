@@ -47,9 +47,9 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "Karlis Ulmanis"
+	name = "Alberts Kviesis"
 	desc = "POLITICS_KARLIS_ULMANIS_DESC"
-	picture = "GFX_Portrait_latvia_karlis_ulmanis"
+	picture = "Portrait_Albert_Kviesis.dds"
 	expire = "1965.1.1"
 	ideology = oligarchism
 	traits = {

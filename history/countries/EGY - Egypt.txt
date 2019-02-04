@@ -107,9 +107,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Farouk I"
+	name = "Fuad I"
 	desc = ""
-	picture = "Portait_Farouk_I.dds"
+	picture = "Portait_Fuad_I.dds"
 	ideology = despotism
 	traits = {
 		#

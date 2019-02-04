@@ -75,12 +75,11 @@ set_politics = {
 
 create_country_leader = {
 	
-	name = "François Tolenga"
-	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_2.dds"
+	name = "Pierre Ryckmans"
+	picture = "Portrait_Pierre_Ryckmans.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
-		compassionate_gentleman
 	}
 }
 create_country_leader = {

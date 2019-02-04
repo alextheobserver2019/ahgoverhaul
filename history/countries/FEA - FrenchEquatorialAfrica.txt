@@ -1,6 +1,7 @@
 ﻿capital = 882
 
 oob = "FEA_1936"
+set_cosmetic_tag = FEA_FRA
 
 # Starting tech
 set_technology = {
@@ -8,7 +9,6 @@ set_technology = {
 	gw_artillery = 1
 	early_fighter = 1
 }
-set_cosmetic_tag = FEA_FRA
 1939.1.1 = {
 
 	add_political_power = 1198
@@ -77,3 +77,13 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Dieudonné Reste"
+	desc = ""
+	picture = "Portrait_Dieudonne_Reste.dds"
+	ideology = conservatism
+	expire = "1978.10.27"
+	traits = {
+		#
+	}
+}

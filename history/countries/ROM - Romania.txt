@@ -82,10 +82,10 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Gheorghe Tatarescu"
-	desc = "POLITICS_GHEORGHE_TATARESCU_DESC"
-	picture = "gfx/leaders/ROM/Portrait_Romania_Gheorghe_Tatarescu.dds"
-	expire = "1965.1.1"
+	name = "Carol II"
+	desc = ""
+	picture = "Portrait_Carol_II.dds"
+	expire = "1945.1.1"
 	ideology = conservatism
 	traits = {
 		anti_communist

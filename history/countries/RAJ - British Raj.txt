@@ -183,10 +183,10 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Lord Linlithgow"
-	desc = "POLITICS_LORD_LINLITHGOW_DESC"
-	picture = "gfx/leaders/RAJ/Portrait_British_Raj_Lord_Linlithgow.dds"
-	expire = "1965.1.1"
+	name = "Freeman Freeman-Thomas"
+	desc = ""
+	picture = "gfx/leaders/RAJ/Portrait_Freeman_Freeman-Thomas"
+	expire = "1937.1.1"
 	ideology = despotism
 	traits = {
 		

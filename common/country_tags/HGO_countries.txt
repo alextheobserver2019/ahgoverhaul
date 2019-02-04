@@ -278,6 +278,8 @@ TUV = "countries/tuvalu.txt"
 VAN = "countries/vanuatu.txt"
 ZAN = "countries/zanzibar.txt"
 
+##Special##
+UNC = "countries/Unclaimed.txt"
 ##France##
 NND = "countries/Normandy.txt"
 PAS = "countries/Paris.txt"

@@ -44,9 +44,9 @@ add_ideas = {
 
 
 create_country_leader = {
-	name = "Grand and General Council"
+	name = "Gino Gozi"
 	desc = ""
-	picture = "Portrait_San Marino_Grand_council.dds"
+	picture = "Portrait_Gino_Gozi.dds"
 	expire = "1960.1.1"
 	ideology = conservatism
 	traits = {

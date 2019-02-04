@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = SYR
+		owner = LEB
 		add_core_of = SYR
 		add_core_of = LEB
 		buildings = {

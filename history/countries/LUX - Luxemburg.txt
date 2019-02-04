@@ -120,9 +120,9 @@ set_politics = {
 }
 #Pierre Dupong from 37
 create_country_leader = {
-	name = "Joseph Bech"
-	desc = "POLITICS_JOSEPH_BECH_DESC"
-	picture = "GFX_portrait_luxembourg_joseph_bech"
+	name = "Charlotte"
+	desc = ""
+	picture = "Portrait_Charlotte_Luxembourg.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {

@@ -125,9 +125,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Armand Annet"
+	name = "Armand Leon Annet"
 	desc = ""
-	picture = "gfx/leaders/French Colonial/Armand_Annet.dds"
+	picture = "Portrait_Annet_Leon_Armand.dds"
 	ideology = moderatism
 	expire = "1973.4.25"
 	traits = {

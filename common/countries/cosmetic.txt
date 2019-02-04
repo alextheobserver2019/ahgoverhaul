@@ -2,14 +2,6 @@ TUN_FRA = {
 	color = rgb { 84 133 182 }
 	color_ui = rgb { 74 147 255 }
 }
-FEA_FRA = {
-	color = rgb { 84 133 182 }
-	color_ui = rgb { 74 147 255 }
-}
-FWA_FRA = {
-	color = rgb { 84 133 182 }
-	color_ui = rgb { 74 147 255 }
-}
 KMR_FRA = {
 	color = rgb { 84 133 182 }
 	color_ui = rgb { 74 147 255 }
@@ -27,6 +19,14 @@ SYR_FRA = {
 	color_ui = rgb { 74 147 255 }
 }
 VIN_FRA = {
+	color = rgb { 84 133 182 }
+	color_ui = rgb { 74 147 255 }
+}
+FEA_FRA = {
+	color = rgb { 84 133 182 }
+	color_ui = rgb { 74 147 255 }
+}
+FWA_FRA = {
 	color = rgb { 84 133 182 }
 	color_ui = rgb { 74 147 255 }
 }

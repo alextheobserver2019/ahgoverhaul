@@ -74,9 +74,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "John Curtin"
+	name = "Joseph Lyons"
 	desc = "POLITICS_JOHN_CURTIN_DESC"
-	picture = "Portrait_Australia_John_Curtin.dds"
+	picture = "Portrait_Joseph_Lyons.dds"
 	expire = "1965.1.1"
 	ideology = socialism
 	traits = {

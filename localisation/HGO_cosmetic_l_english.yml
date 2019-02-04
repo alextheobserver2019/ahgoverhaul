@@ -20,9 +20,12 @@
  BUR_UK_communism:0 "Burma"
  BUR_UK_communism_DEF:0 "Burma"
  
- SYR_FRA_subject:0 "French Mandate of Syria and Lebanon"
- SYR_FRA_subject_DEF:0 "The French Mandate of Syria and Lebanon"
+ SYR_FRA_subject:0 "Mandatory Syrian Republic"
+ SYR_FRA_subject_DEF:0 "The Mandatory Syrian Republic"
  SYR_FRA_subject_ADJ:0 "French-Syrian"
+ LEB_FRA_subject:0 "State of Greater Lebanon"
+ LEB_FRA_subject_DEF:0 "The State of Greater Lebanon"
+ LEB_FRA_subject_ADJ:0 "French-Lebanese"
  
  PAL_UK_autonomy_integrated_puppet:0 "British Mandate of Palestine"
  PAL_UK_autonomy_dominion:0 "British Mandate of Palestine"
