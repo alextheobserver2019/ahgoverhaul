@@ -10,7 +10,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = TSC
+		owner = SOV
 		add_core_of = SOV
 		add_core_of = TSC
 		add_core_of = GEO

@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = TSC
+		owner = SOV
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
