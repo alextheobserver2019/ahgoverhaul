@@ -337,8 +337,8 @@
  BUL_neutrality_ADJ:0 "Bulgarian"
  BUL_communism_ADJ:0 "Bulgarian"
  
- POR_fascism:0 "Greater State of Portugal"
- POR_fascism_DEF:0 "The Greater State of Portugal"
+ POR_fascism:0 "Portuguese Republic"
+ POR_fascism_DEF:0 "The Portuguese Republic"
  POR_democratic:0 "Portuguese Republic"
  POR_democratic_DEF:0 "The Portuguese Republic"
  POR_neutrality:0 "Portuguese Republic"
