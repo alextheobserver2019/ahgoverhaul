@@ -1,4 +1,4 @@
-﻿capital = 551
+﻿capital = 1558
 
 oob = "SDN_1936"
 set_cosmetic_tag = SUD_CON

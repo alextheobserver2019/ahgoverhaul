@@ -1,4 +1,4 @@
-﻿capital = 872
+﻿capital = 3336
 
 oob = "CMR_1936"
 

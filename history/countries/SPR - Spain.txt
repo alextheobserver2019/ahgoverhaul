@@ -69,9 +69,9 @@ if = {
 }
 
 create_country_leader = {
-	name = "José Sanjurjo"
+	name = "Niceto Alcalá-Zamora"
 	desc = ""
-	picture = "Portrait_Jose_Sanjurjo.dds"
+	picture = "Portrait_Nicesto_Alcala_Zamora.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {
@@ -91,9 +91,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Francisco Franco"
-	desc = "POLITICS_FRANCISCO_FRANCO_DESC"
-	picture = "Portrait_Spain_Francisco_Franco.dds"
+	name = "José Sanjurjo"
+	desc = ""
+	picture = "Portrait_Jose_Sanjurjo.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {

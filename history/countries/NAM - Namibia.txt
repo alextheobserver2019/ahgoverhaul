@@ -1,4 +1,4 @@
-﻿capital = 541
+﻿capital = 1590
 
 oob = "NAM_1936"
 set_cosmetic_tag = NAM_ENG

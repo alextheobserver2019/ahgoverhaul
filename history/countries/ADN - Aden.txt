@@ -1,4 +1,4 @@
-﻿capital = 659
+﻿capital = 2281
 
 oob = "ENG_gen"
 
