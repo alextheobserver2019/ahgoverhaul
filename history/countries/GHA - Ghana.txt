@@ -39,9 +39,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Merhawi Faytinga"
+	name = "Arnold Hodson"
 	desc = ""
-	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+	picture = "Portrait_Arnold_Hodson.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {

@@ -79,3 +79,13 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Arnold Hodson"
+	desc = ""
+	picture = "Portrait_Arnold_Hodson.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
