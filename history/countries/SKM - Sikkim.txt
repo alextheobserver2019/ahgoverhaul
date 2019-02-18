@@ -77,3 +77,14 @@ set_politics = {
 	elections_allowed = no
 }
 
+
+create_country_leader = {
+	name = "Tashi Namygal"
+	desc = ""
+	picture = "Portrait_Tashi_Namygal.dds"
+	expire = "1960.1.1"
+	ideology = despotism
+	traits = {
+		
+	}
+}

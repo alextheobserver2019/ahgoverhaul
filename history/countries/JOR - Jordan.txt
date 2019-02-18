@@ -80,7 +80,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -107,9 +107,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Abdullah bin al-Hussein"
+	name = "Abdullah I"
 	desc = ""
-	picture = "gfx/leaders/JOR/Portrait_Arabia_Generic_land_3.dds"
+	picture = "Portrait_Abdullah_I.dds"
 	ideology = despotism
 	traits = {
 		#

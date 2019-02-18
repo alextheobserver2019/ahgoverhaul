@@ -60,6 +60,16 @@ set_politics = {
 }
 
 create_country_leader = {
+	name = "Ahmad II"
+	desc = ""
+	picture = "Portrait_Ahmad_II.dds"
+	expire = "1960.1.1"
+	ideology = despotism
+	traits = {
+		
+	}
+}
+create_country_leader = {
 	name = "Yagizboga Saglam"
 	desc = ""
 	picture = "gfx/leaders/SYR/Portrait_Arabia_Generic_1.dds"

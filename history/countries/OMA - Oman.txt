@@ -39,11 +39,21 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Said bin Taimur"
+	name = "Said III"
 	desc = "POLITICS_SAID_BIN_TAIMUR_DESC"
-	picture = "GFX_portrait_oman_said_bin_taimur"
+	picture = "Portrait_Said_III_bin_Taimur.dds"
 	expire = "1965.1.1"
 	ideology = despotism
+	traits = {
+		#
+	}
+}
+create_country_leader = {
+	name = "Said III"
+	desc = "POLITICS_SAID_BIN_TAIMUR_DESC"
+	picture = "Portrait_Said_III_bin_Taimur.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
 	traits = {
 		#
 	}

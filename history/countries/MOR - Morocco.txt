@@ -58,7 +58,16 @@ set_politics = {
 	election_frequency = 50
 	elections_allowed = no
 }
-
+create_country_leader = {
+	name = "Mohammed V"
+	desc = ""
+	picture = "Portrait_Mohammed_V.dds"
+	expire = "1960.1.1"
+	ideology = despotism
+	traits = {
+		
+	}
+}
 create_country_leader = {
 	name = "Jamaldine Bourkia"
 	desc = ""

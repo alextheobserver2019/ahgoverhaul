@@ -664,8 +664,8 @@
  
  PAR_fascism:0 "State of Paraguay"
  PAR_fascism_DEF:0 "The State of Paraguay"
- PAR_democratic:0 "Second Republic of Paraguay"
- PAR_democratic_DEF:0 "The Second Republic of Paraguay"
+ PAR_democratic:0 "Republic of Paraguay"
+ PAR_democratic_DEF:0 "The Republic of Paraguay"
  PAR_neutrality:0 "Paraguay"
  PAR_neutrality_DEF:0 "Paraguay"
  PAR_communism:0 "Republic of Paraguay"
@@ -897,8 +897,8 @@
  
  OMA_fascism:0 "Omani Caliphate"
  OMA_fascism_DEF:0 "The Omani Caliphate"
- OMA_democratic:0 "Republic of Oman"
- OMA_democratic_DEF:0 "The Republic of Oman"
+ OMA_democratic:0 "Sultanate of Muscat and Oman"
+ OMA_democratic_DEF:0 "The Sultanate of Muscat and Oman"
  OMA_neutrality:0 "Sultanate of Muscat and Oman"
  OMA_neutrality_DEF:0 "The Sultanate of Muscat and Oman"
  OMA_communism:0 "People's Republic of Oman"
