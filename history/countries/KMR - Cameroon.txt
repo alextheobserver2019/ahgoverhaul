@@ -37,8 +37,8 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Leeto Steytler"
-	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
+	name = "Jules Vincent Repiquet"
+	picture = "Portrait_Jules_Vincent_Repiquet.dds"
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {

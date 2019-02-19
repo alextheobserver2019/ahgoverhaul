@@ -47,8 +47,8 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Luca Bekker"
-	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
+	name = "David Gideon Conradie"
+	picture = "Portrait_David_Gideon_Conradie.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {

@@ -38,9 +38,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Alinafe"
+	name = "Hubert Winthrop Young"
 	desc = ""
-	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+	picture = "Portrait_Hubert_Winthrop_Young.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {

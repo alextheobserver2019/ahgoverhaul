@@ -120,7 +120,7 @@ if = {
 	}
 	set_autonomy = {
 		target = ZIM
-		autonomous_state = autonomy_dominion
+		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
 		target = ZMB

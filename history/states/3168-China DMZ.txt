@@ -3,7 +3,7 @@ state={
 	name="STATE_3168"
 	history={
 		
-		owner = EHC 
+		owner = MAN 
 		add_core_of = CHI
 		add_core_of = PRC
 	set_demilitarized_zone = yes

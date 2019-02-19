@@ -2,7 +2,6 @@
 
 oob = "SAF_1936"
 
-set_cosmetic_tag = BRI_SAF
 
 set_stability = 0.6
 set_war_support = 0.1

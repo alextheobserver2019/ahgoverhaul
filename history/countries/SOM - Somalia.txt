@@ -29,7 +29,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -56,8 +56,8 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Abdi-llahi Baashi"
-	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+	name = "Rodolfo Graziani"
+	picture = "Portrait_Rodolfo_Graziani.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {
@@ -66,6 +66,5 @@ create_country_leader = {
 }
 
 
-}
 
 
