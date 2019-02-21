@@ -69,8 +69,8 @@ set_convoys = 20
 	expire = "1969.10.6"
 	traits = {
 		#
+		}
 	}
-}
 }
 
 
@@ -78,7 +78,7 @@ set_politics = {
 
 	parties = {
 		communism = {
-			popularity = 35
+			popularity = 15
 			#banned = no #default is no
 		}
 		
@@ -91,7 +91,7 @@ set_politics = {
 		}
 		
 		neutrality = { 
-			popularity = 50
+			popularity = 70
 		}
 	}
 	
@@ -102,9 +102,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Wilfrid Jackson"
+	name = "Wilfrid Edward Francis Jackson"
 	desc = ""
-	picture = "gfx/leaders/British Colonial/Wilfrid_Jackson.dds"
+	picture = "Portrait_Wilfrid_Edward_Francis_Jackson.dds"
 	ideology = moderatism
 	expire = "1971.6.19"
 	traits = {

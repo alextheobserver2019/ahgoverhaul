@@ -30,3 +30,14 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
+
+create_country_leader = {
+	
+	name = "Sir Arthur Murchison Fletcher"
+	picture = "Portrait_Sir_Arthur_Murchison_Fletcher.dds"
+	expire = "1959.10.18"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

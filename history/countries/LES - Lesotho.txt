@@ -30,3 +30,14 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
+
+create_country_leader = {
+	name = "Sir Edmund Charles Smith Richards"
+	desc = ""
+	picture = "Portrait_Sir_Edmund_Charles_Smith_Richards.dds"
+	ideology = despotism
+	expire = "1978.10.27"
+	traits = {
+		#
+	}
+}

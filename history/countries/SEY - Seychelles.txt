@@ -59,17 +59,6 @@ set_cosmetic_tag = SEY_ENG
 		dispersed_industry = 1
 		dispersed_industry2 = 1
 	}
-	
-	create_country_leader = {
-	name = "Arthur Grimble"
-	desc = ""
-	picture = "gfx/leaders/British Colonial/Arthur_Grimble.dds"
-	ideology = despotism
-	expire = "1956.12.13"
-	traits = {
-		#
-	}
-}
 }
 
 
@@ -99,14 +88,24 @@ set_politics = {
 	elections_allowed = no
 }
 
-
-create_country_leader = {
-	name = "Gordon James Lethem"
+	create_country_leader = {
+	name = "Arthur Francis Grimble"
 	desc = ""
-	picture = "gfx/leaders/British Colonial/Gordon_Lethem.dds"
+	picture = "Portrait_Arthur_Francis_Grimble.dds"
 	ideology = despotism
-	expire = "1962.2.7"
+	expire = "1956.12.13"
 	traits = {
 		#
 	}
 }
+create_country_leader = {
+	name = "Arthur Francis Grimble"
+	desc = ""
+	picture = "Portrait_Arthur_Francis_Grimble.dds"
+	ideology = conservatism
+	expire = "1956.12.13"
+	traits = {
+		#
+	}
+}
+

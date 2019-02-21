@@ -41,7 +41,7 @@ set_politics = {
 create_country_leader = {
 	
 	name = "Francis Noel Ashley"
-	picture = "gfx/leaders/ENG/Portrait_Britain_Generic_navy_2.dds"
+	picture = "Portrait_Francis_Noel_Ashley.dds"
 	expire = "1976.9.8"
 	ideology = despotism
 	traits = {

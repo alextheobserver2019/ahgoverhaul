@@ -64,16 +64,26 @@ set_convoys = 10
 set_politics = {
 
 	parties = {
-        democratic = { popularity = 80 }
+        democratic = { popularity = 0 }
         communism = { popularity = 15 }
         fascism = { popularity = 5 }
-        neutrality = { popularity = 0 }
+        neutrality = { popularity = 80 }
 
 	}
 	
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Douglas James Jardine"
+	desc = ""
+	picture = "Portrait_Douglas_James_Jardine.dds"
+	ideology = moderatism
+	expire = "1963.6.16"
+	traits = {
+		#
+	}
+}

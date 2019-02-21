@@ -14579,7 +14579,7 @@
 14571;5;5;248;land;true;plains;0
 14572;5;5;250;land;true;plains;0
 14573;5;5;252;land;true;plains;0
-14574;5;5;254;land;true;plains;0
+14574;5;5;254;land;false;desert;0
 14575;10;10;2;land;true;plains;0
 14576;10;10;4;land;true;plains;0
 14577;10;10;6;land;true;plains;0

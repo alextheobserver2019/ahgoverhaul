@@ -15,9 +15,11 @@ set_politics = {
 
 	parties = {
 		democratic = { 
+			popularity = 0
+		}
+		neutrality = {
 			popularity = 100
 		}
-
 		fascism = {
 			popularity = 0
 		}
@@ -28,7 +30,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -67,5 +69,13 @@ create_country_leader = {
 	}
 }
 
-
+create_country_leader = {
+	name = "Edward Brandis Denham"
+	desc = ""
+	picture = "Portrait_Edward_Brandis_Denham.dds"
+	expire = "1956.4.26"
+	ideology = despotism
+	traits = {
+		#
+	}
 }

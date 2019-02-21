@@ -30,3 +30,13 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
+create_country_leader = {
+	name = "Allan Graham Marwick"
+	desc = ""
+	picture = "Portrait_Allan_Graham_Marwick.dds"
+	ideology = despotism
+	expire = "1978.10.27"
+	traits = {
+		#
+	}
+}

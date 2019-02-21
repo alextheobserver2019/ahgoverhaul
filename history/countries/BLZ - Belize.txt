@@ -16,11 +16,14 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 90
+			popularity = 0
 		}
 
 		fascism = {
 			popularity = 10
+		}
+		neutrality = {
+			popularity = 90
 		}
 		
 		communism = {
@@ -28,18 +31,18 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Fernando Carmo Fraga"
+	name = "Albert Cuthbert Maxwell Burns"
 	desc = ""
-	picture = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+	picture = "Portrait_Alan_Cuthbert_Maxwell_Burns.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = despotism
 	traits = {
 		#
 	}

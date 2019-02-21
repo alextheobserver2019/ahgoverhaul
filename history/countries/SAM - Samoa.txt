@@ -39,8 +39,8 @@ set_politics = {
 
 create_country_leader = {
 	
-	name = "Edward Hanson"
-	picture = "gfx/leaders/North America/Edward_Hanson.dds"
+	name = "Herbert Ernest Hart"
+	picture = "Portrait_Herbert_Ernest_Hart.dds"
 	expire = "1959.10.18"
 	ideology = despotism
 	traits = {
