@@ -83,7 +83,6 @@ set_politics = {
 			popularity = 60
 		}
 	}
-}
 	
 	ruling_party = neutrality
 	last_election = "1936.1.1"
@@ -99,6 +98,7 @@ set_politics = {
 	traits = {
 		#
 	}
+}
 }
 
 
