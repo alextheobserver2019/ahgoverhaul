@@ -20,14 +20,6 @@
  BUR_UK_communism:0 "Burma"
  BUR_UK_communism_DEF:0 "Burma"
  
- SYR_FRA_subject:0 "Mandatory Syrian Republic"
- SYR_FRA_subject_DEF:0 "The Mandatory Syrian Republic"
- SYR_FRA_subject_ADJ:0 "French-Syrian"
- LEB_FRA_subject:0 "State of Greater Lebanon"
- LEB_FRA_subject_DEF:0 "The State of Greater Lebanon"
- LEB_FRA_subject_ADJ:0 "French-Lebanese"
- 
- 
  SYR_FRA_democratic:0 "Mandatory Syrian Republic"
  SYR_FRA_democratic_DEF:0 "The Mandatory Syrian Republic"
  SYR_FRA_neutrality:0 "Mandatory Syrian Republic"
@@ -41,7 +33,7 @@
  SYR_FRA_neutrality_ADJ:0 "Syrian"
  SYR_FRA_democratic_ADJ:0 "Syrian"
  
- SYR_FRA_democratic:0 "State of Greater Lebanon"
+ LEB_FRA_democratic:0 "State of Greater Lebanon"
  LEB_FRA_democratic_DEF:0 "The State of Greater Lebanon"
  LEB_FRA_neutrality:0 "State of Greater Lebanon"
  LEB_FRA_neutrality_DEF:0 "The State of Greater Lebanon"

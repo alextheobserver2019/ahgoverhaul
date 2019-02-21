@@ -3,17 +3,18 @@ state={
 	name="STATE_1038"
 
 	history={
-		owner = MAL
+		owner = STR
 		buildings = {
 			infrastructure = 3
 
 		}
+		add_core_of = STR
 		add_core_of = MAL
 
 	}
 
 	provinces={
-		4412 4424 7427 
+		4412 
 	}
 	manpower=140300
 	buildings_max_level_factor=1.000
