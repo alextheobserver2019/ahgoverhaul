@@ -18,7 +18,7 @@ set_politics = {
 		}
 
 		fascism = {
-			popularity = 45
+			popularity = 60
 		}
 		
 		communism = {
@@ -26,7 +26,7 @@ set_politics = {
 		}
 		
 		neutrality = { 
-			popularity = 45
+			popularity = 30
 		}
 	}
 	
@@ -50,7 +50,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Hisao Hayashi"
 	desc = ""
-	picture = "gfx/leaders/Japan/Hisao_Hayashi.dds"
+	picture = "Portrait_Hisao_Hayashi.dds"
 	ideology = fascism_ideology
 	expire = "1963.12.21"
 	traits = {

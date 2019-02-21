@@ -100,7 +100,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Ahmad Al-Jaber Al-Sabah"
 	desc = ""
-	picture = "gfx/leaders/Middle East/Ahmad_Al-Sabah.dds"
+	picture = "Portrait_Ahmad_Al_Jaber_Al_Sabah.dds"
 	ideology = despotism
 	traits = {
 		#

@@ -45,8 +45,13 @@ if = {
 		target = NGU
 		autonomous_state = autonomy_integrated_puppet
 	}
+	set_autonomy = {
+		target = NAU
+		autonomous_state = autonomy_integrated_puppet
+	}
 	else = {
 		puppet = NGU
+		puppet = NAU
 	}
 }
 

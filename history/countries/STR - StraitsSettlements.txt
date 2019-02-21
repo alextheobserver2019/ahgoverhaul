@@ -77,3 +77,13 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Shenton Thomas"
+	desc = ""
+	picture = "Portrait_Shenton_Thomas.dds"
+	expire = "1953.3.1"
+	ideology = conservatism
+	traits = {
+		
+	}
+}

@@ -87,9 +87,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Hashim al-Atassi"
+	name = "Mohammed Ali Bey al-Abed"
 	desc = ""
-	picture = "gfx/leaders/SYR/Portrait_Arabia_Generic_navy_1.dds"
+	picture = "Portrait_Mohammed_Ali_Bey_al_Abed.dds"
 	ideology = liberalism
 	traits = {
 		#

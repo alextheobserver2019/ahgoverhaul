@@ -131,9 +131,9 @@ create_country_leader = {
 	}
 
 	create_country_leader = {
-	name = "Richmond Palmer"
+	name = "Herbert Richmond Palmer"
 	desc = ""
-	picture = "gfx/leaders/British Colonial/Richmond_Palmer.dds"
+	picture = "Portrait_Herbert_Richmond_Palmer.dds"
 	expire = "1958.5.22"
 	ideology = despotism
 	traits = {
@@ -142,8 +142,10 @@ create_country_leader = {
 }
 
 create_corps_commander = {
-	name = "Georgios Grivas"
+	name = "Georgios Andreou"
 	portrait_path = "gfx/leaders/Europe/Georgios_Grivas.dds"
-	traits = {  }
+	traits = {  
+	#this one is for you, buddy ~CSM
+	}
 	skill = 3
 }

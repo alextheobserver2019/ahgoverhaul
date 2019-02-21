@@ -87,9 +87,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Hashim al-Atassi"
+	name = "Emile Eddie"
 	desc = ""
-	picture = "gfx/leaders/SAU/Portrait_Arabia_Generic_3.dds"
+	picture = "Portrait_Emile_Eddie.dds"
 	ideology = liberalism
 	traits = {
 		#

@@ -37,8 +37,8 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Amin"
-	picture = "gfx/leaders/Africa/Portrait_Africa_Generic_2.dds"
+	name = "Thomas Percival Creed"
+	picture = "Portrait_Thomas_Percival_Creed.dds"
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {

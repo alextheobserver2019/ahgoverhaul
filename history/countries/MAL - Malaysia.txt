@@ -81,9 +81,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Shenton Thomas"
+	name = "Marcus Rex"
 	desc = ""
-	picture = "GFX_portrait_malaya_shenton_thomas"
+	picture = "Portrait_Marcus_Rex.dds"
 	expire = "1953.3.1"
 	ideology = conservatism
 	traits = {

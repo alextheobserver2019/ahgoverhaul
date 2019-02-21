@@ -44,36 +44,36 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 35
+			popularity = 15
 		}
 
 		fascism = {
-			popularity = 15
+			popularity = 10
 		}
 		
 		communism = {
-			popularity = 15
+			popularity = 5
 		}
 		neutrality = {
-			popularity = 35
+			popularity = 70
 		}
 	}
 
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1933.2.16"
 	election_frequency = 36
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 #NOTICE# please watch out for spelling, im using Vietnamese names as they spell them, game might not support these characters!
 
 
 create_country_leader = {
-	name = "Ibrahim Mohammad Jahfar"
+	name = "Ahmad Tajuddin"
 	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
+	picture = "Portrait_Ahmad_Tajuddin.dds"
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = despotism
 	traits = {
 		
 	}

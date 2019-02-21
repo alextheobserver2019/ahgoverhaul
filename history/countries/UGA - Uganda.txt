@@ -115,7 +115,7 @@ create_country_leader = {
 create_country_leader = {
 	
 	name = "Philip Euen Mitchell"
-	picture = "gfx/leaders/British Colonial/Philip_Mitchell.dds"
+	picture = "Portrait_Philip_Euen_Mitchell.dds"
 	expire = "1964.10.11"
 	ideology = moderatism
 	traits = { }

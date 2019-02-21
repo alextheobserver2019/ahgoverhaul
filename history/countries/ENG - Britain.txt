@@ -243,10 +243,6 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
-		target = NAU
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
 		target = NCM
 		autonomous_state = autonomy_colony
 	}
@@ -310,7 +306,6 @@ if = {
 		puppet = CYP
 		puppet = TUV
 		puppet = SLM
-		puppet = NAU
 		puppet = NCM
 		puppet = SCM
 		puppet = WTO

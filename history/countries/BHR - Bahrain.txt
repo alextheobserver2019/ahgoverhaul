@@ -1,6 +1,6 @@
 ﻿capital = 763
 
-oob = "BAH_2000"
+oob = "BHR_1936"
 
 # Starting tech
 set_technology = {
@@ -74,9 +74,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Hamad ibn Isa Al Khalifa"
+	name = "Hamad bin Isa Al Khalifa"
 	desc = "POLITICS_TUN1_DESC"
-	picture = "AlKhalifa.dds"
+	picture = "Portrait_Hamad_bin_Isa_Al_Khalifa.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {

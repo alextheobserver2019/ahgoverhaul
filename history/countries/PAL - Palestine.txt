@@ -64,20 +64,23 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 40
+			popularity = 20
 		}
 
 		fascism = {
-			popularity = 30
+			popularity = 10
 		}
 		
 		communism = {
-			popularity = 30
+			popularity = 5
 			#banned = no #default is no
+		}
+		neutrality = (
+			popularity = 65
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -104,9 +107,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Prince Henry"
+	name = "Arthur Grenfell Wauchope"
 	desc = ""
-	picture = "gfx/leaders/PAL/Portrait_Britain_George_VI.dds"
+	picture = "Portrait_Arthur_Grenfell_Wauchope.dds"
 	ideology = despotism
 	traits = {
 		#
