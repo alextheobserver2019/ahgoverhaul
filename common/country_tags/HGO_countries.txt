@@ -282,3 +282,12 @@ RUU = "countries/RuandaUrundi.txt"
 NGU = "countries/NewGuinea.txt"
 SKM = "countries/Sikkim.txt"
 TSC = "countries/Transcaucasia.txt"
+
+##Imported from Pacific Rework Mod
+
+KED = "countries/Kedah.txt"
+KEL = "countries/Kelantan.txt"
+TGA = "countries/Terengganu.txt"
+JOH = "countries/Johor.txt"
+PLS = "countries/Perlis.txt"
+HKG = "countries/Hong Kong.txt"

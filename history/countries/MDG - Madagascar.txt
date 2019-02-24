@@ -89,7 +89,9 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 	
-	create_country_leader = {
+	
+}
+create_country_leader = {
 	name = "Jules Marcel de Coppet"
 	desc = ""
 	picture = "gfx/leaders/French Colonial/Jules_de_Coppet.dds"
@@ -99,8 +101,6 @@ set_politics = {
 		#
 	}
 }
-}
-
 
 create_country_leader = {
 	name = "Joel Rakotomalala"

@@ -1167,3 +1167,28 @@ TSC = {
 color = rgb { 168 0 0 }
 color_ui = rgb { 168 0 0 }
 }
+
+KED = {
+	color = rgb { 170  72  67 }
+	color_ui = rgb { 170  72  67 }
+}
+KEL = {
+	color = rgb { 153 116 93 }
+	color_ui = rgb { 199 151 121 }
+}
+TGA = {
+	color = rgb { 90  140  190 }
+	color_ui = rgb { 90  140  190 }
+}
+JOH = {
+	color = rgb { 30  112  187 }
+	color_ui = rgb { 30  112  187 }
+}
+HKG = {
+	color = rgb { 210  46  28 }
+	color_ui = rgb { 210  46  28 }
+}
+PLS = {
+	color = rgb { 161  139  40 }
+	color_ui = rgb { 161  139  40 }
+}
