@@ -1,6 +1,6 @@
 ﻿capital = 765
 
-oob = "HKg_1936"
+oob = "HKG_1936"
 
 # Starting tech
 set_technology = {
@@ -127,9 +127,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Andrew Caldecott"
+	name = "Sir Andrew Caldecott"
 	desc = "POLITICS_ANDREW_CALDECOTT_DESC"
-	picture = "gfx/leaders/HKO/Portrait_HKO_Caldecott.dds"
+	picture = "Portrait_Sir_Andrew_Caldecott.dds"
 	expire = "1937.4.16"
 	ideology = despotism
 	traits = {

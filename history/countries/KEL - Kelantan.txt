@@ -96,7 +96,7 @@ set_politics = {
 create_country_leader = {
 	name = "Ismail I"
 	desc = ""
-	picture = "gfx/leaders/KEL/Portrait_KEL_Ismail.dds"
+	picture = "Portrait_Sultan_Ismail.dds"
 	expire = "1953.3.1"
 	ideology = despotism
 	traits = {
@@ -107,29 +107,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Ismail I"
 	desc = ""
-	picture = "gfx/leaders/KEL/Portrait_KEL_Ismail.dds"
-	expire = "1953.3.1"
-	ideology = marxism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Ismail I"
-	desc = ""
-	picture = "gfx/leaders/KEL/Portrait_KEL_Ismail.dds"
-	expire = "1953.3.1"
-	ideology = fascism_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Ismail I"
-	desc = ""
-	picture = "gfx/leaders/KEL/Portrait_KEL_Ismail.dds"
+	picture = "Portrait_Sultan_Ismail.dds"
 	expire = "1953.3.1"
 	ideology = conservatism
 	traits = {

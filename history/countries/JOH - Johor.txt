@@ -96,7 +96,7 @@ set_politics = {
 create_country_leader = {
 	name = "Ibrahim I"
 	desc = ""
-	picture = "gfx/leaders/JOH/Portrait_JOH_Ibrahim.dds"
+	picture = "Portrait_Ibrahim_I.dds"
 	expire = "1953.3.1"
 	ideology = despotism
 	traits = {
@@ -104,32 +104,11 @@ create_country_leader = {
 	}
 }
 
-create_country_leader = {
-	name = "Ibrahim I"
-	desc = ""
-	picture = "gfx/leaders/JOH/Portrait_JOH_Ibrahim.dds"
-	expire = "1953.3.1"
-	ideology = marxism
-	traits = {
-		
-	}
-}
 
 create_country_leader = {
 	name = "Ibrahim I"
 	desc = ""
-	picture = "gfx/leaders/JOH/Portrait_JOH_Ibrahim.dds"
-	expire = "1953.3.1"
-	ideology = fascism_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Ibrahim I"
-	desc = ""
-	picture = "gfx/leaders/JOH/Portrait_JOH_Ibrahim.dds"
+	picture = "Portrait_Ibrahim_I.dds"
 	expire = "1953.3.1"
 	ideology = conservatism
 	traits = {

@@ -94,9 +94,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Syed Harun Putra"
+	name = "Syed Alwi Jamalullail"
 	desc = ""
-	picture = "gfx/leaders/PLS/Portrait_PLS_Syed_Harun_Putra.dds"
+	picture = "Portrait_Syed_Alwi_Jamalullail.dds"
 	expire = "1953.3.1"
 	ideology = despotism
 	traits = {
@@ -105,31 +105,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Syed Harun Putra"
+	name = "Syed Alwi Jamalullail"
 	desc = ""
-	picture = "gfx/leaders/PLS/Portrait_PLS_Syed_Harun_Putra.dds"
-	expire = "1953.3.1"
-	ideology = marxism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Syed Harun Putra"
-	desc = ""
-	picture = "gfx/leaders/PLS/Portrait_PLS_Syed_Harun_Putra.dds"
-	expire = "1953.3.1"
-	ideology = fascism_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Syed Harun Putra"
-	desc = ""
-	picture = "gfx/leaders/PLS/Portrait_PLS_Syed_Harun_Putra.dds"
+	picture = "Portrait_Syed_Alwi_Jamalullail.dds"
 	expire = "1953.3.1"
 	ideology = conservatism
 	traits = {

@@ -93,9 +93,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Abdul Hamid Halim"
+	name = "Abdul Hamid Halim Shah II"
 	desc = ""
-	picture = "gfx/leaders/KED/Portrait_KED_Abdulhamidhalim.dds"
+	picture = "Portrait_Abdul_Hamid_Halim_Shah_ll.dds"
 	expire = "1953.3.1"
 	ideology = despotism
 	traits = {
@@ -104,31 +104,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Abdul Hamid Halim"
+	name = "Abdul Hamid Halim Shah II"
 	desc = ""
-	picture = "gfx/leaders/KED/Portrait_KED_Abdulhamidhalim.dds"
-	expire = "1953.3.1"
-	ideology = marxism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Abdul Hamid Halim"
-	desc = ""
-	picture = "gfx/leaders/KED/Portrait_KED_Abdulhamidhalim.dds"
-	expire = "1953.3.1"
-	ideology = fascism_ideology
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Abdul Hamid Halim"
-	desc = ""
-	picture = "gfx/leaders/KED/Portrait_KED_Abdulhamidhalim.dds"
+	picture = "Portrait_Abdul_Hamid_Halim_Shah_ll.dds"
 	expire = "1953.3.1"
 	ideology = conservatism
 	traits = {

@@ -6,8 +6,7 @@ state={
 	}
 	manpower = 1000
 	
-	state_category = wasteland
-	impassable = yes
+	state_category = pastoral
 
 	history={
 		owner = PLS
