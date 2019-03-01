@@ -31,7 +31,7 @@ WSF = "countries/Westfalen.txt"
 THU = "countries/Thuringia.txt"
 SCH = "countries/Schleswig Holstein.txt"
 SIL = "countries/Silesia.txt"
-BRD = "countries/Brandenburg.txt"
+BDB = "countries/Brandenburg.txt"
 MCK = "countries/Mecklenburg.txt"
 POM = "countries/Pomerania.txt"
 ALC = "countries/Alsace.txt"
@@ -39,7 +39,7 @@ LOR = "countries/Lorraine.txt"
 OLD = "countries/Oldenburg.txt"
 NAP = "countries/Naples.txt"
 SIC = "countries/Sicily.txt"
-GNA = "countries/Genoa.txt"
+GEN = "countries/Genoa.txt"
 PRM = "countries/Parma.txt"
 MDN = "countries/Modena.txt"
 GLC = "countries/Galicia and Lodomeria.txt"
@@ -54,7 +54,7 @@ LIV = "countries/Livonia.txt"
 COU = "countries/Courland.txt"
 CRP = "countries/Carpatho-Ukraine.txt"
 ##Europe Imported from CU##
-BAS = "countries/Basque.txt"
+BSQ = "countries/Basque.txt"
 GAL = "countries/Galicia.txt"
 CRE = "countries/Crete.txt"
 CSC = "countries/Corsica.txt"
@@ -75,8 +75,6 @@ TAH = "countries/Tahiti.txt"
 SAM = "countries/Samoa.txt"
 
 ##Africa##
-MAU = "countries/Mauritania.txt"
-KMR = "countries/Cameroon.txt"
 TGR = "countries/Tangier.txt"
 
 ##Africa Imported from CU##
@@ -86,14 +84,13 @@ SAO = "countries/Sao Tome.txt"
 #British
 SEY = "countries/Seychelles.txt"
 SML = "countries/Somalialand.txt"
-MRT = "countries/Mauritius.txt"
+MRS = "countries/Mauritius.txt"
 #French
-CMR = "countries/Comoros.txt"
+COM = "countries/Comoros.txt"
 #Spanish
 RIF = "countries/Rif.txt"
 ORA = "countries/Oranje.txt"
 ##Asia##
-BUR = "countries/Burma.txt"
 ROJ = "countries/South Japan.txt"
 PRJ = "countries/North Japan.txt"
 DPK = "countries/North Korea.txt"
@@ -151,8 +148,6 @@ ARZ = "countries/Arizona.txt"
 NWY = "countries/New York.txt"
 BRC = "countries/British Columbia.txt"
 CAS = "countries/Cascadia.txt"
-#Imported
-TNT = "countries/Trinidad.txt"
 
 ##Russia##
 SBR = "countries/Siberia.txt"
@@ -177,21 +172,19 @@ ELB = "countries/Elba.txt"
 
 ##City States##
 FRN = "countries/Frankfurt.txt"
-BRM = "countries/Bremen.txt"
+BRE = "countries/Bremen.txt"
 LUB = "countries/Lubeck.txt"
 LIE = "countries/Liechtenstein.txt"
 MCO = "countries/Monaco.txt"
 ADR = "countries/Andorra.txt"
 SMR = "countries/San Marino.txt"
-TRI = "countries/Trieste.txt"
+TRS = "countries/Trieste.txt"
 HAM = "countries/Hamburg.txt"
 BER = "countries/Berlin.txt"
 LCC = "countries/Lucca.txt"
 
 ##Imported from UES##
 
-BUI = "countries/burundi.txt"
-GUI = "countries/guinea.txt"
 LES = "countries/lesotho.txt"
 SSU = "countries/south sudan.txt"
 SWZ = "countries/swaziland.txt"

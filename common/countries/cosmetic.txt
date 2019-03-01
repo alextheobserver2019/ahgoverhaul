@@ -2,7 +2,7 @@ TUN_FRA = {
 	color = rgb { 84 133 182 }
 	color_ui = rgb { 74 147 255 }
 }
-KMR_FRA = {
+CMR_FRA = {
 	color = rgb { 84 133 182 }
 	color_ui = rgb { 74 147 255 }
 }
@@ -130,7 +130,7 @@ SEY_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-MRT_ENG = {
+MRS_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }

@@ -18,11 +18,11 @@ country_event = { #Burma seperate from India
 		country_exists = ENG
 		country_exists = RAJ
 		date > 1937.4.12
-		NOT = { country_exists = BUR }
+		NOT = { country_exists = BRM }
 		NOT = {
 		    OR = {
-		        has_global_flag = BUR_separated
-				has_global_flag = BUR_remained_india
+		        has_global_flag = BRM_separated
+				has_global_flag = BRM_remained_india
 			}
 		}
 	}	
@@ -35,35 +35,35 @@ country_event = { #Burma seperate from India
 		}
 
 		hidden_effect = {
-		    set_global_flag = BUR_separated
+		    set_global_flag = BRM_separated
 			288 = {
 				if = {
 					limit = { is_owned_by = RAJ }
-				BUR = { transfer_state = 288 }
+				BRM = { transfer_state = 288 }
 				}
 			}
 			640 = {
 				if = {
 					limit = { is_owned_by = RAJ }
-				    BUR = { transfer_state = 640 }
+				    BRM = { transfer_state = 640 }
 				}
 		    }
 			1015 = {
 				if = {
 					limit = { is_owned_by = RAJ }
-				    BUR = { transfer_state = 1015 }
+				    BRM = { transfer_state = 1015 }
 				}
 		    }
 			1016 = {
 				if = {
 					limit = { is_owned_by = RAJ }
-				    BUR = { transfer_state = 1016 }
+				    BRM = { transfer_state = 1016 }
 				}
 		    }
 		    1151 = {
 				if = {
 					limit = { is_owned_by = RAJ }
-				BUR = { transfer_state = 1151 }
+				BRM = { transfer_state = 1151 }
 				}
 			}
 		    if = {
@@ -71,15 +71,15 @@ country_event = { #Burma seperate from India
 				    has_dlc = "Together for Victory"
 			    }
 			    set_autonomy = {
-				    target = BUR
+				    target = BRM
 				    autonomous_state = autonomy_colony
 				    freedom_level = 0.2
 			    }
 			    else = {
-				    puppet = BUR
+				    puppet = BRM
 			    }
 		    }
-		    BUR = {
+		    BRM = {
 		        set_politics = {
 	                parties = {
 		                democratic = { 
@@ -118,7 +118,7 @@ country_event = { #Burma seperate from India
 		}
 
 		hidden_effect = {
-		    set_global_flag = BUR_remained_india
+		    set_global_flag = BRM_remained_india
 		}
 	}
 }

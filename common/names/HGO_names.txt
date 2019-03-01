@@ -279,7 +279,7 @@ KTS = {
 	callsigns = { }
 }
 
-BUR = {
+BRM = {
 	male = {
 		names = { 
 			"Mg Ko" Tun Hein Soe "Wai Thu" "Maung Arkar" "Pyae Mg Zarni" "Nyan Myat"
@@ -376,7 +376,7 @@ CAL = { #USA Copied
 	callsigns = { }
 }
 
-MRT = {
+MRS = {
 	male = {
 		names = { 
 			Lencho Alake Jaco Kabili Eon Henrico Louw Adiel Schalk Tjaart Adriaan Matthys

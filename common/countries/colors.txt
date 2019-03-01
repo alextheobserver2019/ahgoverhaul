@@ -553,7 +553,7 @@ MAC = {
 	color = rgb { 229  91  10 }
 	color_ui = rgb { 210  70  10 }	
 }
-BUR = {
+BRM = {
 	color = rgb { 173 48 83 }
     color_ui = rgb { 127 63 91 }	
 }
@@ -565,7 +565,7 @@ CAL = {
 	color = rgb { 242 205 94 }
 	color_ui = rgb { 255 255 122 }	
 }
-MRT = {
+MRS = {
 	color = rgb { 68 124 38 }
     color_ui = rgb { 68 123 38 }	
 }
@@ -701,7 +701,7 @@ WLL = {
 	color = rgb { 193  226  120 }
     color_ui = rgb { 193  226  120 }	
 }
-CMR = {
+COM = {
 	color = rgb { 95  216  121 }
     color_ui = rgb { 95  216  121 }	
 }
@@ -791,7 +791,7 @@ SIL = {
        color = rgb { 67 96 71 }
        color_ui = rgb { 67 96 71 }
 }
-BRD = {
+BDB = {
        #color = rgb { 165 165 165 }
        #color_ui = rgb { 165 165 165 }
 	   color = rgb { 158 110 74 }
@@ -825,7 +825,7 @@ FRN = {
        color = rgb { 232 220 206 }
        color_ui = rgb { 232 220 206 }
 }
-BRM = {
+BRE = {
        color = rgb { 243 255 114 }
        color_ui = rgb { 243 255 114 }
 }
@@ -841,7 +841,7 @@ SIC = {
        color = rgb { 146 165 124 }
        color_ui = rgb { 146 165 124 }
 }
-GNA = {
+GEN = {
        #color = rgb { 166 232 2 }
        #color_ui = rgb { 166 232 2 }
 	   color = rgb { 229 239 71 }
@@ -1049,7 +1049,7 @@ LCC = {
        color = rgb { 206 200 117 }
        color_ui = rgb { 206 200 117 }
 }
-TRI = {
+TRS = {
        color = rgb { 107 142 35 }
        color_ui = rgb { 107 142 35 }
 }

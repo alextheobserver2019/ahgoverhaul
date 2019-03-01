@@ -3,7 +3,7 @@ state={
 	name="STATE_2649"
 	history={
 		owner = MAD 
-		add_claim_by = CMR
+		add_claim_by = COM
 		buildings = {
 			infrastructure = 4
 			

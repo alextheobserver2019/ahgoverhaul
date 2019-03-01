@@ -11,7 +11,7 @@ state={
 
 	history={
 		owner = JAM
-		add_core_of = TNT
+		add_core_of = TRI
 		buildings = {
 			infrastructure = 3
 			3284 = {

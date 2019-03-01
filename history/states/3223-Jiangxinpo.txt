@@ -10,7 +10,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = BUR
+		add_core_of = BRM
 	}
 	provinces={
 		1197 1934 4318 4996 

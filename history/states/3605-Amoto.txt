@@ -11,7 +11,7 @@ state={
 	history={
 		owner = SCM
 		add_core_of = SCM
-		add_core_of = KMR
+		add_core_of = CMR
 		buildings = {
 			infrastructure = 1
 		}

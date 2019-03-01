@@ -6,8 +6,8 @@ state={
 	
 	history=
 	{
-		owner = MAU
-		add_core_of = MAU
+		owner = MRT
+		add_core_of = MRT
 		buildings = {
 			infrastructure = 3
 			13019 = {
