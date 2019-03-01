@@ -8,7 +8,7 @@ state={
 
 	history={
 		owner = FWA
-		add_core_of = SNG
+		add_core_of = SEN
 		victory_points = {
 			4948 5 
 		}

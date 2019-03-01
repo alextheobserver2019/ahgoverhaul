@@ -1,6 +1,6 @@
 ﻿capital = 276
 
-oob = "NIL_1936"
+oob = "NIR_1936"
 
 set_research_slots = 3
 

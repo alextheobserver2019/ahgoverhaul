@@ -12,7 +12,7 @@ state={
 		owner = SPR
 		add_core_of = MOR
 		add_core_of = MAU
-		add_core_of = SAH
+		add_core_of = WES
 		buildings = {
 			infrastructure = 1
 		}

@@ -12,7 +12,7 @@ state={
 		}
 		add_core_of = ENG
 		add_core_of = IRE
-		add_core_of = NIL
+		add_core_of = NIR
 	}
 
 	provinces={

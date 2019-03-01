@@ -1,6 +1,4 @@
-﻿capital = 699
-
-oob = "SPR_gen"
+﻿capital = 272
 
 # Starting tech
 set_technology = {
@@ -8,7 +6,9 @@ set_technology = {
 	gwtank = 1
 }
 
-set_cosmetic_tag = SAH_SPR
+set_cosmetic_tag = SEN_FED
+
+set_country_flag = FED
 
 set_convoys = 20
 
@@ -60,54 +60,84 @@ set_convoys = 20
 		dispersed_industry = 1
 		dispersed_industry2 = 1
 	}
+	
+	create_country_leader = {
+	name = "Léon Cayla"
+	desc = ""
+	picture = "gfx/leaders/French Colonial/Leon_Cayla.dds" 
+	ideology = despotism
+	expire = "1965.4.25"
+	traits = {
+		#
+	}
+}
 }
 
 
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 20
-		}
-
-		fascism = {
-			popularity = 15
-		}
-		
 		communism = {
-			popularity = 5
+			popularity = 12
 			#banned = no #default is no
 		}
 		
+		fascism = {
+			popularity = 13
+		}
+		
+		democratic = { 
+			popularity = 20
+		}
+		
 		neutrality = { 
-			popularity = 60
+			popularity = 65
 		}
 	}
-
 	
 	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
-	create_country_leader = {
-	name = "Antonio de Oro Pulido"
+
+
+create_country_leader = {
+	name = "Lamine Guèye"
 	desc = ""
-	picture = "gfx/leaders/Portuguese Colonial/Antonio_de_Oro_Pulido.dds"
-	ideology = despotism
-	expire = "1940.12.28"
+	picture = "gfx/leaders/Africa/Lamine_Gueye.dds"
+	ideology = liberalism
+	expire = "1968.6.10"
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Carlos Pedemonte Sabin"
+	name = "Léopold Sédar Senghor"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+	picture = "gfx/leaders/Africa/Leopold_Senghor.dds" 
 	ideology = despotism
-	expire = "1972.7.25"
+	expire = "2001.12.20"
 	traits = {
 		#
 	}
+}
+
+create_country_leader = {
+	name = "Jules Brévié"
+	desc = ""
+	picture = "gfx/leaders/French Colonial/Jules_Brevie.dds" 
+	ideology = despotism
+	expire = "1964.7.28"
+	traits = {
+		#
+	}
+}
+
+create_corps_commander = {
+	name = "Abdul Injai"
+	portrait_path = "gfx/leaders/Africa/Abdul_Injai.dds"
+	traits = { }
+	skill = 3
 }
