@@ -6,7 +6,8 @@ state={
 	
 	history=
 	{
-		owner = ENG
+		owner = MAU
+		add_core_of = MAU
 		buildings = {
 			infrastructure = 3
 			13019 = {
