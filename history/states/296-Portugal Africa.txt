@@ -10,7 +10,7 @@ state={
 	}
 	history={
 		owner = POR
-		add_core_of = GBS
+		add_core_of = GNB
 		buildings = {
 			infrastructure = 2
 			12891 ={

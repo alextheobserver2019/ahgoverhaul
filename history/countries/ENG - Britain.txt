@@ -123,7 +123,7 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
-		target = ZMB
+		target = ZAM
 		autonomous_state = autonomy_dominion
 	}
 	set_autonomy = {
@@ -131,7 +131,7 @@ if = {
 		autonomous_state = autonomy_dominion
 	}
 	set_autonomy = {
-		target = TAZ
+		target = TZN
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
@@ -147,7 +147,7 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
-		target = SDN
+		target = SUD
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
@@ -183,7 +183,7 @@ if = {
 		autonomous_state = autonomy_dominion
 	}
 	set_autonomy = {
-		target = SLE
+		target = SIE
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
@@ -191,7 +191,7 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
-		target = CEY
+		target = SRL
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
@@ -203,7 +203,7 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
-		target = GUY
+		target = GYA
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
@@ -275,12 +275,12 @@ if = {
 		puppet = SRW
 		puppet = BOT
 		puppet = ZIM
-		puppet = ZMB
-		puppet = TAZ
+		puppet = ZAM
+		puppet = TZN
 		puppet = MLW
 		puppet = UGA
 		puppet = KEN
-		puppet = SDN
+		puppet = SUD
 		puppet = SML
 		puppet = LES
 		puppet = SWZ
@@ -289,14 +289,14 @@ if = {
 		puppet = MRT
 		puppet = SEY
 		puppet = MDV
-		puppet = SLE
+		puppet = SIE
 		puppet = GAM
-		puppet = CEY
+		puppet = SRL
 		puppet = NBO
 		puppet = ZAN
 		puppet = SKM
 		puppet = BHU
-		puppet = GUY
+		puppet = GYA
 		puppet = BLZ
 		puppet = BAH
 		puppet = JAM
@@ -516,7 +516,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Oswald Mosley"
-	desc = "POLITICS_OSWALD_MOSLEY_DESC"
+	desc = "POLITICS_OSWALD_MOSIEY_DESC"
 	picture = "Portrait_Britain_Oswald_Mosley.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology

@@ -9,12 +9,12 @@ state={
 	}
 
 	history={
-		owner = SDN
+		owner = SUD
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = SDN
+		add_core_of = SUD
 
 	}
 

@@ -13,7 +13,7 @@ state={
 		add_core_of = MNT
 
 
-		add_core_of = BIH
+		add_core_of = BOS
 		add_core_of = CRO	}
 	
 	provinces={

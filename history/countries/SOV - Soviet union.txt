@@ -72,43 +72,6 @@ add_ideas = {
 	trotskyite_plot
 	home_of_revolution
 }
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = UKR
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = BLR
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = TSC
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = TJK
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = UZB
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = TKM
-		autonomous_state = autonomy_integrated_puppet
-	}
-	else = {
-		puppet = UKR
-		puppet = BLR
-		puppet = TSC
-		puppet = TJK
-		puppet = UZB
-		puppet = TKM
-	}
-}
 create_country_leader = {
 	name = "Joseph Stalin"
 	desc = "POLITICS_JOSEPH_STALIN_DESC"

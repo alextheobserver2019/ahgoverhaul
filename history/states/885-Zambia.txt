@@ -4,7 +4,7 @@ state={
 	name="STATE_885"
 
 	history={
-		owner = ZMB
+		owner = ZAM
 		victory_points = {
 			7872 3 
 		}
@@ -12,7 +12,7 @@ state={
 			infrastructure = 3
 
 		}
-		add_core_of = ZMB
+		add_core_of = ZAM
 
 	}
 

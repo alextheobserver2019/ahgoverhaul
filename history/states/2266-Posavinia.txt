@@ -14,7 +14,7 @@ state={
 			11574 15
 		}
 		add_core_of = YUG
-		add_core_of = BIH
+		add_core_of = BOS
 
 	}
 }

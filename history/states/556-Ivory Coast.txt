@@ -8,7 +8,7 @@ state={
 
 	history={
 		owner = FWA
-		add_core_of = UVO
+		add_core_of = VOL
 		buildings = {
 			infrastructure = 3
 

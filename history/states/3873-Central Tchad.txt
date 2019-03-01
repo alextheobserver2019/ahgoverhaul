@@ -10,7 +10,7 @@ state={
 
 	history={
 		owner = FEA
-		add_core_of = TSD
+		add_core_of = CHA
 		buildings = {
 			infrastructure = 1
 		}

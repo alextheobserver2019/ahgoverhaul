@@ -710,27 +710,27 @@ country_event = {
 			limit = {
 				102 = { is_owned_by = YUG }
 			}
-			SVN = { transfer_state = 102 }
+			SLV = { transfer_state = 102 }
 		}
 		if = {
 			limit = {
 				803 = { is_owned_by = YUG }
 			}
-			SVN = { transfer_state = 803 }
+			SLV = { transfer_state = 803 }
 		}
 		if = {
 			limit = {
 				804 = { is_owned_by = YUG }
 			}
-			SVN = { transfer_state = 804 }
+			SLV = { transfer_state = 804 }
 		}
 		if = {
 			limit = {
 				805 = { is_owned_by = YUG }
 			}
-			SVN = { transfer_state = 805 }
+			SLV = { transfer_state = 805 }
 		}
-		puppet = SVN
+		puppet = SLV
 		
 		if = {
 			limit = {

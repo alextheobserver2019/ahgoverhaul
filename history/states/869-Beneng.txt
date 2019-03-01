@@ -4,7 +4,7 @@ state={
 
 	history={
 		owner = FWA
-		add_core_of = BNI
+		add_core_of = DAH
 		buildings = {
 			infrastructure = 2
 

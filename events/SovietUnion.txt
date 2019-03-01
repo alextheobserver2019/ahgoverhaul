@@ -190,19 +190,19 @@ country_event = {
 				country_event = { days = 1 id = news.10 }
 			}
 			78 = {
-		        add_core_of = MDA
+		        add_core_of = MOL
 		    }
 			80 = {
-		        add_core_of = MDA
+		        add_core_of = MOL
 		    }
 			791 = {
 		        add_core_of = UKR
 		    }
 			799 = {
-		        add_core_of = MDA
+		        add_core_of = MOL
 		    }
 			1487 = {
-				add_core_of = MDA
+				add_core_of = MOL
 			}
 			news_event = { id = news.199 }
 		}
@@ -227,16 +227,16 @@ country_event = {
 		}
 		hidden_effect = {
 		    78 = {
-		        add_core_of = MDA
+		        add_core_of = MOL
 		    }
 			80 = {
-		        add_core_of = MDA
+		        add_core_of = MOL
 		    }
 			791 = {
 		        add_core_of = UKR
 		    }
 			799 = {
-		        add_core_of = MDA
+		        add_core_of = MOL
 		    }
 			SOV = {
 				country_event = { days = 1 id = news.11 }

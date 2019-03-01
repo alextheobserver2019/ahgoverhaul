@@ -6,7 +6,7 @@ KMR_FRA = {
 	color = rgb { 84 133 182 }
 	color_ui = rgb { 74 147 255 }
 }
-MDG_FRA = {
+MAD_FRA = {
 	color = rgb { 84 133 182 }
 	color_ui = rgb { 74 147 255 }
 }
@@ -14,7 +14,7 @@ SYR_FRA = {
 	color = rgb { 84 133 182 }
 	color_ui = rgb { 74 147 255 }
 }
-TGO_FRA = {
+TOG_FRA = {
 	color = rgb { 84 133 182 }
 	color_ui = rgb { 74 147 255 }
 }
@@ -90,7 +90,7 @@ ZIM_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-ZMB_ENG = {
+ZAM_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
@@ -110,7 +110,7 @@ GAM_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-SLE_ENG = {
+SIE_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
@@ -118,7 +118,7 @@ KEN_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-TAZ_ENG = {
+TZN_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
@@ -138,7 +138,7 @@ MDV_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-CEY_ENG = {
+SRL_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
@@ -166,7 +166,7 @@ MAL_UK = {
     color = rgb { 201 56 93 }
     color_ui = rgb { 255 73 121 }
 }
-GUY_ENG = {
+GYA_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
@@ -299,11 +299,11 @@ UZB_SOV = {
 	color = rgb { 175 13 0 }
 	color_ui = rgb { 163 17 31 }
 }
-TKM_SOV = {
+TMS_SOV = {
 	color = rgb { 175 13 0 }
 	color_ui = rgb { 163 17 31 }
 }
-TJK_SOV = {
+TAJ_SOV = {
 	color = rgb { 175 13 0 }
 	color_ui = rgb { 163 17 31 }
 }

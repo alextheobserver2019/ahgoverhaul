@@ -3,7 +3,7 @@ state={
 	name="STATE_2618"
 	history={
 		owner = POR 
-		add_core_of = BNI
+		add_core_of = DAH
 		buildings = {
 			infrastructure = 4
 			

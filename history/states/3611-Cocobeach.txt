@@ -10,7 +10,7 @@ state={
 
 	history={
 		owner = FEA
-		add_core_of = GBO
+		add_core_of = GAB
 		buildings = {
 			infrastructure = 1
 		}
