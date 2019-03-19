@@ -1,4 +1,4 @@
-﻿capital = 751 #Kedah
+﻿capital = 1928 #Kedah
 
 oob = "KED_1936"
 

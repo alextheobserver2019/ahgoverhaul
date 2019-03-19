@@ -1,4 +1,4 @@
-﻿capital = 765
+﻿capital = 3886
 
 oob = "HKG_1936"
 

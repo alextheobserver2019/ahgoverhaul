@@ -55,15 +55,15 @@ if = {
 	}
 	set_autonomy = {
 		target = SOM
-		autonomous_state = autonomy_kommisariat
+		autonomous_state = autonomy_reichskommissariat
 	}
 	set_autonomy = {
 		target = ERI
-		autonomous_state = autonomy_kommisariat
+		autonomous_state = autonomy_reichskommissariat
 	}
 	set_autonomy = {
 		target = LBA
-		autonomous_state = autonomy_kommisariat
+		autonomous_state = autonomy_reichskommissariat
 	}
 	else = {
 		puppet = SOM
