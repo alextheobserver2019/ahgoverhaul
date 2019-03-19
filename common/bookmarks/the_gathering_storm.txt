@@ -31,8 +31,8 @@ bookmarks = {
 			}
 			focuses = {
 				USA_war_plan_black
-				USA_strike_at_the_empire
-				USA_pearl_harbor_gambit
+				USA_war_plan_red
+				USA_war_plan_green
 			}
 		}
 		"ENG"={
