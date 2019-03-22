@@ -14,6 +14,10 @@ SYR_FRA = {
 	color = rgb { 84 133 182 }
 	color_ui = rgb { 74 147 255 }
 }
+LEB_FRA = {
+	color = rgb { 84 133 182 }
+	color_ui = rgb { 74 147 255 }
+}
 TOG_FRA = {
 	color = rgb { 84 133 182 }
 	color_ui = rgb { 74 147 255 }
@@ -58,6 +62,10 @@ WTO_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
+TON_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
 SUD_CON = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
@@ -98,11 +106,15 @@ MLW_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
+JOR_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
 LES_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-SWA_ENG = {
+SWZ_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
@@ -198,6 +210,30 @@ BEI_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
+KED_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+ICE_DEN = {
+	color = rgb { 153 116 93 }
+	color_ui = rgb { 199 151 121 }
+}
+KEL_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+TGA_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+JOH_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
+PLS_ENG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 255 73 121 }
+}
 TUV_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
@@ -206,9 +242,9 @@ SLM_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-NAU_ENG = {
-	color = rgb { 201 56 93 }
-	color_ui = rgb { 255 73 121 }
+NAU_AST = {
+	color = rgb { 57 143 97 }
+	color_ui = rgb { 74 186 126 }
 }
 EGY_ENG = {
 	color = rgb { 201 56 93 }
@@ -308,6 +344,10 @@ TAJ_SOV = {
 	color_ui = rgb { 163 17 31 }
 }
 PAC_JAP = {
+	color = hsv { 0.05 0.3 1 }
+	color_ui = hsv { 0.05 0.25 1.2 }
+}
+EHC_JAP = {
 	color = hsv { 0.05 0.3 1 }
 	color_ui = hsv { 0.05 0.25 1.2 }
 }
