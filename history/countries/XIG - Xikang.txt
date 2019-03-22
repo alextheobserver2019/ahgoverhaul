@@ -1,6 +1,6 @@
 ﻿capital = 751
 
-oob = "XIG_1936"
+oob = "XIK_1936"
 
 set_research_slots = 1
 

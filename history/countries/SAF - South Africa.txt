@@ -42,7 +42,7 @@ if = {
 	}
 	set_autonomy = {
 		target = NMB
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy__integrated_puppet
 	}
 	else = {
 		puppet = NMB

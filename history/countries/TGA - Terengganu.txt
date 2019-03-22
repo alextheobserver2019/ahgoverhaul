@@ -1,4 +1,4 @@
-﻿capital = 1929 #Kuala Lumpur
+﻿capital = 750 #Kuala Lumpur
 
 oob = "TGA_1936"
 
