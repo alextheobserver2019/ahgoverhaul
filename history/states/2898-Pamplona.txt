@@ -5,7 +5,7 @@ state={
 		
 		owner = SPR 
 		add_core_of = SPR
-		add_core_of = BSQ
+		add_core_of = BAS
 		buildings = {
 			infrastructure = 4
 			

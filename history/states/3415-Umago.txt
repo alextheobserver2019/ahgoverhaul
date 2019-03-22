@@ -14,7 +14,7 @@ state={
 		add_core_of = ITA
 		add_core_of = YUG
 		add_core_of = CRO
-		add_core_of = TRS
+		add_core_of = TRI
 		buildings = {
 			infrastructure = 1
 		}

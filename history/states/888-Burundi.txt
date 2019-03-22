@@ -8,7 +8,7 @@ state={
 			infrastructure = 1
 
 		}
-		add_core_of = BRD
+		add_core_of = BUI
 		add_core_of = RUU
 
 	}

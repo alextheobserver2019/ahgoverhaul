@@ -86,7 +86,7 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
-		target = CMR
+		target = KMR
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
@@ -105,7 +105,7 @@ if = {
 	puppet = FEA
 	puppet = FWA
 	puppet = DJI
-	puppet = CMR
+	puppet = KMR
 	puppet = MAD
 	puppet = TOG
 	}

@@ -10,7 +10,7 @@ state={
 
 	history={
 		owner = FWA
-		add_core_of = MRT
+		add_core_of = MAU
 		buildings = {
 			infrastructure = 1
 		}
