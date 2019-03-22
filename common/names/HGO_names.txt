@@ -294,7 +294,7 @@ BUR = {
 	callsigns = { }
 }
 
-MAC = {
+MKD = {
 	male = {
 		names = { 
 			Zmejko Vassil Borche Krste Pero Kiel Branko Dobri
@@ -324,7 +324,7 @@ GRL = {
 	callsigns = { }
 }
 
-NIR = {
+NIL = {
 	male = {
 		names = { 
 			Donagh Eamon Colman Fintan Aengus Frank Paddy Michael
@@ -572,7 +572,7 @@ SUD = {
 	callsigns = { }
 }
 
-NMB = {
+NAM = {
 	male = {
 		names = { 
 			Janco Andries Johan Barke Luca André Upendo Mattys

@@ -3,14 +3,14 @@ state={
 	name="STATE_889"
 
 	history={
-		owner = NMB
+		owner = NAM
 		buildings = {
 			infrastructure = 4
 			13227 = {
 				naval_base = 1
 			}
 		}
-		add_core_of = NMB
+		add_core_of = NAM
 	}
 
 	provinces={

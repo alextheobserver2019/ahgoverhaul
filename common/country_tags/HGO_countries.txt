@@ -1,5 +1,7 @@
 ##Europe##
+MKD = "countries/Macedonia.txt"
 CAT = "countries/Catalonia.txt"
+NIL = "countries/Northern Ireland.txt"
 CRN = "countries/Cornwall.txt"
 KTS = "countries/Kingdom of Two Sicilies.txt"
 BAV = "countries/Bavaria.txt"
@@ -76,6 +78,7 @@ SAM = "countries/Samoa.txt"
 
 ##Africa##
 MAU = "countries/Mauritania.txt"
+NAM = "countries/Namibia.txt"
 KMR = "countries/Cameroon.txt"
 TGR = "countries/Tangier.txt"
 
@@ -88,8 +91,10 @@ SEY = "countries/Seychelles.txt"
 SML = "countries/Somalialand.txt"
 MRT = "countries/Mauritius.txt"
 #French
+SNG = "countries/Senegal.txt"
 CMR = "countries/Comoros.txt"
 #Spanish
+SAH = "countries/Western Sahara.txt"
 RIF = "countries/Rif.txt"
 ORA = "countries/Oranje.txt"
 ##Asia##
@@ -117,6 +122,7 @@ HMI = "countries/Hami.txt"
 ##Asia Imported from CU##
 TWN = "countries/Taiwan.txt"
 ETM = "countries/East Timor.txt"
+MDV = "countries/Maldives.txt"
 KAS = "countries/Kashmir.txt"
 ##Middle-East##
 HTY = "countries/Hatay.txt"
@@ -193,6 +199,7 @@ LCC = "countries/Lucca.txt"
 BUI = "countries/burundi.txt"
 GUI = "countries/guinea.txt"
 LES = "countries/lesotho.txt"
+NIG = "countries/niger.txt"
 SSU = "countries/south sudan.txt"
 SWZ = "countries/swaziland.txt"
 TON = "countries/tonga.txt"

@@ -9,7 +9,7 @@ state={
 
 		}
 		add_core_of = MOR
-		add_core_of = WES
+		add_core_of = SAH
 
 	}
 

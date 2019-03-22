@@ -1,7 +1,7 @@
 ﻿capital = 1590
 
-oob = "NMB_1936"
-set_cosmetic_tag = NMB_ENG
+oob = "NAM_1936"
+set_cosmetic_tag = NAM_ENG
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

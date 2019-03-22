@@ -549,7 +549,7 @@ GRL = {
 	color = rgb { 66  86  4 }
 	color_ui = rgb { 66  86  4 }	
 }
-MAC = {
+MKD = {
 	color = rgb { 229  91  10 }
 	color_ui = rgb { 210  70  10 }	
 }
@@ -557,7 +557,7 @@ BUR = {
 	color = rgb { 173 48 83 }
     color_ui = rgb { 127 63 91 }	
 }
-NIR = {
+NIL = {
 	color = rgb { 219 190 190 }
     color_ui = rgb { 219 190 190 }	
 }
@@ -613,7 +613,7 @@ SUD = {
 	color = rgb { 115  158  116 }
     color_ui = rgb { 115  158  116 }	
 }
-NMB = {
+NAM = {
 	color = rgb { 7  147  33 }
     color_ui = rgb { 7  147  33 }	
 }

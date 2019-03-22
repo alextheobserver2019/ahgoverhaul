@@ -134,7 +134,7 @@ MRT_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-MLD_ENG = {
+MDV_ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
@@ -231,7 +231,7 @@ SUR_HOL = {
     color = rgb { 203 138 74 }
     color_ui = rgb { 255 179 96 }
 }
-NMB_ENG = {
+NAM_ENG = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 209 150 33 }
 }

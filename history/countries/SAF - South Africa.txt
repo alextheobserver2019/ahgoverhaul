@@ -41,11 +41,11 @@ if = {
 		has_dlc = "Together for Victory"
 	}
 	set_autonomy = {
-		target = NMB
+		target = NAM
 		autonomous_state = autonomy__integrated_puppet
 	}
 	else = {
-		puppet = NMB
+		puppet = NAM
 	}
 }
 

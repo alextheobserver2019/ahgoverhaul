@@ -1,6 +1,6 @@
-﻿capital = 699
+﻿capital = 281
 
-oob = "SPR_gen"
+oob = "ENG_gen"
 
 # Starting tech
 set_technology = {
@@ -8,9 +8,7 @@ set_technology = {
 	gwtank = 1
 }
 
-set_cosmetic_tag = WES_SPR
-
-set_convoys = 20
+set_cosmetic_tag = MDV_ENG
 
 1939.1.1 = {
 
@@ -71,42 +69,39 @@ set_politics = {
 		}
 
 		fascism = {
-			popularity = 15
+			popularity = 0
 		}
 		
 		communism = {
-			popularity = 5
-			#banned = no #default is no
+			popularity = 0
 		}
 		
 		neutrality = { 
-			popularity = 60
+			popularity = 80
 		}
 	}
-
 	
 	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
-	create_country_leader = {
-	name = "Antonio de Oro Pulido"
+
+create_country_leader = {
+	name = "Mohamed Amin Didi"
 	desc = ""
-	picture = "gfx/leaders/Portuguese Colonial/Antonio_de_Oro_Pulido.dds"
-	ideology = despotism
-	expire = "1940.12.28"
+	picture = "gfx/leaders/South Asia/Mohamed_Didi.dds"
+	ideology = conservatism
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Carlos Pedemonte Sabin"
+	name = "Hassan Nooraddeen II"
 	desc = ""
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+	picture = "Portrait_Hassan_Nooraddeen_II.dds"
 	ideology = despotism
-	expire = "1972.7.25"
 	traits = {
 		#
 	}

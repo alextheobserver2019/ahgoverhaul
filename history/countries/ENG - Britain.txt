@@ -179,7 +179,7 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
-		target = MLD
+		target = MDV
 		autonomous_state = autonomy_dominion
 	}
 	set_autonomy = {
@@ -288,7 +288,7 @@ if = {
 		puppet = GHA
 		puppet = MRT
 		puppet = SEY
-		puppet = MLD
+		puppet = MDV
 		puppet = SIE
 		puppet = GAM
 		puppet = SRL
