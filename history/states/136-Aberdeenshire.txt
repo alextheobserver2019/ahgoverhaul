@@ -17,7 +17,7 @@ state={
 			dockyard = 2
 		}
 		add_core_of = ENG
-		add_core_of = SCO
+		add_core_of = SCT
 	}
 
 	provinces={

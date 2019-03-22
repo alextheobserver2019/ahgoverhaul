@@ -9,8 +9,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = GYA
-		add_core_of = GYA
+		owner = GUY
+		add_core_of = GUY
 		buildings = {
 			infrastructure = 1
 		}

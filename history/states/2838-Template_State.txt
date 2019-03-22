@@ -5,7 +5,7 @@ state={
 		
 		owner = SOV
 		add_core_of = SOV
-		add_core_of = TMS
+		add_core_of = TKM
 		add_claim_by = PER
 		buildings = {
 			infrastructure = 4

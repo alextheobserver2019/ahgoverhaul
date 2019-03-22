@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SUD
+		owner = SDN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -17,7 +17,7 @@ state={
 		victory_points = {
 			12806 3 
 		}
-		add_core_of = SUD
+		add_core_of = SDN
 
 	}
 

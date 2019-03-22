@@ -6,12 +6,12 @@ state={
 	impassable = yes
 
 	history={
-		owner = SUD
+		owner = SDN
 		buildings = {
 			infrastructure = 0
 
 		}
-		add_core_of = SUD
+		add_core_of = SDN
 
 	}
 

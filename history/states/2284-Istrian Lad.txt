@@ -13,7 +13,7 @@ state={
 		}
 		add_core_of = ITA
 		add_core_of = VNC
-		add_claim_by = SLV
+		add_claim_by = SVN
 		add_claim_by = YUG
 
 	}

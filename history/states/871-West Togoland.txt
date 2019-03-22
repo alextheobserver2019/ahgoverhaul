@@ -6,7 +6,7 @@ state={
 		owner = WTO
 		add_core_of = GHA
 		add_core_of = WTO
-		add_claim_by = TOG
+		add_claim_by = TGO
 		buildings = {
 			infrastructure = 3
 

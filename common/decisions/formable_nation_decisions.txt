@@ -1464,7 +1464,7 @@ form_mutapa_category = {
 				original_tag = BOT
 				original_tag = ZIM
 				original_tag = MZB
-				original_tag = ZAM
+				original_tag = ZMB
 				original_tag = NAM
 			}
 			has_dlc = "Waking the Tiger"

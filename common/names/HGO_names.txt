@@ -39,7 +39,7 @@ ALG = {
 	callsigns = { }
 }
 
-SLV = {
+SVN = {
 	male = {
 		names = { 
 			Ludovik Milos Marco Sebastijan Vasilije Sinan Dorian Hazim Izudin Marijo
@@ -91,7 +91,7 @@ TUN = {
 	callsigns = { }
 }
 
-TMS = {
+TKM = {
 	male = {
 		names = { 
 			Abdallah "Abd al-Rahman" "Abd al-Quddus" Afzal Ahmad Akbar Akram   Ayyub
@@ -108,7 +108,7 @@ TMS = {
 	callsigns = { }
 }
 
-TAJ = {
+TJK = {
 	male = {
 		names = { 
 			Turlan Nazer Daulet Nursultan Afzal Ahmad Akbar Akram   Ayyub
@@ -125,7 +125,7 @@ TAJ = {
 	callsigns = { }
 }
 
-KYR = {
+KGZ = {
 	male = {
 		names = { 
 			Abdallah "Abd al-Rahman" "Abd al-Quddus" Afzal Ahmad Akbar Akram   Ayyub
@@ -174,7 +174,7 @@ CAT = {
 	callsigns = { }
 }
 
-BOS = {
+BIH = {
 	male = {
 		names = { 
 			Nermin Ado Vedad Alija Resul Ensar Enis Mevludin
@@ -204,7 +204,7 @@ KOR = {
 	callsigns = { }
 }
 
-SCO = {
+SCT = {
 	male = {
 		names = { 
 			Edward Scott Blake Alija Cooper Liam Frederick Harry
@@ -446,7 +446,7 @@ BLZ = {
 	callsigns = { }
 }
 
-PUE = { #Belize Copied
+PRI = { #Belize Copied
 	male = {
 		names = { 
 			Lorenzo Manuel Álvaro Vitor Conrado Mateus Rafael Diogo
@@ -557,7 +557,7 @@ VCT = {
 	callsigns = { }
 }
 
-SUD = {
+SDN = {
 	male = {
 		names = { 
 			Sobarna Tetep Dewata Surya Soma Yanyan Prawira Empep
@@ -587,7 +587,7 @@ NAM = {
 	callsigns = { }
 }
 
-MLI = {  #Copied Maunritania
+MRI = {  #Copied Maunritania
 	male = {
 		names = { 
 			Lencho Alake Jaco Kabili Eon Henrico Louw Adiel Schalk Tjaart Adriaan Matthys
