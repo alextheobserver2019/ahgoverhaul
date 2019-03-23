@@ -1,4 +1,4 @@
-﻿capital = 297
+﻿capital = 2363
 
 oob = "SPR_gen"
 
