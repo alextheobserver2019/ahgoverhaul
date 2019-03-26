@@ -38,7 +38,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Jigme Wangchuck"
+	name = "Jigme of Wangchuck"
 	desc = "POLITICS_JIGME_WANGCHUCK_DESC"
 	picture = "Portrait_bhutan_jigme_wangchuk.dds"
 	expire = "1965.1.1"
