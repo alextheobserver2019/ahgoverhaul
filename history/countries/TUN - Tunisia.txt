@@ -60,7 +60,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Ahmad II"
+	name = "Ahmad II de Husainia"
 	desc = ""
 	picture = "Portrait_Ahmad_II.dds"
 	expire = "1960.1.1"

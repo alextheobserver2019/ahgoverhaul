@@ -96,7 +96,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Rama VIII"
+	name = "Rama VIII of Chakri"
 	desc = ""
 	picture = "Portrait_Rama_VIII.dds"
 	expire = "1965.1.1"

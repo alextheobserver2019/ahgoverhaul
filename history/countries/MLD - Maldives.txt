@@ -100,7 +100,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Hassan Nooraddeen II"
 	desc = ""
-	picture = "Portrait_Hassan_Nooraddeen_II.dds"
+	picture = "gfx/leaders/MLD/Portrait_Hassan_Nooraddeen_II.dds"
 	ideology = despotism
 	traits = {
 		#

@@ -97,7 +97,7 @@ create_country_leader = {
 create_country_leader = {
 	
 	name = "Harold MacMichael"
-	picture = "Portrait_Harold_MacMichael.dds"
+	picture = "gfx/leaders/TZN/Portrait_Harold_MacMichael.dds"
 	expire = "1969.2.19"
 	ideology = moderatism
 	traits = { }

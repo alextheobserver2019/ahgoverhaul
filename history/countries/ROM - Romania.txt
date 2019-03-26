@@ -82,7 +82,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Carol II"
+	name = "Carol II al II-lea din Hohenzollern-Sigmaringen"
 	desc = ""
 	picture = "Portrait_Carol_II.dds"
 	expire = "1945.1.1"

@@ -38,7 +38,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Hamad bin Isa Al Khalifa"
+	name = "Hamad bin Isa of Khalifa"
 	desc = "POLITICS_TUN1_DESC"
 	picture = "Portrait_Hamad_bin_Isa_Al_Khalifa.dds"
 	expire = "1965.1.1"

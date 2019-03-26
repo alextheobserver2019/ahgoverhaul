@@ -88,7 +88,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Abdullah Al-Salim Al-Sabah"
+	name = "Abdullah Al-Salim of Al-Sabah"
 	desc = ""
 	picture = "gfx/leaders/Middle East/Abdullah_Al-Sabah.dds"
 	ideology = conservatism
@@ -98,7 +98,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ahmad Al-Jaber Al-Sabah"
+	name = "Ahmad Al-Jaber of Al-Sabah"
 	desc = ""
 	picture = "Portrait_Ahmad_Al_Jaber_Al_Sabah.dds"
 	ideology = despotism
@@ -108,14 +108,14 @@ create_country_leader = {
 }
 
 create_corps_commander = {
-	name = "Ahmad Al-Jaber Al-Sabah"
+	name = "Ahmad Al-Jaber of Al-Sabah"
 	portrait_path = "gfx/leaders/Middle East/Ahmad_Al-Sabah.dds"
 	traits = {  }
 	skill = 3
 }
 
 create_corps_commander = {
-	name = "Abdullah Al-Jaber Al-Sabah"
+	name = "Abdullah Al-Jaber of Al-Sabah"
 	portrait_path = "gfx/leaders/Middle East/Abdullah_Al-Jaber_Al-Sabah.dds"
 	traits = {  }
 	skill = 3

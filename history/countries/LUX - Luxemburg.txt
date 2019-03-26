@@ -120,7 +120,7 @@ set_politics = {
 }
 #Pierre Dupong from 37
 create_country_leader = {
-	name = "Charlotte"
+	name = "Charlotte vu Nassau-Weilburg"
 	desc = ""
 	picture = "Portrait_Charlotte_Luxembourg.dds"
 	expire = "1965.1.1"

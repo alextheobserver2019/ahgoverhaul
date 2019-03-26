@@ -42,7 +42,7 @@ set_stability = 0.75
 give_guarantee = SWI
 
 create_country_leader = {
-	name = "Franz Joseph II"
+	name = "Franz Josef II von Liechtenstein"
 	desc = ""
 	picture = "Portrait_Liechtenstein_franz.dds"
 	expire = "1965.1.1"

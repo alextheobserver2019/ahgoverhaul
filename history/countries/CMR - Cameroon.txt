@@ -38,7 +38,7 @@ set_politics = {
 
 create_country_leader = {
 	name = "Jules Vincent Repiquet"
-	picture = "Portrait_Jules_Vincent_Repiquet.dds"
+	picture = "gfx/leaders/CMR/Portrait_Jules_Vincent_Repiquet.dds"
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {

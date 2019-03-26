@@ -82,7 +82,7 @@ set_politics = {
 set_convoys = 40
 
 create_country_leader = {
-	name = "Christian X"
+	name = "Christian X af Glücksburg"
 	desc = ""
 	picture = "Portrait_Christian_X.dds"
 	expire = "1965.1.1"

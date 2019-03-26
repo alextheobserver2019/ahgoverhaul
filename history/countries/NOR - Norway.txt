@@ -129,7 +129,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Haakon VII"
+	name = "Haakon VII av Glücksburg"
 	desc = ""
 	picture = "Portrait_Haakon_VII.dds"
 	expire = "1965.1.1"

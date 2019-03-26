@@ -133,7 +133,7 @@ set_convoys = 500
 set_stability = 0.75
 
 create_country_leader = {
-	name = "Wilhelmina"
+	name = "Wilhelmina van Oranje-Nassau"
 	desc = ""
 	picture = "Portrait_Wilhelmina.dds"
 	expire = "1947.1.1"

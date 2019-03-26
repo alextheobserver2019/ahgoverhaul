@@ -83,7 +83,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Tribhuvan"
+	name = "Tribhuvan of Shah"
 	desc = ""
 	picture = "Portrait_Tribhuvan.dds"
 	expire = "1965.1.1"

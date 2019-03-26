@@ -107,7 +107,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Abdullah I"
+	name = "Abdullah I of Hashim"
 	desc = ""
 	picture = "Portrait_Abdullah_I.dds"
 	ideology = despotism

@@ -32,7 +32,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Khalifa bin Harub"
+	name = "Khalifa bin Harub of Al-Said"
 	desc = ""
 	picture = "Portrait_Khalifa_bin_Harub.dds"
 	expire = "1960.1.1"

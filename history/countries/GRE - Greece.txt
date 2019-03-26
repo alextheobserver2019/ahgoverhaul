@@ -55,7 +55,7 @@ set_politics = {
 set_stability = 0.75
 
 create_country_leader = {
-	name = "George II"
+	name = "Geórgios II tou Glücksburg"
 	desc = ""
 	picture = "Portrait_George_II.dds"
 	expire = "1965.1.1"

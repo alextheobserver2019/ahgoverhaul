@@ -97,7 +97,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Ghazi I"
+	name = "Ghazi I of Hashim"
 	desc = "POLITICS_GHAZI_I_DESC"
 	picture = "Portrait_Ghazi_I.dds"
 	expire = "1965.1.1"

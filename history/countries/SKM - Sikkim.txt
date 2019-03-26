@@ -79,7 +79,7 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "Tashi Namygal"
+	name = "Tashi of Namygal"
 	desc = ""
 	picture = "Portrait_Tashi_Namygal.dds"
 	expire = "1960.1.1"

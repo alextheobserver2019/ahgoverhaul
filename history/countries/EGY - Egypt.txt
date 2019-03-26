@@ -107,7 +107,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Fuad I"
+	name = "Fuad I of Muhammad Ali"
 	desc = ""
 	picture = "Portrait_Fuad_I.dds"
 	ideology = despotism

@@ -493,7 +493,7 @@ create_country_leader = {
 
 
 create_country_leader = {
-	name = "George V"
+	name = "George V of Windsor"
 	desc = ""
 	picture = "Portrait_Britain_George_V.dds"
 	expire = "1938.1.1"

@@ -193,7 +193,7 @@ set_politics = {
 set_stability = 0.6
 
 create_country_leader = {
-	name = "Peter II"
+	name = "Petar II Karađorđevića"
 	desc = ""
 	picture = "Portrait_Peter_II.dds"
 	expire = "1985.1.1"

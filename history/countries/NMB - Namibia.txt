@@ -48,7 +48,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "David Gideon Conradie"
-	picture = "Portrait_David_Gideon_Conradie.dds"
+	picture = "gfx/leaders/NMB/Portrait_David_Gideon_Conradie.dds"
 	expire = "1965.1.1"
 	ideology = conservatism
 	traits = {

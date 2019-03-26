@@ -59,7 +59,7 @@ set_politics = {
 	elections_allowed = no
 }
 create_country_leader = {
-	name = "Mohammed V"
+	name = "Mohammed V d'Alaouite"
 	desc = ""
 	picture = "Portrait_Mohammed_V.dds"
 	expire = "1960.1.1"
