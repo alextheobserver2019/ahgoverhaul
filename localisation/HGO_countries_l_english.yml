@@ -533,8 +533,8 @@
  ADR_neutrality_ADJ:0 "Andorran"
  ADR_communism_ADJ:0 "Andorran"
 
- SMR_fascism:0 "Empire of San Marino"
- SMR_fascism_DEF:0 "The Empire of San Marino"
+ SMR_fascism:0 "Most Serene Republic of San Marino"
+ SMR_fascism_DEF:0 "The Most Serene Republic of San Marino"
  SMR_democratic:0 "Most Serene Republic of San Marino"
  SMR_democratic_DEF:0 "The Most Serene Republic of San Marino"
  SMR_neutrality:0 "San Marino"
