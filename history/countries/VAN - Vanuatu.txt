@@ -30,3 +30,14 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
+
+create_country_leader = {
+	name = "Sir George Andrew Joy"
+	desc = ""
+	picture = "gfx/leaders/VAN/Portrait_Sir_George_Andrew_Joy.dds"
+	ideology = despotism
+	expire = "1965.4.25"
+	traits = {
+		#
+	}
+}

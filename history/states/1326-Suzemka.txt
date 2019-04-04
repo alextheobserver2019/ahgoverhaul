@@ -3,20 +3,18 @@ state={
 	name="STATE_1326"
 	
 	history={
-		owner = SOV
+		owner = GER
 		buildings = {
 			infrastructure = 5
 
 		}
-		add_core_of = SOV
-		add_core_of = RUS
-		add_claim_by = BLR
-		add_core_of = UKR
+		add_core_of = GER
+		add_core_of = PRS
 
 	}
 	
 	provinces={
-		288 
+		529 
 	}
 	manpower=15000
 	buildings_max_level_factor=1.000
