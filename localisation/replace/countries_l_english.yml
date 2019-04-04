@@ -1469,3 +1469,16 @@
  MAN_democratic_ADJ:0 "Manchu"
  MAN_neutrality_ADJ:0 "Manchu"
  MAN_communism_ADJ:0 "Manchu"
+ 
+ CRC_HOL_fascism:0 "Colony of Curaçao and Dependencies"
+ CRC_HOL_fascism_DEF:0 "The Colony of Curaçao and Dependencies"
+ CRC_HOL_democratic:0 "Colony of Curaçao and Dependencies"
+ CRC_HOL_democratic_DEF:0 "The Colony of Curaçao and Dependencies"
+ CRC_HOL_neutrality:0 "Colony of Curaçao and Dependencies"
+ CRC_HOL_neutrality_DEF:0 "The Colony of Curaçao and Dependencies"
+ CRC_HOL_communism:0 "Curaçaoan Democratic Republic"
+ CRC_HOL_communism_DEF:0 "The Curaçaoan Democratic Republic"
+ CRC_HOL_fascism_ADJ:0 "Curaçaoan "
+ CRC_HOL_democratic_ADJ:0 "Curaçaoan"
+ CRC_HOL_neutrality_ADJ:0 "Curaçaoan"
+ CRC_HOL_communism_ADJ:0 "Cur

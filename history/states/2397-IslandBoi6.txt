@@ -6,7 +6,8 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = JAM
+		owner = BSA
+		add_core_of = BSA
 		buildings = {
 			infrastructure = 4
 			13879 = {

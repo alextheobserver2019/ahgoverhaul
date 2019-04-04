@@ -35,9 +35,14 @@ if = {
 		target = SUR
 		autonomous_state = autonomy_colony
 	}
+	set_autonomy = {
+		target = CRC
+		autonomous_state = autonomy_colony
+	}
 	else = {
 		puppet = INS
 		puppet = SUR
+		puppet = CRC
 	}
 }
 

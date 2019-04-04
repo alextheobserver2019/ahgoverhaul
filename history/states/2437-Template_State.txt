@@ -2,7 +2,8 @@ state={
 	id=2437
 	name="STATE_2437"
 	history={
-		owner = JAM 
+		owner = BAS
+		add_core_of = BAS
 		buildings = {
 			infrastructure = 4
 			

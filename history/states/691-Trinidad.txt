@@ -10,7 +10,7 @@ state={
 
 
 	history={
-		owner = JAM
+		owner = TRI
 		add_core_of = TRI
 		buildings = {
 			infrastructure = 3

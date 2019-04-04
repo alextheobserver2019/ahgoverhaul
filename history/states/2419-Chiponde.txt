@@ -1,8 +1,15 @@
 state={
 	id=2419
 	name="STATE_2419"
+	history={
+		owner = MLW
+		add_core_of = MLW
+		buildings = {
+			infrastructure = 4
+		}
+	}
 	provinces={
-		288
+		3574
 	}
 	manpower=1000 
  state_category=small_island

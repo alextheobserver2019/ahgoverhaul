@@ -3,14 +3,15 @@ state={
 	name="STATE_930"
 
 	history={
-		owner = ENG
+		owner = BAS
+		add_core_of = BAS
 		buildings = {
 			infrastructure = 3
 		}
 	}
 
 	provinces={
-		13279 
+		13279
 	}
 	manpower=1301
 	buildings_max_level_factor=1.000

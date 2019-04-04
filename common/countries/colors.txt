@@ -1151,6 +1151,22 @@ NBO = {
 color = rgb { 255 128 128 }
 color_ui = rgb { 255 128 128 }
 }
+BSA = {
+color = rgb { 16 114 5 }
+color_ui = rgb { 16 114 5 }
+}
+BAR = {
+color = rgb { 16 114 5 }
+color_ui = rgb { 16 114 5 }
+}
+TRI = {
+color = rgb { 16 114 5 }
+color_ui = rgb { 16 114 5 }
+}
+BAS = {
+color = rgb { 16 114 5 }
+color_ui = rgb { 16 114 5 }
+}
 WTO = {
 color = rgb { 255 128 128 }
 color_ui = rgb { 255 128 128 }

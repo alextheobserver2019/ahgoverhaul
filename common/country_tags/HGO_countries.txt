@@ -62,7 +62,11 @@ CSC = "countries/Corsica.txt"
 ANL = "countries/Andalusia.txt"
 FAR = "countries/Faroe.txt"
 ALN = "countries/Aland.txt"
+
+#hand-made
 TVL = "countries/Tavolara.txt"
+BAR = "countries/Barbados.txt"
+BSA = "countries/South Antilles.txt"
 
 ##Oceania Imported from CU##
 PAC = "countries/Pacific Islands.txt"

@@ -219,6 +219,18 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
+		target = BAS
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = BSA
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = TRI
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
 		target = NFL
 		autonomous_state = autonomy_dominion
 	}
@@ -311,6 +323,9 @@ if = {
 		puppet = WTO
 		puppet = STR
 		puppet = TON
+		puppet = BAS
+		puppet = BSA
+		puppet = TRI
 	}
 }
 
