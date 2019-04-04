@@ -53,6 +53,7 @@ SDT = "countries/Sudetenland.txt"
 LIV = "countries/Livonia.txt"
 COU = "countries/Courland.txt"
 CRP = "countries/Carpatho-Ukraine.txt"
+
 ##Europe Imported from CU##
 BSQ = "countries/Basque.txt"
 GAL = "countries/Galicia.txt"
@@ -61,6 +62,7 @@ CSC = "countries/Corsica.txt"
 ANL = "countries/Andalusia.txt"
 FAR = "countries/Faroe.txt"
 ALN = "countries/Aland.txt"
+TVL = "countries/Tavolara.txt"
 
 ##Oceania Imported from CU##
 PAC = "countries/Pacific Islands.txt"

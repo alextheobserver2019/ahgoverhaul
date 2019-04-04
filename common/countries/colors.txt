@@ -605,6 +605,10 @@ SMR = {
 	color = rgb { 94  182  228 }
     color_ui = rgb { 94  182  228 }	
 }
+TVL = {	
+	color = { 167  23  237 }
+	color_ui = { 167  23  237 }
+}
 MLI = {
 	color = rgb { 209  157  31 }
     color_ui = rgb { 209  157  31 }	
