@@ -43,7 +43,7 @@ POL = {
 	color_ui = rgb { 255 120 138 }
 }
 AUS = {
-	color = rgb { 220 220 220 }
+	color = rgb { 200 200 200 }
 	color_ui = rgb { 255 255 255 }
 }
 LIT = {
@@ -1188,6 +1188,14 @@ color = rgb { 168 0 0 }
 color_ui = rgb { 168 0 0 }
 }
 
+JBL = {
+	color = rgb { 255 204 45 }
+	color_ui = rgb { 255 204 45 }
+}
+HJZ = {
+	color = rgb { 10 200 30 }
+	color_ui = rgb { 10 200 30 }
+}
 KED = {
 	color = rgb { 170  72  67 }
 	color_ui = rgb { 170  72  67 }

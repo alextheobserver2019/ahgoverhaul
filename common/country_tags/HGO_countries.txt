@@ -125,9 +125,10 @@ KAS = "countries/Kashmir.txt"
 HTY = "countries/Hatay.txt"
 KUR = "countries/Kurdistan.txt"
 BHR = "countries/Bahrain.txt"
-#bottom 2 need imported PLUS NORTH BORNEO
-#HJZ = "countries/Hejaz.txt"
-#JBL = "countries/Jabal Shammar.txt"
+#hand-made
+HJZ = "countries/Hejaz.txt"
+JBL = "countries/Jabal Shammar.txt"
+ASR = "countries/Asir.txt"
 ##Imported
 ADN = "countries/Aden.txt"
 ##America##

@@ -12,6 +12,7 @@ state={
 			}
 		add_core_of = SAU
 		add_core_of = JOR
+		add_core_of = JBL
 		}
 	state_category = wasteland
 	manpower=833
