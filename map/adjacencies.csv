@@ -170,7 +170,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 3374;13316;sea;2408;-1;-1;-1;-1;;Danish Islands
 13316;3305;sea;2408;-1;-1;-1;-1;;Denmark
 3305;6393;sea;2408;-1;-1;-1;-1;;Denmark
-13852;11331;sea;2408;-1;-1;-1;-1;;Germany but for Denmark
+13852;14203;sea;2408;-1;-1;-1;-1;;Germany but for Denmark
 13852;3305;sea;2408;-1;-1;-1;-1;;Denmark
 13852;13316;sea;2408;-1;-1;-1;-1;;Denmark
 13822;317;sea;2408;-1;-1;-1;-1;;Denmark
