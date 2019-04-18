@@ -10,12 +10,12 @@ state={
 
 		}
 		add_core_of = SOV
-		add_core_of = KAZ
+		add_core_of = UZB
 
 	}
 
 	provinces={
-		1532 4488 7507 10420 12471 
+		1532 7507 10420 
 	}
 	manpower=1013721
 	buildings_max_level_factor=1.000

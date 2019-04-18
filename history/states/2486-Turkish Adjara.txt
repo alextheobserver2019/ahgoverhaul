@@ -1,0 +1,19 @@
+state={
+	id=2486
+	name="STATE_2486"
+	provinces={
+		14717 7454
+	}
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = TUR
+
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}

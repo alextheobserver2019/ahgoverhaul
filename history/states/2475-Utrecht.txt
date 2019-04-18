@@ -1,0 +1,19 @@
+state={
+	id=2475
+	name="STATE_2475"
+	provinces={
+		391
+	}
+	history={
+		owner = HOL
+		add_core_of = HOL
+		buildings = {
+			infrastructure = 8
+
+		}
+
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}

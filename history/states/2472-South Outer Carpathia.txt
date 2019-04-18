@@ -1,0 +1,23 @@
+state={
+	id=2472
+	name="STATE_2472"
+	provinces={
+		13756
+	}
+	history={
+		owner = CZE
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 3
+
+		}
+		add_core_of = CZE
+		add_core_of = SLO
+
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}

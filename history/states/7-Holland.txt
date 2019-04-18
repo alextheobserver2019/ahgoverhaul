@@ -21,17 +21,13 @@ state={
 			industrial_complex = 3
 			dockyard = 3
 			air_base = 5
-			3314 = {
-				naval_base = 10
-
-			}
 
 		}
 
 	}
 
 	provinces={
-		68 391 3211 3314 
+		68 
 	}
 	manpower=4098000
 	buildings_max_level_factor=1.000
