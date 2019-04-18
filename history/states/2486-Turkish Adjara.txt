@@ -11,6 +11,7 @@ state={
 
 		}
 		add_core_of = TUR
+		add_claim_by = ADJ
 
 	}
 	manpower=1000 

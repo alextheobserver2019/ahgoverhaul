@@ -5,7 +5,9 @@ state={
 		owner = BEL 
 		add_core_of = BEL
 		add_core_of = WLL
-		add_claim_by = HOL
+		add_core_of = LIM
+		add_core_of = PRS
+		add_core_of = HOL
 		buildings = {
 			infrastructure = 4
 			

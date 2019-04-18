@@ -19,8 +19,8 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = PRS
 		add_core_of = OLD
+		add_core_of = FRS
 		
 
 	}

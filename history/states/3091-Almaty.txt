@@ -5,14 +5,14 @@ state={
 		
 		owner = SOV 
 		add_core_of = SOV
-		add_core_of = KAZ
+		add_core_of = KYR
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		1591 4224
+		4224
 	}
 	manpower=1000 
  state_category=pastoral

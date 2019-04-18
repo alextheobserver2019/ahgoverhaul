@@ -14,6 +14,7 @@ state={
 			6652 1 
 		}
 		add_core_of = ROM
+		add_core_of = WLC
 
 	}
 

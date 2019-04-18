@@ -9,9 +9,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = WTO
+		owner = GHA
 		add_core_of = GHA
-		add_core_of = WTO
 		add_claim_by = TOG
 		buildings = {
 			infrastructure = 1

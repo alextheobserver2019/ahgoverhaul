@@ -19,7 +19,8 @@ state={
 		}
 		add_core_of = GER
 		add_core_of = SCH
-		add_claim_by = HAM
+		add_core_of = HAM
+		add_core_of = FRS
 		add_claim_by = ENG
 		add_claim_by = DEN
 

@@ -10,6 +10,7 @@ state={
 		add_core_of = TSC
 		add_core_of = AZR
 		add_core_of = ARM
+		add_core_of = NGK
 		buildings = {
 			infrastructure = 1
 		}

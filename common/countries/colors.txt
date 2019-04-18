@@ -1220,3 +1220,147 @@ PLS = {
 	color = rgb { 161  139  40 }
 	color_ui = rgb { 161  139  40 }
 }
+ING = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+ABK = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+SOS = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+NOS = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+KPK = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+TRN = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+NGK = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+CHE = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+DAG = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+KMK = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+ADY = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+ADJ = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+NAK = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+KRC = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+CHR = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+KBK = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+MNX = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+NOC = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+WLC = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+FRS = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+MST = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+SWM = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+ANH = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+BRU = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+SAL = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+SCG = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+SME = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+LIP = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+RGE = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+RGR = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+SLI = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+SRU = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+SSO = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+WAP = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+LIM = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+NVI = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
