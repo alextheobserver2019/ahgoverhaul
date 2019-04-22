@@ -12,6 +12,7 @@ state={
 			}
 		}
 		add_core_of = NOR
+		add_core_of = SAP
 
 		victory_points = {
 			192 1 

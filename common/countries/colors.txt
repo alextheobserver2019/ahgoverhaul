@@ -1364,3 +1364,131 @@ NVI = {
 color = rgb { 147 0 0 }
 color_ui = rgb { 147 0 0 }
 }
+MRN = {
+color = rgb { 0 0 128 }
+color_ui = rgb { 0 0 128 }
+}
+DOB = {
+color = rgb { 0 128 128 }
+color_ui = rgb { 0 128 128 }
+}
+BUK = {
+color = rgb { 0 128 0 }
+color_ui = rgb { 0 128 0 }
+}
+SRP = {
+color = rgb { 0 64 64 }
+color_ui = rgb { 0 64 64 }
+}
+SCN = {
+color = rgb { 128 64 64 }
+color_ui = rgb { 128 64 64 }
+}
+SAP = {
+color = rgb { 0 128 64 }
+color_ui = rgb { 0 128 64 }
+}
+NOV = {
+color = rgb { 147 0 0 }
+color_ui = rgb { 147 0 0 }
+}
+KSH = {
+color = rgb { 174 174 0 }
+color_ui = rgb { 174 174 0 }
+}
+CNR = {
+color = rgb { 255 255 0 }
+color_ui = rgb { 255 255 0 }
+}
+AZO = {
+color = rgb { 0 128 64 }
+color_ui = rgb { 0 128 64 }
+}
+MDR = {
+color = rgb { 0 128 64 }
+color_ui = rgb { 0 128 64 }
+}
+REU = {
+color = rgb { 0 0 64 }
+color_ui = rgb { 0 0 64 }
+}
+AST = {
+color = rgb { 0 0 64 }
+color_ui = rgb { 0 0 64 }
+}
+BAL = {
+color = rgb { 255 255 0 }
+color_ui = rgb { 255 255 0 }
+}
+VAL = {
+color = rgb { 255 255 0 }
+color_ui = rgb { 255 255 0 }
+}
+LUS = {
+color = rgb { 255 255 0 }
+color_ui = rgb { 255 255 0 }
+}
+ARA = {
+color = rgb { 255 255 0 }
+color_ui = rgb { 255 255 0 }
+}
+ABS = {
+color = rgb { 128 128 255 }
+color_ui = rgb { 128 128 255 }
+}
+BLO = {
+color = rgb { 0 128 64 }
+color_ui = rgb { 0 128 64 }
+}
+CAB = {
+color = rgb { 0 128 64 }
+color_ui = rgb { 0 128 64 }
+}
+RIO = {
+color = rgb { 255 128 64 }
+color_ui = rgb { 255 128 64 }
+}
+RGA = {
+color = rgb { 64 0 64 }
+color_ui = rgb { 64 0 64 }
+}
+YUC = {
+color = rgb { 0 64 0 }
+color_ui = rgb { 0 64 0 }
+}
+MSQ = {
+color = rgb { 0 0 160 }
+color_ui = rgb { 0 0 160 }
+}
+KON = {
+color = rgb { 75 75 75 }
+color_ui = rgb { 75 75 75 }
+}
+PAT = {
+color = rgb { 0 0 64 }
+color_ui = rgb { 0 0 64 }
+}
+RAG = {
+color = rgb { 0 128 128 }
+color_ui = rgb { 0 128 128 }
+}
+BOH = {
+color = rgb { 128 64 64 }
+color_ui = rgb { 128 64 64 }
+}
+CZC = {
+color = rgb { 255 128 64 }
+color_ui = rgb { 255 128 64 }
+}
+HZB = {
+color = rgb { 0 0 255 }
+color_ui = rgb { 0 0 255 }
+}
+GAU = {
+color = rgb { 0 128 0 }
+color_ui = rgb { 0 128 0 }
+}
+GRI = {
+color = rgb { 255 128 128 }
+color_ui = rgb { 255 128 128 }
+}

@@ -11,6 +11,7 @@ state={
 
 		}
 		add_core_of = BRA
+		add_core_of = RIO
 		victory_points = {
 			10405 15 
 		}

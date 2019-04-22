@@ -9,11 +9,12 @@ state={
 
 		}
 		add_core_of = CHL
+		add_core_of = PAT
 
 	}
 	
 	provinces={
-		5201 5209 5215 8913 
+		5201 5209 5215 
 	}
 	
 	manpower=9184

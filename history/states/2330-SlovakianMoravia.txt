@@ -9,7 +9,7 @@ state={
 		}
 		add_core_of = CZE
 		add_core_of = MRV
-		add_claim_by = SLO
+		add_core_of = SLO
 
 	}
 

@@ -33,6 +33,8 @@ state={
 		}
 		add_core_of = CZE
 		add_core_of = SDT
+		add_core_of = BOH
+		add_core_of = CZC
 		1938.9.30 = {
 			owner = GER
 			controller = GER

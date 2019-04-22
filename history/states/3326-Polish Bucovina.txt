@@ -13,6 +13,7 @@ state={
 		owner = POL
 		add_core_of = POL
 		add_core_of = GLC
+		add_core_of = BUK
 		add_core_of = UKR
 		buildings = {
 			infrastructure = 1
