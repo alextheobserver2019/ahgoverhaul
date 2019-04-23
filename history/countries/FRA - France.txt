@@ -49,72 +49,72 @@ set_technology = {
 set_convoys = 300
 
 
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = SYR
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = VIN
-		autonomous_state = autonomy_colony
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = MOR
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = TUN
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = FEA
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = FWA
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = DJI
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = CMR
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = MAD
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = TOG
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = leb
-		autonomous_state = autonomy_dominion
-	}
-	else = {
-	puppet = SYR
-	puppet = VIN
-	puppet = MOR
-	puppet = TUN
-	puppet = FEA
-	puppet = FWA
-	puppet = DJI
-	puppet = CMR
-	puppet = MAD
-	puppet = TOG
-	puppet = LEB
-	}
-}
+#if = {
+#	limit = {
+#		has_dlc = "Together for Victory"
+#	}
+#	set_autonomy = {
+#		target = SYR
+#		autonomous_state = autonomy_dominion
+#		freedom_level = 0.2
+#	}
+#	set_autonomy = {
+#		target = VIN
+#		autonomous_state = autonomy_colony
+#		freedom_level = 0.2
+#	}
+#	set_autonomy = {
+#		target = MOR
+#		autonomous_state = autonomy_dominion
+#		freedom_level = 0.2
+#	}
+#	set_autonomy = {
+#		target = TUN
+#		autonomous_state = autonomy_dominion
+#		freedom_level = 0.2
+#	}
+#	set_autonomy = {
+#		target = FEA
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = FWA
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = DJI
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = CMR
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = MAD
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = TOG
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = LEB
+#		autonomous_state = autonomy_dominion
+#	}
+#	else = {
+#	puppet = SYR
+#	puppet = VIN
+#	puppet = MOR
+#	puppet = TUN
+#	puppet = FEA
+#	puppet = FWA
+#	puppet = DJI
+#	puppet = CMR
+#	puppet = MAD
+#	puppet = TOG
+#	puppet = LEB
+#	}
+#}
 set_politics = {
 
 	parties = {

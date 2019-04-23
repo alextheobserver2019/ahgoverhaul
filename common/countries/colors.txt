@@ -1412,7 +1412,7 @@ REU = {
 color = rgb { 0 0 64 }
 color_ui = rgb { 0 0 64 }
 }
-AST = {
+ATR = {
 color = rgb { 0 0 64 }
 color_ui = rgb { 0 0 64 }
 }
@@ -1491,4 +1491,8 @@ color_ui = rgb { 0 128 0 }
 GRI = {
 color = rgb { 255 128 128 }
 color_ui = rgb { 255 128 128 }
+}
+MCU = {
+color = rgb { 0 128 0 }
+color_ui = rgb { 0 128 0 }
 }

@@ -22,29 +22,29 @@ set_technology = {
 	transport = 1
 }
 
-# DIPLOMACY
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = INS
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = SUR
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = CRC
-		autonomous_state = autonomy_colony
-	}
-	else = {
-		puppet = INS
-		puppet = SUR
-		puppet = CRC
-	}
-}
+# disabled for quality of life reasons
+#if = {
+#	limit = {
+#		has_dlc = "Together for Victory"
+#	}
+#	set_autonomy = {
+#		target = INS
+#		autonomous_state = autonomy_integrated_puppet
+#	}
+#	set_autonomy = {
+#		target = SUR
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = CRC
+#		autonomous_state = autonomy_colony
+#	}
+#	else = {
+#		puppet = INS
+#		puppet = SUR
+#		puppet = CRC
+#	}
+#}
 
 
 1939.1.1 = {

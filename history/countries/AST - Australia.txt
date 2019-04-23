@@ -37,23 +37,23 @@ if = {
 	add_to_tech_sharing_group = commonwealth_research
 }
 
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = NGU
-		autonomous_state = autonomy_integrated_puppet
-	}
-	set_autonomy = {
-		target = NAU
-		autonomous_state = autonomy_integrated_puppet
-	}
-	else = {
-		puppet = NGU
-		puppet = NAU
-	}
-}
+#if = {
+#	limit = {
+#		has_dlc = "Together for Victory"
+#	}
+#	set_autonomy = {
+#		target = NGU
+#		autonomous_state = autonomy_integrated_puppet
+#	}
+#	set_autonomy = {
+#		target = NAU
+#		autonomous_state = autonomy_integrated_puppet
+#	}
+#	else = {
+#		puppet = NGU
+#		puppet = NAU
+#	}
+#}
 
 set_politics = {
 
