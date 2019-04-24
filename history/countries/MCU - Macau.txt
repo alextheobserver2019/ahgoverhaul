@@ -1,4 +1,4 @@
-﻿capital = 
+﻿capital = 729
 
 oob = "MCU_1936"
 

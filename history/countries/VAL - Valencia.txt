@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 167
 
 oob = "VAL_1936"
 

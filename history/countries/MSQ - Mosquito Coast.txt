@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 1275
 
 oob = "MSQ_1936"
 

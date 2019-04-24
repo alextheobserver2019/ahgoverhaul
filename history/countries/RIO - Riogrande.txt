@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 502
 
 oob = "RIO_1936"
 

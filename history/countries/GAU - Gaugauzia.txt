@@ -1,4 +1,4 @@
-﻿capital = 819
+﻿capital = 1487
 
 oob = "GAU_1936"
 

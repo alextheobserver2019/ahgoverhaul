@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 666
 
 oob = "SAP_1936"
 

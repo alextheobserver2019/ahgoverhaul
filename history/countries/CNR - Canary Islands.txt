@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 2805
 
 oob = "CNR_1936"
 

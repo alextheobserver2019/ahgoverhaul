@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 1311
 
 oob = "RAG_1936"
 

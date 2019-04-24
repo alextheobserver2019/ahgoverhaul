@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 80
 
 oob = "BUK_1936"
 

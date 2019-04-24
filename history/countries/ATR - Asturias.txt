@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 2880
 
 oob = "AST_1936"
 
