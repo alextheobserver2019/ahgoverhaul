@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 3501
 
 oob = "FRS_1936"
 

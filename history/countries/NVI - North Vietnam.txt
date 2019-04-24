@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 671
 
 oob = "NVI_1936"
 

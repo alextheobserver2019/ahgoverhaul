@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 948
 
 oob = "NAK_1936"
 

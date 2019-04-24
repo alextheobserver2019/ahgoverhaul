@@ -3,6 +3,7 @@ state={
 	name="STATE_2651"
 	history={
 		owner = CHL 
+		add_core_of = RPN
 		buildings = {
 			infrastructure = 4
 			

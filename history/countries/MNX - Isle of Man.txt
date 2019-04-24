@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 935
 
 oob = "MNX_1936"
 

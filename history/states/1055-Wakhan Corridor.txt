@@ -9,6 +9,7 @@ state={
 
 		}
 		add_core_of = AFG
+		add_core_of = PMR
 
 	}
 

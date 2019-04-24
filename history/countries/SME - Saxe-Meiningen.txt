@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 3893
 
 oob = "SME_1936"
 

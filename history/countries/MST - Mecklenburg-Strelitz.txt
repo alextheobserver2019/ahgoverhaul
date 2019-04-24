@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 2768
 
 oob = "MST_1936"
 

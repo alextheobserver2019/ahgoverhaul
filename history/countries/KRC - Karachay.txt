@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 233
 
 oob = "KRC_1936"
 

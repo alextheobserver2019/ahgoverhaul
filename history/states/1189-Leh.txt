@@ -11,6 +11,7 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = TAJ
+		add_core_of = PMR
 
 	}
 

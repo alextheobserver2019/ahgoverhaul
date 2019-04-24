@@ -1,4 +1,4 @@
-﻿capital = 950
+﻿capital = 3896
 
 oob = "SWM_1936"
 
