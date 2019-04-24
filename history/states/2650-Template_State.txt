@@ -2,8 +2,8 @@ state={
 	id=2650
 	name="STATE_2650"
 	history={
-		owner = ENG
-		add_claim_by = ARG
+			owner = ENG
+			add_core_of = ARG
 		buildings = {
 			infrastructure = 4
 			

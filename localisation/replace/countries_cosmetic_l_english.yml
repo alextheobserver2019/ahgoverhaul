@@ -164,6 +164,8 @@
  LBA_ITA_fascism_autonomy_satellite:0 "Kingdom of Libya"
  LBA_ITA_fascism_autonomy_reichsprotectorate:0 "Italian Libya"
  LBA_ITA_fascism_autonomy_reichskommissariat:0 "Italian Libya"
+ LBA_ITA_fascism:0 "Italian Libya"
+ LBA_ITA_fascism_DEF:0 "Italian Libya"
  ETH_ITA_fascism_autonomy_satellite:0 "Kingdom of Ethiopia"
  ETH_ITA_fascism_autonomy_reichsprotectorate:0 "Governate of Ethiopia"
  ETH_ITA_fascism_autonomy_reichskommissariat:0 "Italian Libya"

@@ -4,7 +4,7 @@ state={
 	history={
 		owner = BLZ
 		add_claim_by = HON
-		add_claim_by = GUA
+		add_core_of = GUA
 		buildings = {
 			infrastructure = 4
 			

@@ -1496,3 +1496,7 @@ MCU = {
 color = rgb { 0 128 0 }
 color_ui = rgb { 0 128 0 }
 }
+SON = {
+color = rgb { 255 0 0 }
+color_ui = rgb { 255 0 0 }
+}
