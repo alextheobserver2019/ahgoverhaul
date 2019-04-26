@@ -1524,3 +1524,75 @@ SND = {
 color = rgb { 0 255 64 }
 color_ui = rgb { 0 255 64 }
 }
+HOH = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+SMA = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+WPR = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+POS = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+HEN = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+HKA = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+SLA = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+VOR = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+CRT = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+STY = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+SLZ = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+UAS = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+LAS = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+VNA = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+BRG = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+LEY = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+NSU = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}
+IST = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}

@@ -13,7 +13,7 @@ state={
 			infrastructure = 4
 		}
 		add_core_of = AUS
-		add_core_of = TYR 
+		add_core_of = VOR 
 		1938.3.12 = {
 			owner = GER
 			controller = GER

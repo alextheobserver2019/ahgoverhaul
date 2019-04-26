@@ -15,6 +15,8 @@ state={
 		}
 		add_core_of = GER
 		add_core_of = PRS
+		add_core_of = NSU
+		add_core_of = HEN
 		1936.3.7 = {
 			set_demilitarized_zone = no
 

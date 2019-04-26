@@ -12,6 +12,7 @@ state={
 		add_core_of = YUG
 		add_core_of = VNC
 		add_core_of = CRO
+		add_core_of = IST
 		buildings = {
 			infrastructure = 2
 			13858 = {

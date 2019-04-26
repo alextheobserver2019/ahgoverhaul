@@ -10,7 +10,6 @@ state={
 
 		}
 		add_core_of = GER
-		add_core_of = RHI
 		add_core_of = BAV
 		set_demilitarized_zone = yes
 		1936.3.7 = {
