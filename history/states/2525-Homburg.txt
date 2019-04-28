@@ -9,6 +9,7 @@ state={
 		add_core_of = GER
 		add_core_of = PRS
 		add_core_of = HEN
+		add_core_of = HHO
 		add_claim_by = HES
 		buildings = {
 			infrastructure = 5

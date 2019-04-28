@@ -1596,3 +1596,7 @@ IST = {
 color = rgb { 128 128 128 }
 color_ui = rgb { 128 128 128 }
 }
+HHO = {
+color = rgb { 128 128 128 }
+color_ui = rgb { 128 128 128 }
+}

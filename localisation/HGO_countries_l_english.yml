@@ -5650,3 +5650,16 @@
  IST_neutrality_DEF:0 "Adriatic Littoral"
  IST_neutrality_ADJ:0 "Istrian"
 
+ HHO_democratic:0 "Landgraviate of Hesse-Homburg"
+ HHO_democratic_DEF:0 "Landgraviate of Hesse-Homburg"
+ HHO_democratic_ADJ:0 "Hesse-Homburger"
+ HHO_communism:0 "People's Republic of Hesse-Homburg"
+ HHO_communism_DEF:0 "People's Republic of Hesse-Homburg"
+ HHO_communism_ADJ:0 "Hesse-Homburger"
+ HHO_fascism:0 "Landgraviate of Hesse-Homburg"
+ HHO_fascism_DEF:0 "Landgraviate of Hesse-Homburg"
+ HHO_fascism_ADJ:0 "Hesse-Homburger"
+ HHO_neutrality:0 "Landgraviate of Hesse-Homburg"
+ HHO_neutrality_DEF:0 "Landgraviate of Hesse-Homburg"
+ HHO_neutrality_ADJ:0 "Hesse-Homburger"
+
