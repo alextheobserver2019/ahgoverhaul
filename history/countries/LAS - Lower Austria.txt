@@ -1,4 +1,4 @@
-﻿capital = 475
+﻿capital = 4
 
 oob = "LAS_1936"
 

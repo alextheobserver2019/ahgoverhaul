@@ -1,4 +1,4 @@
-﻿capital = 475
+﻿capital = 1157
 
 oob = "IST_1936"
 

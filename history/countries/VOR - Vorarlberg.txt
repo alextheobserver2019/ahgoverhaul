@@ -1,4 +1,4 @@
-﻿capital = 475
+﻿capital = 1125
 
 oob = "VOR_1936"
 

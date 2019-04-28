@@ -1,4 +1,4 @@
-﻿capital = 475
+﻿capital = 2522
 
 oob = "SLA_1936"
 

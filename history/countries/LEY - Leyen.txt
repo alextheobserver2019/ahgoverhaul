@@ -1,4 +1,4 @@
-﻿capital = 475
+﻿capital = 2665
 
 oob = "LEY_1936"
 

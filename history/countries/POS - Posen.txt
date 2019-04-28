@@ -1,4 +1,4 @@
-﻿capital = 475
+﻿capital = 86
 
 oob = "POS_1936"
 

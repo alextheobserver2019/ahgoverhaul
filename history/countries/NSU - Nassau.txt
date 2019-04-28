@@ -1,4 +1,4 @@
-﻿capital = 475
+﻿capital = 768
 
 oob = "NSU_1936"
 

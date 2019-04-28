@@ -1,4 +1,4 @@
-﻿capital = 475
+﻿capital = 1385
 
 oob = "VNA_1936"
 
