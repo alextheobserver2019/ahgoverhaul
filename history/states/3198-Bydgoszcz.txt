@@ -5,6 +5,7 @@ state={
 		owner = POL 
 		add_core_of = POL
 		add_core_of = PRS
+		add_core_of = PWP
 		add_core_of = POS
 		buildings = {
 			infrastructure = 4

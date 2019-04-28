@@ -8,6 +8,7 @@ state={
 		add_core_of = POL
 		add_core_of = KSH
 		add_core_of = PRS
+		add_core_of = PWP
 		add_core_of = WPR
 		buildings = {
 			infrastructure = 4

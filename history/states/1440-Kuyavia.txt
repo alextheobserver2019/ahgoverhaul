@@ -12,6 +12,7 @@ state={
 		add_core_of = POL
 		add_core_of = PRS
 		add_core_of = KSH
+		add_core_of = PWP
 		add_core_of = POS
 		1938.3.12 = {
 			add_claim_by = GER
