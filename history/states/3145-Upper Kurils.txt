@@ -4,6 +4,9 @@ state={
 	history={
 		
 		owner = JAP 
+		add_core_of = JAP
+		add_core_of = EZO
+		add_claim_by = SOV
 		buildings = {
 			infrastructure = 4
 			
