@@ -1,4 +1,4 @@
-﻿name="aHecking Gorgeous Overhaul Development Version"
+﻿name="aHistoric Geographical Overhaul Development Version"
 path="mod/ahgoverhaul/"
 replace_path = "history/states"
 replace_path = "history/countries"
@@ -15,4 +15,4 @@ tags={
 	"Events"
 	"Gameplay"
 }
-supported_version="1.6.2"
+supported_version="1.6.*"
