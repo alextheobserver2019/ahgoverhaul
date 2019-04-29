@@ -278,6 +278,22 @@ set_convoys = 800
 #		target = SKM
 #		autonomous_state = autonomy_dominion
 #	}
+#	set_autonomy = {
+#		target = GIB
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = BER
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = STH
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = FAL
+#		autonomous_state = autonomy_colony
+#	}
 #	else = {
 #		puppet = MAL
 #		puppet = RAJ
@@ -326,6 +342,10 @@ set_convoys = 800
 #		puppet = BAS
 #		puppet = BSA
 #		puppet = TRI
+#		puppet = GIB
+#		puppet = FAL
+#		puppet = BER
+#		puppet = STH
 #	}
 #}
 
