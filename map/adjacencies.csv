@@ -12,7 +12,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 9228;6066;sea;990;-1;-1;-1;-1;;Finald-Aland
 6345;6287;sea;2382;-1;-1;-1;-1;;Skåne-Sjaelland
 3260;3325;sea;2408;-1;-1;-1;-1;;Sjaelland-Fyn
-3260;3374;sea;2408;-1;-1;2973;1625;;Sjaelland-SdFyn
+3260;3374;sea;2408;-1;-1;-1;-1;;Sjaelland-SdFyn
 6350;3379;sea;8340;-1;-1;-1;-1;;Ireland to Britain
 3277;3325;sea;2408;-1;-1;-1;-1;;Fyn-Jylland
 11251;3325;sea;2408;2956;1628;2960;1629;;Fyn-SdrJylland
