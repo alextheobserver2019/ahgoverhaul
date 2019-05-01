@@ -10,6 +10,10 @@ MAD_FRA = {
 	color = rgb { 42 63 112 }
 	color_ui = rgb { 42 63 112 }
 }
+UNC_ANT = {
+	color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 }
+}
 SYR_FRA = {
 	color = rgb { 42 63 112 }
 	color_ui = rgb { 42 63 112 }
@@ -43,20 +47,20 @@ COG_BEL = {
 	color_ui = rgb { 196 141 31 }
 }
 ERI_ITA = {
-	color = rgb { 32 96 37 )
-	color_ui = rgb { 32 96 37 )
+	color = rgb { 32 96 37 }
+	color_ui = rgb { 32 96 37 }
 }
 RUU_BEL = {
 	color = rgb { 196 141 31 }
 	color_ui = rgb { 196 141 31 }
 }
 SOM_ITA = {
-	color = rgb { 32 96 37 )
-	color_ui = rgb { 32 96 37 )
+	color = rgb { 32 96 37 }
+	color_ui = rgb { 32 96 37 }
 }
 LBA_ITA = {
-	color = rgb { 32 96 37 )
-	color_ui = rgb { 32 96 37 )
+	color = rgb { 32 96 37 }
+	color_ui = rgb { 32 96 37 }
 }
 WTO_ENG = {
 	color = rgb { 150 26 10 }

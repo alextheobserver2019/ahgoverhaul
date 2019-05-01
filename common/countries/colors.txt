@@ -65,8 +65,8 @@ SPR = {
 ITA = {
 	#color = rgb { 67 127 63 }
 	#color = rgb { 59 148 65 }
-	color = rgb { 32 96 37 )
-	color_ui = rgb { 32 96 37 )
+	color = rgb { 32 96 37 }
+	color_ui = rgb { 32 96 37 }
 }
 ROM = {
 	color = rgb { 203 180 46 }
