@@ -7,7 +7,7 @@ state={
 
 	history={
 		owner = CRC
-		add_core_of = CRC
+		add_core_of = SSM
 		buildings = {
 			infrastructure = 3
 			13811 = {

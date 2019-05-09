@@ -1,7 +1,6 @@
 state={
 	id=2213
 	name="STATE_2213"
-	impassable = yes
 	history={
 		owner = JOR
 		buildings = {

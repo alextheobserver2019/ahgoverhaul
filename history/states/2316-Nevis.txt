@@ -8,6 +8,7 @@ state={
 	history={
 		owner = BAS
 		add_core_of = BAS
+		add_core_of = SKT
 		buildings = {
 			infrastructure = 4
 			13816 = {

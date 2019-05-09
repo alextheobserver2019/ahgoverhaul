@@ -8,6 +8,7 @@ state={
 	history={
 		owner = BAS
 		add_core_of = BAS
+		add_core_of = EVI
 		buildings = {
 			infrastructure = 4
 			13871 = {

@@ -101,6 +101,14 @@ set_convoys = 300
 #		target = LEB
 #		autonomous_state = autonomy_dominion
 #	}
+#	set_autonomy = {
+#		target = JEB
+#		autonomous_state = autonomy_colony
+#	}
+#	set_autonomy = {
+#		target = ALW
+#		autonomous_state = autonomy_colony
+#	}
 #	else = {
 #	puppet = SYR
 #	puppet = VIN
@@ -113,6 +121,8 @@ set_convoys = 300
 #	puppet = MAD
 #	puppet = TOG
 #	puppet = LEB
+#	puppet = JEB
+#	puppet = ALW
 #	}
 #}
 set_politics = {

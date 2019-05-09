@@ -1,15 +1,8 @@
 state={
 	id=2430
 	name="STATE_2430"
-	history={
-		owner = SAU
-		add_core_of = SAU
-		buildings = {
-			infrastructure = 4
-		}
-	}
 	provinces={
-		13743
+		288
 	}
 	manpower=1000 
  state_category=small_island

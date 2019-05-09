@@ -4,6 +4,7 @@ state={
 	history={
 		owner = BAS
 		add_core_of = BAS
+		add_claim_by = ANB
 		buildings = {
 			infrastructure = 4
 			

@@ -2,18 +2,9 @@ state={
 	id=3881
 	name="STATE_3881"
 	provinces={
-		14574
+		288
 	}
-	manpower = 1000
-	
-	state_category = pastoral
-
-	history={
-		owner = LBA
-		add_core_of = LBA
-		buildings = {
-			infrastructure = 1
-		}
-	}
+	manpower=1000 
+ state_category=small_island
 	buildings_max_level_factor=1.000
 }

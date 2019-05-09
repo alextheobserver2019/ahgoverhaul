@@ -17,6 +17,5 @@ state={
 			infrastructure = 1
 		}
 	}
-	impassable = yes
 	buildings_max_level_factor=1.000
 }

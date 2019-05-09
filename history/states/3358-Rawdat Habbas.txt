@@ -7,7 +7,6 @@ state={
 	manpower = 1000
 	
 	state_category = pastoral
-	impassable = yes
 
 	history={
 		owner = SAU

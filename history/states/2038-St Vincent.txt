@@ -7,6 +7,7 @@ state={
 	history={
 		owner = BSA
 		add_core_of = BSA
+		add_core_of = SVC
 		buildings = {
 			infrastructure = 4
 		}

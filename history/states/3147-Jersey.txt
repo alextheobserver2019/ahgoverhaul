@@ -4,7 +4,7 @@ state={
 	history={
 		
 		owner = ENG 
-		add_core_of = ENG
+		add_core_of = JSY
 		buildings = {
 			infrastructure = 4
 			

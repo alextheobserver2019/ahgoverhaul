@@ -7,7 +7,7 @@ state={
 
 	history={
 		owner = FRA
-		add_core_of = GDL
+		add_core_of = NSM
 		buildings = {
 			infrastructure = 4
 			air_base = 1

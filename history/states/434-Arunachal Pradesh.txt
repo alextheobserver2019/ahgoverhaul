@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = RAJ
+		add_core_of = ASM
 		buildings = {
 			infrastructure = 1
 

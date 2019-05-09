@@ -2,18 +2,9 @@ state={
 	id=3545
 	name="STATE_3545"
 	provinces={
-		14518 14520 
+		288
 	}
-	manpower = 1000
-	
-	state_category = wasteland
-
-	history={
-		owner = SUD
-		add_core_of = SUD
-		buildings = {
-			infrastructure = 1
-		}
-	}
+	manpower=1000 
+ state_category=small_island
 	buildings_max_level_factor=1.000
 }

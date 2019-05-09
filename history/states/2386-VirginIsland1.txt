@@ -7,6 +7,9 @@ state={
 
 	history={
 		owner = USA
+		add_core_of = USA
+		add_core_of = CSA
+		add_core_of = WVI
 		buildings = {
 			infrastructure = 4
 			13868 = {

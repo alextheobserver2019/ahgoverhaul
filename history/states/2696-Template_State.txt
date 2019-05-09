@@ -3,6 +3,7 @@ state={
 	name="STATE_2696"
 	history={
 		owner = FRA 
+		add_core_of = SPM
 		buildings = {
 			infrastructure = 4
 			

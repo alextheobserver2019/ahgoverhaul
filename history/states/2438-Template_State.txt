@@ -3,6 +3,7 @@ state={
 	name="STATE_2438"
 	history={
 		owner = VEN
+		add_core_of = DMC
 		add_claim_by = FRA
 		add_claim_by = ENG
 		add_claim_by = HOL

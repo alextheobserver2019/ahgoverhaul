@@ -2,18 +2,9 @@ state={
 	id=3544
 	name="STATE_3544"
 	provinces={
-		14496 
+		288
 	}
-	manpower = 1000
-	
-	state_category = wasteland
-
-	history={
-		owner = LBA
-		add_core_of = LBA
-		buildings = {
-			infrastructure = 1
-		}
-	}
+	manpower=1000 
+ state_category=small_island
 	buildings_max_level_factor=1.000
 }

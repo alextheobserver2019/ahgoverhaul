@@ -2,18 +2,9 @@ state={
 	id=3551
 	name="STATE_3551"
 	provinces={
-		14470 14471 14480 14481 14484 14485 
+		288
 	}
-	manpower = 1000
-	
-	state_category = wasteland
-
-	history={
-		owner = FWA
-		add_core_of = MLI
-		buildings = {
-			infrastructure = 1
-		}
-	}
+	manpower=1000 
+ state_category=small_island
 	buildings_max_level_factor=1.000
 }

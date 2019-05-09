@@ -7,7 +7,7 @@ state={
 
 	history={
 		owner = CRC
-		add_core_of = CRC
+		add_core_of = SAB
 		buildings = {
 			infrastructure = 4
 			13876 = {

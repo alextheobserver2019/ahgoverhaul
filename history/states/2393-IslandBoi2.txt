@@ -7,7 +7,7 @@ state={
 
 	history={
 		owner = FRA
-		add_core_of = GDL
+		add_core_of = SBT
 		buildings = {
 			infrastructure = 4
 			13875 = {

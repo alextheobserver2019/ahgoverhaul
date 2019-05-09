@@ -3,6 +3,7 @@ state={
 	name="STATE_2411"
 	history={
 		owner = USA
+		add_core_of = PRI
 		buildings = {
 			infrastructure = 4
 			

@@ -6,6 +6,14 @@ CMR_FRA = {
 	color = rgb { 42 63 112 }
 	color_ui = rgb { 42 63 112 }
 }
+JEB_FRA = {
+	color = rgb { 42 63 112 }
+	color_ui = rgb { 42 63 112 }
+}
+ALW_FRA = {
+	color = rgb { 42 63 112 }
+	color_ui = rgb { 42 63 112 }
+}
 MAD_FRA = {
 	color = rgb { 42 63 112 }
 	color_ui = rgb { 42 63 112 }

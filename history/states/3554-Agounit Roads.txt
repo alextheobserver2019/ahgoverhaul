@@ -2,20 +2,9 @@ state={
 	id=3554
 	name="STATE_3554"
 	provinces={
-		14531 14532 
+		288
 	}
-	manpower = 1000
-	
-	state_category = wasteland
-
-	history={
-		owner = SPR
-		add_core_of = MOR
-		add_core_of = WES
-		add_core_of = MRT
-		buildings = {
-			infrastructure = 1
-		}
-	}
+	manpower=1000 
+ state_category=small_island
 	buildings_max_level_factor=1.000
 }
