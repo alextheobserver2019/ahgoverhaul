@@ -17,11 +17,12 @@ state={
 
 		}
 		add_core_of = SAU
+		add_claim_by = JBL
 
 	}
 
 	provinces={
-		1955 12702
+		12702
 	}
 	manpower=200000
 	buildings_max_level_factor=1.000

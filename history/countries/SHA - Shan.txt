@@ -1,4 +1,4 @@
-﻿capital = 1015
+﻿capital = 2217
 
 oob = "SHA_1936"
 

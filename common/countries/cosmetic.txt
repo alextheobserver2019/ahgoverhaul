@@ -2,6 +2,10 @@ TUN_FRA = {
 	color = rgb { 42 63 112 }
 	color_ui = rgb { 42 63 112 }
 }
+HPC = {
+	color = rgb { 240 190 50 }
+	color_ui = rgb { 240 190 50 }
+}
 CMR_FRA = {
 	color = rgb { 42 63 112 }
 	color_ui = rgb { 42 63 112 }

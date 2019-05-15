@@ -14,6 +14,7 @@ state= {
 		#add_claim_by = SOV # Removed because of too much aggression
 		add_core_of = RUS
 		add_core_of = KHA
+		add_core_of = SKH
 		add_claim_by = SBR
 		buildings = {
 			infrastructure = 3

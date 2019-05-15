@@ -1,4 +1,4 @@
-﻿capital = 1
+﻿capital = 2428
 
 oob = "BNG_1936"
 

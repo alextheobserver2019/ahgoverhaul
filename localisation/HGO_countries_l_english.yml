@@ -6300,3 +6300,16 @@
  BNG_neutrality_DEF:0 "Bangabhumi"
  BNG_neutrality_ADJ:0 "Bangabhumian"
 
+ SKH_democratic:0 "Republic of Sakhalin"
+ SKH_democratic_DEF:0 "The Republic of Sakhalin"
+ SKH_democratic_ADJ:0 "Sakhalinian"
+ SKH_communism:0 "Soviet Republic of Sakhalin"
+ SKH_communism_DEF:0 "The Soviet Republic of Sakhalin"
+ SKH_communism_ADJ:0 "Sakhalinian"
+ SKH_fascism:0 "State of Karafuto"
+ SKH_fascism_DEF:0 "The State of Karafuto"
+ SKH_fascism_ADJ:0 "Karafutan"
+ SKH_neutrality:0 "Sakhalin"
+ SKH_neutrality_DEF:0 "Sakhalin"
+ SKH_neutrality_ADJ:0 "Sakhalinian"
+

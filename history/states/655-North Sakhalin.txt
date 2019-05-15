@@ -10,6 +10,7 @@ state={
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = KHA
+		add_core_of = SKH
 		add_claim_by = JAP
 		add_claim_by = SBR
 		buildings = {

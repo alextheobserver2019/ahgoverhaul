@@ -349,3 +349,17 @@
  EGL_neutrality:0 "England"
  EGL_neutrality_DEF:0 "England"
  EGL_neutrality_ADJ:0 "English"
+ 
+ 
+ HPC_fascism:1 "Hebei-Chahar Political Council"
+ HPC_democratic:1 "Hebei-Chahar Democratic Government"
+ HPC_neutrality:1 "Hebei-Chahar Political Council"
+ HPC_communism:1 "Hebei-Chahar People's Government"
+ HPC_fascism_ADJ:1 "Hebei-Chahar"
+ HPC_democratic_ADJ:1 "Hebei-Chahar"
+ HPC_neutrality_ADJ:1 "Hebei-Chahar"
+ HPC_communism_ADJ:1 "Hebei-Chahar"
+ HPC_fascism_DEF:1 "The Hebei-Chahar Political Council"
+ HPC_democratic_DEF:1 "The Hebei-Chahar Democratic Government"
+ HPC_neutrality_DEF:1 "The Hebei-Chahar Political Council"
+ HPC_communism_DEF:1 "The Hebei-Chahar People's Government"

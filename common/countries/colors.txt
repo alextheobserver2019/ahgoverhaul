@@ -242,8 +242,8 @@ SIA = {
 	color_ui = rgb { 222 247 198 }
 }
 SIK = {
-	color = rgb { 71 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 240 190 65 }
+	color_ui = rgb { 240 190 65 }
 }
 TIB = {
 	color = rgb { 80 115 45}
@@ -258,8 +258,8 @@ VEN = {
 	color_ui = rgb { 222 247 198 }
 }
 YUN = {
-	color = rgb { 114 148 80 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 250 190 65 }
+	color_ui = rgb { 250 190 65 }
 }
 USA = {
 	color = rgb { 0 155 230 }
@@ -322,18 +322,18 @@ PRC = {
 }
 
 GXC = {
-	color = rgb { 71 113 97 }
-	color_ui = rgb { 71 113 97 }
+	color = rgb { 255 170 50 }
+	color_ui = rgb { 255 170 50 }
 }
 
 SHX = {
-	color = rgb { 82  2  15 }
-	color_ui = rgb { 101  30  41 }
+	color = rgb { 210 160 30 }
+	color_ui = rgb { 210 160 30 }
 }
 
 XSM = {
-	color = rgb { 105 90 132 }
-	color_ui = rgb { 105 90 132 }
+	color = rgb { 200 140 25 }
+	color_ui = rgb { 200 140 25 }
 }
 
 LBA = {
@@ -1083,37 +1083,37 @@ LOU = {
 }
 #Chinese Warlords
 TUG = {
-       color = rgb { 178 143 110}
-       color_ui = rgb { 178 143 110}
+       color = rgb { 205 160 25}
+       color_ui = rgb { 205 160 25}
 }
 XIG = {
-       color = rgb { 116 195 211}
-       color_ui = rgb { 116 195 211}
+       color = rgb { 240 190 60}
+       color_ui = rgb { 240 190 60}
 }
 HMI = {
-	color = rgb { 215 103 10 }
-	color_ui = rgb { 215 103 10 }
+	color = rgb { 210 160 35 }
+	color_ui = rgb { 210 160 35 }
 }
 
 NIX = {
-       color = rgb { 211 184 46}
-       color_ui = rgb { 211 184 46}
+       color = rgb { 200 145 25}
+       color_ui = rgb { 200 145 25}
 }
 SHC = {
-       color = rgb { 112 75 39}
-       color_ui = rgb { 112 75 39}
+       color = rgb { 240 175 55}
+       color_ui = rgb { 240 175 55}
 }
 GND = {
-       color = rgb { 178 38 7}
-       color_ui = rgb { 178 38 7}
+       color = rgb { 225 175 40}
+       color_ui = rgb { 225 175 40}
 }
 PIL = {
-       color = rgb { 70 82 168}
-       color_ui = rgb { 70 82 168}
+       color = rgb { 255 195 60}
+       color_ui = rgb { 255 195 60}
 }
 SHG = {
-       color = rgb { 32 201 66}
-       color_ui = rgb { 32 201 66}
+       color = rgb { 220 170 40}
+       color_ui = rgb { 220 170 40}
 }
 EHC = {
        color = rgb { 219 244 105}
@@ -1775,4 +1775,8 @@ color_ui = rgb { 196 196 255 }
 BNG = {
 color = rgb { 159 181 87 }
 color_ui = rgb { 159 181 87 }
+}
+SKH = {
+color = rgb { 234 206 224 }
+color_ui = rgb { 234 206 224 }
 }

@@ -112,20 +112,11 @@ set_politics = {
 create_country_leader = {
 	name = "Prince Demchugdongrub"
 	desc = "POLITICS_DEMCHUGDONGRUB_DESC"
-	picture = "Portrait_Mengkukuo_Prince_Demchugdongrub.dds"
+	picture = "Portrait_Demchugdongrub.dds"
 	expire = "1966.4.23"
 	ideology = despotism
 	traits = {
 		spirit_of_genghis
-	}
-}
-create_country_leader = {
-	name = "Fu Zuoyi"
-	desc = "POLITICS_FU_ZUOYI_DESC"
-	picture = "Portrait_Mengkukuo_Fu_Zuoyi.dds"
-	expire = "1966.4.23"
-	ideology = despotism
-	traits = {
 	}
 }
 create_country_leader = {

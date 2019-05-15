@@ -6,7 +6,6 @@ state={
 	history={
 		owner = EHC
 		add_core_of = CHI
-	set_demilitarized_zone = yes
 		add_core_of = PRC
 		buildings = {
 			infrastructure = 5
