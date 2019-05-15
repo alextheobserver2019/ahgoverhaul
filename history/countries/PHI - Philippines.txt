@@ -12,7 +12,7 @@ set_technology = {
 	early_fighter = 1
 	early_bomber = 1
 }
-
+set_cosmetic_tag = PHI_USA
 set_convoys = 5
 
 1939.1.1 = {
