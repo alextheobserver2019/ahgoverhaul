@@ -1,0 +1,23 @@
+state={
+	id=3554
+	name="STATE_3554"
+	provinces={
+		7624
+	}
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = SOV
+		add_core_of = RUS
+		add_core_of = DKU
+		add_core_of = DAG
+		add_claim_by = AZR
+
+	}
+	manpower=1000 
+ state_category=small_island
+	buildings_max_level_factor=1.000
+}
