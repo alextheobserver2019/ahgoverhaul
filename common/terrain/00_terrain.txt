@@ -268,7 +268,7 @@ terrain = {
 	ocean_15					= { type = ocean			color = { 	15	 } texture = 9 } 
 		
 	snow_16						= { type = mountain			color = { 	16	 } texture = 11  perm_snow = yes }
-	plains_17					= { type = ice_sheet		color = { 	19	 } texture = 0  perm_snow = yes }
+	plains_17					= { type = ice_sheet		color = { 	19	 } texture = 12  perm_snow = yes }
 	
 	hills_blend					= { type = hills			color = { 	17	 } texture = 2 }
 	mountain_variation_sand	 	= { type = mountain			color = { 	18	 } texture = 7 }
