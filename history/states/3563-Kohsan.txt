@@ -2,7 +2,14 @@ state={
 	id=3563
 	name="STATE_3563"
 	provinces={
-		288
+		13760 13761
+	}
+	history={
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 1
+		}
 	}
 	manpower=1000 
  state_category=small_island

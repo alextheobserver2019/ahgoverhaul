@@ -1,0 +1,21 @@
+state={
+	id=4020
+	name="STATE_4020"
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = DAG
+		add_core_of = DKU
+		add_core_of = LZG
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	state_category = pastoral
+	provinces={
+		3711
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+}

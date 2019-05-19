@@ -2,7 +2,15 @@ state={
 	id=3558
 	name="STATE_3558"
 	provinces={
-		288
+		13746
+	}
+	history={
+		owner = RAJ
+		add_core_of = PAK
+		add_core_of = BLO
+		buildings = {
+			infrastructure = 1
+		}
 	}
 	manpower=1000 
  state_category=small_island

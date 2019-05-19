@@ -15,7 +15,7 @@ history={
 	}
 
 	provinces={
-		4473 12434 
+		12434 
 	}
 	manpower=297361
 	buildings_max_level_factor=1.000

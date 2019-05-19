@@ -2,7 +2,15 @@ state={
 	id=3561
 	name="STATE_3561"
 	provinces={
-		288
+		14448
+	}
+	history={
+		owner = PER
+		add_core_of = PER
+		add_core_of = BLO
+		buildings = {
+			infrastructure = 1
+		}
 	}
 	manpower=1000 
  state_category=small_island

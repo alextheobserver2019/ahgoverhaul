@@ -1815,3 +1815,7 @@ SKH = {
 color = rgb { 234 206 224 }
 color_ui = rgb { 234 206 224 }
 }
+LZG = {
+color = rgb { 0 72 0 }
+color_ui = rgb { 0 72 0 }
+}
