@@ -25,24 +25,6 @@ if = {
 set_convoys = 25
 set_cosmetic_tag = HKG_ENG # British Hong Kong
 # DIPLOMACY
-ENG = {
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	  }
-	set_autonomy = {
-		target = HKG
-		autonomous_state = autonomy_colony
-		freedom_level = 0.2
-	  }
-	else = {
-		puppet = HKG
-		}
-
-  }
-  add_to_faction = HKG
-}
-
 set_stability = 0.5
 set_war_support = 0.05
 

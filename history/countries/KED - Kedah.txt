@@ -44,23 +44,6 @@ set_technology = {
 }
 
 # DIPLOMACY
-ENG = {
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	  }
-	set_autonomy = {
-		target = KED
-		autonomous_state = autonomy_puppet
-		freedom_level = 0.2
-	  }
-	else = {
-		puppet = KED
-		}
-
-  }
-  add_to_faction = KED
-}
 
 if = {
 	limit = { has_dlc = "Together for Victory" }
