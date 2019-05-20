@@ -400,12 +400,12 @@ TAJ_SOV = {
 	color_ui = rgb { 124 0 0 }
 }
 PAC_JAP = {
-	color = hsv { 0.05 0.3 1 }
-	color_ui = hsv { 0.05 0.25 1.2 }
+	color = rgb { 155 52 87 }
+	color_ui = rgb { 155 52 872 }
 }
 EHC_JAP = {
-	color = hsv { 0.05 0.3 1 }
-	color_ui = hsv { 0.05 0.25 1.2 }
+	color = rgb { 135 55 82 }
+	color_ui = rgb { 135 55 82 }
 }
 
 HUN_EMPIRE = {
