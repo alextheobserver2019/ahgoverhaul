@@ -79,236 +79,236 @@ LBA_ITA = {
 	color_ui = rgb { 42 107 48 }
 }
 WTO_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 TON_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 SUD_CON = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 NGA_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 NCM_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 SCM_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 GHA_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 SML_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 UGA_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 ZIM_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 ZAM_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 MLW_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 JOR_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 LES_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 BER_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 FAL_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 GIB_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 STH_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 SWZ_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 GAM_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 SIE_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 KEN_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 TZN_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 ZAN_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 SEY_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 MRS_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 MLD_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 SRL_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 PAL_UK = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 CYP_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 MLT_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 NGA_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 BOT_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 MAL_UK = {
-    color = rgb { 160 61 61 }
-    color_ui = rgb { 160 61 61 }
+    color = rgb { 150 26 10 }
+    color_ui = rgb { 150 26 10 }
 }
 GYA_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 BAH_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 JAM_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 BAR_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 BAS_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 BSA_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 TRI_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 NFL_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 NBO_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 SRW_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 STR_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 BEI_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 KED_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 ICE_DEN = {
-	color = rgb { 127 96 77 }
-	color_ui = rgb { 127 96 77 }
+	color = rgb { 142 68 62 }
+	color_ui = rgb { 142 68 62 }
 }
 KEL_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 TGA_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 JOH_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 PLS_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 TUV_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 SLM_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 NAU_AST = {
 	color = rgb { 57 143 97 }
 	color_ui = rgb { 74 186 126 }
 }
 EGY_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 ICE_DEN = {
-	color = rgb { 127 96 77 }
-	color_ui = rgb { 127 96 77 }
+	color = rgb { 142 68 62 }
+	color_ui = rgb { 142 68 62 }
 }
 BZE_ENG = {
-	color = rgb { 160 61 61 }
-	color_ui = rgb { 160 61 61 }
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
 }
 
 INS_HOL = {
@@ -368,12 +368,12 @@ SKM_RAJ = {
 	color_ui = rgb { 200  10  10 }
 }
 EQG_SPR = {
-	color = rgb { 181 152 92 }
-	color_ui = rgb { 181 152 92 }
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
 }
 RIF_SPR = {
-	color = rgb { 181 152 92 }
-	color_ui = rgb { 181 152 92 }
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
 }
 TSC_SOV = {
 	color = rgb { 175 13 0 }
