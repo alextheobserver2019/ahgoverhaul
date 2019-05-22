@@ -1,6 +1,9 @@
 state={
-	id=2898
-	name="STATE_2898"
+	id=4030
+	name="STATE_4030"
+	provinces={
+		3931 3933 
+	}
 	history={
 		
 		owner = SPR 
@@ -11,10 +14,7 @@ state={
 			
 		}
 	}
-	provinces={
-		932 9857 3735
-	}
-	manpower=1000 
- state_category=pastoral
+	manpower=1000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

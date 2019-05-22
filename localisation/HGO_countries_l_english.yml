@@ -4259,8 +4259,8 @@
  NBO_neutrality_DEF:0 "North Borneo"
  NBO_neutrality_ADJ:0 "North Bornean"
 
- NBO_ENG_democratic:0 "North Borneo"
- NBO_ENG_democratic_DEF:0 "North Borneo"
+ NBO_ENG_democratic:0 "State of North Borneo"
+ NBO_ENG_democratic_DEF:0 "The State of North Borneo"
  NBO_ENG_democratic_ADJ:0 "North Bornean"
  NBO_ENG_communism:0 "People's Republic of North Borneo"
  NBO_ENG_communism_DEF:0 "People's Republic of North Borneo"
@@ -4268,8 +4268,8 @@
  NBO_ENG_fascism:0 "North Bornean Empire"
  NBO_ENG_fascism_DEF:0 "North Bornean Empire"
  NBO_ENG_fascism_ADJ:0 "North Bornean"
- NBO_ENG_neutrality:0 "North Borneo"
- NBO_ENG_neutrality_DEF:0 "North Borneo"
+ NBO_ENG_neutrality:0 "State of North Borneo"
+ NBO_ENG_neutrality_DEF:0 "The State of North Borneo"
  NBO_ENG_neutrality_ADJ:0 "North Bornean"
 
  WTO_democratic:0 "Republic of Togoland"
