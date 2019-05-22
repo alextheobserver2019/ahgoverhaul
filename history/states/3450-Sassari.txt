@@ -11,7 +11,7 @@ state={
 	history={
 		owner = ITA
 		add_core_of = ITA
-		add_core_of = SAR
+		add_core_of = SRD
 		buildings = {
 			infrastructure = 1
 		}

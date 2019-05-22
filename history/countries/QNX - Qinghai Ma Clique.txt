@@ -97,7 +97,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Li Zongren"
+	name = "Li Tsungjen"
 	desc = "POLITICS_LI_ZONGREN_DESC"
 	picture = "gfx/leaders/GXC/Portrait_Guanxi_Clique_Li_Zongren.dds"
 	expire = "1965.1.1"
@@ -108,7 +108,7 @@ create_country_leader = {
 }
 
 create_corps_commander = {
-	name = "Chen Jitang"
+	name = "Chen Chitang"
 	portrait_path = "gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
 	traits = { }
 	skill = 3

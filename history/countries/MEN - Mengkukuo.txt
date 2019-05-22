@@ -84,7 +84,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Song Zheyuan"
+	name = "Sung Cheyuan"
 	desc = "POLITICS_SONG_ZHEYUAN_DESC"
 	picture = "Portrait_Song_Zheyuan.dds"
 	expire = "1945.1.20"

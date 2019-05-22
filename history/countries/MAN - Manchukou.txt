@@ -125,7 +125,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Aisin Gioro Puyi"
+	name = "Pu Yi"
 	
 	picture = "gfx/leaders/MAN/Portrait_Manchuria_Henry_Pu_Yi.dds"
 	expire = "1960.1.1"
@@ -136,7 +136,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Aisin Gioro Puyi"
+	name = "Pu Yi"
 	
 	picture = "gfx/leaders/MAN/Portrait_Manchuria_Henry_Pu_Yi.dds"
 	expire = "1960.1.1"
@@ -147,7 +147,7 @@ create_country_leader = {
 }
 
 create_corps_commander = {
-	name = "Zhang Haipeng"
+	name = "Chang Haipeng"
 	GFX = "GFX_portrait_man_zhang_haipeng"
 	traits = {  }
 	skill = 2
@@ -159,7 +159,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Zhang Jinghui"
+	name = "Chang Chinghui"
 	GFX = "GFX_portrait_man_zhang_jinghui"
 	traits = { infantry_officer }
 	skill = 2
@@ -171,7 +171,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Aisin Gioro Xiqia"
+	name = "Hsi Hsia"
 	GFX = "GFX_portrait_man_aisin_gioro_xiqia"
 	traits = { career_officer }
 	skill = 3

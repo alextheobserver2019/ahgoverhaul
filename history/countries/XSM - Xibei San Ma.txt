@@ -95,7 +95,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Ma Bufang"
+	name = "Ma Pufang"
 	desc = ""
 	picture = "Portrait_Xibei_San_Ma_Ma_Bufang.dds"
 	expire = "1975.7.1"
@@ -105,7 +105,7 @@ create_country_leader = {
 	}
 }
 create_country_leader = {
-	name = "Ma Buqing"
+	name = "Ma Puching"
 	desc = ""
 	picture = "Portrait_Xibei_San_Ma_Ma_Buqing.dds"
 	expire = "1975.7.1"
@@ -115,7 +115,7 @@ create_country_leader = {
 	}
 }
 create_country_leader = {
-	name = "Gao Shuxun"
+	name = "Kao Shuhsun"
 	desc = ""
 	picture = "Portrait_Xibei_San_Ma_Gao_Shuxun.dds"
 	expire = "1975.7.1"
@@ -127,7 +127,7 @@ create_country_leader = {
 
 
 create_field_marshal = {
-	name = "Ma Bufang"
+	name = "Ma Pufang"
 	portrait_path = "gfx/leaders/XSM/Portrait_Xibei_San_Ma_Ma_Bufang.dds"
 	traits = { offensive_doctrine }
 	id = 3003

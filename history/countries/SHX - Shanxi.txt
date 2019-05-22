@@ -134,7 +134,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Yan Xishan"
+	name = "Yan Hsishan"
 	desc = "POLITICS_YAN XISHAN_DESC"
 	picture = "Portrait_Shanxi_Yan_Xishan.dds"
 	expire = "1965.1.1"
@@ -145,7 +145,7 @@ create_country_leader = {
 }
 
 create_corps_commander = {
-	name = "Wang Jingguo"
+	name = "Wang Chingkuo"
 	portrait_path = "gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
 	traits = { politically_connected }
 	skill = 3

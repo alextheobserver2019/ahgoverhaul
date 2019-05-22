@@ -37,7 +37,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Han Fuju"
+	name = "Han Fuchu"
 	desc = ""
 	picture = "Portrait_Han_Fuju.dds"
 	expire = "1975.7.1"
@@ -49,7 +49,7 @@ create_country_leader = {
 
 
 create_field_marshal = {
-	name = "Han Fuju"
+	name = "Han Fuchu"
 	portrait_path = "gfx/leaders/SHD/Portrait_Han_Fuju.dds"
 	traits = { offensive_doctrine }
 	id = 3009

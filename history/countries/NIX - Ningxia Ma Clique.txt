@@ -122,7 +122,7 @@ set_politics = {
 	elections_allowed = no
 }
 create_country_leader = {
-	name = "Ma Hongbin"
+	name = "Ma Hungpin"
 	desc = "POLITICS_MA_HONGBIN_DESC"
 	picture = "Portrait_Ma_Hongbin.dds"
 	expire = "1952.1.1"
@@ -131,7 +131,7 @@ create_country_leader = {
 	}
 }
 create_country_leader = {
-	name = "Ma Hongkui"
+	name = "Ma Hungkuei"
 	desc = "POLITICS_MA_HONGKUI_DESC"
 	picture = "Portrait_Xibei_San_Ma_Ma_Hongkui.dds"
 	expire = "1975.7.1"
@@ -142,7 +142,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Gao Shuxun"
+	name = "Kao Shuhsun"
 	desc = ""
 	picture = "Portrait_Xibei_San_Ma_Gao_Shuxun.dds"
 	expire = "1975.7.1"
@@ -154,14 +154,14 @@ create_country_leader = {
 
 
 create_field_marshal = {
-	name = "Ma Hongkui"
+	name = "Ma Hungkuei"
 	portrait_path = "gfx/leaders/NXM/Portrait_Xibei_San_Ma_Ma_Hongkui.dds"
 	traits = { offensive_doctrine }
 	id = 3002
 	skill = 4
 }
 create_field_marshal = {
-	name = "Ma Hongbin"
+	name = "Ma Hungpin"
 	portrait_path = "gfx/leaders/MON/Portrait_Ma_Hongbin.dds"
 	traits = { defensive_doctrine } 
 	id = 4004

@@ -1,0 +1,24 @@
+scripted_gui = {
+
+	HGO_Country_Leader = {
+		context_type = player_context
+		parent_window_token = politics_tab
+		window_name = "HGO_Epic_Window"
+
+		visible = {
+			always = yes
+		}
+
+		triggers = {
+			Default_Epic_Portrait = {
+				tag = USA
+			}
+		}
+
+		properties = {
+			Epic_Portrait_Image_Default = {
+				image = "[get_my_portrait_texture]"
+			}
+		}
+	}
+}

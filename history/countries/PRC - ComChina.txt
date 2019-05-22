@@ -199,7 +199,7 @@ if = {
 add_opinion_modifier = { target = CHI modifier = hostile_status }
 
 create_country_leader = {
-	name = "Mao Zedong"
+	name = "Mao Tse-tung"
 	desc = "POLITICS_MAO_ZEDONG_DESC"
 	picture = "Portrait_Mao_Zedong.dds"
 	expire = "1965.1.1"
@@ -210,7 +210,7 @@ create_country_leader = {
 }
 
 create_field_marshal = {
-	name = "Mao Zedong"
+	name = "Mao Tse-tung"
 	gfx = "GFX_portrait_prc_mao_zedong"
 	traits = { defensive_doctrine trait_cautious politically_connected }
 	skill = 4
@@ -221,7 +221,7 @@ create_field_marshal = {
 }
 
 create_corps_commander = {
-	name = "Zhu De"
+	name = "Chu Te"
 	gfx = "GFX_portrait_prc_zhu_de"
 	traits = { infantry_officer organizer }
 	skill = 4
@@ -243,7 +243,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Peng Dehuai"
+	name = "Peng Tehuai"
 	gfx = "GFX_portrait_prc_peng_dehuai"
 	traits = { infantry_officer trait_mountaineer }
 	skill = 4
@@ -254,7 +254,7 @@ create_corps_commander = {
 }
 
 create_corps_commander = {
-	name = "Lin Biao"
+	name = "Lin Piao"
 	portrait_path = "gfx/leaders/Asia/Portrait_Asia_Generic_warlord1.dds"
 	traits = { infantry_officer trait_mountaineer }
 	skill = 5

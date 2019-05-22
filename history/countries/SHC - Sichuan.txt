@@ -97,35 +97,35 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "Liu Xiang"
+	name = "Liu Hsiang"
 	desc = "POLITICS_LIU_XIANG_DESC"
 	picture = "Portrait_Sichuan_Liu_Xiang.dds"
 	expire = "1938.1.20"
 	ideology = despotism
 }
 create_country_leader = {
-	name = "Wang Lingji"
+	name = "Wang Lingchi"
 	desc = "#"
 	picture = "Portrait_Sichuan_Wang_Lingji.dds"
 	expire = "1938.1.20"
 	ideology = fascism_ideology
 }
 create_country_leader = {
-	name = "Deng Xihou"
+	name = "Teng Hsihou"
 	desc = "#"
 	picture = "Portrait_Sichuan_Deng_Xihou.dds"
 	expire = "1938.1.20"
 	ideology = marxism
 }
 create_country_leader = {
-	name = "Xiong Kewu"
+	name = "Hsiung Kowu"
 	desc = "#"
 	picture = "Portrait_Sichuan_Xiong_Kewu.dds"
 	expire = "1938.1.20"
 	ideology = conservatism
 }
 create_field_marshal = {
-	name = "Liu Xiang"
+	name = "Liu Hsiang"
 	portrait_path = "gfx/leaders/SIC/Portrait_Sichuan_Liu_Xiang.dds"
 	traits = { logistics_wizard }
 	skill = 3

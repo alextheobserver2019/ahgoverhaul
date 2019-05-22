@@ -34,7 +34,7 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Yin Ju-keng"
+	name = "Yin Chu-keng"
 	desc = ""
 	picture = "Portrait_Yin_Ju-Keng.dds"
 	expire = "1965.1.1"
