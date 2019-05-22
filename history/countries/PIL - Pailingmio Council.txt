@@ -1,6 +1,6 @@
 ﻿####CHINA REWORK###
 
-capital = 621
+capital = 3535
 
 oob = "PIL_1936"
 

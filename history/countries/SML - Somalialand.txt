@@ -1,4 +1,4 @@
-﻿capital = 269
+﻿capital = 1552
 
 oob = "SML_1936"
 
