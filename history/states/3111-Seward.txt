@@ -4,14 +4,15 @@ state={
 	history={
 		
 		owner = USA 
-		add_core_of = USA
+		add_core_of = USA 
+		add_core_of = ALA
 		buildings = {
 			infrastructure = 4
 			
 		}
 	}
 	provinces={
-		4833 
+		4833 14499
 	}
 	manpower=1000 
  state_category = small_island

@@ -1,6 +1,9 @@
 state={
-	id=3110
-	name="STATE_3110"
+	id=4049
+	name="STATE_4049"
+	provinces={
+		14492 14495 14500 14504 14508 
+	}
 	history={
 		
 		owner = USA 
@@ -10,9 +13,6 @@ state={
 			infrastructure = 4
 			
 		}
-	}
-	provinces={
-		12661 14506
 	}
 	manpower=1000 
  state_category = small_island
