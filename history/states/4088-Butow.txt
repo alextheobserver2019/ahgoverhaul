@@ -1,24 +1,22 @@
-
 state={
-	id=1807
-	name="STATE_1807"
-
+	id=4088
+	name="STATE_4088"
+	provinces={
+		9306 
+	}
 	history={
 		owner = GER
 		buildings = {
-			infrastructure = 8
+			infrastructure = 6
 
 		}
 		add_core_of = GER
 		add_core_of = PRS
-		add_core_of = KSH
 		add_core_of = POM
-	}
+		add_core_of = KSH
 
-	provinces={
-		11343 
 	}
-	manpower=38428
+	manpower=1000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
-	state_category = town
 }
