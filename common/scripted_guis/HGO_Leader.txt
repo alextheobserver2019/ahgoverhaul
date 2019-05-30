@@ -16,7 +16,7 @@ scripted_gui = {
 		}
 
 		properties = {
-			Epic_Portrait_Image_Default = {
+			Epic_Portrait = {
 				image = "[get_my_portrait_texture]"
 			}
 		}
