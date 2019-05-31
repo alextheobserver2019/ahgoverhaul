@@ -1,4 +1,4 @@
-﻿name="Historic Geographical Overhaul Development Version"
+﻿name="Historic Geographical Overhaul"
 path="mod/ahgoverhaul/"
 replace_path = "history/states"
 replace_path = "history/countries"
@@ -15,4 +15,5 @@ tags={
 	"Events"
 	"Gameplay"
 }
+picture="hgoverhaulss.png"
 supported_version="1.6.*"
