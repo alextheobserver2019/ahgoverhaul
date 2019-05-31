@@ -1,4 +1,4 @@
-﻿name="aHistoric Geographical Overhaul Development Version"
+﻿name="Historic Geographical Overhaul Development Version"
 path="mod/ahgoverhaul/"
 replace_path = "history/states"
 replace_path = "history/countries"
