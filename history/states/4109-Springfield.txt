@@ -1,0 +1,19 @@
+state={
+	id=4109
+	name="STATE_4109"
+	provinces={
+		1534 4449 10370 12346 12463 
+	}
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = USA
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
