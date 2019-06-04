@@ -11,7 +11,7 @@ state={
 		add_core_of = YUG
 		add_core_of = CRO
 
-		add_claim_by = DLM	
+		add_core_of = DLM
 		}
 
 	provinces={

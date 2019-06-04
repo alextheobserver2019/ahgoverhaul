@@ -12,8 +12,7 @@ state={
 		}
 		add_core_of = YUG
 		add_core_of = CRO
-
-		add_core_of = DLM	
+		add_claim_by = DLM
 		}
 
 	manpower=1000
