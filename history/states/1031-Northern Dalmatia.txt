@@ -11,10 +11,11 @@ state={
 		add_core_of = YUG
 		add_core_of = CRO
 
-		add_core_of = DLM	}
+		add_claim_by = DLM	
+		}
 
 	provinces={
-		591 3601 6611 11901 
+		591 6611 11901 
 	}
 	manpower=526287
 	buildings_max_level_factor=1.000

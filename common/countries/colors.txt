@@ -1819,3 +1819,11 @@ LZG = {
 color = rgb { 0 72 0 }
 color_ui = rgb { 0 72 0 }
 }
+KHI = {
+color = rgb { 0 98 0 }
+color_ui = rgb { 0 98 0 }
+}
+BKH = {
+color = rgb { 0 193 0 }
+color_ui = rgb { 0 193 0 }
+}
