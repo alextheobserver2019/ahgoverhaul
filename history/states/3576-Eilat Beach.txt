@@ -2,19 +2,22 @@ state={
 	id=3576
 	name="STATE_3576"
 	provinces={
-		14570 
+		14569 
 	}
 	manpower = 1000
 	
 	state_category = pastoral
 
 	history={
-		owner = PAL
-		add_core_of = PAL
-		add_core_of = ISR
+		owner = GER
 		buildings = {
-			infrastructure = 1
+			infrastructure = 0
+
 		}
+		add_core_of = GER
+		add_core_of = SCH
+		add_core_of = FRS
+
 	}
 	buildings_max_level_factor=1.000
 }
