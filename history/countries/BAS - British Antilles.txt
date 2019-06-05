@@ -12,24 +12,16 @@ set_cosmetic_tag = BAS_ENG
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 23
-		}
-
-		fascism = {
-			popularity = 1
-		}
-		
-		communism = {
-			popularity = 1
+		democratic 
+			 = 23
+		fascism
+			 = 1
+		communism
+			 = 1
 			
+		neutrality 
+			 = 75
 		}
-		
-		neutrality = { 
-			popularity = 75
-		}
-	}
-	
 	set_politics = { 
  ruling_party = neutrality
 	last_election = "1936.1.1"

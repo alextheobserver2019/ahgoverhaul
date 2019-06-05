@@ -15,9 +15,9 @@ set_convoys = 10
 
 	set_popularities = {
         
-        communism = { popularity = 15 }
-        fascism = { popularity = 5 }
-        neutrality = { popularity = 80 }
+        communism =  15
+        fascism =  5
+        neutrality =  80
 
 	}
 	

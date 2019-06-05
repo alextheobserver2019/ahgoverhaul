@@ -16,20 +16,14 @@ set_convoys = 20
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 98
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 2
+		democratic 
+			 = 98
+		fascism
+			 = 0
+		communism
+			 = 2
 			
 		}
-	}
-	
 	set_politics = { 
  ruling_party = democratic
 	last_election = "1936.1.10"
@@ -48,39 +42,3 @@ create_country_leader = {
 	}
 }
 
-1939.1.1 = {
-	
-
-		set_popularities = {
-			democratic = { 
-				popularity = 98
-			}
-
-			fascism = {
-				popularity = 0
-			}
-			
-			communism = {
-				popularity = 2
-				
-			}
-		}
-		
-		set_politics = { 
- ruling_party = democratic
-		last_election = "1936.1.10"
-		election_frequency = 48  
-		elections_allowed = yes
-	}
-
-	create_country_leader = {
-		name = "Federico Laredo Brú"
-		desc = "POLITICS_FEDERICO_LAREDO_BRU_DESC"
-		picture = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
-		expire = "1965.1.1"
-		ideology = socialism
-		traits = {
-			#
-		}
-	}
-}

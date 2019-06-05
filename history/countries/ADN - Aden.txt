@@ -13,23 +13,15 @@ set_cosmetic_tag = ADN_ENG
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 20
+		democratic 
+			 = 20
+		fascism
+			 = 0
+		communism
+			 = 0
+		neutrality 
+			 = 80
 		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 0
-		}
-		
-		neutrality = { 
-			popularity = 80
-		}
-	}
-	
 	set_politics = { 
  ruling_party = neutrality
 	last_election = "1936.1.1"

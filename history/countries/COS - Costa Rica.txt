@@ -15,20 +15,14 @@ set_convoys = 10
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 98
-		}
-
-		fascism = {
-			popularity = 2
-		}
-		
-		communism = {
-			popularity = 0
+		democratic 
+			 = 98
+		fascism
+			 = 2
+		communism
+			 = 0
 			
 		}
-	}
-	
 	set_politics = { 
  ruling_party = democratic
 	last_election = "1932.2.14"
@@ -44,42 +38,5 @@ create_country_leader = {
 	ideology = liberalism
 	traits = {
 		#
-	}
-}
-
-1939.1.1 = {
-	
-
-		set_popularities = {
-			democratic = { 
-				popularity = 95
-			}
-
-			fascism = {
-				popularity = 0
-			}
-			
-			communism = {
-				popularity = 5
-				
-			}
-		}
-		
-		set_politics = { 
- ruling_party = democratic
-		last_election = "1936.2.9"
-		election_frequency = 48
-		elections_allowed = yes
-	}
-
-	create_country_leader = {
-		name = "León Cortés Castro"
-		desc = "POLITICS_LEON_CORTES_CASTRO_DESC"
-		picture = "gfx/leaders/South America/Portrait_South_America_Generic_navy_3.dds"
-		expire = "1965.1.1"
-		ideology = liberalism
-		traits = {
-			#
-		}
 	}
 }

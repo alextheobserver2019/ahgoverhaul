@@ -29,21 +29,15 @@ set_technology = {
 }
 
 	set_popularities = {
-		democratic = { 
-			popularity = 2
-		}
-
-		fascism = {
-			popularity = 6
-		}
+		democratic 
+			 = 2
+		fascism
+			 = 6
+		communism
+			 = 2
+		neutrality
+			 = 90
 		
-		communism = {
-			popularity = 2
-		}
-		
-		neutrality = {
-			popularity = 90
-		}
 	}
 create_country_leader = {
 	name = "Paul Giesler"

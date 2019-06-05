@@ -13,23 +13,15 @@ set_convoys = 5
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 5
+		democratic 
+			 = 5
+		fascism
+			 = 60
+		communism
+			 = 5
+		neutrality 
+			 = 30
 		}
-
-		fascism = {
-			popularity = 60
-		}
-		
-		communism = {
-			popularity = 5
-		}
-		
-		neutrality = { 
-			popularity = 30
-		}
-	}
-	
 	set_politics = { 
  ruling_party = fascism
 	last_election = "1936.1.1"
@@ -57,53 +49,4 @@ create_country_leader = {
 	traits = {
 		#
 	}
-}
-
-1939.1.1 = {
-	#generic focuses
-	complete_national_focus = army_effort
-	complete_national_focus = equipment_effort
-	complete_national_focus = motorization_effort
-	complete_national_focus = aviation_effort
-	complete_national_focus = naval_effort
-	complete_national_focus = flexible_navy
-	complete_national_focus = industrial_effort
-	complete_national_focus = construction_effort
-	complete_national_focus = production_effort
-	
-	set_technology = {
-
-		#doctrines
-		grand_battle_plan = 1
-		trench_warfare = 1
-
-		#electronics
-		electronic_mechanical_engineering = 1
-		radio = 1
-		radio_detection = 1
-		mechanical_computing = 1
-
-		#industry
-		basic_machine_tools = 1
-		improved_machine_tools = 1
-		advanced_machine_tools = 1
-		synth_oil_experiments = 1
-		
-		construction1 = 1
-		construction2 = 1
-		dispersed_industry = 1
-		dispersed_industry2 = 1
-	}
-	
-	create_country_leader = {
-	
-	name = "Kenjiro Kitajima"
-	picture = "gfx/leaders/Japan/Kenjiro_Kitajima.dds"
-	expire = "1957.11.24"
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
-}
-
 }

@@ -19,20 +19,14 @@ set_convoys = 15
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 99
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 1
+		democratic 
+			 = 99
+		fascism
+			 = 0
+		communism
+			 = 1
 			
 		}
-	}
-	
 	set_politics = { 
  ruling_party = democratic
 	last_election = "1934.2.11"
@@ -63,42 +57,6 @@ create_country_leader = {
 }
 
 
-1939.1.1 = {
-	
-
-		set_popularities = {
-			democratic = { 
-				popularity = 100
-			}
-
-			fascism = {
-				popularity = 0
-			}
-			
-			communism = {
-				popularity = 0
-				
-			}
-		}
-		
-		set_politics = { 
- ruling_party = democratic
-		last_election = "1938.5.1"
-		election_frequency = 48  
-		elections_allowed = yes
-	}
-
-	create_country_leader = {
-		name = "Eduardo Santos"
-		desc = "POLITICS_EDUARDO_SANTOS_DESC"
-		picture = "gfx/leaders/South America/Portrait_South_America_Generic_5.dds"
-		expire = "1965.1.1"
-		ideology = liberalism
-		traits = {
-			#
-		}
-	}
-}
 
 create_corps_commander = {
 	name = "Gustavo Rojas Pinilla"

@@ -29,19 +29,13 @@ give_guarantee = TGR
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 47
+		democratic 
+			 = 47
+		fascism
+			 = 46
+		communism
+			 = 7
 		}
-
-		fascism = {
-			popularity = 46
-		}
-		
-		communism = {
-			popularity = 7
-		}
-	}
-	
 	set_politics = { 
  ruling_party = democratic
 	last_election = "1933.2.16"

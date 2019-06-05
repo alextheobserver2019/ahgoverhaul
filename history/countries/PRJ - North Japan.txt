@@ -19,15 +19,11 @@ set_technology = {
 
 
 	set_popularities = {
-		communism = { 
-			popularity = 90
+		communism 
+			 = 90
+		neutrality
+			 = 10
 		}
-		
-		neutrality = {
-			popularity = 10
-		}
-	}
-	
 	set_politics = { 
  ruling_party = communism
 	last_election = "1936.1.1"

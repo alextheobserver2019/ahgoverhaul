@@ -46,19 +46,13 @@ set_war_support = 0.8
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 15 #shared between all set_popularities, should add to 100
+		democratic 
+			 = 15 #shared between all set_popularities, should add to 100
+		fascism
+			 = 5
+		communism
+			 = 80
 		}
-
-		fascism = {
-			popularity = 5
-		}
-		
-		communism = {
-			popularity = 80
-		}
-	}
-	
 	set_politics = { 
  ruling_party = communism
 	last_election = "1933.7.1"

@@ -30,20 +30,14 @@ set_technology = {
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 90
-		}
-
-		fascism = {
-			popularity = 10
-		}
-		
-		communism = {
-			popularity = 0
+		democratic 
+			 = 90
+		fascism
+			 = 10
+		communism
+			 = 0
 			
 		}
-	}
-	
 	set_politics = { 
  ruling_party = democratic
 	last_election = "1935.10.14"

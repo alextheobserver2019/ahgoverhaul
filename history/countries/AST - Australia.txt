@@ -58,20 +58,14 @@ if = {
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 98
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 2
+		democratic 
+			 = 98
+		fascism
+			 = 0
+		communism
+			 = 2
 			
 		}
-	}
-	
 	set_politics = { 
  ruling_party = democratic
 	last_election = "1934.9.15"

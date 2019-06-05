@@ -46,19 +46,13 @@ set_convoys = 10
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 85
+		democratic 
+			 = 85
+		fascism
+			 = 10
+		communism
+			 = 5
 		}
-
-		fascism = {
-			popularity = 10
-		}
-		
-		communism = {
-			popularity = 5
-		}
-	}
-	
 	set_politics = { 
  ruling_party = democratic
 	last_election = "1933.1.24"

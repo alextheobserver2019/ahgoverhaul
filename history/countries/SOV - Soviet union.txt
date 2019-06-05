@@ -43,19 +43,13 @@ set_convoys = 50
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 10 #shared between all set_popularities, should add to 100
+		democratic 
+			 = 10 #shared between all set_popularities, should add to 100
+		fascism
+			 = 2
+		communism
+			 = 88
 		}
-
-		fascism = {
-			popularity = 2
-		}
-		
-		communism = {
-			popularity = 88
-		}
-	}
-	
 	set_politics = { 
  ruling_party = communism
 	last_election = "1933.7.1"
@@ -621,30 +615,5 @@ create_equipment_variant = {
 		destroyer_engine_upgrade = 3
 		ship_ASW_upgrade = 3
 		ship_anti_air_upgrade = 3
-	}
-}
-
-1939.1.1 = {
-
-	create_equipment_variant = {
-		name = "Series X Shchuka"
-		type = submarine_2
-		upgrades = {
-			ship_reliability_upgrade = 3
-			sub_engine_upgrade = 3
-			sub_stealth_upgrade = 3
-			sub_torpedo_upgrade = 3
-		}
-	}
-
-	create_equipment_variant = {
-		name = "Maxim Gorky Class"
-		type = heavy_cruiser_2
-		upgrades = {
-			ship_reliability_upgrade = 2
-			ship_engine_upgrade = 2
-			ship_armor_upgrade = 2
-			ship_gun_upgrade = 2
-		}
 	}
 }

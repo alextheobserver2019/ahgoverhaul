@@ -21,15 +21,12 @@ set_technology = {
 
 
 	set_popularities = {
-		fascism = { 
-			popularity = 90
-		}
+		fascism 
+			 = 90
 		
-		democratic = {
-			popularity = 10
+		democratic
+			 = 10
 		}
-	}
-	
 	set_politics = { 
  ruling_party = fascism
 	last_election = "1936.1.1"

@@ -40,17 +40,13 @@ set_technology = {
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 10
-		}
+		democratic 
+			 = 10
+		communism
+			 = 60
 		
-		communism = {
-			popularity = 60
-		}
-		
-        neutrality = { 
-			popularity = 30
-		}		
+        neutrality 
+			 = 30	
 	}
 	
 	set_politics = { 

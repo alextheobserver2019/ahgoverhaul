@@ -31,24 +31,16 @@ set_war_support = 0.05
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 1
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 15
+		democratic 
+			 = 1
+		fascism
+			 = 0
+		communism
+			 = 15
 			
+		neutrality
+			 = 84
 		}
-		
-		neutrality = {
-			popularity = 84
-		}
-	}
-	
 	set_politics = { 
  ruling_party = neutrality
 	last_election = "1935.12.12"	
@@ -56,47 +48,6 @@ set_war_support = 0.05
 	elections_allowed = no
 }
 
-1939.1.1 = {
-	
-
-		set_popularities = {
-		democratic = { 
-			popularity = 1
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 15
-			banned = no #default is no
-		}
-		
-		neutrality = { 
-			popularity = 84
-		}
-	}
-	
-	set_politics = { 
- ruling_party = neutrality
-		last_election = "1937.10.28"
-		election_frequency = 48
-		elections_allowed = no
-	}
-
-	create_country_leader = {
-		name = "Geoffry Northcote"
-		desc = "POLITICS_GEOFFRY_NORTHCOTE_DESC"
-		picture = "Portrait_HKO_Northcote.dds"
-		expire = "1965.1.1"
-		ideology = despotism
-		traits = {
-			#
-		}
-	}
-
-}
 
 # Became Governor and Commander-in-Chief of Hong Kong in 1937
 create_country_leader = {
@@ -166,4 +117,3 @@ create_field_marshal = {
 	skill = 1 
 }
 
-}

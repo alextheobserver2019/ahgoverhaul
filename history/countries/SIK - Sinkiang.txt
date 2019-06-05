@@ -16,52 +16,6 @@ add_ideas = {
 	limited_conscription
 }
 
-1939.1.1 = {
-
-	add_political_power = 1198
-	
-	#generic focuses
-	complete_national_focus = SIK_Six_major_policies
-	complete_national_focus = SIK_Destroy_the_Hotan_warlord
-	complete_national_focus = SIK_Befriend_CHI
-	complete_national_focus = SIK_Befriend_SOV
-	complete_national_focus = SIK_Refused_entry
-	complete_national_focus = SIK_Soviet_support
-	complete_national_focus = SIK_USSR_investment
-	complete_national_focus = SIK_Provincial_Army
-	complete_national_focus = SIK_Battlefield_equipment
-	complete_national_focus = SIK_Soviet_equipment
-	complete_national_focus = SIK_Soviet_Car
-	complete_national_focus = SIK_Soviet_aircraft
-	complete_national_focus = Sinkiang_Road_Construction
-	complete_national_focus = SIK_Light_Industry
-	complete_national_focus = SIK_New_currency
-
-	oob = "SIK_1939"
-	set_technology = {
-		#doctrines
-		grand_battle_plan = 1
-		trench_warfare = 1
-		fleet_in_being = 1
-		battlefleet_concentration = 1
-
-		#electronics
-		electronic_mechanical_engineering = 1
-		radio = 1
-		radio_detection = 1
-		mechanical_computing = 1
-
-		#industry
-		basic_machine_tools = 1
-		improved_machine_tools = 1
-		advanced_machine_tools = 1
-		synth_oil_experiments = 1
-		construction1 = 1
-		construction2 = 1
-		dispersed_industry = 1
-		dispersed_industry2 = 1
-	}
-}
 
 
 
@@ -73,53 +27,19 @@ add_ideas = {
 }
 
 	set_popularities = {
-		democratic = { 
-			popularity = 5
+		democratic 
+			 = 5
 			
-		}
-
-		fascism = {
-			popularity = 5
+		fascism
+			 = 5
 			
-		}
-		
-		communism = {
-			popularity = 45
+		communism
+			 = 45
 			
-		}
-		
-		neutrality = { 
-			popularity = 45
-		}
+		neutrality 
+			 = 45
 	}
 	
-1939.1.1 = {
-	
-
-		set_popularities = {
-			democratic = { 
-				popularity = 0
-				
-			}
-
-			fascism = {
-				popularity = 0
-				
-			}
-			
-			communism = {
-				popularity = 100
-				
-			}
-		}
-		
-		set_politics = { 
- ruling_party = communism
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
-	}
-}
 
 create_country_leader = {
 	name = "Sheng Shihtsai"

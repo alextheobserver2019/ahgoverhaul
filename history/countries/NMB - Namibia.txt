@@ -12,24 +12,16 @@ set_technology = {
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 80
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 20
+		democratic 
+			 = 80
+		fascism
+			 = 0
+		communism
+			 = 20
 			
+		neutrality 
+			 = 0
 		}
-		
-		neutrality = { 
-			popularity = 0
-		}
-	}
-	
 	set_politics = { 
  ruling_party = democratic
 	last_election = "1936.1.1"
@@ -67,8 +59,6 @@ create_country_leader = {
 	}
 }
 
-
-}
 
 
 

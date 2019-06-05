@@ -19,19 +19,13 @@ set_technology = {
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 40
+		democratic 
+			 = 40
+		fascism
+			 = 3
+		neutrality
+			 = 57
 		}
-
-		fascism = {
-			popularity = 3
-		}
-		
-		neutrality = {
-			popularity = 57
-		}
-	}
-	
 	set_politics = { 
  ruling_party = neutrality
 	last_election = "1935.10.27"

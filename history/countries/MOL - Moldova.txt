@@ -40,19 +40,13 @@ set_technology = {
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 15
+		democratic 
+			 = 15
+		fascism
+			 = 10
+		communism
+			 = 75
 		}
-
-		fascism = {
-			popularity = 10
-		}
-		
-		communism = {
-			popularity = 75
-		}
-	}
-	
 	set_politics = { 
  ruling_party = communism
 	last_election = "1960.1.1"

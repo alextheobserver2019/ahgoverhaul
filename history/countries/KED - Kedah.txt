@@ -54,20 +54,15 @@ if = {
 
 
 	set_popularities = {
-		democratic = { 
-			popularity = 0
-		}
+		democratic 
+			 = 0
+		fascism 
+			 = 0
+		communism
+			 = 0
+		neutrality
+			 = 100
 
-		fascism = { 
-			popularity = 0
-		}
-
-		communism = {
-			popularity = 0
-		}
-		neutrality = {
-			popularity = 100
-		}
 	}
 	set_politics = { 
  ruling_party = neutrality
