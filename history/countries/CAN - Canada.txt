@@ -121,9 +121,9 @@ if = {
 	}
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 98
 		}
@@ -134,11 +134,12 @@ set_politics = {
 		
 		communism = {
 			popularity = 1
-			#banned = no #default is no
+			
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1935.10.14"
 	election_frequency = 60
 	elections_allowed = yes
@@ -192,9 +193,9 @@ set_convoys = 100
 set_stability = 0.75
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 98
 			}
@@ -205,11 +206,12 @@ set_stability = 0.75
 			
 			communism = {
 				popularity = 1
-				#banned = no #default is no
+				
 			}
 		}
 		
-		ruling_party = democratic
+		set_politics = { 
+ ruling_party = democratic
 		last_election = "1935.10.14"
 		election_frequency = 60
 		elections_allowed = yes

@@ -9,9 +9,9 @@ set_technology = {
 
 set_convoys = 5
 set_cosmetic_tag = BAS_ENG
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 23
 		}
@@ -22,7 +22,7 @@ set_politics = {
 		
 		communism = {
 			popularity = 1
-			#banned = no #default is no
+			
 		}
 		
 		neutrality = { 
@@ -30,7 +30,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = neutrality
+	set_politics = { 
+ ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no

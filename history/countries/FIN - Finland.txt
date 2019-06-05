@@ -85,9 +85,9 @@ add_ideas = {
 	}
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 10
 		}
@@ -105,16 +105,17 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = neutrality
+	set_politics = { 
+ ruling_party = neutrality
 	last_election = "1933.7.1"
 	election_frequency = 36
 	elections_allowed = yes
 }
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 10
 			}
@@ -132,7 +133,8 @@ set_politics = {
 			}
 		}
 		
-		ruling_party = neutrality
+		set_politics = { 
+ ruling_party = neutrality
 		last_election = "1939.7.1"
 		election_frequency = 36
 		elections_allowed = yes

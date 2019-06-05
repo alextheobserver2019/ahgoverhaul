@@ -26,9 +26,9 @@ set_technology = {
 }
 give_guarantee = TGR
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 47
 		}
@@ -42,7 +42,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = yes

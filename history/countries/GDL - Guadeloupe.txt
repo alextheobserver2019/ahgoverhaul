@@ -43,9 +43,9 @@ set_convoys = 5
 		dispersed_industry2 = 1
 	}
 }
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 75
 		}
@@ -56,7 +56,7 @@ set_politics = {
 		
 		communism = {
 			popularity = 1
-			#banned = no #default is no
+			
 		}
 		
 		neutrality = { 
@@ -64,7 +64,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -86,9 +87,9 @@ set_politics = {
 
 
 1939.1.1 = {
-	set_politics = {
+	
 
-	parties = {
+	set_popularities = {
 		democratic = { 
 			popularity = 75
 		}
@@ -99,7 +100,7 @@ set_politics = {
 		
 		communism = {
 			popularity = 1
-			#banned = no #default is no
+			
 		}
 		
 		neutrality = { 
@@ -107,7 +108,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes

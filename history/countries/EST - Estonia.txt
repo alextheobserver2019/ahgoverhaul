@@ -76,9 +76,9 @@ set_convoys = 5
 	}
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 20
 		}
@@ -89,7 +89,7 @@ set_politics = {
 		
 		communism = {
 			popularity = 5
-			#banned = no #default is no
+			
 		}
 		
 		neutrality = { 
@@ -97,16 +97,17 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = neutrality
+	set_politics = { 
+ ruling_party = neutrality
 	last_election = "1932.5.21"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 20
 			}
@@ -117,7 +118,7 @@ set_politics = {
 			
 			communism = {
 				popularity = 5
-				#banned = no #default is no
+				
 			}
 			
 			neutrality = { 
@@ -125,7 +126,8 @@ set_politics = {
 			}
 		}
 		
-		ruling_party = neutrality
+		set_politics = { 
+ ruling_party = neutrality
 		last_election = "1938.2.25"
 		election_frequency = 48
 		elections_allowed = no

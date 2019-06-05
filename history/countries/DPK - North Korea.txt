@@ -17,9 +17,9 @@ set_technology = {
 	CAS1 = 1
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		communism = { 
 			popularity = 90
 		}
@@ -29,7 +29,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = communism
+	set_politics = { 
+ ruling_party = communism
 	last_election = "1936.1.1"
 	election_frequency = 50
 	elections_allowed = no

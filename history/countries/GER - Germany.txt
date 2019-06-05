@@ -212,9 +212,9 @@ create_import = {
 	}
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 20
 		}
@@ -225,11 +225,12 @@ set_politics = {
 		
 		communism = {
 			popularity = 20
-			banned = yes #default is no
+			 #default is no
 		}
 	}
 	
-	ruling_party = fascism
+	set_politics = { 
+ ruling_party = fascism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no

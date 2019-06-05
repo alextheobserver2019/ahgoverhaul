@@ -67,12 +67,12 @@ set_technology = {
 	oob = "SIC_1939"
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = {
 			popularity = 0
-			banned = yes
+			
 		}
 
 		fascism = {
@@ -81,7 +81,7 @@ set_politics = {
 
 		communism = {
 			popularity = 0
-			banned = yes
+			
 		}
 
 		neutrality = {
@@ -89,7 +89,8 @@ set_politics = {
 		}
 	}
 
-	ruling_party = neutrality
+	set_politics = { 
+ ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no

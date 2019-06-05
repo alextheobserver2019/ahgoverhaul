@@ -28,9 +28,9 @@ set_technology = {
 
 
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 80
 		}
@@ -41,11 +41,12 @@ set_politics = {
 		
 		communism = {
 			popularity = 5
-			#banned = no #default is no
+			
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1935.10.14"
 	election_frequency = 60
 	elections_allowed = yes

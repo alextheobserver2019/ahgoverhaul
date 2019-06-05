@@ -62,9 +62,9 @@ set_stability = 0.8
 	}
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 92
 		}
@@ -78,16 +78,17 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1934.6.3"
 	election_frequency = 36
 	elections_allowed = yes
 }
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 92
 			}
@@ -101,7 +102,8 @@ set_politics = {
 			}
 		}
 		
-		ruling_party = democratic
+		set_politics = { 
+ ruling_party = democratic
 		last_election = "1937.6.6"
 		election_frequency = 36
 		elections_allowed = yes

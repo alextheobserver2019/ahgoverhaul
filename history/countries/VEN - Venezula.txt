@@ -61,9 +61,9 @@ set_country_flag = monroe_doctrine
 }
 
 set_convoys = 10
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 5
 		}
@@ -74,11 +74,12 @@ set_politics = {
 		
 		communism = {
 			popularity = 15
-			#banned = no #default is no
+			
 		}
 	}
 	
-	ruling_party = fascism
+	set_politics = { 
+ ruling_party = fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -107,9 +108,9 @@ create_country_leader = {
 }
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 5
 			}
@@ -120,11 +121,12 @@ create_country_leader = {
 			
 			communism = {
 				popularity = 15
-				#banned = no #default is no
+				
 			}
 		}
 		
-		ruling_party = fascism
+		set_politics = { 
+ ruling_party = fascism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no

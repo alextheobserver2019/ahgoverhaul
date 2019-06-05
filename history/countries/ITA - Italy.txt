@@ -166,9 +166,9 @@ set_technology = {
 
 set_convoys = 200
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 22
 		}
@@ -182,7 +182,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = fascism
+	set_politics = { 
+ ruling_party = fascism
 	last_election = "1934.3.26"
 	election_frequency = 60
 	elections_allowed = no

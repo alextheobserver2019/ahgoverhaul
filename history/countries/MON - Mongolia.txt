@@ -58,26 +58,27 @@ add_ideas = {
 	}
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 0
-			banned = yes
+			
 		}
 
 		fascism = {
 			popularity = 0
-			banned = yes
+			
 		}
 		
 		communism = {
 			popularity = 100
-			#banned = no #default is no
+			
 		}
 	}
 	
-	ruling_party = communism
+	set_politics = { 
+ ruling_party = communism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -100,26 +101,27 @@ create_country_leader = {
 	limited_conscription
 	}	
 
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 0
-				banned = yes
+				
 			}
 
 			fascism = {
 				popularity = 0
-				banned = yes
+				
 			}
 			
 			communism = {
 				popularity = 100
-				#banned = no #default is no
+				
 			}
 		}
 		
-		ruling_party = communism
+		set_politics = { 
+ ruling_party = communism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no

@@ -21,9 +21,9 @@ set_country_flag = monroe_doctrine
 set_convoys = 20
 
 set_convoys = 5
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 98
 		}
@@ -34,11 +34,12 @@ set_politics = {
 		
 		communism = {
 			popularity = 2
-			#banned = no #default is no
+			
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1932.10.30"
 	election_frequency = 72  #but 4 years after this one in 1938.
 	elections_allowed = yes
@@ -56,9 +57,9 @@ create_country_leader = {
 }
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 100
 			}
@@ -69,11 +70,12 @@ create_country_leader = {
 			
 			communism = {
 				popularity = 0
-				#banned = no #default is no
+				
 			}
 		}
 		
-		ruling_party = democratic
+		set_politics = { 
+ ruling_party = democratic
 		last_election = "1938.10.25"
 		election_frequency = 48
 		elections_allowed = yes

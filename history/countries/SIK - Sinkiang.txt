@@ -63,22 +63,29 @@ add_ideas = {
 	}
 }
 
-set_politics = {
 
-	parties = {
+
+	set_politics = { 
+ ruling_party = communism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+	set_popularities = {
 		democratic = { 
 			popularity = 5
-			banned = yes
+			
 		}
 
 		fascism = {
 			popularity = 5
-			banned = yes
+			
 		}
 		
 		communism = {
 			popularity = 45
-			#banned = no #default is no
+			
 		}
 		
 		neutrality = { 
@@ -86,33 +93,28 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = communism
-	last_election = "1936.1.1"
-	election_frequency = 48
-	elections_allowed = no
-}
-
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 0
-				banned = yes
+				
 			}
 
 			fascism = {
 				popularity = 0
-				banned = yes
+				
 			}
 			
 			communism = {
 				popularity = 100
-				#banned = no #default is no
+				
 			}
 		}
 		
-		ruling_party = communism
+		set_politics = { 
+ ruling_party = communism
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no

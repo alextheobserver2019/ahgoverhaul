@@ -128,9 +128,9 @@ if = {
 }
 
 set_convoys = 25
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 75
 		}
@@ -144,7 +144,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1933.5.17"
 	election_frequency = 60
 	elections_allowed = yes
@@ -163,9 +164,9 @@ create_country_leader = {
 }
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 100
 			}
@@ -176,11 +177,12 @@ create_country_leader = {
 			
 			communism = {
 				popularity = 0
-				#banned = no #default is no
+				
 			}
 		}
 		
-		ruling_party = democratic
+		set_politics = { 
+ ruling_party = democratic
 		last_election = "1938.5.18"
 		election_frequency = 60
 		elections_allowed = yes

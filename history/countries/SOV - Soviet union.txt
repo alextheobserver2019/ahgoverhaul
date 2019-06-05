@@ -40,11 +40,11 @@ set_technology = {
 
 set_convoys = 50
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
-			popularity = 10 #shared between all parties, should add to 100
+			popularity = 10 #shared between all set_popularities, should add to 100
 		}
 
 		fascism = {
@@ -56,7 +56,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = communism
+	set_politics = { 
+ ruling_party = communism
 	last_election = "1933.7.1"
 	election_frequency = 48
 	elections_allowed = no

@@ -59,9 +59,9 @@ set_country_flag = monroe_doctrine
 	}
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 60
 		}
@@ -72,11 +72,12 @@ set_politics = {
 		
 		communism = {
 			popularity = 40
-			#banned = no #default is no
+			
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -106,9 +107,9 @@ create_country_leader = {
 }
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 20
 			}
@@ -119,7 +120,7 @@ create_country_leader = {
 			
 			communism = {
 				popularity = 30
-				#banned = no #default is no
+				
 			}
 
 			neutrality = {
@@ -127,7 +128,8 @@ create_country_leader = {
 			}
 		}
 
-		ruling_party = neutrality
+		set_politics = { 
+ ruling_party = neutrality
 		last_election = "1938.1.1"
 		election_frequency = 48
 		elections_allowed = no

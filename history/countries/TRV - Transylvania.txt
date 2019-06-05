@@ -21,9 +21,9 @@ set_technology = {
 	early_bomber = 1
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 65
 		}
@@ -38,11 +38,12 @@ set_politics = {
 
 		neutrality = { 
 			popularity = 10
-			banned = yes
+			
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1960.1.1"
 	election_frequency = 40
 	elections_allowed = yes

@@ -24,9 +24,9 @@ set_technology = {
 
 set_convoys = 0
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 20
 		}
@@ -37,7 +37,7 @@ set_politics = {
 		
 		communism = {
 			popularity = 20
-			#banned = no #default is no
+			
 		}
 		
 		neutrality = { 
@@ -45,7 +45,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = neutrality
+	set_politics = { 
+ ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 36
 	elections_allowed = yes

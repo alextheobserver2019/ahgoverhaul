@@ -28,9 +28,9 @@ set_technology = {
 	motorised_infantry = 1
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 51
 		}
@@ -44,7 +44,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = yes
@@ -114,9 +115,9 @@ set_stability = 0.5
 		dispersed_industry3 = 1
 	}
 
-	set_politics = {
+	
 
-	parties = {
+	set_popularities = {
 		democratic = { 
 			popularity = 29
 		}
@@ -130,7 +131,8 @@ set_stability = 0.5
 		}
 	}
 	
-	ruling_party = communism
+	set_politics = { 
+ ruling_party = communism
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = yes

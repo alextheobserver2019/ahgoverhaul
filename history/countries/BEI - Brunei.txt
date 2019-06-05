@@ -41,9 +41,9 @@ set_technology = {
 	fleet_in_being = 1
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 15
 		}
@@ -60,7 +60,8 @@ set_politics = {
 		}
 	}
 
-	ruling_party = neutrality
+	set_politics = { 
+ ruling_party = neutrality
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = no

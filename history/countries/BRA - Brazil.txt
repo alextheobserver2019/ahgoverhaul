@@ -20,9 +20,9 @@ set_technology = {
 }
 set_country_flag = monroe_doctrine
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 0
 		}
@@ -40,7 +40,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = neutrality
+	set_politics = { 
+ ruling_party = neutrality
 	last_election = "1934.7.17"
 	election_frequency = 48
 	elections_allowed = no
@@ -93,9 +94,9 @@ create_country_leader = {
 set_convoys = 40
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 		democratic = { 
 			popularity = 0
 		}
@@ -113,7 +114,8 @@ set_convoys = 40
 		}
 	}
 	
-	ruling_party = neutrality
+	set_politics = { 
+ ruling_party = neutrality
 		last_election = "1934.7.17"
 		election_frequency = 48
 		elections_allowed = no

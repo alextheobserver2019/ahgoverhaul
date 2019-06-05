@@ -18,27 +18,11 @@ set_technology = {
 	transport = 1
 }
 
-set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 2
-		}
 
-		fascism = {
-			popularity = 6
-		}
-		
-		communism = {
-			popularity = 2
-		}
-		
-		neutrality = {
-			popularity = 90
-		}
-	}
 	
-	ruling_party = neutrality
+	set_politics = { 
+ ruling_party = neutrality
 	last_election = "1960.1.1"
 	election_frequency = 50
 	elections_allowed = no
@@ -55,6 +39,23 @@ create_country_leader = {
 	}
 }
 
+	set_popularities = {
+		democratic = { 
+			popularity = 2
+		}
+
+		fascism = {
+			popularity = 6
+		}
+		
+		communism = {
+			popularity = 2
+		}
+		
+		neutrality = {
+			popularity = 90
+		}
+	}
 create_country_leader = {
 	name = "Ernst Toller"
 	desc = ""

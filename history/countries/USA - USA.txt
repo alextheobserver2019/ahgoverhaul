@@ -169,9 +169,9 @@ give_guarantee = URG
 set_convoys = 400
 
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 99
 		}
@@ -182,11 +182,12 @@ set_politics = {
 		
 		communism = {
 			popularity = 1
-			#banned = no #default is no
+			
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = yes
@@ -209,9 +210,9 @@ add_ideas = {
 
 1939.1.1 = {
 
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 99
 			}
@@ -222,11 +223,12 @@ add_ideas = {
 			
 			communism = {
 				popularity = 1
-				#banned = no #default is no
+				
 			}
 		}
 		
-		ruling_party = democratic
+		set_politics = { 
+ ruling_party = democratic
 		last_election = "1936.11.3"
 		election_frequency = 48
 		elections_allowed = yes

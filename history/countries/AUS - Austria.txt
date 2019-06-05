@@ -14,9 +14,9 @@ set_technology = {
 	early_fighter = 1
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		neutrality = { 
 			popularity = 48
 		}
@@ -34,7 +34,8 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = neutrality
+	set_politics = { 
+ ruling_party = neutrality
 	last_election = "1930.11.9"
 	election_frequency = 48
 	elections_allowed = no

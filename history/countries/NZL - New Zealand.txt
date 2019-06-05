@@ -122,9 +122,9 @@ if = {
 		dispersed_industry2 = 1
 	}
 }
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 100
 		}
@@ -135,11 +135,12 @@ set_politics = {
 		
 		communism = {
 			popularity = 0
-			#banned = no #default is no
+			
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1935.11.27"
 	election_frequency = 36
 	elections_allowed = yes
@@ -192,9 +193,9 @@ create_country_leader = {
 set_convoys = 70
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 100
 			}
@@ -205,11 +206,12 @@ set_convoys = 70
 			
 			communism = {
 				popularity = 0
-				#banned = no #default is no
+				
 			}
 		}
 		
-		ruling_party = democratic
+		set_politics = { 
+ ruling_party = democratic
 		last_election = "1938.10.15"
 		election_frequency = 60
 		elections_allowed = yes

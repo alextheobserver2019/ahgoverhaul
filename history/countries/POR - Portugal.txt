@@ -71,9 +71,9 @@ set_technology = {
 }
 
 set_convoys = 50
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = {
 			popularity = 0
 		}
@@ -91,16 +91,17 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = fascism
+	set_politics = { 
+ ruling_party = fascism
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = {
 				popularity = 0
 			}
@@ -118,7 +119,8 @@ set_politics = {
 			}
 		}
 		
-		ruling_party = neutrality
+		set_politics = { 
+ ruling_party = neutrality
 		last_election = "1938.10.30"
 		election_frequency = 48
 		elections_allowed = yes

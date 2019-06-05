@@ -67,9 +67,9 @@ set_convoys = 5
 	}
 }
 
-set_politics = {
 
-	parties = {
+
+	set_popularities = {
 		democratic = { 
 			popularity = 82
 		}
@@ -80,11 +80,12 @@ set_politics = {
 		
 		communism = {
 			popularity = 9
-			#banned = no #default is no
+			
 		}
 	}
 	
-	ruling_party = democratic
+	set_politics = { 
+ ruling_party = democratic
 	last_election = "1935.9.15"
 	election_frequency = 72
 	elections_allowed = yes
@@ -113,9 +114,9 @@ create_country_leader = {
 }
 
 1939.1.1 = {
-	set_politics = {
+	
 
-		parties = {
+		set_popularities = {
 			democratic = { 
 				popularity = 82
 			}
@@ -126,11 +127,12 @@ create_country_leader = {
 			
 			communism = {
 				popularity = 9
-				#banned = no #default is no
+				
 			}
 		}
 		
-		ruling_party = democratic
+		set_politics = { 
+ ruling_party = democratic
 		last_election = "1935.9.15"
 		election_frequency = 72
 		elections_allowed = yes
