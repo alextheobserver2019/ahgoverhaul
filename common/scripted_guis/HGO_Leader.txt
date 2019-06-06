@@ -9,14 +9,14 @@ scripted_gui = {
 			always = yes
 		}
 
-		trigger = {
+		triggers = {
 			Default_Epic_Portrait = {
 				tag = USA
 			}
 		}
 
 		properties = {
-			Epic_Portrait = {
+			Epic_Portrait_Image_Default = {
 				image = "[get_my_portrait_texture]"
 			}
 		}

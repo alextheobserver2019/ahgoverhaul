@@ -2,22 +2,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Default_Epic_Portrait"
-		texturefile = "gfx/Leaders_Epic/George_V.dds"
-		legacy_lazy_load = no
-	}
-	spriteType = {
-		name = "GFX_HOS_Italy"
-		texturefile = "gfx/Leaders_Epic/Victor_Emmanuel_III.dds"
-		legacy_lazy_load = no
-	}
-	spriteType = {
-		name = "GFX_HOS_Britain"
-		texturefile = "gfx/Leaders_Epic/George_V.dds"
-		legacy_lazy_load = no
-	}
-	spriteType = {
-		name = "GFX_HOS_Belgium"
-		texturefile = "gfx/Leaders_Epic/Leopold_III.dds"
+		texturefile = "gfx/Leaders_Epic/Default_Epic_Portrait.tga"
 		legacy_lazy_load = no
 	}
 }

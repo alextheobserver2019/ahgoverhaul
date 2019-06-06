@@ -15,7 +15,7 @@ guiTypes = {
 		}
 
 		iconType = {
-			name ="Epic_Portrait"
+			name ="Default_Epic_Portrait"
 			spriteType = "GFX_Default_Epic_Portrait"
 			position = { x = 8 y = 10 }
 		}

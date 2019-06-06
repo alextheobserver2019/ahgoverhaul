@@ -14,6 +14,7 @@ defined_text = {
 			original_tag = ITA
 		}
 		localization_key = GFX_HOS_Italy
+	}
 	text = {
 		trigger = {
 			original_tag = BEL
