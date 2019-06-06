@@ -1,7 +1,7 @@
 defined_text = {
 	name = Epic_Leader_Name
 	text = {
-		trigger = {
+		triggers = {
 			original_tag = USA
 		}
 		localization_key = GER_LEADER

@@ -339,6 +339,10 @@ FWA_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
+BHU_RAJ = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 200  10  10 }
+}
 OMA_RAJ = {
 	color = rgb { 170  10  10 }
 	color_ui = rgb { 200  10  10 }
@@ -581,7 +585,18 @@ CHI_power_struggle_defeated = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
 }
-
+MON_SOV = {
+	color = rgb { 114 0 0 }
+	color_ui = rgb { 114 0 0 }
+}
+TAN_SOV = {
+	color = rgb { 129 0 0 }
+	color_ui = { 129 0 0 }
+}
+SIK_SOV = {
+	color = rgb { 134 0 0 }
+	color_ui = { 134 0 0 }
+}
 IBRA = {
 	color = rgb { 67 210 17 }
 	color_ui = rgb { 67 210 17 }

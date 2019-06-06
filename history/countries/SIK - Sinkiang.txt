@@ -10,7 +10,7 @@ set_technology = {
 	infantry_weapons = 1
 	mass_assault = 1
 }
-
+set_cosmetic_tag = SIK_SOV
 add_ideas = {
 	#Chinese_Warlord
 	limited_conscription

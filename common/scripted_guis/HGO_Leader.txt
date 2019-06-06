@@ -9,7 +9,7 @@ scripted_gui = {
 			always = yes
 		}
 
-		triggers = {
+		trigger = {
 			Default_Epic_Portrait = {
 				tag = USA
 			}
