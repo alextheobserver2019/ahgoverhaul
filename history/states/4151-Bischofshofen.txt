@@ -1,7 +1,9 @@
 state={
-	id=1230
-	name="STATE_1230"
-	
+	id=4151
+	name="STATE_4151"
+	provinces={
+		3675 
+	}
 	history={
 		owner = AUS
 		buildings = {
@@ -9,14 +11,14 @@ state={
 
 		}
 		add_core_of = AUS
-		add_core_of = CRT
+		add_core_of = SLZ
 	}
 	
 	provinces={
 		3674 
 	}
 	
-	manpower=95623
+	manpower=1000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
-	state_category=town
 }
