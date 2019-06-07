@@ -14,9 +14,6 @@ state={
 		add_core_of = SLZ
 	}
 	
-	provinces={
-		3674 
-	}
 	
 	manpower=1000
 	state_category = pastoral
