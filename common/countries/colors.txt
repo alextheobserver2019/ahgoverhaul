@@ -1827,3 +1827,47 @@ BKH = {
 color = rgb { 0 193 0 }
 color_ui = rgb { 0 193 0 }
 }
+VIR = {
+	color = rgb { 25 17 63 }
+	color_ui = rgb { 25 17 63 }
+}
+DEL = {
+	color = rgb { 101 132 145 }
+	color_ui = rgb { 101 132 145 }
+}
+MRY = {
+	color = rgb { 60 68 71 }
+	color_ui = rgb { 60 68 71 }
+}
+NCR = {
+	color = rgb { 96 29 79 }
+	color_ui = rgb { 96 29 79 }
+}
+SCR = {
+	color = rgb { 99 75 9 }
+	color_ui = rgb { 99 75 9 }
+}
+GRG = {
+	color = rgb { 239 131 88 }
+	color_ui = rgb { 239 131 88 }
+}
+CON = {
+	color = rgb { 175 43 7 }
+	color_ui = rgb { 175 43 7  }
+}
+RHO = {
+	color = rgb { 206 206 221 }
+	color_ui = rgb { 206 206 221  }
+}
+MAS = {
+	color = rgb { 0 110 255 }
+	color_ui = rgb { 0 110 255  }
+}
+PEN = {
+	color = rgb { 35 221 94  }
+	color_ui = rgb { 35 221 94  }
+}
+NJR = {
+	color = rgb { 36 176 181  }
+	color_ui = rgb { 36 176 181  }
+}
