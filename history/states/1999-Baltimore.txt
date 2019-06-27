@@ -10,6 +10,7 @@ state={
 			6984 5 
 		}
 		add_core_of = USA
+		add_core_of = MRY
 		buildings = {
 			infrastructure = 4
 			6984 = {

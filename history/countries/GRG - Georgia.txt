@@ -1,4 +1,4 @@
-﻿capital = 365
+﻿capital = 4203
 
 oob = GRG_1936
 

@@ -1,4 +1,4 @@
-﻿capital = 789
+﻿capital = 907
 # new state
 
 oob = RHO_1936

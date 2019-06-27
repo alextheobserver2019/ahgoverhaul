@@ -1,4 +1,4 @@
-﻿capital = 358
+﻿capital = 1947
 
 oob = "NWY_1936"
 

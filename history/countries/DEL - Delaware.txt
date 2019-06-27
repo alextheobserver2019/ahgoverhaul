@@ -1,4 +1,4 @@
-﻿capital = 793
+﻿capital = 1083
 
 oob = DEL_1936
 

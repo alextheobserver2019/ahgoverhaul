@@ -9,6 +9,7 @@ state={
 		}
 		add_core_of = CAN
 		add_core_of = NEG
+		add_core_of = NHM
 		add_core_of = USA
 	}
 	

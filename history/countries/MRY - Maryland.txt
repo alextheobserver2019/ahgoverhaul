@@ -1,4 +1,4 @@
-﻿capital = 361
+﻿capital = 1999
 
 oob = MRY_1936
 
