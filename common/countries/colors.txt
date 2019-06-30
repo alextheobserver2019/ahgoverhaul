@@ -1871,3 +1871,183 @@ NJR = {
 	color = rgb { 36 176 181  }
 	color_ui = rgb { 36 176 181  }
 }
+HYD = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MYS = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+TVC = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+COC = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+PUD = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+BDA = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+JGH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NVN = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+KUT = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+BHV = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+IDR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+ORC = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+REW = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+BNR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+RMP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+RLM = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+BHO = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+INR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+GWA = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+DWS = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+DWJ = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+DHA = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+PRG = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+BNS = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+DGP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+JIP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+AWR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+KUL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+BHP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+DLP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+BDI = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+KOT = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+KHG = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+UDP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+TNK = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+SRH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+JDP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+BKN = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+JSM = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+BHW = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+JND = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+KPT = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+PTI = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NBH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+NSE = {
+color = rgb { 92 92 92 }
+color_ui = rgb { 92 92 92 }
+}
