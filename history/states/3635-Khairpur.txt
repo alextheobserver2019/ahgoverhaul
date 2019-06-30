@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = RAJ
+		owner = SND
 		add_core_of = PAK
 		add_core_of = SND
 		buildings = {

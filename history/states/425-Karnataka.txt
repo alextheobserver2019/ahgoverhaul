@@ -12,7 +12,9 @@ state={
 	}
 
 	history={
-		owner = RAJ
+		owner = MYS
+		add_core_of = RAJ
+		add_core_of = MYS
 		victory_points = {
 			8011 1
 		}
@@ -24,6 +26,6 @@ state={
 	}
 
 	provinces={
-		8100 14932 14928 14929 14930 14931 12146 8011 12734 8011 1412
+		8100 14932 14928 14929 14930 14931 12146 12734 8011 1412
 	}
 }

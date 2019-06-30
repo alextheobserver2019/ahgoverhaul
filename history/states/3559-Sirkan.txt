@@ -5,7 +5,7 @@ state={
 		13747
 	}
 	history={
-		owner = RAJ
+		owner = BLO
 		add_core_of = PAK
 		add_core_of = BLO
 		add_claim_by = PER

@@ -9,7 +9,7 @@ state={
 
 		}
 		add_core_of = AFG
-		add_core_of = BLO
+		add_claim_by = BLO
 
 	}
 

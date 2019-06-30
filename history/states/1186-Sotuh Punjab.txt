@@ -3,8 +3,9 @@ state={
 	name="STATE_1186"
 
 	history={
-		owner = RAJ
+		owner = BHW
 		add_core_of = RAJ
+		add_core_of = BHW
 		add_core_of = KHL
 		buildings = {
 			infrastructure = 5
