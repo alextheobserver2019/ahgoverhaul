@@ -10,7 +10,7 @@ state={
 
 		}
 		add_core_of = PAK
-		add_core_of = SND
+		add_claim_by = SND
 
 	}
 

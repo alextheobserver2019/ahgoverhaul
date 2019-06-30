@@ -14,6 +14,8 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = RAJ
+		add_claim_by = PAK
+		add_claim_by = BAN
 	}
 	buildings_max_level_factor=1.000
 }
