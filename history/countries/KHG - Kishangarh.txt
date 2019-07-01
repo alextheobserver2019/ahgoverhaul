@@ -1,4 +1,4 @@
-﻿capital = 404 
+﻿capital = 4242 
 
 oob = "KHG_1936"
 

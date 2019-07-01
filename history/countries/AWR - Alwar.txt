@@ -1,4 +1,4 @@
-﻿capital = 404 
+﻿capital = 4268 
 
 oob = "AWR_1936"
 

@@ -1,4 +1,4 @@
-﻿capital = 404 
+﻿capital = 4309 
 
 oob = "NSE_1936"
 

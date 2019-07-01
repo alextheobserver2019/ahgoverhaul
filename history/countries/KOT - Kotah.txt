@@ -1,4 +1,4 @@
-﻿capital = 404 
+﻿capital = 4238 
 
 oob = "KOT_1936"
 

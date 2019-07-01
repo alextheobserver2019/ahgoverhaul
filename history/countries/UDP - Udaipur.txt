@@ -1,4 +1,4 @@
-﻿capital = 404 
+﻿capital = 1004 
 
 oob = "UDP_1936"
 
