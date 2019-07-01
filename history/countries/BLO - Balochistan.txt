@@ -1,7 +1,7 @@
 ﻿capital = 3179
 
 oob = "BLO_1936"
-
+set_cosmetic_tag = BLO_KAL
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

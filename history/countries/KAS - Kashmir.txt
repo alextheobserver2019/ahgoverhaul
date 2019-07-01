@@ -1,7 +1,7 @@
 ﻿capital = 441
 
 oob = "RAJ_gen"
-
+set_cosmetic_tag = KAS_RAJ
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

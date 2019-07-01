@@ -343,6 +343,18 @@ BHU_RAJ = {
 	color = rgb { 170  10  10 }
 	color_ui = rgb { 200  10  10 }
 }
+KAS_RAJ = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 200  10  10 }
+}
+BLO_KAL = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 200  10  10 }
+}
+SND_KHR = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 200  10  10 }
+}
 OMA_RAJ = {
 	color = rgb { 170  10  10 }
 	color_ui = rgb { 200  10  10 }
