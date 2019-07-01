@@ -30,7 +30,7 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "Rajagopala Tondaiman
+	name = "Rajagopala Tondaiman"
 	desc = ""
 	picture = "gfx/leaders/Princely/pudukkottai.dds"
 	expire = "1965.1.1"

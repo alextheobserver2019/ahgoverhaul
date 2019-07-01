@@ -1,4 +1,4 @@
-﻿capital = 997
+﻿capital = 3635
 
 oob = "SND_1936"
 set_cosmetic_tag = SND_KHR
