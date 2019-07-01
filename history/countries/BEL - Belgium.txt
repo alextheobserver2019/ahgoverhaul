@@ -19,23 +19,23 @@ set_technology = {
 }
 
 
-#if = {
-#	limit = {
-#		has_dlc = "Together for Victory"
-#	}
-#	set_autonomy = {
-#		target = RUU
-#		autonomous_state = autonomy_puppet
-#	}
-#	set_autonomy = {
-#		target = COG
-#		autonomous_state = autonomy_colony
-#	}
-#	else = {
-#		puppet = RUU
-#		puppet = COG
-#	}
-#}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = RUU
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = COG
+		autonomous_state = autonomy_colony
+	}
+	else = {
+		puppet = RUU
+		puppet = COG
+	}
+}
 
 
 

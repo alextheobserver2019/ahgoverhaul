@@ -95,11 +95,11 @@ add_ideas = {
 }
 
 
-# DIPLOMACY
-#set_autonomy = {
-#	target = PHI
-#	autonomous_state =  autonomy_puppet
-#}
+ DIPLOMACY
+set_autonomy = {
+	target = PHI
+	autonomous_state =  autonomy_puppet
+}
 
 
 create_country_leader = {

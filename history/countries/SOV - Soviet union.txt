@@ -40,7 +40,29 @@ set_technology = {
 
 set_convoys = 50
 
-
+	
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = MON
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = TAN
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = SIK
+		autonomous_state = autonomy_dominion
+	}
+	else = {
+		puppet = MON
+		puppet = TAN
+		puppet = SIK
+	}
+}
 
 	set_popularities = {
 		democratic 
@@ -56,11 +78,6 @@ set_convoys = 50
 	election_frequency = 48
 	elections_allowed = no
 }
-
-create_faction = Comintern
-add_to_faction = SOV
-add_to_faction = MON
-add_to_faction = TAN
 
 
 add_ideas = {

@@ -36,18 +36,18 @@ if = {
 	add_opinion_modifier = { target = ENG modifier = SAF_anti_british_sentiment }
 }
 
-#if = {
-#	limit = {
-#		has_dlc = "Together for Victory"
-#	}
-#	set_autonomy = {
-#		target = NMB
-#		autonomous_state = autonomy_integrated_puppet
-#	}
-#	else = {
-#		puppet = NMB
-#	}
-#}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = NMB
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = NMB
+	}
+}
 
 
 set_convoys = 25

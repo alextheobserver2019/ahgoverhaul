@@ -76,8 +76,6 @@ create_import = {
 
 }
 
-create_faction = Axis
-add_to_faction = GER
 
 
 add_ideas = {

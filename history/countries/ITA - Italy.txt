@@ -49,28 +49,28 @@ set_technology = {
 		type = annex_everything
 	}
 	give_guarantee = ALB
-#if = {
-#	limit = {
-#		has_dlc = "Together for Victory"
-#	}
-#	set_autonomy = {
-#		target = SOM
-#		autonomous_state = autonomy_reichskommissariat
-#	}
-#	set_autonomy = {
-#		target = ERI
-#		autonomous_state = autonomy_reichskommissariat
-#	}
-#	set_autonomy = {
-#		target = LBA
-#		autonomous_state = autonomy_reichskommissariat
-#	}
-#	else = {
-#		puppet = SOM
-#		puppet = ERI
-#		puppet = LBA
-#	}
-#}
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = SOM
+		autonomous_state = autonomy_reichskommissariat
+	}
+	set_autonomy = {
+		target = ERI
+		autonomous_state = autonomy_reichskommissariat
+	}
+	set_autonomy = {
+		target = LBA
+		autonomous_state = autonomy_reichskommissariat
+	}
+	else = {
+		puppet = SOM
+		puppet = ERI
+		puppet = LBA
+	}
+}
 
 
 set_convoys = 200
