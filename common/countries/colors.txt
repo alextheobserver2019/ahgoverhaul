@@ -2051,3 +2051,11 @@ NSE = {
 color = rgb { 92 92 92 }
 color_ui = rgb { 92 92 92 }
 }
+DTA = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+KHP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
