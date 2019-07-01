@@ -28,3 +28,14 @@ set_politics = {
 	elections_allowed = no
 }
 
+
+create_country_leader = {
+	name = "Krishna Raja Wadiyar IV"
+	desc = ""
+	picture = "gfx/leaders/Princely/mysore.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

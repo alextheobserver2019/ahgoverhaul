@@ -28,3 +28,13 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Bapu Sahib"
+	desc = ""
+	picture = "gfx/leaders/Princely/dewas senior.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

@@ -28,3 +28,14 @@ set_politics = {
 	elections_allowed = no
 }
 
+
+create_country_leader = {
+	name = "Ram Singh"
+	desc = ""
+	picture = "gfx/leaders/Princely/pratabgarh.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

@@ -28,3 +28,14 @@ set_convoys = 10
 	elections_allowed = no
 }
 
+
+create_country_leader = {
+	name = "Mir Faiz Muhammad Khan Talpur II"
+	desc = ""
+	picture = "gfx/leaders/Princely/khairpur.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

@@ -28,3 +28,13 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Digvijaysinhji Ranjitsinhji"
+	desc = ""
+	picture = "gfx/leaders/Princely/nawanagar.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

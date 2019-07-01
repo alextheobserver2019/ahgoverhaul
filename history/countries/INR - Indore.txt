@@ -28,3 +28,13 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Yashwant Rao II Holkar XIV"
+	desc = ""
+	picture = "gfx/leaders/Princely/indore.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

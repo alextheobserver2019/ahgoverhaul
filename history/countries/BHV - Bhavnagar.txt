@@ -28,3 +28,24 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Krishna Kumarsinhji Bhavsinhji"
+	desc = ""
+	picture = "gfx/leaders/Princely/bhavnagar.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Ishwari Singh"
+	desc = ""
+	picture = "gfx/leaders/Princely/bundi.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

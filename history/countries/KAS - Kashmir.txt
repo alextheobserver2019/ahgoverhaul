@@ -35,11 +35,11 @@ set_technology = {
 	elections_allowed = yes
 }
 
-	create_country_leader = {
+create_country_leader = {
 	name = "Hari Singh"
 	desc = ""
-	picture = "gfx/leaders/South Asia/Hari_Singh.dds"
-	expire = "1961.4.26"
+	picture = "gfx/leaders/Princely/kashmir.dds"
+	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
 		#
