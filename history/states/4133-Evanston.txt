@@ -11,6 +11,8 @@ state={
 	history={
 		owner = USA
 		add_core_of = USA
+		add_core_of = ILL
+		add_core_of = CHC
 		buildings = {
 			infrastructure = 1
 		}

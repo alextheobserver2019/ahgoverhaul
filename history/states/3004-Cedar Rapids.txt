@@ -5,6 +5,7 @@ state={
 		
 		owner = USA 
 		add_core_of = USA
+		add_core_of = IOW
 		buildings = {
 			infrastructure = 4
 			

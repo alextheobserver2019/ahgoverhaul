@@ -5,6 +5,8 @@ state={
 		
 		owner = USA 
 		add_core_of = USA
+		add_core_of = ORG
+		add_core_of = CAS
 		buildings = {
 			infrastructure = 4
 			

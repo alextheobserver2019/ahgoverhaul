@@ -42,14 +42,15 @@ set_convoys = 30
 
 	set_popularities = {
 		democratic 
-			 = 100
+			 = 20
 		fascism
 			 = 0
 		communism
 			 = 0
+		neutrality = 80
 		}
 	set_politics = { 
- ruling_party = democratic
+ ruling_party = neutrality
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
@@ -62,7 +63,7 @@ add_ideas = {
 
 
 create_country_leader = {
-	name = "Styles Bdridges"
+	name = "Styles Bridges"
 	desc = ""
 	picture = "Portrait_New_Hampshire_Style_Bridges.dds"
 	expire = "1950.1.1"

@@ -5,6 +5,7 @@ state={
 		
 		owner = USA 
 		add_core_of = USA
+		add_core_of = CLR
 		buildings = {
 			infrastructure = 4
 			

@@ -3,6 +3,7 @@ state={
 	name="STATE_2566"
 	history={
 		owner = USA 
+		add_core_of = HAW
 		buildings = {
 			infrastructure = 4
 			

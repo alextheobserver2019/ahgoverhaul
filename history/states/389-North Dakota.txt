@@ -15,6 +15,7 @@ state={
 
 		}
 		add_core_of = USA
+		add_core_of = NDA
 		victory_points = {
 			1836 1 
 		}

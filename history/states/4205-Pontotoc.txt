@@ -9,6 +9,7 @@ state={
 		owner = USA 
 		add_core_of = USA
 		add_core_of = CSA
+		add_core_of = MSS
 		buildings = {
 			infrastructure = 4
 			

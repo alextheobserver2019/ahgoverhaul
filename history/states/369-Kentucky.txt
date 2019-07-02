@@ -12,6 +12,7 @@ state={
 
 		}
 		add_core_of = USA
+		add_core_of = KNT
 		victory_points = {
 			6696 1 
 		}

@@ -8,6 +8,7 @@ state={
 		owner = USA
 		add_core_of = USA
 		add_core_of = ABS
+		add_core_of = NDA
 		buildings = {
 			infrastructure = 4
 		}

@@ -13,6 +13,7 @@ state={
 		}
 		add_core_of = CAN
 		add_core_of = NVS
+		add_core_of = CBI
 
 	}
 

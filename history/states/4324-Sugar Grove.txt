@@ -1,6 +1,6 @@
 state={
 	id=4324
-	name="STATE_4234"
+	name="STATE_4324"
 
 	history={
 		owner = USA
@@ -9,7 +9,7 @@ state={
 
 		}
 		add_core_of = USA
-		add_core_of = VIR
+		add_core_of = WVR
 
 	}
 	
