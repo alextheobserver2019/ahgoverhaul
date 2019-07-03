@@ -16,6 +16,7 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = NDA
+		add_core_of = GMA
 		victory_points = {
 			1836 1 
 		}
@@ -23,7 +24,7 @@ state={
 	}
 
 	provinces={
-		1836 4759 4772 10709 
+		1836 4772 
 	}
 	manpower=680844
 	buildings_max_level_factor=1.000

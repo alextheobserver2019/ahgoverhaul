@@ -9,6 +9,7 @@ state={
 		add_core_of = USA
 		add_core_of = ABS
 		add_core_of = NDA
+		add_core_of = GMA
 		buildings = {
 			infrastructure = 4
 		}

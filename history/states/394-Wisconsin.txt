@@ -16,6 +16,7 @@ state={
 			industrial_complex = 3
 		}
 		add_core_of = USA
+		add_core_of = GMA
 		add_core_of = WSC
 		victory_points = {
 			12357 5 

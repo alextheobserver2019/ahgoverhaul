@@ -12,6 +12,8 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = NDA
+		add_core_of = MET
+		add_core_of = GMA
 	}
 
 	provinces={

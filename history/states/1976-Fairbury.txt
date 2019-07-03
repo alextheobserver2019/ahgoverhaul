@@ -8,6 +8,7 @@ state={
 		owner = USA
 		add_core_of = USA
 		add_core_of = NEB
+		add_core_of = GMA
 		buildings = {
 			infrastructure = 4
 		}
