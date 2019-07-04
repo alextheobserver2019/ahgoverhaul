@@ -1,4 +1,4 @@
-﻿capital = 364
+﻿capital = 3031
 
 oob = SCR_1936
 

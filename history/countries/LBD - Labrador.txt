@@ -1,4 +1,4 @@
-﻿capital = 404
+﻿capital = 332
 
 oob = "LBD_1936"
 

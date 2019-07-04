@@ -1,4 +1,4 @@
-﻿capital = 404
+﻿capital = 381
 
 oob = "WYO_1936"
 

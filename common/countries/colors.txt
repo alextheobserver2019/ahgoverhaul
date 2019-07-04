@@ -2135,7 +2135,7 @@ ILL = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
-IND = {
+INA = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
@@ -2224,6 +2224,10 @@ color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
 PCZ = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+WDC = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }

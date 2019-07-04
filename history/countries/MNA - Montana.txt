@@ -1,4 +1,4 @@
-﻿capital = 404
+﻿capital = 1428
 
 oob = "MNA_1936"
 

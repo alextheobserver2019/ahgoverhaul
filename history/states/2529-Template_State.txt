@@ -3,7 +3,7 @@ state={
 	name="STATE_2529"
 	history={
 		owner = USA
-		add_claim_by = HAI
+		add_core_of = HAI
 		buildings = {
 			infrastructure = 4
 			

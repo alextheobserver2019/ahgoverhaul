@@ -1,4 +1,4 @@
-﻿capital = 4207
+﻿capital = 359
 
 oob = NJR_1936
 

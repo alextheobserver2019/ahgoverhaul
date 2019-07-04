@@ -1,4 +1,4 @@
-﻿capital = 404
+﻿capital = 1994
 
 oob = "ILL_1936"
 

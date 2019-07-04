@@ -1,4 +1,4 @@
-﻿capital = 404
+﻿capital = 394
 
 oob = "WSC_1936"
 

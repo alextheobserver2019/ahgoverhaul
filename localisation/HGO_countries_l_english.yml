@@ -7627,3 +7627,16 @@
  PCZ_neutrality_DEF:0 "Panama Canal Zone"
  PCZ_neutrality_ADJ:0 "Colonian"
 
+ WDC_democratic:0 "Free City of Washington DC"
+ WDC_democratic_DEF:0 "Free City of Washington DC"
+ WDC_democratic_ADJ:0 "Washington-Columbian"
+ WDC_communism:0 "Soviet of Washington DC"
+ WDC_communism_DEF:0 "Soviet of Washington DC"
+ WDC_communism_ADJ:0 "Washington-Columbian"
+ WDC_fascism:0 "Empire of the Founding Fathers"
+ WDC_fascism_DEF:0 "Empire of the Founding Fathers"
+ WDC_fascism_ADJ:0 "Neo-American"
+ WDC_neutrality:0 "Washington, District of Columbia"
+ WDC_neutrality_DEF:0 "Washington, District of Columbia"
+ WDC_neutrality_ADJ:0 "Washington-Columbian"
+

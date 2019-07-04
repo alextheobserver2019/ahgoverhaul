@@ -1,4 +1,4 @@
-﻿capital = 404
+﻿capital = 384
 
 oob = "NEB_1936"
 

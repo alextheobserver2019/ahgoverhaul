@@ -1,4 +1,4 @@
-﻿capital = 1997 
+﻿capital = 912 
 # new state
 
 oob = CON_1936

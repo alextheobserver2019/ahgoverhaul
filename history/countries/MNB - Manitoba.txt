@@ -1,4 +1,4 @@
-﻿capital = 404
+﻿capital = 2004
 
 oob = "MNB_1936"
 

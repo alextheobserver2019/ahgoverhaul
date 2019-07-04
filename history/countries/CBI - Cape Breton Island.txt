@@ -1,4 +1,4 @@
-﻿capital = 404
+﻿capital = 2288
 
 oob = "CBI_1936"
 
