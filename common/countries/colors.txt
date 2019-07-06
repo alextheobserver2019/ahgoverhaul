@@ -335,7 +335,14 @@ XSM = {
 	color = rgb { 200 140 25 }
 	color_ui = rgb { 200 140 25 }
 }
-
+NEA = {
+	color = rgb { 245 170 55 }
+	color_ui = rgb { 245 170 55 }
+}
+HPC = {
+	color = rgb { 250 175 50 }
+	color_ui = rgb { 250 175 50 }
+}
 LBA = {
 	color = rgb { 200 180 90 }
 	color_ui = rgb { 200 180 90 }

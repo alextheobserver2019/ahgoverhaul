@@ -2,9 +2,9 @@ TUN_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
-HPC = {
-	color = rgb { 240 190 50 }
-	color_ui = rgb { 240 190 50 }
+MEN_ECA = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
 }
 CMR_FRA = {
 	color = rgb { 37 72 155 }

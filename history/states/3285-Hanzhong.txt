@@ -2,14 +2,15 @@ state={
 	id=3285
 	name="STATE_3285"
 	provinces={
-		4167 4295 7418 10144 
+		4167 4295 7418 10144 2091
 	}
 	manpower = 1000
 	
 	state_category = pastoral
 
 	history={
-		owner = CHI
+		owner = NEA
+		add_core_of = NEA
 		add_core_of = PRC
 		add_core_of = CHI
 		buildings = {

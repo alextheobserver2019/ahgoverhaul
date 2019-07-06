@@ -5,7 +5,8 @@ state={
 		1590 6904 9776 952 10397 828 1489
 	}
 	history={
-		owner = CHI
+		owner = HPC
+		add_core_of = HPC
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
