@@ -7,10 +7,11 @@ state={
 	state_category = rural
 	history=
 	{
-		owner = UAE
+		owner = ABD
 		buildings = {
 			infrastructure = 1
 			}
+		add_core_of = ABD
 		add_core_of = SAU
 		add_core_of = UAE
 		}

@@ -2231,3 +2231,43 @@ WDC = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
+ABD = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+AJM = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+DUB = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+RAK = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SHJ = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+UAQ = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+FUJ = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SUP = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+JAO = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}
+SCL = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}

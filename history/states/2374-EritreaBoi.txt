@@ -3,18 +3,13 @@ state={
 	name="STATE_2374"
 	
 	history={
-		owner = ETH
+		owner = ERI
 		controller = ERI
 		buildings = {
 			infrastructure = 3
 
 		}
 		add_core_of = ETH
-		1936.6.1 = {
-			owner = ITA
-			controller = ITA
-
-		}
 
 	}
 	

@@ -2,20 +2,21 @@ state={
 	id=3943
 	name="STATE_3943"
 	provinces={
-		14760
+		15060
 	}
 	manpower = 1000
 	
 	state_category = pastoral
 
 	history={
-		owner = UAE
+		owner = OMA
 		buildings = {
 			infrastructure = 8
 
 		}
-		add_core_of = UAE
-		add_claim_by = OMA
+		add_core_of = OMA
+		add_core_of = AJM
+		add_claim_by = UAE
 	
 	}
 	buildings_max_level_factor=1.000

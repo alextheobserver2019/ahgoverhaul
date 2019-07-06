@@ -49,7 +49,27 @@ if = {
 		autonomous_state = autonomy_dominion
 	}
 	set_autonomy = {
-		target = UAE
+		target = AJM
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = ABD
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = UAQ
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = SHJ
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = RAK
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = DUB
 		autonomous_state = autonomy_dominion
 	}
 	set_autonomy = {
@@ -263,7 +283,12 @@ if = {
 	else = {
 		puppet = ADN
 		puppet = OMA
-		puppet = UAE
+		puppet = AJM
+		puppet = ABD
+		puppet = UAQ
+		puppet = SHJ
+		puppet = RAK
+		puppet = DUB
 		puppet = QAT
 		puppet = BHR
 		puppet = KUW

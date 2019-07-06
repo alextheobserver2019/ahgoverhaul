@@ -9,7 +9,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = UAE
+		owner = ABD
+		add_core_of = ABD
 		add_core_of = UAE
 		buildings = {
 			infrastructure = 1

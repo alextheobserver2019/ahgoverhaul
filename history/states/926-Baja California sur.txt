@@ -13,7 +13,8 @@ state={
 
 		}
 		add_core_of = MEX
-		add_core_of = CAL
+		add_claim_by = CAL
+		add_core_of = SCL
 		add_core_of = SON
 
 	}

@@ -17,6 +17,7 @@ state={
 		}
 		add_core_of = SAU
 		add_core_of = UAE
+		add_core_of = ABD
 		add_core_of = OMA
 	}
 	buildings_max_level_factor=1.000

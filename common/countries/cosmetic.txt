@@ -383,6 +383,34 @@ SKM_RAJ = {
 	color = rgb { 170  10  10 }
 	color_ui = rgb { 200  10  10 }
 }
+AJM_RAJ = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 200  10  10 }
+}
+ABD_RAJ = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 200  10  10 }
+}
+DUB_RAJ = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 200  10  10 }
+}
+FUJ_RAJ = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 200  10  10 }
+}
+UAQ_RAJ = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 200  10  10 }
+}
+SHJ_RAJ = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 200  10  10 }
+}
+RAK_RAJ = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 200  10  10 }
+}
 EQG_SPR = {
 	color = rgb { 224 198 94 }
 	color_ui = rgb { 224 198 94 }

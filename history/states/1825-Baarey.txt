@@ -5,7 +5,7 @@ state={
 		4995 
 	}
 	history = {
-	owner = ETH
+	owner = SOM
 	controller = SOM
 	add_core_of = ETH
 	}

@@ -2,7 +2,7 @@ state={
 	id=3333
 	name="STATE_3333"
 	provinces={
-		14416 14417 
+		14415
 	}
 	
 	manpower = 1000
@@ -10,7 +10,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = UAE
+		owner = RAK
+		add_core_of = RAK
 		add_core_of = UAE
 		buildings = {
 			infrastructure = 1
