@@ -116,7 +116,7 @@ EHC = "countries/East Hebei.txt"
 SHH = "countries/Shanghai.txt"
 HMI = "countries/Hami.txt"
 HPC = "countries/Chinese 29th Army.txt"
-NEA = "countries/NE army.txt"
+NEA = "countries/Northeastern Army.txt"
 
 ##Asia Imported from CU##
 TWN = "countries/Taiwan.txt"
