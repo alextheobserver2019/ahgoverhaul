@@ -9,7 +9,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 2729;2408;sea;3231;2946;449;2963;1614;KAISER_WILHELM_CANAL;Kiel Canal
 5388;803;sea;1155;-1;-1;-1;-1;SUEZ_CANAL;Suez
 299;211;sea;2282;-1;-1;-1;-1;;Småland-Öland
-9228;6066;sea;990;-1;-1;-1;-1;;Finald-Aland
+14212;6066;sea;990;-1;-1;-1;-1;;Finald-Aland
 6345;6287;sea;2382;-1;-1;-1;-1;;Skåne-Sjaelland
 3260;3325;sea;2408;-1;-1;-1;-1;;Sjaelland-Fyn
 3260;3374;sea;2408;-1;-1;-1;-1;;Sjaelland-SdFyn
@@ -89,12 +89,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 177;7123;sea;5533;-1;-1;-1;-1;;Martinique-Dominica
 7123;9377;sea;5533;-1;-1;-1;-1;;Dominica-Guadeloupe
 9377;4450;sea;2887;-1;-1;-1;-1;;Guadeloupe-Montserrat
-13821;13811;sea;2887;-1;-1;-1;-1;;Montserrat-Anguilla
 13084;4155;sea;5507;-1;-1;-1;-1;;Anguilla-Virgin Islands
-1440;4155;sea;5507;-1;-1;-1;-1;;Puerto Rico-Virgin Islands
 10203;9805;sea;5864;-1;-1;-1;-1;;Corfu-Epirus
 1106;12001;sea;5913;-1;-1;-1;-1;;Lefkada-Epirus
-3401;7127;sea;6801;-1;-1;-1;-1;;Cyclades-Greece
+15108;7127;sea;6801;-1;-1;-1;-1;;Cyclades-Greece
 4178;13355;sea;225;-1;-1;-1;-1;;Peloponese-Kythira
 8435;6864;sea;7452;-1;-1;-1;-1;;Lesbos-Turkey
 6550;4112;sea;7226;-1;-1;-1;-1;;Chios-Turkey
@@ -125,13 +123,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13208;8051;sea;2691;-1;-1;-1;-1;;Bahrain-Qatar
 7683;13225;sea;8642;-1;-1;-1;-1;;Anticosti Island
 7810;12698;sea;2935;-1;-1;-1;-1;;Newfundland
-13718;8435;sea;7452;-1;-1;-1;-1;;Aegean
-895;13369;sea;7452;-1;-1;-1;-1;;Aegean
-13363;13369;sea;7452;-1;-1;-1;-1;;Aegean
 13363;895;sea;7452;-1;-1;-1;-1;;Aegean
 9930;13686;sea;7452;-1;-1;-1;-1;;Aegean
-3401;13649;sea;6801;-1;-1;-1;-1;;Aegean
-13723;13649;sea;6801;-1;-1;-1;-1;;Aegean
+3401;15100;sea;6801;-1;-1;-1;-1;;Aegean
+15065;13649;sea;6801;-1;-1;-1;-1;;Aegean
 11064;13224;sea;3195;-1;-1;-1;-1;;Orkney Island
 13287;13288;sea;2871;-1;-1;-1;-1;;Channel Islands
 13302;7463;sea;5960;-1;-1;-1;-1;;Rupat-Sumatra
@@ -151,9 +146,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13806;153;sea;2571;-1;-1;-1;-1;;Curacao-Aruba
 13817;13806;sea;2571;-1;-1;-1;-1;;Curacao-Bonaire
 13829;4641;sea;5658;-1;-1;-1;-1;;Haiti
-13809;13279;sea;5507;-1;-1;-1;-1;;Virgin Islands
-4155;13809;sea;5507;-1;-1;-1;-1;;Virgin Islands
-4155;13279;sea;5507;-1;-1;-1;-1;;Virgin Islands
 13825;4965;sea;5840;-1;-1;-1;-1;;Cozumel-Yucatan
 12446;4576;sea;4465;-1;-1;-1;-1;;Sakhalin
 1399;4728;sea;5488;-1;-1;-1;-1;;Kurils
@@ -176,14 +168,14 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13822;317;sea;2408;-1;-1;-1;-1;;Denmark
 13314;394;sea;2431;-1;-1;-1;-1;;Denmark
 13844;9388;sea;2358;-1;-1;-1;-1;;Rugen
-11278;9228;sea;1211;-1;-1;-1;-1;;Aland-Sweden
+11278;14214;sea;1211;-1;-1;-1;-1;;Aland-Sweden
 13814;12003;sea;9013;-1;-1;-1;-1;;Malta
 13834;11957;sea;5631;-1;-1;-1;-1;;Djerba
 1570;12499;sea;5340;-1;-1;-1;-1;;Australia
 11833;13866;sea;5579;-1;-1;-1;-1;;Elba!!!!
 13866;9851;sea;5579;-1;-1;-1;-1;;we've got elba!!!
 13824;11564;sea;5786;-1;-1;-1;-1;;Yugoslavia
-13835;13824;sea;5786;-1;-1;-1;-1;;Yugoslavia
+13835;11735;sea;5786;-1;-1;-1;-1;;Yugoslavia
 13827;591;sea;5786;-1;-1;-1;-1;;Yugoslavia
 13815;13373;sea;5812;-1;-1;-1;-1;;Yugoslavia
 13370;13372;sea;5838;-1;-1;-1;-1;;Yugoslavia
@@ -233,7 +225,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 4391;4828;impassable;-1;-1;-1;-1;-1;;pamir mountains
 4391;1703;impassable;-1;-1;-1;-1;-1;;pamir mountains
 4391;12526;impassable;-1;-1;-1;-1;-1;;pamir mountains
-13069;7855;impassable;-1;-1;-1;-1;-1;;Alaska
 13069;1830;impassable;-1;-1;-1;-1;-1;;Alaska
 13069;10679;impassable;-1;-1;-1;-1;-1;;Alaska
 13069;4848;impassable;-1;-1;-1;-1;-1;;Alaska
