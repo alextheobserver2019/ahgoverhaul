@@ -2278,3 +2278,31 @@ SCL = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
+CYR = {
+color = rgb { 0 0 0 }
+color_ui = rgb { 0 0 0 }
+}
+EPR = {
+color = rgb { 36 112 225 }
+color_ui = rgb { 36 112 225 }
+}
+IKR = {
+color = rgb { 0 0 166 }
+color_ui = rgb { 0 0 166 }
+}
+ION = {
+color = rgb { 187 53 63 }
+color_ui = rgb { 187 53 63 }
+}
+THR = {
+color = rgb { 113 120 27 }
+color_ui = rgb { 113 120 27 }
+}
+KRW = {
+color = rgb { 0 111 221 }
+color_ui = rgb { 0 111 221 }
+}
+SMS = {
+color = rgb { 136 79 0 }
+color_ui = rgb { 136 79 0 }
+}
