@@ -21,6 +21,7 @@ state={
 		}
 		add_core_of = USA
 		add_claim_by = FLO
+		add_claim_by = WFL
 		add_core_of = MSS
 		add_core_of = CSA
 

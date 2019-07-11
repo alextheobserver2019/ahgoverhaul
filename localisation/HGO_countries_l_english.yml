@@ -7874,3 +7874,16 @@
  SMS_neutrality_DEF:0 "The Principality of Samos"
  SMS_neutrality_ADJ:0 "Samian"
 
+ WFL_democratic:0 "Republic of West Florida"
+ WFL_democratic_DEF:0 "The Republic of West Florida"
+ WFL_democratic_ADJ:0 "West Floridan"
+ WFL_communism:0 "People's Republic of West Florida"
+ WFL_communism_DEF:0 "The People's Republic of West Florida"
+ WFL_communism_ADJ:0 "West Floridan"
+ WFL_fascism:0 "State of West Florida"
+ WFL_fascism_DEF:0 "The State of West Florida"
+ WFL_fascism_ADJ:0 "West Floridan"
+ WFL_neutrality:0 "West Florida"
+ WFL_neutrality_DEF:0 "West Florida"
+ WFL_neutrality_ADJ:0 "West Floridan"
+

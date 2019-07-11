@@ -2306,3 +2306,7 @@ SMS = {
 color = rgb { 136 79 0 }
 color_ui = rgb { 136 79 0 }
 }
+WFL = {
+color = rgb { 9 131 176 }
+color_ui = rgb { 9 131 176 }
+}
