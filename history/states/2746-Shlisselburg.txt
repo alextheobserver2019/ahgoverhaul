@@ -9,6 +9,8 @@ state={
 			
 		}
 		add_core_of = PTG
+		add_core_of = RUS
+		add_core_of = SOV
 	}
 	provinces={
 		149
