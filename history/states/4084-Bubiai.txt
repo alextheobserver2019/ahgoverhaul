@@ -2,7 +2,7 @@ state={
 	id=4084
 	name="STATE_4084"
 	provinces={
-		6229 6360 9357 
+		6229 6360	 
 	}
 	history={
 		owner = LIT
@@ -11,6 +11,7 @@ state={
 
 		}
 		add_core_of = LIT
+		add_core_of = SGO
 
 	}
 	manpower=1000
