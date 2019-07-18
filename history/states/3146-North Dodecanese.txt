@@ -5,6 +5,7 @@ state={
 		
 		owner = ITA 
 		add_core_of = GRE
+		add_claim_by = OML
 		buildings = {
 			infrastructure = 4
 			

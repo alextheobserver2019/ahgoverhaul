@@ -8,7 +8,8 @@ state={
 		
 		owner = NFL 
 		add_core_of = NFL
-		#add_core_of = LOU #Add state tag here
+		add_core_of = LBD
+		add_core_of = CAN
 		buildings = {
 			infrastructure = 4
 			

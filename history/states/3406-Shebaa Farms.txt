@@ -12,6 +12,7 @@ state={
 		owner = LEB
 		add_core_of = SYR
 		add_core_of = LEB
+		add_claim_by = OML
 		buildings = {
 			infrastructure = 1
 		}

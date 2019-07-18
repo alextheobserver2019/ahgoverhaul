@@ -11,6 +11,7 @@ state={
 	history={
 		owner = PAL
 		add_core_of = PAL
+		add_claim_by = OML
 		add_core_of = ISR
 		buildings = {
 			infrastructure = 1

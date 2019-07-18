@@ -9,6 +9,7 @@ state={
 	{
 		owner = CYP
 		add_claim_by = CYP
+		add_claim_by = OML
 		buildings = {
 			infrastructure = 3
 			13332 = {

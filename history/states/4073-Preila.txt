@@ -13,6 +13,7 @@ state={
 		add_core_of = PRS
 		add_core_of = LIT
 		add_core_of = KON
+		add_core_of = MML
 
 	}
 	manpower=1000

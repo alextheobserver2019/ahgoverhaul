@@ -12,6 +12,7 @@ state={
 		}
 		add_core_of = GRE
 		add_claim_by = TUR
+		add_claim_by = OML
 
 	}
 	manpower=1000

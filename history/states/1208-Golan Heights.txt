@@ -11,6 +11,7 @@ state={
 			13352 1
 		}
 		add_core_of = SYR
+		add_claim_by = OML
 
 	}
 	

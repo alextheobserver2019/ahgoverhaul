@@ -8,7 +8,8 @@ state={
 		
 		owner = CAN 
 		add_core_of = CAN
-		#add_core_of = LOU #Add state tag here
+		add_core_of = QUE
+		add_claim_by = MNE
 		buildings = {
 			infrastructure = 4
 			
