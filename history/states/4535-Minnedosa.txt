@@ -1,0 +1,20 @@
+state={
+	id=4535
+	name="STATE_4535"
+	provinces={
+		3721 
+	}
+	history={
+		
+		owner = CAN 
+		add_core_of = CAN
+		#add_core_of = LOU #Add state tag here
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	manpower=1000 
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}

@@ -2310,3 +2310,15 @@ WFL = {
 color = rgb { 9 131 176 }
 color_ui = rgb { 9 131 176 }
 }
+MML = {
+color = rgb { 191 96 0 }
+color_ui = rgb { 191 96 0 }
+}
+OML = {
+color = rgb { 215 0 0 }
+color_ui = rgb { 215 0 0 }
+}
+NAF = {
+color = rgb { 0 89 0 }
+color_ui = rgb { 0 89 0 }
+}

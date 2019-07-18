@@ -1,0 +1,20 @@
+state={
+	id=4625
+	name="STATE_4625"
+	provinces={
+		10625 15448 15449 15450 
+	}
+	history={
+		
+		owner = USA 
+		add_core_of = USA
+		#add_core_of = LOU #Add state tag here
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
