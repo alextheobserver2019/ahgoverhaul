@@ -28,6 +28,7 @@ state={
 		}
 		add_core_of = FRA
 		add_core_of = PVC
+		add_core_of = OCC
 		
 
 	}

@@ -4,8 +4,8 @@ state={
 	history={
 		
 		owner = LAT 
+		add_core_of = LAT
 		add_core_of = COU
-		add_core_of = LIV
 		buildings = {
 			infrastructure = 4
 			

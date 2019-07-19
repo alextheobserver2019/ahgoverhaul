@@ -7952,3 +7952,16 @@
  SGO_neutrality_DEF:0 "Samogitia"
  SGO_neutrality_ADJ:0 "Samogitian"
 
+ OCC_democratic:0 "Republic of Occitania"
+ OCC_democratic_DEF:0 "Republic of Occitania"
+ OCC_democratic_ADJ:0 "Occitan"
+ OCC_communism:0 "People's Republic of Occitania"
+ OCC_communism_DEF:0 "People's Republic of Occitania"
+ OCC_communism_ADJ:0 "Occitan"
+ OCC_fascism:0 "Occitan Empire"
+ OCC_fascism_DEF:0 "Occitan Empire"
+ OCC_fascism_ADJ:0 "Occitan"
+ OCC_neutrality:0 "Occitania"
+ OCC_neutrality_DEF:0 "Occitania"
+ OCC_neutrality_ADJ:0 "Occitan"
+
