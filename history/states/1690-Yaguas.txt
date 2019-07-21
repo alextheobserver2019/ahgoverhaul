@@ -9,6 +9,7 @@ history={
 
 		}
 		add_core_of = PRU
+		add_core_of = AMZ
 
 	}
 	
