@@ -514,3 +514,7 @@ OCC = "countries/Occitania.txt"
 AMZ = "countries/Amazonas.txt"
 SIN = "countries/Sinai.txt"
 ACR = "countries/Acre.txt"
+##Finnic niggas
+VOT = "countries/Votia"
+VEP = "countries/Vepsia
+IZH = "countries/Izhoria
