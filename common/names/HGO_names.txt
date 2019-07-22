@@ -446,6 +446,21 @@ BLZ = {
 	callsigns = { }
 }
 
+ACR = { #BLZ Copied
+	male = {
+		names = { 
+			Lorenzo Manuel Álvaro Vitor Conrado Mateus Rafael Diogo
+			José Romeu Raul Felipe Sílvio Francisco Artur Vicente Edson Reinaldo
+		
+		}
+	}
+	female = {
+		names = { }
+	}
+	surnames = { Yamada Ruiz Castilho Quadros Damasceno Espíndola Álves Alvarez Gomes Fagundes Rocha Lopes Ramos }
+	callsigns = { }
+}
+
 PUE = { #Belize Copied
 	male = {
 		names = { 

@@ -510,3 +510,7 @@ NAF = "countries/New Afrika.txt"
 LTG = "countries/Latgallia.txt"
 SGO = "countries/Samogitia.txt"
 OCC = "countries/Occitania.txt"
+##Made by Faaz Noushad
+AMZ = "countries/Amazonas.txt"
+SIN = "countries/Sinai.txt"
+ACR = "countries/Acre.txt"
