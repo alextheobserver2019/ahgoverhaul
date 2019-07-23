@@ -707,3 +707,48 @@ ENG_FRA = {
     color = rgb { 136 82 154 }
 	color_ui = rgb { 201 56 93 }
 }
+
+MEX_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
+
+PRU_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
+
+ARG_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
+
+COL_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
+
+GUA_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
+
+CHL_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
+
+DOM_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
+
+LOU_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
+
+BRA_POR = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
