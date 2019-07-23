@@ -2239,40 +2239,40 @@ color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
 ABD = {
-color = rgb { 150 150 150 }
+color = rgb { 59 48 0 }
 color_ui = rgb { 150 150 150 }
 }
 AJM = {
-color = rgb { 150 150 150 }
+color = rgb { 125 81 118 }
 color_ui = rgb { 150 150 150 }
 }
 DUB = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
+color = rgb { 255 255 255 }
+color_ui = rgb { 255 255 255 }
 }
 RAK = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
+color = rgb { 184 68 22 }
+color_ui = rgb { 184 68 22 }
 }
 SHJ = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
 UAQ = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
+color = rgb { 27 204 83 }
+color_ui = rgb { 27 204 83 }
 }
 FUJ = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
+color = rgb { 5 56 21 }
+color_ui = rgb { 5 56 21 }
 }
 SUP = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
+color = rgb { 56 54 5 }
+color_ui = rgb { 56 54 5 }
 }
 JAO = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
+color = rgb { 42 110 98 }
+color_ui = rgb { 42 110 98 }
 }
 SCL = {
 color = rgb { 150 150 150 }
@@ -2337,4 +2337,28 @@ color_ui = rgb { 0 106 106 }
 ACR = {
 color = rgb { 30 95 102 }
 color_ui = rgb { 30 95 102 }
+}
+VEP = {
+color = rgb { 219  202  163 }
+color_ui = rgb { 219  202  163 }
+}
+VOT = {
+color = rgb { 52  225  235 }
+color_ui = rgb { 52  225  235 }
+}
+IZH = {
+color = rgb { 85  57  112 }
+color_ui = rgb { 85  57  112 }
+}
+AMZ = {
+color = rgb { 15  69  6 }
+color_ui = rgb { 15  69  6 }
+}
+SIN = {
+color = rgb { 255  105  238 }
+color_ui = rgb { 255  105  238 }
+}
+SIN = {
+color = rgb { 255  105  238 }
+color_ui = rgb { 255  105  238 }
 }
