@@ -515,6 +515,6 @@ AMZ = "countries/Amazonas.txt"
 SIN = "countries/Sinai.txt"
 ACR = "countries/Acre.txt"
 ##Finnic niggas
-VOT = "countries/Votia"
-VEP = "countries/Vepsia
-IZH = "countries/Izhoria
+VOT = "countries/Votia.txt"
+VEP = "countries/Vepsia.txt"
+IZH = "countries/Izhoria.txt"
