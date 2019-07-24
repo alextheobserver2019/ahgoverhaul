@@ -10,6 +10,7 @@ state={
 		}
 		add_core_of = BEL
 		add_core_of = WLL
+		add_core_of = LEG
 
 	}
 

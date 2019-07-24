@@ -9,6 +9,7 @@ state={
 		owner = OML 
 		add_core_of = ITA
 		add_core_of = OML
+		add_core_of = VCT
 		buildings = {
 			infrastructure = 4
 			

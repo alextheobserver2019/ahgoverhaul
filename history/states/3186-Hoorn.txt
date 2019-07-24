@@ -5,6 +5,7 @@ state={
 		
 		owner = HOL 
 		add_core_of = HOL
+		add_core_of = FRS
 		buildings = {
 			infrastructure = 4
 			

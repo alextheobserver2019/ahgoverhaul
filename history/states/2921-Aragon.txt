@@ -12,7 +12,7 @@ state={
 		}
 	}
 	provinces={
-		813 948 7213 9812 9933 11737 6878
+		813 948 9933 6878
 	}
 	manpower=1000 
  state_category=pastoral

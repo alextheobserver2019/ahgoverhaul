@@ -18,6 +18,7 @@ state={
 
 		}
 		add_core_of = ITA
+		add_core_of = SPL
 		add_claim_by = VCT
 
 	}

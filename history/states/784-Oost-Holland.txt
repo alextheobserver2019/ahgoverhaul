@@ -10,6 +10,7 @@ state={
 		}
 		add_core_of = HOL
 		add_core_of = FRS
+		add_core_of = DRN
 
 	}
 
