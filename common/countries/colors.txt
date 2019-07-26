@@ -2466,3 +2466,71 @@ AGV = {
 color = rgb { 254 200 118 }
 color_ui = rgb { 254 200 118 }
 }
+AMU = {
+	color = rgb { 145 125 110}
+	color_ui = rgb { 145 125 110}	
+}
+NVO = {
+	color = rgb { 163 35 65}
+	color_ui = rgb { 163 35 65}	
+}
+TOM = {
+	color = rgb { 5 36 178}
+	color_ui = rgb { 5 36 178}	
+}
+OMS = {
+	color = rgb { 155 47 20}
+	color_ui = rgb { 155 47 20}	
+}
+TYU = {
+	color = rgb { 105 135 77}
+	color_ui = rgb { 105 135 77}	
+}
+CHY = {
+	color = rgb { 188 149 41}
+	color_ui = rgb { 188 149 41}	
+}
+SVR = {
+	color = rgb { 91 140 23}
+	color_ui = rgb { 91 140 23}	
+}
+KMI = {
+	color = rgb { 186 34 0}
+	color_ui = rgb { 186 34 0}	
+}
+ARH = {
+	color = rgb { 135 29 5}
+	color_ui = rgb { 135 29 5}	
+}
+IVN = {
+	color = rgb { 168 85 147}
+	color_ui = rgb { 168 85 147}	
+}
+ULA = {
+	color = rgb { 117 105 114}
+	color_ui = rgb { 117 105 114}	
+}
+PNZ = {
+	color = rgb { 218 229 94}
+	color_ui = rgb { 218 229 94}	
+}
+SRT = {
+	color = rgb { 159 160 141}
+	color_ui = rgb { 159 160 141}	
+}
+PRR = {
+	color = rgb { 190 252 75}
+	color_ui = rgb { 190 252 75}	
+}
+KSA = {
+	color = rgb { 112 114 107}
+	color_ui = rgb { 10 153 100}	
+}
+KRV = {
+	color = rgb { 183 44 0}
+	color_ui = rgb { 183 44 0}	
+}
+PCR = {
+	color = rgb { 146 170 168}
+	color_ui = rgb { 146 170 168}	
+}
