@@ -17,6 +17,7 @@ state={
 		add_core_of = DEN
 		add_core_of = SCH
 		add_core_of = FRS
+		add_core_of = PRS
 
 	}
 	buildings_max_level_factor=1.000
