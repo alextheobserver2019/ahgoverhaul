@@ -1,6 +1,12 @@
 state={
 	id=2289
 	name="STATE_2289"
+	provinces={
+		3868
+	}
+	manpower=123992
+	
+	state_category = town
 	
 	history={
 		owner = YUG
@@ -16,11 +22,6 @@ state={
 		add_core_of = BOS
 		add_core_of = CRO
 	
-	provinces={
-		3868 
 	}
-	
-	manpower=123992
 	buildings_max_level_factor=1.000
-	state_category = town
 }
