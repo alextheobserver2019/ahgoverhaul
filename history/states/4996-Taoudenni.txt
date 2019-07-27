@@ -1,0 +1,19 @@
+state={
+	id=4996
+	name="STATE_4996"
+	provinces={
+		10868 
+	}
+	history={
+		owner = FWA
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = MLI
+
+	}
+	manpower=1030
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}

@@ -2,7 +2,7 @@ state={
 	id=1772
 	name="STATE_1772"
 	
-	state_category=wasteland
+	state_category=pastoral
 	
 	history={
 		owner = FRA
@@ -16,7 +16,7 @@ state={
 	}
 	
 	provinces={
-		9882 9884 
+		9882 
 	}
 	manpower=152578
 	buildings_max_level_factor=1.000

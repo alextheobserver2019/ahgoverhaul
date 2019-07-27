@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		2020 2063 5065 8164 10928 12840 12991 
+		5065 12991 
 	}
 	manpower=964469
 	buildings_max_level_factor=1.000

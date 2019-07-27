@@ -2,7 +2,7 @@ state={
 	id=3854
 	name="STATE_3854"
 	provinces={
-		7 3068 3185 9061 
+		7 3185 
 	}
 	manpower = 1000
 	
