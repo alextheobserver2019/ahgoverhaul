@@ -3,30 +3,38 @@
  INS_HOL_democratic_DEF:0 "The Dutch East Indies"
  INS_subject:0 "$OVERLORDADJ$ East Indies"
  INS_subject_DEF:0 "The $OVERLORDADJ$ East Indies"
+
  COG_subject:0 "$OVERLORDADJ$ Congo"
- MAL_subject:0 "Federated Malay States"
- LBA_subject:0 "$OVERLORDADJ$ North Africa"
+
  MAL_UK_democratic:0 "Federated Malay States"
  MAL_UK_democratic_DEF:0 "The Federated Malay States"
+ MAL_subject:0 "Federated Malay States"
+
+ LBA_subject:0 "$OVERLORDADJ$ North Africa"
+
+
  RAJ_UK_democratic:0 "Indian Empire"
  RAJ_UK_democratic_DEF:0 "The Indian Empire"
  RAJ_UK_neutrality:0 "Indian Empire"
  RAJ_UK_neutrality_DEF:0 "The Indian Empire"
- RAJ_UK_subject:0 "Indian Empire"
- RAJ_UK_autonomy_dominion:0 "Indian Empire"
- RAJ_UK_autonomy_dominion_DEF:0 "The Indian Empire"
+ RAJ_UK_subject:0 "$OVERLORDADJ$ India"
+ RAJ_UK_autonomy_dominion:0 "Dominion of India"
+ RAJ_UK_autonomy_dominion_DEF:0 "The Dominion of India"
+
  SAF_COM_communist:0 "Cape Commune"
  SAF_COM_communist_DEF:0 "The Cape Commune"
+
  CAN_UK_democratic:0 "Dominion of Canada"
  CAN_UK_democratic_DEF:0 "The Dominion of Canada"
  CAN_UK_autonomy_dominion:0 "Dominion of Canada"
- CAN_UK_autonomy_colony:0 "Dominion of Canada"
- CAN_UK_autonomy_puppet:0 "Dominion of Canada"
- CAN_UK_autonomy_integrated_puppet:0 "Dominion of Canada"
- CAN_UK_autonomy_dominion_DEF:0 "The Dominion of Canada"
- CAN_UK_autonomy_colony_DEF:0 "The Dominion of Canada"
- CAN_UK_autonomy_puppet_DEF:0 "The Dominion of Canada"
- CAN_UK_autonomy_integrated_puppet_DEF:0 "The Dominion of Canada"
+ CAN_UK_autonomy_colony:0 "Colony of Canada"
+ CAN_UK_autonomy_puppet:0 "Colony of of Canada"
+ CAN_UK_autonomy_integrated_puppet:0 "British Canada"
+ CAN_UK_autonomy_dominion_DEF:0 "British Canada"
+ CAN_UK_autonomy_colony_DEF:0 "The Colony of Canada"
+ CAN_UK_autonomy_puppet_DEF:0 "The Colony of Canada"
+ CAN_UK_autonomy_integrated_puppet_DEF:0 "British Canada"
+
  USA_UK_autonomy_dominion:0 "Dominion of North America"
  USA_UK_autonomy_colony:0 "Dominion of North America"
  USA_UK_autonomy_puppet:0 "Dominion of North America"
@@ -34,7 +42,8 @@
  USA_UK_autonomy_dominion_DEF:0 "The Dominion of North America"
  USA_UK_autonomy_colony_DEF:0 "The Dominion of North America"
  USA_UK_autonomy_puppet_DEF:0 "The Dominion of North America"
- USA_UK_autonomy_integrated_puppet_DEF:0 "The Dominion of North America
+ USA_UK_autonomy_integrated_puppet_DEF:0 "The Dominion of North America"
+
  USA_SAF_EDW_autonomy_dominion:0 "Dominion of North America"
  USA_SAF_EDW_autonomy_colony:0 "Dominion of North America"
  USA_SAF_EDW_autonomy_puppet:0 "Dominion of North America"
@@ -43,6 +52,7 @@
  USA_SAF_EDW_autonomy_colony_DEF:0 "The Dominion of North America"
  USA_SAF_EDW_autonomy_puppet_DEF:0 "The Dominion of North America"
  USA_SAF_EDW_autonomy_integrated_puppet_DEF:0 "Queen Wallis's Land"
+
  UKR_GER_autonomy_satellite:0 "Reichsland Ukraine"
  UKR_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Ukraine"
  UKR_GER_autonomy_reichskommissariat:0 "Reichskommissariat Ukraine"
@@ -57,6 +67,7 @@
  UKR_GER_autonomy_colony_DEF:0 "The Reichsland Ukraine"
  UKR_GER_autonomy_puppet_DEF:0 "The Reichsprotektorat Ukraine"
  UKR_GER_autonomy_integrated_puppet_DEF:0 "The Reichskommissariat Ukraine"
+
  UKR_SOV_communism_autonomy_dominion:0 "Ukrainian People's Republic"
  UKR_SOV_communism_autonomy_colony:0 "Ukrainian Socialist Republic"
  UKR_SOV_communism_autonomy_puppet:1 "Ukrainian Independent SSR"
@@ -65,6 +76,7 @@
  UKR_SOV_communism_autonomy_colony_DEF:0 "The Ukrainian Socialist Republic"
  UKR_SOV_communism_autonomy_puppet_DEF:1 "The Ukrainian Independent SSR"
  UKR_SOV_communism_autonomy_integrated_puppet_DEF:0 "The Ukrainian SSR"
+
  BLR_GER_autonomy_satellite:0 "Ostland"
  BLR_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Ostland"
  BLR_GER_autonomy_reichskommissariat:0 "Reichskommissariat Ostland"
@@ -79,6 +91,7 @@
  BLR_GER_autonomy_colony_DEF:0 "Ostland"
  BLR_GER_autonomy_puppet_DEF:0 "The Reichsprotektorat Ostland"
  BLR_GER_autonomy_integrated_puppet_DEF:0 "The Reichskommissariat Ostland"
+
  BLR_SOV_communism_autonomy_dominion:0 "Belarussian People's Republic"
  BLR_SOV_communism_autonomy_colony:0 "Socialist Republic of Byelorussia"
  BLR_SOV_communism_autonomy_puppet:1 "Byelorussian Independent SSR"
@@ -87,30 +100,22 @@
  BLR_SOV_communism_autonomy_colony_DEF:0 "The Socialist Republic of Byelorussia"
  BLR_SOV_communism_autonomy_puppet_DEF:1 "The Byelorussian Independent SSR"
  BLR_SOV_communism_autonomy_integrated_puppet_DEF:0 "The Byelorussian SSR"
+
  EST_SOV_communism_autonomy_dominion:0 "Estonian People's Republic"
  EST_SOV_communism_autonomy_colony:0 "Socialist Republic of Estonia"
  EST_SOV_communism_autonomy_puppet:0 "Estonian Independent SSR"
  EST_SOV_communism_autonomy_integrated_puppet:0 "Estonian SSR"
+
  LIT_SOV_communism_autonomy_dominion:0 "Lithuanian People's Republic"
  LIT_SOV_communism_autonomy_colony:0 "Socialist Republic of Lithuania"
  LIT_SOV_communism_autonomy_puppet:1 "Lithuanian Independent SSR"
  LIT_SOV_communism_autonomy_integrated_puppet:0 "Lithuanian SSR"
+
  LAT_SOV_communism_autonomy_dominion:0 "Latvian People's Republic"
  LAT_SOV_communism_autonomy_colony:0 "Socialist Republic of Latvia"
  LAT_SOV_communism_autonomy_puppet:1 "Latvian Independent SSR"
  LAT_SOV_communism_autonomy_integrated_puppet:0 "Latvian SSR"
- EST_SOV_communism_autonomy_dominion_DEF:0 "The Estonian People's Republic"
- EST_SOV_communism_autonomy_colony_DEF:0 "The Socialist Republic of Estonia"
- EST_SOV_communism_autonomy_puppet_DEF:0 "The Estonian Independent SSR"
- EST_SOV_communism_autonomy_integrated_puppet_DEF:0 "The Estonian SSR"
- LIT_SOV_communism_autonomy_dominion_DEF:0 "The Lithuanian People's Republic"
- LIT_SOV_communism_autonomy_colony_DEF:0 "The Socialist Republic of Lithuania"
- LIT_SOV_communism_autonomy_puppet_DEF:1 "The Lithuanian Independent SSR"
- LIT_SOV_communism_autonomy_integrated_puppet_DEF:0 "The Lithuanian SSR"
- LAT_SOV_communism_autonomy_dominion_DEF:0 "The Latvian People's Republic"
- LAT_SOV_communism_autonomy_colony_DEF:0 "The Socialist Republic of Latvia"
- LAT_SOV_communism_autonomy_puppet_DEF:1 "The Latvian Independent SSR"
- LAT_SOV_communism_autonomy_integrated_puppet_DEF:0 "The Latvian SSR"
+
  FIN_SOV_communism_autonomy_dominion:0 "Finnish People's Republic"
  FIN_SOV_communism_autonomy_colony:0 "Socialist Republic of Finnland"
  FIN_SOV_communism_autonomy_puppet:0 "Finnish Democratic Republic"
@@ -119,53 +124,67 @@
  FIN_SOV_communism_autonomy_colony_DEF:0 "The Socialist Republic of Finnland"
  FIN_SOV_communism_autonomy_puppet_DEF:0 "The Finnish Democratic Republic"
  FIN_SOV_communism_autonomy_integrated_puppet_DEF:0 "The Finnish SSR"
+
  KEN_GER_autonomy_dominion:0 "Ostafrika"
  KEN_GER_autonomy_colony:0 "Reichsland Ostafrika"
  KEN_GER_autonomy_puppet:0 "Reichsprotektorat Ostafrika"
  KEN_GER_autonomy_integrated_puppet:0 "Deutsch-Ostafrika"
+
  ZIM_GER_autonomy_dominion:0 "Mittelafrika"
  ZIM_GER_autonomy_colony:0 "Reichsland Mittelafrika"
  ZIM_GER_autonomy_puppet:0 "Reichsprotektorat Mittelafrika"
  ZIM_GER_autonomy_integrated_puppet:0 "Deutsch-Mittelafrika"
+
  LBA_GER_autonomy_dominion:0 "Nordafrika"
  LBA_GER_autonomy_colony:0 "Reichsland Nordafrika"
  LBA_GER_autonomy_puppet:0 "Reichsprotektorat Nordafrika"
  LBA_GER_autonomy_integrated_puppet:0 "Deutsch-Nordafrika"
+
  KEN_GER_autonomy_dominion_DEF:0 "Ostafrika"
  KEN_GER_autonomy_colony_DEF:0 "The Reichsland Ostafrika"
  KEN_GER_autonomy_puppet_DEF:0 "The Reichsprotektorat Ostafrika"
  KEN_GER_autonomy_integrated_puppet_DEF:0 "Deutsch-Ostafrika"
+
  ZIM_GER_autonomy_dominion_DEF:0 "Mittelafrika"
  ZIM_GER_autonomy_colony_DEF:0 "The Reichsland Mittelafrika"
  ZIM_GER_autonomy_puppet_DEF:0 "The Reichsprotektorat Mittelafrika"
  ZIM_GER_autonomy_integrated_puppet_DEF:0 "Deutsch-Mittelafrika"
+
  LBA_GER_autonomy_dominion_DEF:0 "Nordafrika"
  LBA_GER_autonomy_colony_DEF:0 "The Reichsland Nordafrika"
  LBA_GER_autonomy_puppet_DEF:0 "The Reichsprotektorat Nordafrika"
  LBA_GER_autonomy_integrated_puppet_DEF:0 "Deutsch-Nordafrika"
+
  KEN_GER_autonomy_satellite:0 "Ostafrika"
  KEN_GER_autonomy_protectorate:0 "Reichsprotektorat Ostafrika"
  KEN_GER_autonomy_reichskommissariat:0 "Deutsch-Ostafrika"
+
  ZIM_GER_autonomy_satellite:0 "Mittelafrika"
  ZIM_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Mittelafrika"
  ZIM_GER_autonomy_reichskommissariat:0 "Deutsch-Mittelafrika"
+
  LBA_GER_autonomy_satellite:0 "Nordafrika"
  LBA_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Nordafrika"
  LBA_GER_autonomy_reichskommissariat:0 "Deutsch-Nordafrika"
+
  KEN_GER_autonomy_satellite_DEF:0 "Ostafrika"
  KEN_GER_autonomy_reichsprotectorate_DEF:0 "The Reichsprotektorat Ostafrika"
  KEN_GER_autonomy_reichskommissariat_DEF:0 "Deutsch-Ostafrika"
+
  ZIM_GER_autonomy_satellite_DEF:0 "Mittelafrika"
  ZIM_GER_autonomy_reichsprotectorate_DEF:0 "The Reichsprotektorat Mittelafrika"
  ZIM_GER_autonomy_reichskommissariat_DEF:0 "Deutsch-Mittelafrika"
+
  LBA_GER_autonomy_satellite_DEF:0 "Nordafrika"
  LBA_GER_autonomy_reichsprotectorate_DEF:0 "The Reichsprotektorat Nordafrika"
  LBA_GER_autonomy_reichskommissariat_DEF:0 "Deutsch-Nordafrika"
+
  LBA_ITA_fascism_autonomy_satellite:0 "Kingdom of Libya"
  LBA_ITA_fascism_autonomy_reichsprotectorate:0 "Italian Libya"
  LBA_ITA_fascism_autonomy_reichskommissariat:0 "Italian Libya"
  LBA_ITA_fascism:0 "Italian Libya"
  LBA_ITA_fascism_DEF:0 "Italian Libya"
+
  ETH_ITA_fascism_autonomy_satellite:0 "Kingdom of Ethiopia"
  ETH_ITA_fascism_autonomy_reichsprotectorate:0 "Governate of Ethiopia"
  ETH_ITA_fascism_autonomy_reichskommissariat:0 "Italian Libya"
@@ -175,6 +194,7 @@
  ETH_ITA_fascism_autonomy_satellite_DEF:0 "The Kingdom of Ethiopia"
  ETH_ITA_fascism_autonomy_reichsprotectorate_DEF:0 "The Governate of Ethiopia"
  ETH_ITA_fascism_autonomy_reichskommissariat_DEF:0 "Italian East Africa"
+
  KEN_ENG_autonomy_dominion:0 "Dominion of Kenya"
  KEN_ENG_autonomy_colony:0 "Colony of Kenya"
  KEN_ENG_autonomy_puppet:0 "British Kenya"

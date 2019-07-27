@@ -10,6 +10,7 @@ state={
 		add_core_of = USA
 		add_core_of = WSC
 		add_claim_by = SUP
+		add_core_of = GMA
 		buildings = {
 			infrastructure = 4
 			
