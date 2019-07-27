@@ -1,20 +1,20 @@
 state={
-	id=4996
-	name="STATE_4996"
+	id=5068
+	name="STATE_5068"
 	provinces={
-		10868 
+		9652 11620 
 	}
 	history={
-		owner = FWA
+		owner = GER
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = MLI
+		add_core_of = GER
+		add_core_of = BAV
 
 	}
 	manpower=1030
 	state_category=pastoral
-	impassable = yes
 	buildings_max_level_factor=1.000
 }
