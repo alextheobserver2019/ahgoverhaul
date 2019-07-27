@@ -642,3 +642,13 @@
  LOU_FRA_communism:0 "Colony of New France"
  LOU_FRA_communism_DEF:0 "the Colony of New France"
  LOU_FRA_ADJ:0 "French"
+ 
+ HSP_unified_democratic:0 "Hispaniolan Republic"
+ HSP_unified_democratic_DEF:0 "the Hispaniolan Republic"
+ HSP_unified_fascism:0 "Neo-Caribbean Empire"
+ HSP_unified_fascism_DEF:0 "the Neo-Caribbean Empire"
+ HSP_unified_neutrality:0 "Kingdom of Hispaniola"
+ HSP_unified_neutrality_DEF:0 "the Kingdom of Hispaniola"
+ HSP_unified_communism:0 "Hispaniolan Socialist Fedarative State"
+ HSP_unified_communism_DEF:0 "the Hispaniolan Socialist Fedarative State"
+ HSP_unified_ADJ:0 "Hispaniolan"

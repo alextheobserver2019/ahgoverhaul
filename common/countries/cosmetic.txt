@@ -752,3 +752,8 @@ BRA_POR = {
 	color = rgb { 39 116 70 }
 	color_ui = rgb { 51 151 91 }
 }
+
+HSP_UNIFIED = {
+	color = rgb { 141 103 125 }
+	color_ui = rgb { 141 103 125 }
+}

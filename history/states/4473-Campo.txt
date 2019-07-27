@@ -10,6 +10,7 @@ state={
 		add_core_of = USA
 		add_core_of = CLR
 		add_claim_by = TEX
+		add_core_of = GMA
 		buildings = {
 			infrastructure = 4
 			
