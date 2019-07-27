@@ -4,6 +4,9 @@ state={
 	history={
 		owner = SOV 
 		add_core_of = SOV
+		add_core_of = KHA
+		add_core_of = SIB
+		add_core_of = RUS
 		buildings = {
 			infrastructure = 4
 			
