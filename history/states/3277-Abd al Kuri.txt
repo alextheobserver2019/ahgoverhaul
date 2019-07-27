@@ -15,6 +15,7 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = ADN
+		add_core_of = YEM
 	}
 	buildings_max_level_factor=1.000
 }
