@@ -5,7 +5,7 @@ state={
 		12911 
 	}
 	history={
-		owner = TNZ
+		owner = TZN
 		buildings = {
 			infrastructure = 3
 
