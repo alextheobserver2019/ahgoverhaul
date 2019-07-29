@@ -22,7 +22,7 @@ set_technology = {
 	early_submarine = 1
 }
 
-set_convoys = 0
+set_convoys = 10
 
 
 

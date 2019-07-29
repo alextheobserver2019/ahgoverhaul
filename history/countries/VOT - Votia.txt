@@ -1,4 +1,4 @@
-﻿capital = 11186
+﻿capital = 4751
 
 oob = "VOT_1936"
 
