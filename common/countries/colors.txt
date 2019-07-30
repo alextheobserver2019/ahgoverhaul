@@ -2534,3 +2534,7 @@ PCR = {
 	color = rgb { 146 170 168}
 	color_ui = rgb { 146 170 168}	
 }
+VAN = {
+	color = rgb { 94 49 82 }
+	color_ui = rgb { 94 49 82 }
+}
