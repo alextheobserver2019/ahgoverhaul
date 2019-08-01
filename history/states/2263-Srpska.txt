@@ -3,7 +3,7 @@ state={
 	id=2263
 	name="STATE_2263"
 	provinces={
-		606 11741 13856 
+		11741 
 	}
 	buildings_max_level_factor=1.000
 
