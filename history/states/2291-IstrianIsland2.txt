@@ -11,6 +11,7 @@ state={
 		add_core_of = CRO
 		add_core_of = IST
 		add_claim_by = ITA
+		add_claim_by = FIU
 
 	}
 

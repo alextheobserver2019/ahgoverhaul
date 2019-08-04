@@ -1,9 +1,9 @@
 TUN_FRA = {
-	color = rgb { 37 72 155 }
-	color_ui = rgb { 37 72 155 }
+	color = rgb { 37  72  155 }
+	color_ui = rgb { 37  72  155 }
 }
 MEN_ECA = {
-	color = rgb { 165 69 117 }
+	color = rgb { 165  69  117 }
 	color_ui = rgb { 165 69 117 }
 }
 CMR_FRA = {
@@ -615,12 +615,10 @@ GER_greater_german_reich = {
 	color = rgb { 54 54 54 }
 	color_ui = rgb { 63 63 63 }
 }
-
 CHI_warlord_PRC = {
 	color = rgb { 245 12 55 }
 	color_ui = rgb { 178 34 60 }
 }
-
 CHI_power_struggle_defeated = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
@@ -641,119 +639,103 @@ IBRA = {
 	color = rgb { 67 210 17 }
 	color_ui = rgb { 67 210 17 }
 }
-
 LIV_GER = {
 	color = rgb { 63 63 63 }
 	color_ui = rgb { 63 63 63 }
 }
-
 NFR = {
 	color = rgb { 13 59 132 }
 	color_ui = rgb { 13 59 132 }
 }
-
 RUPBA = {
 	color = rgb { 0 147 175 }
 	color_ui = rgb { 0 147 175 }
 }
-
 EGL = {
 	color = rgb { 180 20 0 }
 	color_ui = rgb { 180 20 0 }
 }
-
 BOH = {
 	color = rgb { 170 125 30 }
 	color_ui= rgb { 170 125 30 }
 }
-
 IBER_unified = {
 	color = rgb { 141 161 82 }
 	color_ui= rgb { 141 161 82 }
 }
-
 FRA_IBER_unified = {
 	color = rgb { 99 137 155 }
 	color_ui= rgb { 99 137 155 }
 }
-
 LTN_unified = {
-	color = rgb { 100 0 60 }
+	color = rgb { 250 250 50 }
 	color_ui= rgb { 250 250 50 }
 }
-
 BAK = {
     color = rgb { 10 94 128 }
 	color_ui = rgb { 10 94 128 }
-}
-
 }
 NOA = {
     color = rgb { 70 107 181 }
 	color_ui = rgb { 70 107 181 }
 }
-
 SOA = {
     color = rgb { 0 51 153 }
 	color_ui = rgb { 0 51 153 }
 }
-
 ENG_HOL = {
     color = rgb { 202 86 86 }
 	color_ui = rgb { 201 56 93 }
 }
-
 ENG_FRA = {
     color = rgb { 136 82 154 }
 	color_ui = rgb { 201 56 93 }
 }
-
 MEX_SPR = {
 	color = rgb { 224 198 94 }
 	color_ui = rgb { 224 198 94 }
 }
-
 PRU_SPR = {
 	color = rgb { 224 198 94 }
 	color_ui = rgb { 224 198 94 }
 }
-
 ARG_SPR = {
 	color = rgb { 224 198 94 }
 	color_ui = rgb { 224 198 94 }
 }
-
 COL_SPR = {
 	color = rgb { 224 198 94 }
 	color_ui = rgb { 224 198 94 }
 }
-
 GUA_SPR = {
 	color = rgb { 224 198 94 }
 	color_ui = rgb { 224 198 94 }
 }
-
 CHL_SPR = {
 	color = rgb { 224 198 94 }
 	color_ui = rgb { 224 198 94 }
 }
-
 DOM_SPR = {
 	color = rgb { 224 198 94 }
 	color_ui = rgb { 224 198 94 }
 }
-
 LOU_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
-
 BRA_POR = {
 	color = rgb { 39 116 70 }
 	color_ui = rgb { 51 151 91 }
 }
-
-HSP_UNIFIED = {
-	color = rgb { 141 103 125 }
-	color_ui = rgb { 141 103 125 }
+HSP_unified = {
+	color = rgb { 141  103  125 }
+	color_ui = rgb { 141  103  125 }
+}
+SGC = {
+	color = rgb { 117  191  234 }
+	color_ui = rgb { 117  191  234 }
+}
+NGC = {
+	color = rgb { 65  78  93 }
+	color_ui = rgb { 65  78  93 }
 }
