@@ -2539,18 +2539,14 @@ VAN = {
 	color_ui = rgb { 94 49 82 }
 }
 FZN = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
-}
-TRP = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
-}
-FZN = {
 color = rgb { 130 0 23 }
 color_ui = rgb { 130 0 23 }
 }
 TRP = {
 color = rgb { 23 130 103 }
 color_ui = rgb { 23 130 103 }
+}
+FIU = {
+	color = rgb { 67 127 63 }
+	color = rgb { 59 148 65 }
 }
