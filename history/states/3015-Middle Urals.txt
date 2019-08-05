@@ -5,6 +5,8 @@ state={
 		
 		owner = SOV 
 		add_core_of = SOV
+		add_core_of = RUS
+		add_core_of = URL
 		buildings = {
 			infrastructure = 4
 			
