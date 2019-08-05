@@ -15,6 +15,7 @@ state={
 
 		}
 		add_core_of = VEN
+		add_core_of = ZUL
 		
 
 	}

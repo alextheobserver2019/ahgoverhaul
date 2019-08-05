@@ -10,6 +10,7 @@ state=
 	{
 		owner = EQG
 		add_core_of = EQG
+		add_core_of = BIK
 		buildings = {
 			infrastructure = 2
 			1903 = {

@@ -9,8 +9,8 @@ state={
 
 		}
 		add_core_of = SAF
-		add_core_of = ORA
 		add_core_of = LES
+		add_core_of = NTL
 
 	}
 	

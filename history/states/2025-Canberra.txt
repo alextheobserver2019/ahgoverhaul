@@ -19,6 +19,7 @@ state={
 			7859 30 
 		}
 		add_core_of = AST
+		add_core_of = ACT
 
 	}
 

@@ -25,6 +25,7 @@ state={
 			2211 1 
 		}
 		add_core_of = NZL
+		add_core_of = SNZ
 	}
 	provinces={
 		8204 10650 

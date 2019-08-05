@@ -11,6 +11,7 @@ state={
 
 		}
 		add_core_of = MLI
+		add_core_of = AZW
 
 	}
 	manpower=1030

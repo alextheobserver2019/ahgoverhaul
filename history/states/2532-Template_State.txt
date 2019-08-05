@@ -3,6 +3,8 @@ state={
 	name="STATE_2532"
 	history={
 		owner = AST 
+		add_core_of = QNS
+		add_core_of = AST
 		buildings = {
 			infrastructure = 4
 			

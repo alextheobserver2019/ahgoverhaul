@@ -6,6 +6,7 @@ state={
 		owner = NGU
 		add_core_of = SLM
 		add_core_of = PNG
+		add_core_of = BGV
 		buildings = {
 
 			infrastructure = 2

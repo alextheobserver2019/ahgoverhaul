@@ -3,6 +3,8 @@ state={
 	name="STATE_2530"
 	history={
 		owner = AST 
+		add_core_of = NSW
+		add_core_of = AST
 		buildings = {
 			infrastructure = 4
 			

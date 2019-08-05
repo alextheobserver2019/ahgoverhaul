@@ -4,6 +4,8 @@ state={
 	history={
 		
 		owner = AST 
+		add_core_of = ACT
+		add_core_of = AST
 		buildings = {
 			infrastructure = 4
 			

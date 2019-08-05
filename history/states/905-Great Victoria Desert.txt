@@ -13,6 +13,7 @@ state={
 			}
 		}
 		add_core_of = AST
+		add_core_of = WAT
 		victory_points = {
 			1652 3 
 		}

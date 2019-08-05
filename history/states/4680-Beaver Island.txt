@@ -11,6 +11,7 @@ state={
 		add_core_of = MCH
 		add_core_of = GMA
 		add_core_of = SUP
+		add_claim_by = UTH
 		buildings = {
 			infrastructure = 4
 			

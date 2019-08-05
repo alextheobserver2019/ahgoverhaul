@@ -9,8 +9,8 @@ state={
 
 		}
 		add_core_of = SAF
-		add_core_of = ORA
 		add_core_of = SWZ
+		add_core_of = TSV
 
 	}
 	

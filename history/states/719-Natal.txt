@@ -19,11 +19,12 @@ state={
 		
 		
 		add_core_of = SAF
+		add_core_of = CAP
 
 	}
 
 	provinces={
-		4584 1833 7576
+		4584 1833
 	}
 	manpower=3361125
 	buildings_max_level_factor=1.000

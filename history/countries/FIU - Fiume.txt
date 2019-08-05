@@ -1,4 +1,4 @@
-﻿capital = 
+﻿capital = 807
 
 oob = "FIU_1936"
 
