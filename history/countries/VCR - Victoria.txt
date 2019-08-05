@@ -1,6 +1,6 @@
 ﻿capital = 517
 
-oob = "VIC_1936"
+oob = "VCR_1936"
 
 # Starting tech
 set_technology = {

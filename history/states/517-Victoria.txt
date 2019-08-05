@@ -30,7 +30,7 @@ state={
 		}
 		
 		add_core_of = AST
-		add_core_of = VIC
+		add_core_of = VCR
 	}
 
 	provinces={

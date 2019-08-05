@@ -2662,7 +2662,7 @@ NSW = {
 color = rgb { 231 99 1 }
 color_ui = rgb { 231 99 1 }
 }
-VIC = {
+VCR = {
 color = rgb { 0 0 128 }
 color_ui = rgb { 0 0 128 }
 }
