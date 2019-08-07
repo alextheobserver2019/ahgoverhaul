@@ -8,6 +8,7 @@ state={
 		
 		owner = CAN 
 		add_core_of = CAN
+		add_core_of = MET
 		add_core_of = SAS
 		buildings = {
 			infrastructure = 4

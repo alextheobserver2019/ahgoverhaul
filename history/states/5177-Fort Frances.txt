@@ -1,17 +1,18 @@
 state={
-	id=4986
-	name="STATE_4986"
+	id=5177
+	name="STATE_5177"
 	provinces={
-		7604 
+		12588 
 	}
 	history={
-		owner = PER
+		owner = USA
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = PER
-		add_core_of = KUR
+		add_core_of = USA
+		add_core_of = GMA
+		add_core_of = MNS
 
 	}
 	manpower=1030

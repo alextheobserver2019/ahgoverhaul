@@ -12,7 +12,7 @@ state={
 		owner = ITA
 		add_core_of = ITA
 		add_core_of = SPL
-		add_claim_by = PAP
+		add_claim_by = VCT
 		buildings = {
 			infrastructure = 1
 		}

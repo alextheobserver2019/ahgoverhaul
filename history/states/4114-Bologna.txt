@@ -15,6 +15,7 @@ state={
 		}
 		add_core_of = ITA
 		add_core_of = FRR
+		add_claim_by = VCT
 	}
 	buildings_max_level_factor=1.000
 }
