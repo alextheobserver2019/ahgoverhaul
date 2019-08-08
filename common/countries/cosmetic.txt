@@ -739,3 +739,47 @@ NGC = {
 	color = rgb { 65  78  93 }
 	color_ui = rgb { 65  78  93 }
 }
+MEN_JAP = {
+	color = rgb { 165  69  117 }
+	color_ui = rgb { 165 69 117 }
+}
+CHI_JAP = {
+	color = rgb { 165  69  117 }
+	color_ui = rgb { 165 69 117 }
+}
+GXC_JAP = {
+	color = rgb { 165  69  117 }
+	color_ui = rgb { 165 69 117 }
+}
+EHC_PGROC = {
+	color = rgb { 165  69  117 }
+	color_ui = rgb { 165 69 117 }
+}
+CHI_RNGOC = {
+	color = rgb { 165  69  117 }
+	color_ui = rgb { 165 69 117 }
+}
+YUN_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+SHX_JAP = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+NAP_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
+PHI_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
+BEL_SPR = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 224 198 94 }
+}
+BAN_PAK = {
+	color = rgb { 44 81 48 }
+	color_ui = rgb { 44 81 48 }
+}
