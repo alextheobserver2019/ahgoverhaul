@@ -10,8 +10,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = RAJ
-		add_core_of = RAJ
+		owner = CTL
+		add_core_of = CTL
 		add_core_of = PAK
 		add_core_of = PMR
 		buildings = {

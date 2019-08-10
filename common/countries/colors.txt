@@ -2722,3 +2722,51 @@ STE = {
 color = rgb { 0 98 0 }
 color_ui = rgb { 0 98 0 }
 }
+JJA = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+JAF = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+CHB = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+DGH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+JRA = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+JHL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+PLP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+PBD = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+RPL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+TPA = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MNP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+CTL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
