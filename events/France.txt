@@ -2067,7 +2067,7 @@ country_event = {
 				}
 			}
 			add_to_faction = FRA
-		}
+		
 		
 		every_unit_leader = {
 			limit = {
