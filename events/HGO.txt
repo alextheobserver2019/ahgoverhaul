@@ -80,23 +80,6 @@ country_event = { #Burma seperate from India
 			    }
 		    }
 		    BRM = {
-		        set_politics = {
-	                parties = {
-		                democratic = { 
-			                popularity = 10
-		                }
-		                communism = {
-			                popularity = 20
-		                }
-		                neutrality = {
-			                popularity = 70
-		                }
-	                }
-	                ruling_party = neutrality
-	                last_election = "1936.1.1"
-	                election_frequency = 50
-          	        elections_allowed = no
-                }
 			
 		        create_country_leader = {
 	                name = "Sir Archibald Douglas Cochrane"
