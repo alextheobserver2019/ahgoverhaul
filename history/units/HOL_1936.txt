@@ -219,7 +219,6 @@ units = {
 #
 }
 
-### Air Wings
 
 ### Starting Production ###
 instant_effect = {
