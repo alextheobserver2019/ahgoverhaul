@@ -611,7 +611,7 @@ JAP_showa_restoration = {
 	color_ui = rgb { 230 230 230 }
 }
 
-GER_greater_german_reich = {
+GER_GGR = {
 	color = rgb { 54 54 54 }
 	color_ui = rgb { 63 63 63 }
 }
@@ -638,10 +638,6 @@ SIK_SOV = {
 IBRA = {
 	color = rgb { 67 210 17 }
 	color_ui = rgb { 67 210 17 }
-}
-LIV_GER = {
-	color = rgb { 63 63 63 }
-	color_ui = rgb { 63 63 63 }
 }
 NFR = {
 	color = rgb { 13 59 132 }
@@ -782,4 +778,112 @@ BEL_SPR = {
 BAN_PAK = {
 	color = rgb { 44 81 48 }
 	color_ui = rgb { 44 81 48 }
+}
+UKR_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+LIV_GER = {
+	color = rgb { 63 63 63 }
+	color_ui = rgb { 63 63 63 }
+}
+BLR_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+RUS_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+GEO_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+POL_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+CZE_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+ZIM_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+ZAM_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+NAM_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+COG_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+CMR_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+FEA_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+FWA_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+HOL_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+BEL_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+BGN_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+URL_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+SBR_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+NMB_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+KEN_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+KAZ_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+EST_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+LAT_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+LIT_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+LBA_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+NOR_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
 }
