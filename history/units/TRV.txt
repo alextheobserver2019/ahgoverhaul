@@ -122,13 +122,3 @@ units = {
 
 	}
 }
-
-air_wings = {
-	1217 = {
-		fighter_equipment_0 = {
-			owner = "TRV" 
-			amount = 30
-		}
-	name = "Grup 1 Avion de Vanatoare Trasnilvania"
-	}
-}

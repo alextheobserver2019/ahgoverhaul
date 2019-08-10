@@ -41,6 +41,54 @@ if = {
 		has_dlc = "Together for Victory"
 	}
 	set_autonomy = {
+		target = CTL
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = MNP
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = CHB
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = JAF
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = JJA
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = TPA
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = RPL
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = PBD
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = PLP
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = JHL
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = JRA
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
+		target = DGH
+		autonomous_state = autonomy_dominion
+	}
+	set_autonomy = {
 		target = ADN
 		autonomous_state = autonomy_integrated_puppet
 	}

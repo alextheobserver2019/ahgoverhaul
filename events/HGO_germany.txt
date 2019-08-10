@@ -60,7 +60,6 @@ country_event = { #Italy Accept
 	option = { #give alpes to Italy
 		name = bs_ger.2.a
         
-		add_opinion_modifier = { target = GER modifier = ceded_aples }
 		ITA = {
 		    transfer_state = 735
 			transfer_state = 837
@@ -135,7 +134,6 @@ country_event = { #Finland Accept
 	option = { #give West Karelia to Italy
 		name = bs_ger.4.a
         
-		add_opinion_modifier = { target = GER modifier = ceded_west_karelia }
 		FIN = {
 		    transfer_state = 146
 			transfer_state = 147
@@ -205,7 +203,6 @@ country_event = { #Finland Accept
 	option = { #give east karelia to Finland
 		name = bs_ger.6.a
         
-		add_opinion_modifier = { target = GER modifier = ceded_east_karelia }
 		FIN = {
 		    transfer_state = 215
 			transfer_state = 216
@@ -278,7 +275,6 @@ country_event = { #Romania Accept
 	option = { #give transnistria to Romania
 		name = bs_ger.8.a
         
-		add_opinion_modifier = { target = GER modifier = ceded_transnistria }
 		ROM = {
 		    transfer_state = 192
 			transfer_state = 198

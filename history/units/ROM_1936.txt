@@ -449,65 +449,6 @@ units = {
 	}
 
 
-	##### NAVAL UNITS #####
-	navy = {				
-		name = "Flota Romania de Mare"			
-		base = 9635 
-		location = 9635 # Constanta
-		ship = { name = "NMS Marasti" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ROM } } }
-		ship = { name = "NMS Marasesti" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ROM } } }
-		ship = { name = "NMS Regele Ferdinand" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ROM version_name = "Regele Ferdinand Class" } } }
-		ship = { name = "NMS Regina Maria" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ROM version_name = "Regele Ferdinand Class" } } }
-	}				
-}
-
-
-### Fortele Aeriene Regale ale României (FFAR) ###
-air_wings = {
-	46 = {
-		# Grup 1 Avion de Vanatoare -- PZL P.11 fighters
-		fighter_equipment_0 = {
-			owner = "ROM" 
-			amount = 52
-		}
-		ace={ # Order is important. Ace will be assigned to the wing above (fighter_equipment_0).
-			modifier="fighter_genius"
-			name="Constantin"
-			surname="Cantacuzino"
-			callsign="Bâzu"
-			portrait =1 #GFX_ROM_ace_Constantin_Cantacuzino (TODO - Add Portrait)
-		}
-	}
-	79 = {
-		# Grup 2 Avion de Vanatoare -- Hawker Hurricane
-		fighter_equipment_1 = {
-			owner = "ROM" 
-			amount = 25
-		}
-		ace={ # Order is important. Ace will be assigned to the wing above (fighter_equipment_0).
-			modifier="fighter_genius"
-			name="Ioan"
-			surname="Dicezare"
-			callsign="Arici"
-			portrait =1 #GFX_ROM_ace_Ioan_Dicezare (TODO - Add Portrait)
-		}
-	}
-	1217 = {
-		# Grup 2 Avion de Vanatoare -- IAR 14 fighters
-		fighter_equipment_0 = {
-			owner = "ROM" 
-			amount = 30
-		}
-				ace={ # Order is important. Ace will be assigned to the wing above (fighter_equipment_0).
-			modifier="fighter_genius"
-			name="Alexandru"
-			surname="Serbanescu"
-			callsign="Alecu"
-			portrait =1 #GFX_ROM_ace_Alexandru_Serbanescu (TODO - Add Portrait)
-		}
-	}
-}
-
 ### Starting Production ###
 instant_effect = {
 	add_equipment_production = {

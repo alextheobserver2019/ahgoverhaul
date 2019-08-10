@@ -1426,8 +1426,8 @@ color = rgb { 37 54 81 }
 color_ui = rgb { 37 54 81 }
 }
 KSH = {
-color = rgb { 174 174 0 }
-color_ui = rgb { 174 174 0 }
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
 }
 CNR = {
 color = rgb { 255 255 0 }
@@ -1559,12 +1559,12 @@ color = rgb { 128 0 0 }
 color_ui = rgb { 128 0 0 }
 }
 KHL = {
-color = rgb { 64 0 64 }
-color_ui = rgb { 64 0 64 }
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
 }
 SND = {
-color = rgb { 0 255 64 }
-color_ui = rgb { 0 255 64 }
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
 }
 HOH = {
 color = rgb { 128 128 128 }
