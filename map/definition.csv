@@ -15073,7 +15073,7 @@
 15072;20;20;230;land;false;plains;1
 15073;20;20;232;land;false;plains;1
 15074;20;20;234;land;false;plains;1
-15075;20;20;236;land;false;plains;1
+15075;20;20;236;sea;false;ocean;0
 15076;20;20;238;land;false;plains;1
 15077;20;20;240;land;false;plains;1
 15078;20;20;242;land;false;plains;1
@@ -15108,7 +15108,7 @@
 15107;25;25;44;land;false;plains;1
 15108;25;25;46;land;false;plains;1
 15109;25;25;48;land;false;plains;1
-15110;25;25;155;land;false;plains;1
+15110;25;25;155;sea;false;ocean;0
 15111;25;25;50;land;false;plains;1
 15112;25;25;52;land;false;plains;1
 15113;25;25;56;land;false;plains;1
