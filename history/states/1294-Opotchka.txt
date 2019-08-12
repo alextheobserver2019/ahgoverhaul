@@ -10,8 +10,8 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = MSC
-		add_claim_by = BLR
-		add_claim_by = RUS
+		add_core_of = BLR
+		add_core_of = RUS
 	}
 	
 	provinces={

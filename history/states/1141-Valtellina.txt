@@ -13,6 +13,7 @@ state={
 		add_core_of = VNC
 		add_core_of = GRI
 		add_claim_by = SWI
+		add_core_of = LOM
 		
 
 	}
