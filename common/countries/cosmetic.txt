@@ -419,30 +419,6 @@ RIF_SPR = {
 	color = rgb { 224 198 94 }
 	color_ui = rgb { 224 198 94 }
 }
-TSC_SOV = {
-	color = rgb { 175 13 0 }
-	color_ui = rgb { 124 0 0 }
-}
-UKR_SOV = {
-	color = rgb { 175 13 0 }
-	color_ui = rgb { 124 0 0 }
-}
-BLR_SOV = {
-	color = rgb { 175 13 0 }
-	color_ui = rgb { 124 0 0 }
-}
-UZB_SOV = {
-	color = rgb { 175 13 0 }
-	color_ui = rgb { 124 0 0 }
-}
-TMS_SOV = {
-	color = rgb { 175 13 0 }
-	color_ui = rgb { 124 0 0 }
-}
-TAJ_SOV = {
-	color = rgb { 175 13 0 }
-	color_ui = rgb { 124 0 0 }
-}
 PAC_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
@@ -886,4 +862,80 @@ LBA_GER = {
 NOR_GER = {
 	color = rgb { 54 54 54 }
 	color_ui = rgb { 115 115 115 }
+}
+TSC_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+UKR_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+BLR_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+MOL_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+EST_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+LAT_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+LIT_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+GEO_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+ARM_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+AZR_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+KAZ_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+UZB_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+TMS_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+TAJ_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+KYR_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+POL_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+FIN_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+KAR_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+RUS_SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
