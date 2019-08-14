@@ -2770,3 +2770,55 @@ CTL = {
 color = rgb { 170 10 10 }
 color_ui = rgb { 170 10 10 }
 }
+AOS = {
+color = rgb { 98 0 0 }
+color_ui = rgb { 98 0 0 }
+}
+ART = {
+color = rgb { 0 0 102 }
+color_ui = rgb { 0 0 102 }
+}
+ACH = {
+color = rgb { 0 128 0 }
+color_ui = rgb { 0 128 0 }
+}
+SMK = {
+color = rgb { 1 109 69 }
+color_ui = rgb { 1 109 69 }
+}
+PKM = {
+color = rgb { 48 3 78 }
+color_ui = rgb { 48 3 78 }
+}
+ENR = {
+color = rgb { 48 3 78 }
+color_ui = rgb { 48 3 78 }
+}
+FRU = {
+color = rgb { 0 179 179 }
+color_ui = rgb { 0 179 179 }
+}
+TRT = {
+color = rgb { 126 5 81 }
+color_ui = rgb { 126 5 81 }
+}
+SDJ = {
+color = rgb { 147 255 147 }
+color_ui = rgb { 147 255 147 }
+}
+LEO = {
+color = rgb { 108 2 106 }
+color_ui = rgb { 108 2 106 }
+}
+PUN = {
+color = rgb { 45 242 158 }
+color_ui = rgb { 45 242 158 }
+}
+JUB = {
+color = rgb { 1 209 121 }
+color_ui = rgb { 1 209 121 }
+}
+KOK = {
+color = rgb { 159 252 75 }
+color_ui = rgb { 159 252 75 }
+}

@@ -9,13 +9,14 @@ SMK South Maluku
 PKM Prekmurje
 ENR Entre Rios
 FRU Friuli
-TRT Trentino?
+TRT Trentino
 SDJ Sandjak
 LEO Leon
 PUN Puntland
-IUR Idel Ural
+IUR Idel Ural?
 FST Far East Republic?
 KOK Kokand
+JUB Jubaland
 
 
 
