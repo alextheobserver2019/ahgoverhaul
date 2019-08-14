@@ -11,7 +11,7 @@ state={
 		}
 	}
 	provinces={
-		939 3820 3874 9800 9827 9846 11809 
+		3820 3874 9800 9827 9846 11809 
 	}
 	manpower=1000 
  state_category=pastoral

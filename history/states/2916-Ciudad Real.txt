@@ -11,7 +11,7 @@ state={
 		}
 	}
 	provinces={
-		858 6800 6914 9881 11863 
+		858 6800 6914 9881 11863 3986
 	}
 	manpower=1000 
  state_category=pastoral
