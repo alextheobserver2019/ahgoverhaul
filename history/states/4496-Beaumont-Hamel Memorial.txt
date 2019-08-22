@@ -8,7 +8,8 @@ state={
 		
 		owner = NFL 
 		add_core_of = NFL
-		#add_core_of = FRA
+		add_core_of = FRA
+		add_core_of = ART
 		buildings = {
 			infrastructure = 4
 			

@@ -11,6 +11,7 @@ state={
 
 		}
 		add_core_of = HUN
+		add_core_of = PKM
 		add_claim_by = SLV
 
 	}

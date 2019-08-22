@@ -5,6 +5,7 @@ state={
 		
 		owner = SPR 
 		add_core_of = SPR
+		add_core_of = LEO
 		buildings = {
 			infrastructure = 4
 			

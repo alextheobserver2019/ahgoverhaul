@@ -8,6 +8,7 @@ state={
 	owner = SML
 	add_core_of = SML
 	add_core_of = SOM
+		add_claim_by = PUN
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

@@ -10,6 +10,8 @@ state={
 
 		}
 		add_core_of = KEN
+		add_claim_by = JUB
+		add_claim_by = SOM
 
 	}
 	
