@@ -1,0 +1,12 @@
+state={
+	id=5218
+	name="Bwindi"
+	provinces={
+		15812
+	}
+	history = {
+		owner = UGA
+	}
+	manpower=11000
+	buildings_max_level_factor=1.000
+}

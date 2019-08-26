@@ -1,0 +1,12 @@
+state={
+	id=5216
+	name="Puntland"
+	provinces={
+		4909 15752 15753 15762 
+	}
+	history = {
+		owner = SOM
+	}
+	manpower=137000
+	buildings_max_level_factor=1.000
+}

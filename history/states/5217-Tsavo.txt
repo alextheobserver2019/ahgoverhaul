@@ -1,0 +1,12 @@
+state={
+	id=5217
+	name="Tsavo"
+	provinces={
+		13638
+	}
+	history = {
+		owner = KEN
+	}
+	manpower=97270
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=5219
+	name="Windhoek"
+	provinces={
+		4879
+	}
+	history = {
+		owner = NMB
+		buildings = {
+			industrial_complex = 1
+		}
+	}
+	manpower=11000
+	buildings_max_level_factor=1.000
+}
