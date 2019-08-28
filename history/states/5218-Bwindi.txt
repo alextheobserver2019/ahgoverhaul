@@ -1,12 +1,14 @@
 state={
 	id=5218
-	name="Bwindi"
+	name="STATE_5218"
 	provinces={
 		15812
 	}
 	history = {
 		owner = UGA
+		add_core_of = UGA
 	}
 	manpower=11000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

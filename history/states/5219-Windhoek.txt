@@ -1,15 +1,17 @@
 state={
 	id=5219
-	name="Windhoek"
+	name="STATE_5219"
 	provinces={
 		4879
 	}
 	history = {
 		owner = NMB
+		add_core_of = NMB
 		buildings = {
 			industrial_complex = 1
 		}
 	}
 	manpower=11000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

@@ -13,7 +13,7 @@ state={
 	}
 	
 	provinces={
-		7770 15781
+		7770
 	}
 	
 	manpower=98127

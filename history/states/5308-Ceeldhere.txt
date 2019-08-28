@@ -1,0 +1,14 @@
+state={
+	id=5308
+	name="STATE_5308"
+	provinces={
+		15750 
+	}
+	history = {
+		owner = SOM
+		add_core_of = SOM
+	}
+	manpower=1000
+state_category = pastoral
+	buildings_max_level_factor=1.000
+}
