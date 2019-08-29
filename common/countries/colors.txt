@@ -2820,3 +2820,139 @@ KOK = {
     color = rgb { 159 252 75 }
     color_ui = rgb { 159 252 75 }
 }
+ANJ = {
+color = rgb { 83 35 171 }
+color_ui = rgb { 83 35 171 }
+}
+MOH = {
+color = rgb { 92 35 45 }
+color_ui = rgb { 92 35 45 }
+}
+WAD = {
+color = rgb { 89 82 30 }
+color_ui = rgb { 89 82 30 }
+}
+WAD = {
+color = rgb { 61 64 107 }
+color_ui = rgb { 61 64 107 }
+}
+HOB = {
+color = rgb { 43 101 39 }
+color_ui = rgb { 43 101 39 }
+}
+GLE = {
+color = rgb { 86 190 120 }
+color_ui = rgb { 86 190 120 }
+}
+MAJ = {
+color = rgb { 186 86 184 }
+color_ui = rgb { 186 86 184 }
+}
+ASS = {
+color = rgb { 0 119 125 }
+color_ui = rgb { 0 119 125 }
+}
+ANK = {
+color = rgb { 214 200 27 }
+color_ui = rgb { 214 200 27 }
+}
+TOR = {
+color = rgb { 194 18 22 }
+color_ui = rgb { 194 18 22 }
+}
+BNY = {
+color = rgb { 67 66 24 }
+color_ui = rgb { 67 66 24 }
+}
+KYG = {
+color = rgb { 35 109 95 }
+color_ui = rgb { 35 109 95 }
+}
+BSG = {
+color = rgb { 131 17 134 }
+color_ui = rgb { 131 17 134 }
+}
+KKV = {
+color = rgb { 40 69 117 }
+color_ui = rgb { 40 69 117 }
+}
+DML = {
+color = rgb { 56 103 58 }
+color_ui = rgb { 56 103 58 }
+}
+RHB = {
+color = rgb { 23 56 168 }
+color_ui = rgb { 23 56 168 }
+}
+NML = {
+color = rgb { 5 131 55 }
+color_ui = rgb { 5 131 55 }
+}
+OVM = {
+color = rgb { 218 139 211 }
+color_ui = rgb { 218 139 211 }
+}
+KVN = {
+color = rgb { 97 61 61 }
+color_ui = rgb { 97 61 61 }
+}
+TSW = {
+color = rgb { 193 111 74 }
+color_ui = rgb { 193 111 74 }
+}
+HRR = {
+color = rgb { 77 130 134 }
+color_ui = rgb { 77 130 134 }
+}
+BSM = {
+color = rgb { 36 72 39 }
+color_ui = rgb { 36 72 39 }
+}
+KKG = {
+color = rgb { 39 154 33 }
+color_ui = rgb { 39 154 33 }
+}
+MYT = {
+color = rgb { 23 94 0 }
+color_ui = rgb { 23 94 0 }
+}
+BHH = {
+color = rgb { 141 139 46 }
+color_ui = rgb { 141 139 46 }
+}
+CSI = {
+color = rgb { 12 184 132 }
+color_ui = rgb { 12 184 132 }
+}
+GZK = {
+color = rgb { 157 6 86 }
+color_ui = rgb { 157 6 86 }
+}
+KNW = {
+color = rgb { 185 135 30 }
+color_ui = rgb { 185 135 30 }
+}
+KWN = {
+color = rgb { 217 73 4 }
+color_ui = rgb { 217 73 4 }
+}
+KWZ = {
+color = rgb { 123 51 51 }
+color_ui = rgb { 123 51 51 }
+}
+LBW = {
+color = rgb { 75 33 33 }
+color_ui = rgb { 75 33 33 }
+}
+QWQ = {
+color = rgb { 210 0 5 }
+color_ui = rgb { 210 0 5 }
+}
+TSK = {
+color = rgb { 140 153 96 }
+color_ui = rgb { 140 153 96 }
+}
+VND = {
+color = rgb { 158 63 190 }
+color_ui = rgb { 158 63 190 }
+}
