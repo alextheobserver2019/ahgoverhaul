@@ -5,6 +5,7 @@ state={
 		
 		owner = NMB 
 		add_core_of = NMB
+		add_core_of = BSM
 		buildings = {
 			infrastructure = 4
 			

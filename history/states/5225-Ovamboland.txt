@@ -4,11 +4,11 @@ state={
 	provinces={
 		15795 
 	}
-	manpo
 	history = {
 		owner = NMB
 		add_core_of = NMB
-	}wer=1000
+	}
+	manpower=1000
 	state_category = pastoral
 	buildings_max_level_factor=1.000
 }
