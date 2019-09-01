@@ -11,6 +11,7 @@ state={
 	history={
 		owner = SOM
 		add_core_of = SOM
+		add_core_of = GLE
 		buildings = {
 			infrastructure = 1
 		}

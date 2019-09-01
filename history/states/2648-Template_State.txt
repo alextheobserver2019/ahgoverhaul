@@ -4,6 +4,7 @@ state={
 	history={
 		owner = MAD 
 		add_core_of = COM
+		add_core_of = MOH
 		buildings = {
 			infrastructure = 4
 			

@@ -6,6 +6,7 @@ state={
 	}
 	history = {
 		owner = SOM
+		add_core_of = MAJ
 		add_core_of = SOM
 	}
 	manpower=137000

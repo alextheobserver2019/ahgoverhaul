@@ -1,4 +1,4 @@
-﻿capital = 5320
+﻿capital = 5001
 
 oob = "DRV_1936"
 

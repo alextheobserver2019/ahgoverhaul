@@ -9411,7 +9411,7 @@
  ASS_fascism:0 "Aussan Empire"
  ASS_fascism_DEF:0 "The Aussan Empire"
  ASS_neutrality:0 "Sultanate of Aussa"
- ASS_neutrality_DEF:0 The Sultanate of Aussa"
+ ASS_neutrality_DEF:0 "The Sultanate of Aussa"
  ASS_ADJ:0 "Aussan"
 
  ANK_democratic:0 "Republic of Ankole"
@@ -9676,4 +9676,17 @@
  DRV_neutrality:0 "Dervish State"
  DRV_neutrality_DEF:0 "Dervish State"
  DRV_neutrality_ADJ:0 "Dervish"
+
+ RWE_democratic:0 "Republic of Rwenzururu"
+ RWE_democratic_DEF:0 "Republic of Rwenzururu"
+ RWE_democratic_ADJ:0 "Rwenzururan"
+ RWE_communism:0 "People's Republic of Rwenzururu"
+ RWE_communism_DEF:0 "People's Republic of Rwenzururu"
+ RWE_communism_ADJ:0 "Rwenzururan"
+ RWE_fascism:0 "Rwenzururan Empire"
+ RWE_fascism_DEF:0 "Rwenzururan Empire"
+ RWE_fascism_ADJ:0 "Rwenzururan"
+ RWE_neutrality:0 "Rwenzururu"
+ RWE_neutrality_DEF:0 "Rwenzururu"
+ RWE_neutrality_ADJ:0 "Rwenzururan"
 

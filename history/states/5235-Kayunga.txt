@@ -7,6 +7,7 @@ state={
 	history = {
 		owner = UGA
 		add_core_of = UGA
+		add_core_of = BUG
 	}
 	manpower=1000
 	state_category = pastoral

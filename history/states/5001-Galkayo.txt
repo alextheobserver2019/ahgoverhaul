@@ -11,6 +11,7 @@ state={
 
 		}
 		add_core_of = SOM
+		add_core_of = DRV
 
 	}
 	manpower=1030

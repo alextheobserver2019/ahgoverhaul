@@ -7,6 +7,7 @@ state={
 	history = {
 	owner = UGA
 	add_core_of = UGA
+		add_core_of = BNY
 	}
 	manpower=53866
 	buildings_max_level_factor=1.000

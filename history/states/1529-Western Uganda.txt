@@ -9,6 +9,7 @@ state={
 
 		}
 		add_core_of = UGA
+		add_core_of = TOR
 
 	}
 	

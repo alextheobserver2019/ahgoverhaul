@@ -6,6 +6,7 @@ state={
 	}
 	history={
 		owner = SUD
+		add_core_of = DRF
 		add_core_of = SUD
 		buildings = {
 			infrastructure = 2

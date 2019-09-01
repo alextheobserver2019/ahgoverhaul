@@ -8,6 +8,7 @@ state={
 	history={
 		owner = MAD
 		add_core_of = COM
+		add_core_of = ANJ
 		buildings = {
 			infrastructure = 3
 			13072 = {

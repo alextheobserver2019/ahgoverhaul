@@ -11,6 +11,7 @@ state={
 
 		}
 		add_core_of = ANG
+		add_core_of = KKG
 
 	}
 	manpower=1030

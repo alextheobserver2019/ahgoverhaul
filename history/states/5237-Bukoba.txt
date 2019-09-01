@@ -5,8 +5,8 @@ state={
 		15769 
 	}
 	history = {
-		owner = UGA
-		add_core_of = UGA
+		owner = TZN
+		add_core_of = TZN	
 	}
 	manpower=1000
 	state_category = pastoral

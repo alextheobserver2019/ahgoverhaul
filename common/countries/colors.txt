@@ -2864,10 +2864,6 @@ BNY = {
 color = rgb { 67 66 24 }
 color_ui = rgb { 67 66 24 }
 }
-KYG = {
-color = rgb { 35 109 95 }
-color_ui = rgb { 35 109 95 }
-}
 BSG = {
 color = rgb { 131 17 134 }
 color_ui = rgb { 131 17 134 }
@@ -2959,4 +2955,8 @@ color_ui = rgb { 158 63 190 }
 DRV = {
 color = rgb { 0 83 83 }
 color_ui = rgb { 0 83 83 }
+}
+RWE = {
+color = rgb { 0 99 147 }
+color_ui = rgb { 0 99 147 }
 }
