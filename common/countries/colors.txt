@@ -2956,3 +2956,7 @@ VND = {
 color = rgb { 158 63 190 }
 color_ui = rgb { 158 63 190 }
 }
+DRV = {
+color = rgb { 0 83 83 }
+color_ui = rgb { 0 83 83 }
+}
