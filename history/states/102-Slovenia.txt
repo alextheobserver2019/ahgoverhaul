@@ -13,13 +13,13 @@ state={
 			9627 3 
 		}
 		add_core_of = YUG
-		add_core_of = STY
+		add_core_of = CRT
 		add_core_of = SLV
 
 	}
 
 	provinces={
-		3654 9596 
+		3654 
 	}
 	manpower=1093000
 	buildings_max_level_factor=1.000
