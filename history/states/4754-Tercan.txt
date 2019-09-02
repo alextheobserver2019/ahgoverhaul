@@ -12,6 +12,7 @@ state={
 			
 		}
 		add_core_of = TUR
+		add_core_of = KUR
 	}
 	manpower = 6900
 	state_category = pastoral
