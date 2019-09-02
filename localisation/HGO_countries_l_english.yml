@@ -9689,4 +9689,17 @@
  RWE_neutrality:0 "Rwenzururu"
  RWE_neutrality_DEF:0 "Rwenzururu"
  RWE_neutrality_ADJ:0 "Rwenzururan"
-
+ 
+ WUK_democratic:0 "West Ukrainian People's Republic"
+ WUK_democratic_DEF:0 "The West Ukrainian People's Republic"
+ WUK_democratic_ADJ:0 "West Ukrainian"
+ WUK_communism:0 "West Ukrainian People's Republic"
+ WUK_communism_DEF:0 "The West Ukrainian People's Republic"
+ WUK_communism_ADJ:0 "West Ukrainian"
+ WUK_fascism:0 "East Galician State"
+ WUK_fascism_DEF:0 "The East Galician State"
+ WUK_fascism_ADJ:0 "East Galician"
+ WUK_neutrality:0 "Duchy of East Galicia"
+ WUK_neutrality_DEF:0 "The Duchy of East Galicia"
+ WUK_neutrality_ADJ:0 "East Galician"
+ 

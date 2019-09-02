@@ -15,7 +15,7 @@ state={
 		add_core_of = UKR
 	}
 	provinces={
-		3421 6474 6493 
+		3421 6493 15825
 	}
 	buildings_max_level_factor=1.000
 }

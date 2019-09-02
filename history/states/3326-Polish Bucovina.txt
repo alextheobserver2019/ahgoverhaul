@@ -15,6 +15,7 @@ state={
 		add_core_of = GLC
 		add_core_of = BUK
 		add_core_of = UKR
+		add_core_of = WUK
 		buildings = {
 			infrastructure = 1
 		}

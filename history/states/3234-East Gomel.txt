@@ -2,7 +2,7 @@ state={
 	id=3234
 	name="STATE_3234"
 	provinces={
-		9342 
+		6344 11355 
 	}
 	manpower = 1000
 	
@@ -14,8 +14,7 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = SOV
-		add_core_of = RUS
-		add_core_of = MSC
+		add_core_of = BLR
 	}
 	buildings_max_level_factor=1.000
 }
