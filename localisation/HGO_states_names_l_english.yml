@@ -5372,5 +5372,13 @@
  STATE_5368:0 "Zalom"
  STATE_5369:0 "Slatina"
  STATE_5370:0 "Budoni"
-
+ STATE_5371:0 "Jaroslaw"
+ STATE_5372:0 "Lubaczow"
+ STATE_5373:0 "East Lemko"
+ STATE_5374:0 "East Zboj"
+ STATE_5375:0 "Slovakian Lemko"
+ STATE_5376:0 "Tereblecea"
+ STATE_5377:0 "North Pinsk"
+ STATE_5378:0 "Nivnoye"
+ STATE_5379:0 "Antracyt"
 
