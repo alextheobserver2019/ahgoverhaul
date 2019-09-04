@@ -1,0 +1,101 @@
+##Creating a Nation (alpha v1)
+create_nation = {
+     #icon = 
+     available = { 
+          is_ai = no
+     }
+     ALB_Illyrian_Create = {
+         available = {
+             tag = ALB
+             owns_state = 812
+             owns_state = 4039
+             owns_state = 4038
+             owns_state = 2761 
+             owns_state = 2339
+             owns_state = 1233
+             owns_state = 1215
+             owns_state = 535
+             owns_state = 3529
+             owns_state = 810
+             owns_state = 4043
+             owns_state = 3847
+             owns_state = 3641
+             owns_state = 2760
+             owns_state = 2295
+             owns_state = 2089
+             owns_state = 1801
+             owns_state = 932
+             owns_state = 811
+             owns_state = 3654
+             owns_state = 3644
+             owns_state = 3643
+             owns_state = 3642
+             owns_state = 3640
+             owns_state = 3639
+             owns_state = 3638
+             owns_state = 3460
+             owns_state = 2791
+             owns_state = 2761
+             owns_state = 2757
+             owns_state = 2289
+             owns_state = 1220
+             owns_state = 105
+             owns_state = 813
+             owns_state = 4827
+             owns_state = 2762
+         }
+         complete_effect = {
+             set_cosmetic_tag = ALB_Illyria
+         }
+     }
+}
+create_nation_AI = {
+     #icon = 
+     available = { 
+          is_ai = yes
+     }
+     ALB_Illyrian_Create_ai = {
+         available = {
+             tag = ALB
+             owns_state = 812
+             owns_state = 4039
+             owns_state = 4038
+             owns_state = 2761 
+             owns_state = 2339
+             owns_state = 1233
+             owns_state = 1215
+             owns_state = 535
+             owns_state = 3529
+             owns_state = 810
+             owns_state = 4043
+             owns_state = 3847
+             owns_state = 3641
+             owns_state = 2760
+             owns_state = 2295
+             owns_state = 2089
+             owns_state = 1801
+             owns_state = 932
+             owns_state = 811
+             owns_state = 3654
+             owns_state = 3644
+             owns_state = 3643
+             owns_state = 3642
+             owns_state = 3640
+             owns_state = 3639
+             owns_state = 3638
+             owns_state = 3460
+             owns_state = 2791
+             owns_state = 2761
+             owns_state = 2757
+             owns_state = 2289
+             owns_state = 1220
+             owns_state = 105
+             owns_state = 813
+             owns_state = 4827
+             owns_state = 2762
+         }
+         complete_effect = {
+             set_cosmetic_tag = ALB_Illyria
+         }
+     }
+}

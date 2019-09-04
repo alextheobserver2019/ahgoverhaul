@@ -91,3 +91,9 @@
 
  #Monaco
  occupy_monaco:0 "Occupy Monaco"
+
+ #Create Nations
+ create_nation:0 "Create Nation"
+ create_nation_desc:0 "TEST"
+ ALB_Illyrian_Create:0 "Create Illyria"
+ ALB_Illyrian_Create_ai:0 "AI Illyria"

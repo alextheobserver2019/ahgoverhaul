@@ -1363,3 +1363,8 @@ CAPITOL_COPPER = {
 	color = rgb { 184 97 37 }
 	color_ui = rgb { 184 97 37 }
 }
+
+ALB_Illyria = {
+	color = rgb { 37 190 19}
+	color_ui = rgb { 36 190 19}
+}
