@@ -939,3 +939,427 @@ RUS_SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 125 13 24 }
 }
+###Country Colours Mod
+
+########
+##########
+#\##########	Main Mod Colors
+##########
+########
+
+##
+#### Special Skins
+#\
+CEL_GREEN = {
+	color = rgb { 72 143 68 }
+    color_ui = rgb { 72 143 68 }
+}
+
+SCCwNrk = {
+	color = rgb { 115 115 115 }
+	color_ui = rgb { 122 145 93 }
+}
+
+SCCwoNrk = {
+	color = rgb { 115 115 115 }
+	color_ui = rgb { 122 145 93 }
+}
+#/
+#### Shades of grey
+#\
+
+WHITE = {
+	color = rgb { 250 250 250 }
+	color_ui = rgb { 250 250 250 }
+}
+
+AUSTRIA_WHITE = {	
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+JAPAN_WHITE = {
+	color = rgb { 165 69 117 }
+	color_ui = rgb { 165 69 117 }
+}
+
+SILVER = {
+	color = rgb { 130 135 150 }
+	color_ui = rgb { 130 135 150 }
+}
+
+GREY_GER1 = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 54 54 54 }
+}
+
+GREY_GER2 = {
+	color = rgb { 128 128 128 }
+	color_ui = rgb { 115 115 115 }
+}
+
+GREY_GER3 = {
+	color = rgb { 63 63 63 }
+	color_ui = rgb { 63 63 63 }
+}
+
+TUR_GREY = {
+	color = rgb { 145 81 81 }
+	color_ui = rgb { 145 81 81 }
+}
+
+IRN_GREY = {
+	color = rgb { 57 119 89 }
+	color_ui = rgb { 57 119 89 }
+}
+
+PRU_GREY = {
+	color = rgb { 160 56 78 }
+	color_ui = rgb { 160 56 78 }
+}
+
+INS_GREY = {
+	color = rgb { 214 83 83 } #white with a bit of red
+	color_ui = rgb { 214 83 83 } #white with a bit of red
+}
+
+#Update 10
+
+SILVER_2 = {
+	color = rgb { 193 198 200 }
+	color_ui = rgb { 193 198 200 }
+}
+
+BLACK = {
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
+}
+
+#/
+#### Shades of red
+#\
+
+RED = {
+	color = rgb { 250 0 0 }
+	color_ui = rgb { 250 0 0 }
+}
+
+SWI_RED = {
+	color = rgb { 217 31 5 }
+	color_ui = rgb { 217 31 5 }
+}
+
+UK_RED = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+
+SOV_RED = {
+	color = rgb { 124 0 0 }
+	color_ui = rgb { 124 0 0 }
+}
+
+SPQR_RED = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+
+PRC_RED = {
+	color = rgb { 245 12 55 }
+	color_ui = rgb { 178 34 60 }
+}
+
+RAJ_RED = {
+	color = rgb { 170  10  10 }
+	color_ui = rgb { 170  10  10 }
+}
+
+CAN_RED = {
+	color = rgb { 117 56 56 }
+	color_ui = rgb { 155 62 51 }
+}
+
+ALB_PURPLE = {
+	color = rgb { 149 45 102 }
+	color_ui = rgb { 194 59 133 }
+}
+
+#Update 10
+
+NZL_PURPLE = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}
+
+#Update 11
+
+BYZ_PURPLE = {
+	color = rgb { 143 12 125 }
+	color_ui = rgb { 143 12 125 }
+}
+
+
+
+#/
+#### Shades of blue
+#\
+
+CYAN = {
+	color = rgb { 0 250 250 }
+	color_ui = rgb { 0 250 250 }
+}
+
+SKY_BLUE = {
+	color = rgb { 135 206 235 }
+	color_ui = rgb { 135 206 235 }
+}
+
+SWE_BLUE = {
+	color = rgb { 29 108 198 }
+	color_ui = rgb { 36 132 247 }
+}
+
+USA_BLUE = {
+	color = rgb { 53 105 165 }
+	color_ui = rgb { 20 133 237 }
+}
+
+FRA_BLUE = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 57 113 228 }
+}
+
+EUROPEAN_BLUE = {
+	color = rgb { 0 51 153 }
+	color_ui = rgb { 0 51 153 }
+}
+
+PRUSSIAN_BLUE = {
+	color = rgb { 0 49 83 }
+	color_ui = rgb { 0 49 83 }
+}
+
+CZE_BLUE = {
+	color = rgb { 65 151 145 }
+	color_ui = rgb { 54 167 156 }
+}
+
+EST_BLUE = {
+	color = rgb { 50 135 175 }
+	color_ui = rgb { 50 135 175 }
+}
+
+LAT_BLUE = {
+	color = rgb { 75 77 186 }
+	color_ui = rgb { 124 125 184 }
+}
+
+YUG_BLUE = {
+	color = rgb { 56 57 96 }
+	color_ui = rgb { 72  73  126 }
+}
+
+GRE_BLUE = {
+	color = rgb { 113 167 198 }
+	color_ui = rgb { 121 235 255 }
+}
+
+UKR_BLUE = {
+	color = rgb { 72 132 150 }
+	color_ui = rgb { 0  80  230 }	
+}
+
+TEAL_BLUE = {
+	color = rgb { 0 109 117 }
+	color_ui = rgb { 0 109 117 }
+}
+
+#Update 10
+
+SAPPHIRE_BLUE = {
+	color = rgb { 68 103 151 }
+	color_ui = rgb { 68 103 151 }
+}
+
+ATLANTA_MIDNIGHT_BLUE = {
+	color = rgb { 4 30 66 }
+	color_ui = rgb { 4 30 66 }
+}
+
+ICE_BLUE = {
+	color = rgb { 92 136 218 }
+	color_ui = rgb { 92 136 218 }
+}
+
+
+
+#/
+#### Shades of green
+#\
+
+MON_GREEN = {
+	#color = HSV { 0.1 0.15 0.4 }
+	color = rgb { 108 140 42 }
+	color_ui = rgb { 209 247 133 }
+}
+
+ITA_GREEN = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 87 165 82 }
+}
+
+BUL_GREEN = {
+	color = rgb { 72 122 81 }
+	color_ui = rgb { 210 147 217 }
+}
+
+POR_GREEN = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
+
+BRA_GREEN = {
+	color = rgb { 11 112 31 }
+	color_ui = rgb { 99 189 82 }
+}
+
+IRE_GREEN = {
+	color = rgb { 78 135 77 }
+	color_ui = rgb { 104 207 117 }
+}
+
+IRN_GREEN = {
+	color = rgb { 71 113 97 }
+	color_ui = rgb { 92 147 126 }
+}
+
+TIB_GREEN = {
+	color = rgb { 80 115 45 }
+	color_ui = rgb { 222 247 198 }
+}
+
+AUT_GREEN = {
+	color = rgb { 57  143  97 }
+	color_ui = rgb { 57  143  97 }
+}
+
+MEX_GREEN = {
+	color = rgb { 72 130 84 }
+	color_ui = rgb { 135 198 108 }
+}
+
+YUN_GREEN = {
+	color = rgb { 114 148 80 }
+	color_ui = rgb { 222 247 198 }
+}
+
+RUS_GREEN = {
+    color = rgb { 0 127 14 }
+    color_ui = rgb { 72 143 68 }
+}
+
+MEN_GREEN = {
+	color = rgb { 185  255  152 }
+	color_ui = rgb { 165  230  132 }
+}
+
+INS_GREEN = {
+	color = rgb { 128  158  118 } #green
+	color_ui = rgb { 128  158  118 } #green
+}	
+
+#/
+#### Shades of yellow/orange/brown
+#\
+
+PERSIA_YELLOW = {
+	color = rgb { 255 215 0 }
+	color_ui = rgb { 255 215 0 }
+}
+
+ROM_YELLOW = {
+	color = rgb { 203 180 46 }
+	color_ui = rgb { 255 255 120 }
+}
+
+LIT_YELLOW = {
+	color = rgb { 154 69 116 }
+	color_ui = rgb { 255 255 155 }
+}
+
+SPR_YELLOW = {
+	color = rgb { 224 198 94 }
+	color_ui = rgb { 255 255 122 }
+}
+
+BEL_YELLOW = {
+	color = rgb { 196 141 31 }
+	color_ui = rgb { 251 222 10 }
+}
+
+HOL_ORANGE = {
+	color = rgb { 173 116 64 }
+	color_ui = rgb { 255 179 96 }
+}
+
+HUN_ORANGE = {
+	color = rgb { 85 137 90 }
+	color_ui = rgb { 255 164 127 }
+}
+
+RAJ_ORANGE = {
+	color = rgb { 204 102 0 }
+	color_ui = rgb { 255 128 0 }
+}
+
+CHI_YELLOW = {
+	color = rgb { 245 210 55 } 
+	color_ui = hsv { 0.18 0.3 0.9 }
+}
+
+COL_YELLOW = {
+	color = rgb { 214 177 74 }
+	color_ui = rgb { 255 243 118 }
+}
+
+BOL_YELLOW = {
+	color = hsv { 0.1 0.47 0.8 } #255 180 136
+	color_ui = rgb { 255 234 177 }
+}
+
+MAN_ORANGE = {
+	color = rgb { 142 59 80 }
+	color_ui = rgb { 255 120 71 }
+}
+
+#Update 10
+
+DEN_BROWN = {
+	color = rgb { 142 68 62 }
+	color_ui = rgb { 199 151 121 }
+}
+
+SANJOSE_ORANGE = {
+	color = rgb { 234 114 0 }
+	color_ui = rgb { 234 114 0 }
+}
+
+METALLIC_GOLD = {
+	color = rgb { 185 151 91 }
+	color_ui = rgb { 185 151 91 }
+}
+
+PEACHTREE_GOLD = {
+	color = rgb { 255 163 0 }
+	color_ui = rgb { 255 163 0 }
+}
+
+GEORGIA_BRONZE = {
+	color = rgb { 134 38 51 }
+	color_ui = rgb { 134 38 51 }
+}
+
+CAPITOL_COPPER = {
+	color = rgb { 184 97 37 }
+	color_ui = rgb { 184 97 37 }
+}
