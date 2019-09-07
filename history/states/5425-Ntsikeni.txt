@@ -1,0 +1,14 @@
+state={
+	id=5425
+	name="STATE_5425"
+	provinces={
+		15873 
+	}
+	history = {
+		owner = SAF
+		add_core_of = SAF
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
