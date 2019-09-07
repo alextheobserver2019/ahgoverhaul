@@ -1353,3 +1353,45 @@
  ALB_Illyria_neutrality:1 "Second Illyrian Empire"
  ALB_Illyria_communism:0 "United Communes of Illyria"
  ALB_Illyria_ADJ:0 "Illyrian"
+ 
+ SIA_JAP_neutrality:0 "Protectorate of Siam" 
+ SIA_JAP_neutrality_DEF:0 "The Protectorate of Siam"
+ SIA_JAP_fascism:0 "Protectorate of Siam" 
+ SIA_JAP_fascism_DEF:0 "The Protectorate of Siam"
+ 
+ VIN_JAP_neutrality:0 "Governorate of Indochina" 
+ VIN_JAP_neutrality_DEF:0 "The Governorate of Indochina"
+ VIN_JAP_fascism:0 "Governorate of Indochina" 
+ VIN_JAP_fascism_DEF:0 "The Governorate of Indochina"
+ 
+ INS_JAP_neutrality:0 "Kingdom of East Indies" 
+ INS_JAP_neutrality_DEF:0 "The Kingdom of East Indies"
+ INS_JAP_fascism:0 "Kingdom of East Indies" 
+ INS_JAP_fascism_DEF:0 "The Kingdom of East Indies"
+ 
+ PHI_JAP_neutrality:0 "Governorate of Formosa" 
+ PHI_JAP_neutrality_DEF:0 "The Governorate of Formosa"
+ PHI_JAP_fascism:0 "Governorate of Formosa" 
+ PHI_JAP_fascism_DEF:0 "The Governorate of Formosa"
+ 
+ BUR_JAP_neutrality:0 "State of Burma"
+ BUR_JAP_neutrality_DEF:0 "The State of Burma"
+ BUR_JAP_fascism:0 "State of Burma"
+ BUR_JAP_fascism_DEF:0 "The State of Burma"
+ 
+ PNG_JAP_neutrality:0 "Governorate of New Guinea" 
+ PNG_JAP_neutrality_DEF:0 "The Governorate of New Guinea"
+ PNG_JAP_fascism:0 "Governorate of New Guinea" 
+ PNG_JAP_fascism_DEF:0 "The Governorate of New Guinea" 
+ 
+ CAM_JAP_neutrality:0 "Governorate of Kampuchea" 
+ CAM_JAP_neutrality_DEF:0 "The Governorate of Kampuchea"
+ CAM_JAP_fascism:0 "Governorate of Kampuchea" 
+ CAM_JAP_fascism_DEF:0 "The Governorate of Kampuchea"
+ 
+ LAO_JAP_neutrality:0 "Governorate of Annam" 
+ LAO_JAP_neutrality_DEF:0 "The Governorate of Annam"
+ LAO_JAP_fascism:0 "Governorate of Annam" 
+ LAO_JAP_fascism_DEF:0 "The Governorate of Annam"
+ 
+ 
