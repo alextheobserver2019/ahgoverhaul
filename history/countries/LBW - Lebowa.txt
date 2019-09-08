@@ -1,4 +1,4 @@
-﻿capital = 1 #tag not implemented
+﻿capital = 5404
 
 oob = "FIU_1936"
 

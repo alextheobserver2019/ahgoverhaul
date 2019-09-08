@@ -1,4 +1,4 @@
-﻿capital = 1 #placeholder, please correct
+﻿capital = 3622
 
 set_research_slots = 3
 
