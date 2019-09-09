@@ -11,7 +11,7 @@ state={
 		add_core_of = YUG
 		add_core_of = SER
 		add_core_of = SDJ
-		add_claim_by = MNT
+		add_core_of = MNT
 
 	}
 	
