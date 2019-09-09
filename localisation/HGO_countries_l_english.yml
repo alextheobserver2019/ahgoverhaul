@@ -9370,8 +9370,8 @@
  HOB_communism_DEF:0 "The Hobyan Socailist Republic"
  HOB_fascism:0 "Hobyan Empire"
  HOB_fascism_DEF:0 "The Hobyan Empire"
- HOB_neutrality:0 "Hobyo"
- HOB_neutrality_DEF:0 "Hobyo"
+ HOB_neutrality:0 "Sultanate of Hobyo"
+ HOB_neutrality_DEF:0 "The Sultanate of Hobyo"
  HOB_ADJ:0 "Hobyan"
 
  GLE_democratic:0 "Republic of Geledi"
@@ -9420,8 +9420,8 @@
  ANK_communism_DEF:0 "The Ankole Socailist Republic"
  ANK_fascism:0 "Ankolean Empire"
  ANK_fascism_DEF:0 "The Ankolean Empire"
- ANK_neutrality:0 "Ankole"
- ANK_neutrality_DEF:0 "Ankole"
+ ANK_neutrality:0 "Kingdom of Ankole"
+ ANK_neutrality_DEF:0 "The Kingdom of Ankole"
  ANK_ADJ:0 "Ankolean"
 
  TOR_democratic:0 "Republic of Toro"
@@ -9430,8 +9430,8 @@
  TOR_communism_DEF:0 "The Toro Socailist Republic"
  TOR_fascism:0 "Toro Empire"
  TOR_fascism_DEF:0 "The Toro Empire"
- TOR_neutrality:0 "Toro"
- TOR_neutrality_DEF:0 "Toro"
+ TOR_neutrality:0 "Kingdom of Toro"
+ TOR_neutrality_DEF:0 "The Kingdom of Toro"
  TOR_ADJ:0 "Toro"
 
  BNY_democratic:0 "Republic of Bunyoro"
@@ -9440,8 +9440,8 @@
  BNY_communism_DEF:0 "The Bunyoran Socailist Republic"
  BNY_fascism:0 "Bunyoran Empire"
  BNY_fascism_DEF:0 "The Bunyoran Empire"
- BNY_neutrality:0 "Bunyoro"
- BNY_neutrality_DEF:0 "Bunyoro"
+ BNY_neutrality:0 "Kingdom of Bunyoro"
+ BNY_neutrality_DEF:0 "The Kingdom of Bunyoro"
  BNY_ADJ:0 "Bunyoran"
 
  BSG_democratic:0 "Republic of Busoga"
@@ -9450,8 +9450,8 @@
  BSG_communism_DEF:0 "The Busoganese Socailist Republic"
  BSG_fascism:0 "Busoganese Empire"
  BSG_fascism_DEF:0 "The Busoganese Empire"
- BSG_neutrality:0 "Busoga"
- BSG_neutrality_DEF:0 "Busoga"
+ BSG_neutrality:0 "Kingdom of Busoga"
+ BSG_neutrality_DEF:0 "The Kingdom of Busoga"
  BSG_ADJ:0 "Busoganese"
 
  KKV_democratic:0 "Republic of Kaokoland"
@@ -9560,7 +9560,7 @@
  MYT_communism_DEF:0 "The Mayottean Socailist Republic"
  MYT_fascism:0 "Mayottean Empire"
  MYT_fascism_DEF:0 "The Mayottean Empire"
- MYT_neutrality:0 "Kingdom of Mayotte"
+ MYT_neutrality:0 "Mayotte"
  MYT_neutrality_DEF:0 "Mayotte"
  MYT_ADJ:0 "Mayottean"
 
@@ -9570,7 +9570,7 @@
  BHH_communism_DEF:0 "The Bophuthatswanan Socailist Republic"
  BHH_fascism:0 "Bophuthatswanan Empire"
  BHH_fascism_DEF:0 "The Bophuthatswanan Empire"
- BHH_neutrality:0 "Kingdom of Bophuthatswana"
+ BHH_neutrality:0 "Bophuthatswana"
  BHH_neutrality_DEF:0 "Bophuthatswana"
  BHH_ADJ:0 "Bophuthatswanan"
 
@@ -9580,7 +9580,7 @@
  CSI_communism_DEF:0 "The Ciskei Socailist Republic"
  CSI_fascism:0 "Ciskei Empire"
  CSI_fascism_DEF:0 "The Ciskei Empire"
- CSI_neutrality:0 "Kingdom of Ciskei"
+ CSI_neutrality:0 "Ciskei"
  CSI_neutrality_DEF:0 "Ciskei"
  CSI_ADJ:0 "Ciskei"
 
@@ -9590,7 +9590,7 @@
  GZK_communism_DEF:0 "The Gazankulu Socailist Republic"
  GZK_fascism:0 "Gazankulu Empire"
  GZK_fascism_DEF:0 "The Gazankulu Empire"
- GZK_neutrality:0 "Kingdom of Gazankulu"
+ GZK_neutrality:0 "Gazankulu"
  GZK_neutrality_DEF:0 "Gazankulu"
  GZK_ADJ:0 "Gazankulu"
 
@@ -9600,7 +9600,7 @@
  KNW_communism_DEF:0 "The KaNgwanean Socailist Republic"
  KNW_fascism:0 "KaNgwanean Empire"
  KNW_fascism_DEF:0 "The KaNgwanean Empire"
- KNW_neutrality:0 "Kingdom of KaNgwane"
+ KNW_neutrality:0 "KaNgwane"
  KNW_neutrality_DEF:0 "KaNgwane"
  KNW_ADJ:0 "KaNgwanean"
 
@@ -9610,7 +9610,7 @@
  KWN_communism_DEF:0 "The KwaNdbele Socailist Republic"
  KWN_fascism:0 "KwaNdbele Empire"
  KWN_fascism_DEF:0 "The KwaNdbelean Empire"
- KWN_neutrality:0 "Kingdom of KwaNdbele"
+ KWN_neutrality:0 "KwaNdbele"
  KWN_neutrality_DEF:0 "KwaNdbele"
  KWN_ADJ:0 "KwaNdbele"
 
@@ -9620,7 +9620,7 @@
  KWZ_communism_DEF:0 "The KwaZulu Socailist Republic"
  KWZ_fascism:0 "KwaZulu Empire"
  KWZ_fascism_DEF:0 "The KwaZuluan Empire"
- KWZ_neutrality:0 "Kingdom of KwaZulu"
+ KWZ_neutrality:0 "KwaZulu"
  KWZ_neutrality_DEF:0 "KwaZulu"
  KWZ_ADJ:0 "KwaZulu"
 
@@ -9630,7 +9630,7 @@
  LBW_communism_DEF:0 "The Lebowan Socailist Republic"
  LBW_fascism:0 "Lebowan Empire"
  LBW_fascism_DEF:0 "The Lebowan Empire"
- LBW_neutrality:0 "Kingdom of Lebowa"
+ LBW_neutrality:0 "Lebowa"
  LBW_neutrality_DEF:0 "Lebowa"
  LBW_ADJ:0 "Lebowan"
 
@@ -9640,7 +9640,7 @@
  QWQ_communism_DEF:0 "The Qwaqwan Socailist Republic"
  QWQ_fascism:0 "Qwaqwan Empire"
  QWQ_fascism_DEF:0 "The Qwaqwan Empire"
- QWQ_neutrality:0 "Kingdom of Qwaqwa"
+ QWQ_neutrality:0 "Qwaqwa"
  QWQ_neutrality_DEF:0 "Qwaqwa"
  QWQ_ADJ:0 "Qwaqwan"
 
@@ -9660,7 +9660,7 @@
  VND_communism_DEF:0 "The Vendan Socailist Republic"
  VND_fascism:0 "Vendan Empire"
  VND_fascism_DEF:0 "The Vendan Empire"
- VND_neutrality:0 "Kingdom of Venda"
+ VND_neutrality:0 "Venda"
  VND_neutrality_DEF:0 "Venda"
  VND_ADJ:0 "Vendan"
 
@@ -9686,8 +9686,8 @@
  RWE_fascism:0 "Rwenzururan Empire"
  RWE_fascism_DEF:0 "Rwenzururan Empire"
  RWE_fascism_ADJ:0 "Rwenzururan"
- RWE_neutrality:0 "Rwenzururu"
- RWE_neutrality_DEF:0 "Rwenzururu"
+ RWE_neutrality:0 "Kingdom of Rwenzururu"
+ RWE_neutrality_DEF:0 "The Kingdom of Rwenzururu"
  RWE_neutrality_ADJ:0 "Rwenzururan"
  
  WUK_democratic:0 "West Ukrainian People's Republic"
