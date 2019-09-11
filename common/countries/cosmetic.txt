@@ -27,8 +27,8 @@ MAD_FRA = {
 	color_ui = rgb { 37 72 155 }
 }
 UNC_ANT = {
-	color = rgb { 255 255 255 }
-	color_ui = rgb { 255 255 255 }
+	color = rgb { 64 55 55 }
+	color_ui = rgb { 64 55 55 }
 }
 SYR_FRA = {
 	color = rgb { 37 72 155 }
