@@ -972,8 +972,72 @@ PNG_JAP = {
 	color_ui = rgb { 165 69 117 }
 }
 PHI_JAP = {
-	color = rgb { 165 69 117 }
+	color = rgb { 165 69 117 } 
 	color_ui = rgb { 165 69 117 }
+}
+ALB_Illyria = {
+	color = rgb { 37 190 19 }
+	color_ui = rgb { 36 190 19 }
+}
+ALB_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+MNT_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+CRO_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+GRE_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+ETH_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+NEAF_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+TUR_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+IRQ_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+SAU_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+IRQ_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+PAL_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+OMA_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+ALG_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+EGY_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
+}
+SUD_ITA = {
+	color = rgb { 42 107 48 }
+	color_ui = rgb { 42 107 48 }
 }
 ###Country Colours Mod
 
@@ -1398,9 +1462,4 @@ GEORGIA_BRONZE = {
 CAPITOL_COPPER = {
 	color = rgb { 184 97 37 }
 	color_ui = rgb { 184 97 37 }
-}
-
-ALB_Illyria = {
-	color = rgb { 37 190 19}
-	color_ui = rgb { 36 190 19}
 }
