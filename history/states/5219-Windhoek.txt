@@ -7,11 +7,8 @@ state={
 	history = {
 		owner = NMB
 		add_core_of = NMB
-		buildings = {
-			industrial_complex = 1
-		}
 	}
-	manpower=11000
+	manpower=1000
 	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

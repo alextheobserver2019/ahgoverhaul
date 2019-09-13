@@ -9,7 +9,7 @@ state={
 		add_core_of = MAJ
 		add_core_of = SOM
 	}
-	manpower=137000
+	manpower=1000
 	state_category = pastoral
 	buildings_max_level_factor=1.000
 }
