@@ -975,10 +975,6 @@ PHI_JAP = {
 	color = rgb { 165 69 117 } 
 	color_ui = rgb { 165 69 117 }
 }
-ALB_Illyria = {
-	color = rgb { 37 190 19 }
-	color_ui = rgb { 36 190 19 }
-}
 ALB_ITA = {
 	color = rgb { 42 107 48 }
 	color_ui = rgb { 42 107 48 }
