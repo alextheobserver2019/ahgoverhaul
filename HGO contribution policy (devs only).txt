@@ -1,1 +1,1 @@
-By pushing to this git as a developer, you agree for your content to be used in perpetuity within Historic Geographical Overhaul regardless of future dev or server status within HGO.
+By pushing to this git as a developer or any other role in the development of HGO, you agree for your content to be used in perpetuity within Historic Geographical Overhaul regardless of future dev or server status within HGO.
