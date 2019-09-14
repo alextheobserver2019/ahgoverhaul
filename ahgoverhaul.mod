@@ -1,4 +1,4 @@
-name="Historic Geographical Overhaul - Dev Version"
+name="Historic Geographical Overhaul - Deveelopment Version"
 path="mod/ahgoverhaul/"
 replace_path="history/states"
 replace_path="history/countries"
