@@ -9,6 +9,7 @@ state={
 		add_core_of = LOU
 		add_claim_by = FLO
 		add_claim_by = WFL
+		add_core_of = NAF
 		buildings = {
 			infrastructure = 4
 			

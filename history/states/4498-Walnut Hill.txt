@@ -9,6 +9,7 @@ state={
 		owner = USA 
 		add_core_of = USA
 		add_core_of = FLO
+		add_core_of = NAF
 		buildings = {
 			infrastructure = 4
 			

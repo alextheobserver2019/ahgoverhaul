@@ -24,6 +24,7 @@ state={
 		add_claim_by = WFL
 		add_core_of = MSS
 		add_core_of = CSA
+		add_core_of = NAF
 
 	}
 	manpower= 38129

@@ -7,6 +7,7 @@ state={
 		add_core_of = USA
 		add_core_of = CSA
 		add_core_of = LOU
+		add_core_of = NAF
 		add_claim_by = FLO
 		add_claim_by = WFL
 		buildings = {
