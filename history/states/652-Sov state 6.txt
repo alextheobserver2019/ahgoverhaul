@@ -12,7 +12,6 @@ state={
 		add_core_of = SOV
 		add_core_of = RUS
 		add_core_of = ORN
-
 		victory_points = {
 			3563 5 
 		}
@@ -20,7 +19,7 @@ state={
 	}
 
 	provinces={
-		1254 1290 3563 4322 
+		1254 3563 4322 
 	}
 	manpower=515430
 	buildings_max_level_factor=1.000
