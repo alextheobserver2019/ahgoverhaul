@@ -16,6 +16,7 @@ state={
 		}
 		add_core_of = SWI
 		add_claim_by = AUS
+		add_core_of = KSO
 	
 	}
 	buildings_max_level_factor=1.000

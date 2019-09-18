@@ -11,7 +11,7 @@ state={
 		}
 		add_core_of = SWI
 		add_core_of = GRI
-
+		add_core_of = KGR
 	}
 
 	provinces={

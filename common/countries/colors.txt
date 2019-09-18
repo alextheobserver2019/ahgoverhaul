@@ -2964,3 +2964,109 @@ WUK = {
 	color = rgb { 22 60 126 }
 	color_ui = rgb { 22 60 126 }
 }
+#Swiss
+KZH = { 
+	color = rgb { 0 172 216 }
+	color_ui = rgb { 0 172 216 }
+}
+KBE = { 
+	color = rgb { 180 31 11 }
+	color_ui = rgb { 180 31 11 }
+}
+KLU = { 
+	color = rgb { 0 95 133 }
+	color_ui = rgb { 0 95 133 }
+}
+KRI = { 
+	color = rgb { 255 194 27 }
+	color_ui = rgb { 255 194 27 }
+}
+KSZ = { 
+	color = rgb { 209 55 45 }
+	color_ui = rgb { 209 55 45 }
+}
+KOW = { 
+	color = rgb { 59 35 101 }
+	color_ui = rgb { 59 35 101 }
+}
+KNI = { 
+	color = rgb { 186 217 85 }
+	color_ui = rgb { 186 217 85 }
+}
+KGL = { 
+	color = rgb { 83 51 71 }
+	color_ui = rgb { 83 51 71 }
+}
+KZG = { 
+	color = rgb { 53 127 192 }
+	color_ui = rgb { 53 127 192 }
+}
+KFR = { 
+	color = rgb { 65 135 148 }
+	color_ui = rgb { 65 135 148 }
+}
+KSO = { 
+	color = rgb { 117 0 190 }
+	color_ui = rgb { 117 0 190 }
+}
+KBS = { 
+	color = rgb { 69 63 49 }
+	color_ui = rgb { 69 63 49 }
+}
+KBL = { 
+	color = rgb { 28 196 140 }
+	color_ui = rgb { 28 196 140 }
+}
+KSC = { 
+	color = rgb { 255 242 21 }
+	color_ui = rgb { 255 242 21 }
+}
+KAP = { 
+	color = rgb { 136 29 73 }
+	color_ui = rgb { 136 29 73 }
+}
+KAI = { 
+	color = rgb { 39 81 142 }
+	color_ui = rgb { 39 81 142 }
+}
+KSG = { 
+	color = rgb { 0 158 39 }
+	color_ui = rgb { 0 158 39 }
+}
+KGR = { 
+	color = rgb { 128 125 144 }
+	color_ui = rgb { 128 125 144 }
+}
+KAG = { 
+	color = rgb { 27 47 103 }
+	color_ui = rgb { 27 47 103 }
+}
+KTH = { 
+	color = rgb { 142 167 0 }
+	color_ui = rgb { 142 167 0 }
+}
+KTI = { 
+	color = rgb { 159 0 184 }
+	color_ui = rgb { 159 0 184 }
+}
+KVD = { 
+	color = rgb { 64 216 56 }
+	color_ui = rgb { 64 216 56 }
+}
+KVA = { 
+	color = rgb { 255 105 124 }
+	color_ui = rgb { 255 105 124 }
+}
+KNE = { 
+	color = rgb { 202 165 93 }
+	color_ui = rgb { 202 165 93 }
+}
+KGE = { 
+	color = rgb { 255 137 0 }
+	color_ui = rgb { 255 137 0 }
+}
+KJU = { 
+	color = rgb { 220 100 217 }
+	color_ui = rgb { 220 100 217 }
+}
+#
