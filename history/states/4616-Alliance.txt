@@ -10,6 +10,7 @@ state={
 		add_core_of = USA
 		add_core_of = NEB
 		add_core_of = GMA
+		add_core_of = ABS
 		buildings = {
 			infrastructure = 4
 			
