@@ -1,21 +1,21 @@
 state={
-	id=1129
-	name="STATE_1129"
-
+	id=5534
+	name="STATE_5534"
+	
 	history={
 		owner = YUG
 		buildings = {
-			infrastructure = 5
+			infrastructure = 3
 		}
 		add_core_of = YUG
 		add_core_of = CRO
+		add_core_of = FIU
 		add_core_of = DLM
 	}
-
 	provinces={
-		11564
+		15955
 	}
-	manpower=85713
+	manpower=1000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 }
