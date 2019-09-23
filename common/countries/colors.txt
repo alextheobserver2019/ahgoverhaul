@@ -2234,7 +2234,7 @@ PCZ = {
 }
 WDC = {
     color = rgb { 191 32 37 }
-    color_ui = rgb 191 32 37 }
+    color_ui = rgb { 191 32 37 }
 }
 ABD = {
     color = rgb { 59 48 0 }
