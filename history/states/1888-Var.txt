@@ -13,11 +13,6 @@ state={
 		add_core_of = PVC
 		buildings = {
 			infrastructure = 4
-			911 = {
-				naval_base = 10
-				coastal_bunker = 1
-
-			}
 		}
 
 	}

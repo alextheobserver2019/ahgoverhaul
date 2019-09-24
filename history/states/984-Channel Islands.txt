@@ -7,10 +7,6 @@ state={
 		add_core_of = GSY
 		buildings = {
 			infrastructure = 4
-			13287 = {
-				naval_base = 1
-
-			}
 
 		}
 

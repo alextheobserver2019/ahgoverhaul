@@ -25,7 +25,7 @@ set_convoys = 10
 		fascism
 			 = 15
 		communism
-			 = 15
+			 = 5
 		neutrality 
 			 = 50
 		}

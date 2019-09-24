@@ -37,7 +37,7 @@ set_technology = {
 		communism
 			 = 0
 		neutrality 
-			 = 100
+			 = 90
 		}
 	set_politics = { 
  ruling_party = neutrality

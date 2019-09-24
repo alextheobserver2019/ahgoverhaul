@@ -8,18 +8,6 @@ state={
 		buildings = {
 			infrastructure = 3
 			air_base = 3
-			12237 = {
-				naval_base = 2
-
-			}
-			12154 = {
-				naval_base = 1
-
-			}
-			12240 = {
-				naval_base = 1
-
-			}
 
 		}
 		victory_points = {

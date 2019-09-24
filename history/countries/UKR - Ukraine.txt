@@ -41,7 +41,7 @@ set_technology = {
 
 	set_popularities = {
 		democratic 
-			 = 15
+			 = 20
 		fascism
 			 = 30
 		communism

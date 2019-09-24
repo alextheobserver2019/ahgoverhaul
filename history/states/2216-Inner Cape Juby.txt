@@ -9,10 +9,6 @@ state={
 		owner = RIF
 		buildings = {
 			infrastructure = 1
-			8038 = {
-				naval_base = 1
-
-			}
 
 		}
 		add_core_of = MOR

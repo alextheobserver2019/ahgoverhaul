@@ -24,7 +24,7 @@ set_technology = {
 		democratic 
 			 = 0
 		fascism
-			 = 0
+			 = 20
 		communism
 			 = 2
 		neutrality

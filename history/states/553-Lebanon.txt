@@ -12,10 +12,6 @@ state={
 			infrastructure = 4
 			industrial_complex = 1
 			air_base = 5
-			792 = {
-				naval_base = 3
-
-			}
 
 		}
 		add_core_of = LEB

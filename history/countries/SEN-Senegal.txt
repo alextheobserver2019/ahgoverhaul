@@ -28,7 +28,7 @@ set_convoys = 20
 		democratic 
 			 = 20
 		neutrality 
-			 = 65
+			 = 55
 		}
 	set_politics = { 
  ruling_party = neutrality
