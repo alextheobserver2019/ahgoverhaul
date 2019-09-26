@@ -1,8 +1,4 @@
 spriteTypes = {
-        spriteType = {
-                name = "GFX_newmenu"
-                texturefile = "gfx/interface/newmenu.dds"
-        }
 		spriteType = {
                 name = "GFX_singleplayerbutton"
                 texturefile = "gfx/interface/singleplayerbutton.dds"
