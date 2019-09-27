@@ -10041,3 +10041,12 @@
  KJU_neutrality_DEF:0 "The Canton of Jura"
  KJU_neutrality_ADJ:0 "Jura"
  
+ BEO_democratic:0 "Borneo"
+ BEO_democratic_DEF:0 "Borneo"
+ BEO_communism:0 "Kingdom of Borneo"
+ BEO_communism_DEF:0 "The Kingdom of Borneo"
+ BEO_fascism:0 "Free State of Borneo"
+ BEO_fascism_DEF:0 "The Free State of Borneo"
+ BEO_neutrality:0 "Commune of Borneo"
+ BEO_neutrality_DEF:0 "The Commune of Borneo"
+ BEO_ADJ:0 "Bornean"

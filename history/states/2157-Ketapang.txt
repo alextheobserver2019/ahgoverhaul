@@ -5,6 +5,7 @@ state={
 	history={
 		owner = INS
 		add_core_of = INS
+		add_core_of = BEO
 		buildings = {
 			infrastructure = 2
 			1316 = {

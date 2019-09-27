@@ -3069,4 +3069,8 @@ KJU = {
 	color = rgb { 220 100 217 }
 	color_ui = rgb { 220 100 217 }
 }
+BEO = { 
+	color = rgb { 230 223 50 }
+	color_ui = rgb { 230 223 50 }
+}
 #

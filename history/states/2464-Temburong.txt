@@ -10,6 +10,7 @@ state={
 	history={
 		owner = BEI
 		add_core_of = BEI
+		add_core_of = BEO
 		buildings = {
 			infrastructure = 5
 		}

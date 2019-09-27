@@ -9,6 +9,7 @@ state={
 
 		}
 		add_core_of = MAL
+		add_core_of = BEO
 		add_core_of = SRW
 
 	}
