@@ -1,12 +1,12 @@
 ﻿l_english:
  GER_fascism:0 "Deutsches Reich"
- GER_fascism_DEF:0 "Das Deutsches Reich"
+ GER_fascism_DEF:0 "Das Deutsche Reich"
  GER_democratic:0 "German Republic"
  GER_democratic_DEF:0 "The German Republic"
  GER_neutrality:1 "Deutsches Kaiserreich"
  GER_neutrality_DEF:1 "Das Deutsches Kaiserreich"
  GER_communism:0 "Free Socialist Republic of Germany"
- GER_communism_DEF:0 "The Free Socialist Republic of Germany"]
+ GER_communism_DEF:0 "The Free Socialist Republic of Germany"
  GER_ADJ:0 "German"
  
  PUE_fascism:0 "Despacitoland"
