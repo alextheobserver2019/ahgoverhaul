@@ -381,8 +381,8 @@ SYR = {
 }
 
 SER = {
-	color = rgb { 160 110 110 }
-	color_ui = rgb { 160 110 110 }
+	color = rgb { 48 82 130 }
+	color_ui = rgb { 48 82 130 }
 }
 
 ICE = {
