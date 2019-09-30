@@ -1035,6 +1035,14 @@ SUD_ITA = {
 	color = rgb { 42 107 48 }
 	color_ui = rgb { 42 107 48 }
 }
+EUR_GAUCHE = {
+	color = rgb { 0 26 128 }
+	color_ui = rgb { 0 26 128 }
+}
+GRE_GRAXIUM = {
+	color = rgb { 93 0 75 }
+	color_ui = rgb { 93 0 75 }
+}
 ###Country Colours Mod
 
 ########
