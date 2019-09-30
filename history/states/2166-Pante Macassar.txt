@@ -8,7 +8,6 @@ state={
 		owner = POR
 		add_core_of = POR
 		add_core_of = ETM
-		add_core_of = LSU
 		add_claim_by = INS
 		buildings = {
 			infrastructure = 3

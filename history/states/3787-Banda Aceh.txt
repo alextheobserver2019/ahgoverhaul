@@ -12,7 +12,6 @@ state={
 		owner = INS
 		add_core_of = INS
 		add_core_of = ACH
-		add_core_of = SUM
 		buildings = {
 			infrastructure = 1
 		}
