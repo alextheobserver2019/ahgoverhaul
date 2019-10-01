@@ -11,7 +11,7 @@ state={
 		}
 	}
 	provinces={
-		3586 11428
+		3586
 	}
 	manpower=1000 
  state_category=small_island
