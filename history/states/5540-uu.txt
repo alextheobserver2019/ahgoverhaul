@@ -5,6 +5,11 @@ state={
 	history = {
 		owner = POL
 		add_core_of = POL
+		add_core_of = KSH
+		add_core_of = PWP
+		add_core_of = WPR
+		add_core_of = PRS
+		add_core_of = KSH
 	}
 	manpower = 1000
 	state_category = pastoral
