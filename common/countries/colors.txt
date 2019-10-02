@@ -81,8 +81,8 @@ SWI = {
 	color_ui = rgb { 193 81 81 }
 }
 TUR = {
-	color = rgb { 145 81 81 }
-	color_ui = rgb { 145 81 81 }
+	color = rgb { 120 30 20 }
+	color_ui = rgb { 120 30 20 }
 }
 GRE = {
 	color = rgb { 113 167 198 }
@@ -118,8 +118,8 @@ IRE = {
 	color_ui = rgb { 78 135 77 }
 }
 HUN = {
-	color = rgb { 85 137 90 }
-	color_ui = rgb { 85 137 90 }
+	color = rgb { 143 77 77 }
+	color_ui = rgb { 143 77 77 }
 }
 AFG = {
 	color = rgb { 64 160 167 }
