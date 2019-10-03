@@ -361,8 +361,8 @@ GAB = {
 	color_ui = rgb { 48 89 54 }
 }
 PAL = {
-	color = rgb { 170  125  80 }
-	color_ui = rgb { 170  125  80 }
+	color = rgb { 74 128 73 }
+	color_ui = rgb { 74 128 73 }
 }
 
 LEB = {
@@ -396,18 +396,18 @@ UKR = {
 }
 
 AZR = {
-	color = rgb { 69  151  49 }
-	color_ui = rgb { 69  151  49 }
+	color = rgb { 194 172 93 }
+	color_ui = rgb { 194 172 93 }
 }
 
 GEO = {
-	color = rgb { 175 92 86 }
-	color_ui = rgb { 175 92 86 }
+	color = rgb { 161 58 72 }
+	color_ui = rgb { 161 58 72 }
 }
 
 ARM = {
-	color = rgb { 176  102  180 }
-	color_ui = rgb { 176  102  180 }
+	color = rgb { 121 68 148 }
+	color_ui = rgb { 121 68 148 }
 }
 
 LAO = {
@@ -493,8 +493,8 @@ KOR = {
 	color_ui = rgb { 255 248 229 }	
 }
 ISR = {
-	color = rgb { 152  130  191 }
-	color_ui = rgb { 152  130  191 }
+	color = rgb { 78 135 163 }
+	color_ui = rgb { 78 135 163 }
 }
 KAZ = {
 	color = rgb { 76  189  206 }
@@ -882,8 +882,8 @@ MDN = {
        color_ui = rgb { 132 92 88 }
 }
 KUR = {
-	color = rgb { 150 123 182 }
-	color_ui = rgb { 176 123 182 }
+	color = rgb { 76 117 173 }
+	color_ui = rgb { 76 117 173 }
 }
 GLC = {
 	color = rgb { 178 49 73 }
@@ -1221,12 +1221,12 @@ TSC = {
       color_ui = rgb { 67 92 137 }
 }
 JBL = {
-	color = rgb { 255 224 175 }
-	color_ui = rgb { 255 224 175 }
+	color = rgb { 199 149 62 }
+	color_ui = rgb { 199 149 62 }
 }
 HJZ = {
-	color = rgb { 10 200 30 }
-	color_ui = rgb { 10 200 30 }
+	color = rgb { 77 118 145 }
+	color_ui = rgb { 77 118 145 }
 }
 KED = {
 	color = rgb { 170  72  67 }
