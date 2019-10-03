@@ -166,8 +166,8 @@ COS = {
 	color_ui = rgb { 152 128 43 }
 }
 ECU = {
-	color = rgb { 198 156 105 }
-	color_ui = rgb { 198 156 105 }
+	color = rgb { 145 134 173 }
+	color_ui = rgb { 145 134 173 }
 }
 ELS = {
 	color = rgb { 95 160 198 }
