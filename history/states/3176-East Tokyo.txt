@@ -5,6 +5,8 @@ state={
 		
 		owner = JAP 
 		add_core_of = JAP
+		add_core_of = PRJ
+		add_core_of = TKO
 		buildings = {
 			infrastructure = 4
 			

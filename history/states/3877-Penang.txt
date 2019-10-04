@@ -12,6 +12,7 @@ state={
 		owner = STR
 		add_core_of = STR
 		add_core_of = MAL
+		add_core_of = PNN
 		buildings = {
 			infrastructure = 1
 		}

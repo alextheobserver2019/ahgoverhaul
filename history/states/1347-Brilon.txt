@@ -12,6 +12,7 @@ state={
 		add_core_of = PRS
 		add_core_of = HKA
 		add_core_of = HEN
+		add_core_of = WGR
 
 	}
 	

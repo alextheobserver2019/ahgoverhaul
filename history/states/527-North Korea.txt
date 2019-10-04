@@ -18,6 +18,7 @@ state={
 			4052 10
 		}
 		add_core_of = KOR
+		add_core_of = DPK
 
 	}
 

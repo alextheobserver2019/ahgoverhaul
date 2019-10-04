@@ -10,7 +10,7 @@ state={
 		owner = JAP
 		add_core_of = JAP
 		add_core_of = EZO
-		#add_claim_by = SOV # Removed because of too much aggression
+		add_core_of = PRJ
 		buildings = {
 			infrastructure = 3
 

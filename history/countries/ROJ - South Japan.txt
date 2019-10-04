@@ -1,4 +1,4 @@
-﻿capital = 282 #Tokyo
+﻿capital = 2192 #Tokyo
 
 set_research_slots = 4
 set_stability = 0.7

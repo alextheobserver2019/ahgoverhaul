@@ -5,6 +5,9 @@ state={
 	history = {
 		owner=VIN
 		add_core_of = VIN
+		add_core_of = LAO
+		add_core_of = NVI
+		add_core_of = ANN
 		buildings = {
 			infrastructure = 1
 

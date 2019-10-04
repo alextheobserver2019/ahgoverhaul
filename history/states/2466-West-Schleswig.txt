@@ -14,6 +14,7 @@ state={
 		add_core_of = PRS
 		add_core_of = SCH
 		add_core_of = FRS
+		add_core_of = WGR
 		
 
 	}

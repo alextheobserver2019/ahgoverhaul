@@ -8,6 +8,8 @@ state={
 	history={
 		add_core_of = VIN
 		owner = VIN
+		add_core_of = SVI
+		add_core_of = CCH
 		buildings = {
 			infrastructure = 3
 

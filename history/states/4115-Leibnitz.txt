@@ -15,6 +15,7 @@ state={
 		}
 		add_core_of = AUS
 		add_core_of = STY
+		add_core_of = WAS
 	}
 	buildings_max_level_factor=1.000
 }

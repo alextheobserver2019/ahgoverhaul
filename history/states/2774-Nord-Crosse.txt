@@ -8,6 +8,7 @@ state={
 		add_core_of = KSH
 		add_core_of = PRS
 		add_core_of = PWP
+		add_core_of = DDR
 		add_core_of = POS
 		buildings = {
 			infrastructure = 4

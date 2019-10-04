@@ -5,6 +5,7 @@ state={
 		owner = GER 
 		add_core_of = GER
 		add_core_of = BRE
+		add_core_of = WGR
 		buildings = {
 			infrastructure = 4
 			

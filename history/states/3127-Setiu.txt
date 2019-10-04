@@ -5,6 +5,7 @@ state={
 		
 		owner = MAL 
 		add_core_of = MAL
+		add_core_of = PHG
 		buildings = {
 			infrastructure = 4
 			

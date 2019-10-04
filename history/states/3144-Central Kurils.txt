@@ -7,6 +7,7 @@ state={
 		add_core_of = JAP
 		add_core_of = EZO
 		add_claim_by = SOV
+		add_claim_by = PRJ
 		buildings = {
 			infrastructure = 4
 			

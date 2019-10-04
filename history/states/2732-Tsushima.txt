@@ -9,6 +9,9 @@ state={
 			
 		}
 		add_core_of = JAP
+		add_core_of = ROJ
+		add_claim_by = ROK
+		add_claim_by = KOR
 	}
 	provinces={
 		10011

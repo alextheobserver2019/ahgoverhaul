@@ -3,7 +3,9 @@ state={
 	name="STATE_2659"
 	history={
 		owner = VIN 
-		add_core_of = VIN
+		add_core_of = VIN	
+		add_core_of = NVI
+		add_core_of = ANN
 		buildings = {
 			infrastructure = 4
 			

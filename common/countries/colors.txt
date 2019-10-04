@@ -3074,3 +3074,68 @@ BEO = {
 	color_ui = rgb { 230 223 50 }
 }
 #
+
+WAS = {
+color = rgb { 105 6 196 }
+color_ui = rgb { 105 6 196 }
+}
+EAS = {
+color = rgb { 125 77 4 }
+color_ui = rgb { 125 77 4 }
+}
+SVI = {
+color = rgb { 155 155 0 }
+color_ui = rgb { 155 155 0 }
+}
+ANN = {
+color = rgb { 1 125 139 }
+color_ui = rgb { 1 125 139 }
+}
+CCH = {
+color = rgb { 166 166 210 }
+color_ui = rgb { 166 166 210 }
+}
+LBN = {
+color = rgb { 190 124 124 }
+color_ui = rgb { 190 124 124 }
+}
+PNN = {
+color = rgb { 179 0 89 }
+color_ui = rgb { 179 0 89 }
+}
+MLC = {
+color = rgb { 215 70 0 }
+color_ui = rgb { 215 70 0 }
+}
+DDN = {
+color = rgb { 255 189 157 }
+color_ui = rgb { 255 189 157 }
+}
+CTM = {
+color = rgb { 5 160 114 }
+color_ui = rgb { 5 160 114 }
+}
+KLG = {
+color = rgb { 64 128 128 }
+color_ui = rgb { 64 128 128 }
+}
+TKO = {
+color = rgb { 94 0 94 }
+color_ui = rgb { 94 0 94 }
+}
+PRK = {
+color = rgb { 0 130 0 }
+color_ui = rgb { 0 130 0 }
+}
+SLG = {
+color = rgb { 0 130 0 }
+color_ui = rgb { 0 130 0 }
+}
+SLG = {
+color = rgb { 0 130 0 }
+color_ui = rgb { 0 130 0 }
+}
+PHG = {
+color = rgb { 0 130 0 }
+color_ui = rgb { 0 130 0 }
+}

@@ -10,6 +10,7 @@ state={
 		add_core_of = PRS
 		add_core_of = SLA
 		add_core_of = SCH
+		add_core_of = WGR
 		buildings = {
 			infrastructure = 5
 		}

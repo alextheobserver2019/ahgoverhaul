@@ -7,6 +7,7 @@ state={
 	history=
 	{
 		owner = STR
+		add_core_of = CTM
 		buildings = {
 			infrastructure = 3
 			13005 = {

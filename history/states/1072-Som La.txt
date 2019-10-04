@@ -5,6 +5,8 @@ state={
 	history={
 		add_core_of = VIN
 		owner = VIN
+		add_core_of = TKI
+		add_core_of = NVI
 		buildings = {
 			infrastructure = 1
 		}

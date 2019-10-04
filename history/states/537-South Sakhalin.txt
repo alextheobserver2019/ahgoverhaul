@@ -16,6 +16,7 @@ state= {
 		add_claim_by = KHA
 		add_core_of = SKH
 		add_claim_by = SBR
+		add_claim_by = PRJ
 		buildings = {
 			infrastructure = 3
 			12446 = {
