@@ -13,7 +13,7 @@ state={
 		add_core_of = PRS
 		add_core_of = SIL
 		add_core_of = LUS
-		add_claim_by = POL
+		add_core_of = DDR
 
 	}
 
