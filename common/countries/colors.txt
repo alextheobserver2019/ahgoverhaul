@@ -3131,7 +3131,7 @@ SLG = {
 color = rgb { 0 130 0 }
 color_ui = rgb { 0 130 0 }
 }
-SLG = {
+NGS = {
 color = rgb { 0 130 0 }
 color_ui = rgb { 0 130 0 }
 }
