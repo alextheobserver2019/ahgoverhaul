@@ -1043,6 +1043,18 @@ GRE_GRAXIUM = {
 	color = rgb { 93 0 75 }
 	color_ui = rgb { 93 0 75 }
 }
+LOM_VNC = {
+	color = rgb { 177 200 169 }
+	color_ui = rgb { 177 200 169 }
+}
+PIE_SRD = {
+	color = rgb { 107 159 162 }
+	color_ui = rgb { 107 159 162 }
+}
+NAP_SIC = {
+	color = rgb { 98 120 119 }
+	color_ui = rgb { 98 120 119 }
+}
 ###Country Colours Mod
 
 ########

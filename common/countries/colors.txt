@@ -330,7 +330,6 @@ SHX = {
 	color = rgb { 210 160 30 }
 	color_ui = rgb { 210 160 30 }
 }
-
 XSM = {
 	color = rgb { 200 140 25 }
 	color_ui = rgb { 200 140 25 }
@@ -347,7 +346,6 @@ LBA = {
 	color = rgb { 200 180 90 }
 	color_ui = rgb { 200 180 90 }
 }
-
 EGY = {
 	color = rgb { 198 168 103 }
 	color_ui = rgb { 198 168 103 }
@@ -364,82 +362,66 @@ PAL = {
 	color = rgb { 74 128 73 }
 	color_ui = rgb { 74 128 73 }
 }
-
 LEB = {
 	color = rgb { 130  150  60 }
 	color_ui = rgb { 130  150  60 }
 }
-
 JOR = {
 	color = rgb { 111  55  78 }
 	color_ui = rgb { 111  55  78 }
 }
-
 SYR = {
 	color = rgb { 100  100  150 }
 	color_ui = rgb { 100  100  150 }
 }
-
 SER = {
 	color = rgb { 48 82 130 }
 	color_ui = rgb { 48 82 130 }
 }
-
 ICE = {
 	color = rgb { 100  125  175 }
 	color_ui = rgb { 100  125  175 }
 }
-
 UKR = {
 	color = rgb { 72 132 150 }
 	color_ui = rgb { 72 132 150 }	
 }
-
 AZR = {
 	color = rgb { 194 172 93 }
 	color_ui = rgb { 194 172 93 }
 }
-
 GEO = {
 	color = rgb { 161 58 72 }
 	color_ui = rgb { 161 58 72 }
 }
-
 ARM = {
 	color = rgb { 121 68 148 }
 	color_ui = rgb { 121 68 148 }
 }
-
 LAO = {
 	color = rgb { 176  102  136 }
 	color_ui = rgb { 176  102  136 }
 }
-
 INS = {
 	color = rgb { 214 83 83 }
 	color_ui = rgb { 214 83 83 }
 }
-
 VIN = {
 	color = rgb { 230  223  50 }
 	color_ui = rgb { 230  223  50 }
 }
-
 CAM = {
 	color = rgb { 100  71  150 }
 	color_ui = rgb { 100  71  150 }
 }
-
 MAL = {
 	color = rgb { 67 33 91 } 
 	color_ui = rgb { 67 33 91 } 
 }
-
 MNT = {
 	color = rgb { 77  90  105 }
 	color_ui = rgb { 77  90  105 }
 }
-
 BLR = {
 	color = rgb { 92 137 67 }
 	color_ui = rgb { 92 137 67 }
@@ -551,12 +533,6 @@ WLS = {
 LIE = {
 	color = rgb { 47  51  132 }
 	color_ui = rgb { 47  51  132 }	
-}
-KTS = {
-	#color = rgb { 128 128 128 }
-	#color_ui = rgb { 128 128 128 }	
-	color = rgb { 32 65 142 }
-	color_ui = rgb { 32 65 142 }
 }
 BAV = {
 	color = rgb { 120 166 193 }

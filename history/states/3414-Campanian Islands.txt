@@ -12,7 +12,6 @@ state={
 	history={
 		owner = ITA
 		add_core_of = ITA
-		add_core_of = KTS
 		add_core_of = NAP
 		buildings = {
 			infrastructure = 1

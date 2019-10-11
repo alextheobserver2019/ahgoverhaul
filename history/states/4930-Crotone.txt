@@ -12,7 +12,6 @@ state={
 		}
 		add_core_of = ITA
 		add_core_of = NAP
-		add_core_of = KTS
 
 	}
 	manpower=1030

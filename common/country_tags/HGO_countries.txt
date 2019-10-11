@@ -1,7 +1,6 @@
 ##Europe##
 CAT = "countries/Catalonia.txt"
 CRN = "countries/Cornwall.txt"
-KTS = "countries/Kingdom of Two Sicilies.txt"
 BAV = "countries/Bavaria.txt"
 PRS = "countries/Prussia.txt"
 VCT = "countries/Vatican.txt"

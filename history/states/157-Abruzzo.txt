@@ -11,7 +11,6 @@ state={
 
 		}
 		add_core_of = ITA
-		add_core_of = KTS
 		add_core_of = NAP 
 
 	}

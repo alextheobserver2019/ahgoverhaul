@@ -264,21 +264,6 @@ BAV = {
 	callsigns = { }
 }
 
-KTS = {
-	male = {
-		names = { 
-			Angelo Giustiniano Ischirione Floriano Landolfo Samuele Piero Damaso
-			Enecone Minervino Gosto Giulio Rodrigo Vezio Stanislao Quintino Piersilvio Placido
-		
-		}
-	}
-	female = {
-		names = { }
-	}
-	surnames = { Mortara Paluzzi Romaniello Pantone Bartoletti Vanella Capitano Benedetti Banducci Pesola Maggio Frederico Sorbello }
-	callsigns = { }
-}
-
 BRM = {
 	male = {
 		names = { 
