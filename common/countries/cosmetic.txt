@@ -438,7 +438,7 @@ AUS_NOT_WHITE = {
 	color_ui = rgb { 85 137 90 }
 }
 
-SCA_UNIFIED = {
+SCAN = {
 	color = rgb { 0 102 204 }
 	color_ui = rgb { 0 102 204 }
 }
@@ -458,7 +458,7 @@ PLC_UNIFIED = {
 	color_ui = rgb { 255 125 160 }
 }
 
-UNL_UNIFIED = {
+UNL = {
 	color = rgb { 255 128 0 }
 	color_ui = rgb { 255 128 0 }
 }
@@ -468,7 +468,7 @@ USC_UNIFIED = {
 	color_ui = rgb { 103 204 255 }
 }
 
-BAL_UNIFIED = {
+BALT = {
 	color = rgb { 0 102 102 }
 	color_ui = rgb { 0 102 102 }
 }
@@ -783,6 +783,22 @@ CZE_GER = {
 	color = rgb { 54 54 54 }
 	color_ui = rgb { 115 115 115 }
 }
+BRT_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+SCAN_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+BALT_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+UNL_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
 ZIM_GER = {
 	color = rgb { 54 54 54 }
 	color_ui = rgb { 115 115 115 }
@@ -1054,6 +1070,50 @@ PIE_SRD = {
 NAP_SIC = {
 	color = rgb { 98 120 119 }
 	color_ui = rgb { 98 120 119 }
+}
+FIN_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+SWE_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+DEN_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+GRN_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+ICE_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+ENG_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+SCO_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+WLS_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+COR_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+IRE_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+ENG_ALL_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
 }
 ###Country Colours Mod
 
