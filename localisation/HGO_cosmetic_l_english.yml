@@ -806,7 +806,7 @@
  POL_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Polen"
  POL_GER_autonomy_puppet_DEF:0 "Das Generalgouvernement"
  POL_GER_autonomy_colony_DEF:0 "Das Reichsland Polen"
- POL_GER_autonomy_dominion:0 "Polen"
+ POL_GER_autonomy_dominion_DEF:0 "Polen"
  
  GER_reichskommissariat_ural:0 "Reichskommissariat Ural"
  GER_reichskommissariat_ural_DEF:0 "Das Reichskommissariat Ural"
@@ -825,7 +825,7 @@
  URL_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Ural"
  URL_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Ural"
  URL_GER_autonomy_colony_DEF:0 "Das Reichsland Ural"
- URL_GER_autonomy_dominion:0 "Ural" 
+ URL_GER_autonomy_dominion_DEF:0 "Ural" 
  
  GER_reichskommissariat_sudafrika:0 "Reichskommissariat Sudafrika"
  GER_reichskommissariat_sudafrika_DEF:0 "Das Reichskommissariat Sudafrika"
@@ -844,7 +844,7 @@
  ZAM_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Sudafrika"
  ZAM_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Sudafrika"
  ZAM_GER_autonomy_colony_DEF:0 "Das Reichsland Sudafrika"
- ZAM_GER_autonomy_dominion:0 "Sudafrika"  
+ ZAM_GER_autonomy_dominion_DEF:0 "Sudafrika"  
  
  GER_reichskommissariat_sudwestafrika:0 "Reichskommissariat Sudwestafrika"
  GER_reichskommissariat_sudwestafrika_DEF:0 "Das Reichskommissariat Sudwestafrika"
@@ -863,7 +863,7 @@
  NMB_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Sudwestafrika"
  NMB_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Sudwestafrika"
  NMB_GER_autonomy_colony_DEF:0 "Das Reichsland Sudwestafrika"
- NMB_GER_autonomy_dominion:0 "Sudwestafrika"   
+ NMB_GER_autonomy_dominion_DEF:0 "Sudwestafrika"   
  
  GER_reichskommissariat_mittelafrika:0 "Reichskommissariat Mittelafrika"
  GER_reichskommissariat_mittelafrika_DEF:0 "Das Reichskommissariat Mittelafrika"
@@ -882,7 +882,7 @@
  ZIM_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Mittelafrika"
  ZIM_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Mittelafrika"
  ZIM_GER_autonomy_colony_DEF:0 "Das Reichsland Mittelafrika"
- ZIM_GER_autonomy_dominion:0 "Mittelafrika"    
+ ZIM_GER_autonomy_dominion_DEF:0 "Mittelafrika"    
  
  GER_reichskommissariat_ostafrika:0 "Reichskommissariat Ostafrika"
  GER_reichskommissariat_ostafrika_DEF:0 "Das Reichskommissariat Ostafrika"
@@ -901,7 +901,7 @@
  KEN_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Ostafrika"
  KEN_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Ostafrika"
  KEN_GER_autonomy_colony_DEF:0 "Das Reichsland Ostafrika"
- KEN_GER_autonomy_dominion:0 "Ostafrika"     
+ KEN_GER_autonomy_dominion_DEF:0 "Ostafrika"     
  
  GER_reichskommissariat_kongo:0 "Reichskommissariat Kongo"
  GER_reichskommissariat_kongo_DEF:0 "Das Reichskommissariat Kongo"
@@ -920,7 +920,7 @@
  COG_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Kongo"
  COG_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Kongo"
  COG_GER_autonomy_colony_DEF:0 "Das Reichsland Kongo"
- COG_GER_autonomy_dominion:0 "Kongo"      
+ COG_GER_autonomy_dominion_DEF:0 "Kongo"      
  
  GER_reichskommissariat_kamerun:0 "Reichskommissariat Kamerun"
  GER_reichskommissariat_kamerun_DEF:0 "Das Reichskommissariat Kamerun"
@@ -939,7 +939,7 @@
  CMR_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Kamerun"
  CMR_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Kamerun"
  CMR_GER_autonomy_colony_DEF:0 "Das Reichsland Kamerun"
- CMR_GER_autonomy_dominion:0 "Kamerun"       
+ CMR_GER_autonomy_dominion_DEF:0 "Kamerun"       
  
  GER_reichskommissariat_aquatorialafrika:0 "Reichskommissariat Aquatorialafrika"
  GER_reichskommissariat_aquatorialafrika_DEF:0 "Das Reichskommissariat Aquatorialafrika"
@@ -958,7 +958,7 @@
  FEA_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Aquatorialafrika"
  FEA_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Aquatorialafrika"
  FEA_GER_autonomy_colony_DEF:0 "Das Reichsland Aquatorialafrika"
- FEA_GER_autonomy_dominion:0 "Aquatorialafrika"        
+ FEA_GER_autonomy_dominion_DEF:0 "Aquatorialafrika"        
  
  GER_reichskommissariat_westafrika:0 "Reichskommissariat Westafrika"
  GER_reichskommissariat_westafrika_DEF:0 "Das Reichskommissariat Westafrika"
@@ -977,7 +977,7 @@
  FWA_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Westafrika"
  FWA_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Westafrika"
  FWA_GER_autonomy_colony_DEF:0 "Das Reichsland Westafrika"
- FWA_GER_autonomy_dominion:0 "Westafrika"               
+ FWA_GER_autonomy_dominion_DEF:0 "Westafrika"               
  
  GER_reichskommissariat_nordafrika:0 "Reichskommissariat Nordafrika"
  GER_reichskommissariat_nordafrika_DEF:0 "Das Reichskommissariat Nordafrika"
@@ -996,7 +996,7 @@
  LBA_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Nordafrika"
  LBA_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Nordafrika"
  LBA_GER_autonomy_colony_DEF:0 "Das Reichsland Nordafrika"
- LBA_GER_autonomy_dominion:0 "Nordafrika"     
+ LBA_GER_autonomy_dominion_DEF:0 "Nordafrika"     
  
  GER_reichskommissariat_niederlande:0 "Reichskommissariat Niederlande"
  GER_reichskommissariat_niederlande_DEF:0 "Das Reichskommissariat Niederlande"
@@ -1015,7 +1015,7 @@
  HOL_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Niederlande"
  HOL_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Niederlande"
  HOL_GER_autonomy_colony_DEF:0 "Das Reichsland Niederlande"
- HOL_GER_autonomy_dominion:0 "Niederlande"          
+ HOL_GER_autonomy_dominion_DEF:0 "Niederlande"          
  
  GER_reichskommissariat_belgiennordfrankreich:0 "Reichskommissariat Belgien-Nordfrankreich"
  GER_reichskommissariat_belgiennordfrankreich_DEF:0 "Das Reichskommissariat Belgien-Nordfrankreich"
@@ -1034,7 +1034,7 @@
  BEL_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Belgien-Nordfrankreich"
  BEL_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Belgien-Nordfrankreich"
  BEL_GER_autonomy_colony_DEF:0 "Das Reichsland Belgien-Nordfrankreich"
- BEL_GER_autonomy_dominion:0 "Belgien-Nordfrankreich"
+ BEL_GER_autonomy_dominion_DEF:0 "Belgien-Nordfrankreich"
  
  GER_reichskommissariat_burgund:0 "Reichskommissariat Burgund"
  GER_reichskommissariat_burgund_DEF:0 "Das Reichskommissariat Burgund"
@@ -1053,7 +1053,7 @@
  BGN_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Burgund"
  BGN_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Burgund"
  BGN_GER_autonomy_colony_DEF:0 "Das Reichsland Burgund"
- BGN_GER_autonomy_dominion:0 "Burgund" 
+ BGN_GER_autonomy_dominion_DEF:0 "Burgund" 
  
  GER_reichskommissariat_Sibirien:0 "Reichskommissariat Sibirien"
  GER_reichskommissariat_Sibirien_DEF:0 "Das Reichskommissariat Sibirien"
@@ -1072,7 +1072,7 @@
  SBR_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Sibirien"
  SBR_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Sibirien"
  SBR_GER_autonomy_colony_DEF:0 "Das Reichsland Sibirien"
- SBR_GER_autonomy_dominion:0 "Sibirien"  
+ SBR_GER_autonomy_dominion_DEF:0 "Sibirien"  
  
  GER_reichskommissariat_ukraine:0 "Reichskommissariat Ukraine"
  GER_reichskommissariat_ukraine_DEF:0 "Das Reichskommissariat Ukraine"
@@ -1091,7 +1091,7 @@
  UKR_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Ukraine"
  UKR_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Ukraine"
  UKR_GER_autonomy_colony_DEF:0 "Das Reichsland Ukraine"
- UKR_GER_autonomy_dominion:0 "Ukraine"   
+ UKR_GER_autonomy_dominion_DEF:0 "Ukraine"   
  
  GER_reichskommissariat_ostland:0 "Reichskommissariat Ostland"
  GER_reichskommissariat_ostland_DEF:0 "Das Reichskommissariat Ostland"
@@ -1110,7 +1110,7 @@
  BLR_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Ostland"
  BLR_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Ostland"
  BLR_GER_autonomy_colony_DEF:0 "Das Reichsland Ostland"
- BLR_GER_autonomy_dominion:0 "Ostland"    
+ BLR_GER_autonomy_dominion_DEF:0 "Ostland"    
  
  GER_reichskommissariat_estland:0 "Reichskommissariat Estland"
  GER_reichskommissariat_estland_DEF:0 "Das Reichskommissariat Estland"
@@ -1129,7 +1129,7 @@
  EST_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Estland"
  EST_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Estland"
  EST_GER_autonomy_colony_DEF:0 "Das Reichsland Estland"
- EST_GER_autonomy_dominion:0 "Estland"     
+ EST_GER_autonomy_dominion_DEF:0 "Estland"     
  
  GER_reichskommissariat_lettland:0 "Reichskommissariat Lettland"
  GER_reichskommissariat_lettland_DEF:0 "Das Reichskommissariat Lettland"
@@ -1148,7 +1148,7 @@
  LAT_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Lettland"
  LAT_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Lettland"
  LAT_GER_autonomy_colony_DEF:0 "Das Reichsland Lettland"
- LAT_GER_autonomy_dominion:0 "Lettland"      
+ LAT_GER_autonomy_dominion_DEF:0 "Lettland"      
  
  GER_reichskommissariat_litauen:0 "Reichskommissariat Litauen"
  GER_reichskommissariat_litauen_DEF:0 "Das Reichskommissariat Litauen"
@@ -1167,7 +1167,7 @@
  LIT_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Litauen"
  LIT_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Litauen"
  LIT_GER_autonomy_colony_DEF:0 "Das Reichsland Litauen"
- LIT_GER_autonomy_dominion:0 "Litauen"       
+ LIT_GER_autonomy_dominion_DEF:0 "Litauen"       
  
  GER_reichskommissariat_norwegen:0 "Reichskommissariat Norwegen"
  GER_reichskommissariat_norwegen_DEF:0 "Das Reichskommissariat Norwegen"
@@ -1186,7 +1186,7 @@
  NOR_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Norwegen"
  NOR_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Norwegen"
  NOR_GER_autonomy_colony_DEF:0 "Das Reichsland Norwegen"
- NOR_GER_autonomy_dominion:0 "Norwegen" 
+ NOR_GER_autonomy_dominion_DEF:0 "Norwegen" 
  
  GER_reichskommissariat_baltenland:0 "Reichskommissariat Baltenland"
  GER_reichskommissariat_baltenland_DEF:0 "Das Reichskommissariat Baltenland"
@@ -1205,7 +1205,7 @@
  BALT_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Baltenland"
  BALT_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Baltenland"
  BALT_GER_autonomy_colony_DEF:0 "Das Reichsland Baltenland"
- BALT_GER_autonomy_dominion:0 "Baltenland"
+ BALT_GER_autonomy_dominion_DEF:0 "Baltenland"
  
  GER_reichskommissariat_bretagne:0 "Reichskommissariat Bretagne"
  GER_reichskommissariat_bretagne_DEF:0 "Das Reichskommissariat Bretagne"
@@ -1224,7 +1224,7 @@
  BRT_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Bretagne"
  BRT_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Bretagne"
  BRT_GER_autonomy_colony_DEF:0 "Das Reichsland Bretagne"
- BRT_GER_autonomy_dominion:0 "Bretagne"
+ BRT_GER_autonomy_dominion_DEF:0 "Bretagne"
  
  GER_reichskommissariat_grossneiderland:0 "Reichskommissariat GroßNeiderland"
  GER_reichskommissariat_grossneiderland_DEF:0 "Das Reichskommissariat GroßNeiderland"
@@ -1243,7 +1243,7 @@
  UNL_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat GroßNeiderland"
  UNL_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat GroßNeiderland"
  UNL_GER_autonomy_colony_DEF:0 "Das Reichsland GroßNeiderland"
- UNL_GER_autonomy_dominion:0 "GroßNeiderland"
+ UNL_GER_autonomy_dominion_DEF:0 "GroßNeiderland"
  
  GER_reichskommissariat_skandinavien:0 "Reichskommissariat Skandinavien"
  GER_reichskommissariat_skandinavien_DEF:0 "Das Reichskommissariat Skandinavien"
@@ -1262,7 +1262,7 @@
  SCAN_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Skandinavien"
  SCAN_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Skandinavien"
  SCAN_GER_autonomy_colony_DEF:0 "Das Reichsland Skandinavien"
- SCAN_GER_autonomy_dominion:0 "Skandinavien"
+ SCAN_GER_autonomy_dominion_DEF:0 "Skandinavien"
  
  GER_reichskommissariat_schweden:0 "Reichskommissariat Schweden"
  GER_reichskommissariat_schweden_DEF:0 "Das Reichskommissariat Schweden"
@@ -1281,7 +1281,7 @@
  SWE_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Schweden"
  SWE_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Schweden"
  SWE_GER_autonomy_colony_DEF:0 "Das Reichsland Schweden"
- SWE_GER_autonomy_dominion:0 "Schweden"
+ SWE_GER_autonomy_dominion_DEF:0 "Schweden"
  
  GER_reichskommissariat_danemark:0 "Reichskommissariat Dänemark"
  GER_reichskommissariat_danemark_DEF:0 "Das Reichskommissariat Dänemark"
@@ -1300,7 +1300,7 @@
  DEN_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Dänemark"
  DEN_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Dänemark"
  DEN_GER_autonomy_colony_DEF:0 "Das Reichsland Dänemark"
- DEN_GER_autonomy_dominion:0 "Dänemark"
+ DEN_GER_autonomy_dominion_DEF:0 "Dänemark"
  
  GER_reichskommissariat_finnland:0 "Reichskommissariat Finnland"
  GER_reichskommissariat_finnland_DEF:0 "Das Reichskommissariat Finnland"
@@ -1319,7 +1319,7 @@
  FIN_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Finnland"
  FIN_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Finnland"
  FIN_GER_autonomy_colony_DEF:0 "Das Reichsland Finnland"
- FIN_GER_autonomy_dominion:0 "Finnland"
+ FIN_GER_autonomy_dominion_DEF:0 "Finnland"
  
  GER_reichskommissariat_gronland:0 "Reichskommissariat Grönland"
  GER_reichskommissariat_gronland_DEF:0 "Das Reichskommissariat Grönland"
@@ -1338,7 +1338,7 @@
  GRN_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Grönland"
  GRN_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Grönland"
  GRN_GER_autonomy_colony_DEF:0 "Das Reichsland Grönland"
- GRN_GER_autonomy_dominion:0 "Grönland"
+ GRN_GER_autonomy_dominion_DEF:0 "Grönland"
  
  GER_reichskommissariat_island:0 "Reichskommissariat Island"
  GER_reichskommissariat_island_DEF:0 "Das Reichskommissariat Island"
@@ -1357,7 +1357,7 @@
  ICE_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Island"
  ICE_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Island"
  ICE_GER_autonomy_colony_DEF:0 "Das Reichsland Island"
- ICE_GER_autonomy_dominion:0 "Island"
+ ICE_GER_autonomy_dominion_DEF:0 "Island"
  
  GER_reichskommissariat_england:0 "Reichskommissariat England"
  GER_reichskommissariat_england_DEF:0 "Das Reichskommissariat England"
@@ -1376,7 +1376,7 @@
  ENG_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat England"
  ENG_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat England"
  ENG_GER_autonomy_colony_DEF:0 "Das Reichsland England"
- ENG_GER_autonomy_dominion:0 "England"
+ ENG_GER_autonomy_dominion_DEF:0 "England"
  
  GER_reichskommissariat_schottland:0 "Reichskommissariat Schottland"
  GER_reichskommissariat_schottland_DEF:0 "Das Reichskommissariat Schottland"
@@ -1395,7 +1395,7 @@
  SCO_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Schottland"
  SCO_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Schottland"
  SCO_GER_autonomy_colony_DEF:0 "Das Reichsland Schottland"
- SCO_GER_autonomy_dominion:0 "Schottland"
+ SCO_GER_autonomy_dominion_DEF:0 "Schottland"
  
  GER_reichskommissariat_wales:0 "Reichskommissariat Wales"
  GER_reichskommissariat_wales_DEF:0 "Das Reichskommissariat Wales"
@@ -1414,7 +1414,7 @@
  WLS_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Wales"
  WLS_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Wales"
  WLS_GER_autonomy_colony_DEF:0 "Das Reichsland Wales"
- WLS_GER_autonomy_dominion:0 "Wales"
+ WLS_GER_autonomy_dominion_DEF:0 "Wales"
  
  GER_reichskommissariat_irland:0 "Reichskommissariat Irland"
  GER_reichskommissariat_irland_DEF:0 "Das Reichskommissariat Irland"
@@ -1433,7 +1433,7 @@
  IRE_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Irland"
  IRE_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Irland"
  IRE_GER_autonomy_colony_DEF:0 "Das Reichsland Irland"
- IRE_GER_autonomy_dominion:0 "Irland"
+ IRE_GER_autonomy_dominion_DEF:0 "Irland"
  
  GER_reichskommissariat_cornwall:0 "Reichskommissariat Cornwall"
  GER_reichskommissariat_cornwall_DEF:0 "Das Reichskommissariat Cornwall"
@@ -1452,7 +1452,26 @@
  COR_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Cornwall"
  COR_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Cornwall"
  COR_GER_autonomy_colony_DEF:0 "Das Reichsland Cornwall"
- COR_GER_autonomy_dominion:0 "Cornwall"
+ COR_GER_autonomy_dominion_DEF:0 "Cornwall"
+ 
+ GER_reichskommissariat_normandie:0 "Reichskommissariat Normandie"
+ GER_reichskommissariat_normandie_DEF:0 "Das Reichskommissariat Normandie"
+ 
+ NND_GER_autonomy_reichskommissariat:0 "Reichskommissariat Normandie"
+ NND_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Normandie"
+ NND_GER_autonomy_satellite:0 "Normandie"
+ NND_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Normandie"
+ NND_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Normandie"
+ NND_GER_autonomy_satellite_DEF:0 "Normandie"
+ 
+ NND_GER_autonomy_integrated_puppet:0 "Reichskommissariat Normandie"
+ NND_GER_autonomy_puppet:0 "Reichsprotektorat Normandie"
+ NND_GER_autonomy_colony:0 "Reichsland Normandie"
+ NND_GER_autonomy_dominion:0 "Normandie"
+ NND_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Normandie"
+ NND_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Normandie"
+ NND_GER_autonomy_colony_DEF:0 "Das Reichsland Normandie"
+ NND_GER_autonomy_dominion_DEF:0 "Normandie"
  
  GER_reichskommissariat_grossbrittanien:0 "Reichskommissariat Großbrittanien"
  GER_reichskommissariat_grossbrittanien_DEF:0 "Das Reichskommissariat Großbrittanien"
@@ -1471,7 +1490,26 @@
  ENG_ALL_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Großbrittanien"
  ENG_ALL_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Großbrittanien"
  ENG_ALL_GER_autonomy_colony_DEF:0 "Das Reichsland Großbrittanien"
- ENG_ALL_GER_autonomy_dominion:0 "Großbrittanien"
+ ENG_ALL_GER_autonomy_dominion_DEF:0 "Großbrittanien"
+ 
+ GER_reichskommissariat_slovakei:0 "Reichskommissariat Slovakei"
+ GER_reichskommissariat_slovakei_DEF:0 "Das Reichskommissariat Slovakei"
+ 
+ SLO_GER_autonomy_reichskommissariat:0 "Reichskommissariat Slovakei"
+ SLO_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Slovakei"
+ SLO_GER_autonomy_satellite:0 "Slovakei"
+ SLO_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Slovakei"
+ SLO_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Slovakei"
+ SLO_GER_autonomy_satellite_DEF:0 "The First Slovak State"
+ 
+ SLO_GER_autonomy_integrated_puppet:0 "Reichskommissariat Slovakei"
+ SLO_GER_autonomy_puppet:0 "Reichsprotektorat Slovakei"
+ SLO_GER_autonomy_colony:0 "Reichsland Slovakei"
+ SLO_GER_autonomy_dominion:0 "First Slovak State"
+ SLO_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Slovakei"
+ SLO_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Slovakei"
+ SLO_GER_autonomy_colony_DEF:0 "Das Reichsland Slovakei"
+ SLO_GER_autonomy_dominion_DEF:0 "The First Slovak State"
  
  NJD_fascism:0 "Sultanate of Nejd"
  NJD_fascism_DEF:0 "The Sultanate of Nejd"

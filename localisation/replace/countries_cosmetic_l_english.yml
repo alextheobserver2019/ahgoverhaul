@@ -167,10 +167,25 @@
  FRA_FREE_democratic:0 "Free France"
  FRA_FREE_democratic_DEF:0 "Free France"
  
- FRA_GER_fascism_autonomy_reichsprotectorate:0 "Vichy France"
- FRA_GER_fascism_autonomy_reichsprotectorate_DEF:0 "Vichy France"
- FRA_GER_fascism_autonomy_puppet:0 "Vichy France"
- FRA_GER_fascism_autonomy_puppet_DEF:0 "Vichy France"
+ GER_reichskommissariat_frankreich:0 "Reichskommissariat Frankreich"
+ GER_reichskommissariat_frankreich_DEF:0 "Das Reichskommissariat Frankreich"
+ 
+ FRA_GER_autonomy_reichskommissariat:0 "Reichskommissariat Frankreich"
+ FRA_GER_autonomy_reichsprotectorate:0 "Reichsprotektorat Frankreich"
+ FRA_GER_autonomy_satellite:0 "Vichy France"
+ FRA_GER_autonomy_reichskommissariat_DEF:0 "Das Reichskommissariat Frankreich"
+ FRA_GER_autonomy_reichsprotectorate_DEF:0 "Das Reichsprotektorat Frankreich"
+ FRA_GER_autonomy_satellite_DEF:0 "Vichy France"
+ 
+ FRA_GER_autonomy_integrated_puppet:0 "Reichskommissariat Frankreich"
+ FRA_GER_autonomy_puppet:0 "Reichsprotektorat Frankreich"
+ FRA_GER_autonomy_colony:0 "Reichsland Frankreich"
+ FRA_GER_autonomy_dominion:0 "Vichy France"
+ FRA_GER_autonomy_integrated_puppet_DEF:0 "Das Reichskommissariat Frankreich"
+ FRA_GER_autonomy_puppet_DEF:0 "Das Reichsprotektorat Frankreich"
+ FRA_GER_autonomy_colony_DEF:0 "Das Reichsland Frankreich"
+ FRA_GER_autonomy_dominion:0 "Vichy France"
+ 
  
  FRA_UK_democratic:0 "Franco-British Union"
  FRA_UK_democratic_DEF:0 "The Franco-British Union"

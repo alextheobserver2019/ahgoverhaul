@@ -1,6 +1,7 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6363;9364;sea;8340;-1;-1;-1;-1;;Anglesey-Wales
 11266;3178;sea;3590;-1;-1;-1;-1;;Hebrides-Scotland
+15979;3178;sea;3590;-1;-1;-1;-1;;Hebrides-Scotland
 12251;10321;sea;8313;-1;-1;-1;-1;;Andaman
 7413;1419;sea;5294;-1;-1;-1;-1;;Moluccas
 10141;1419;sea;5267;-1;-1;-1;-1;;Moluccas
@@ -111,7 +112,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 11090;91;sea;5792;-1;-1;-1;-1;;Northern-Straits
 44;11050;sea;5792;-1;-1;-1;-1;;Northern-Straits
 22;3016;sea;5792;-1;-1;-1;-1;;Northern-Straits
-6062;6205;sea;3590;-1;-1;-1;-1;;West Scottish-Strait
+6062;15980;sea;3590;-1;-1;-1;-1;;West Scottish-Strait(1)
+6062;15978;sea;3590;-1;-1;-1;-1;;West Scottish-Strait(2)
+6205;15980;sea;3590;-1;-1;-1;-1;;West Scottish-Strait(3)
 8435;6550;sea;7452;-1;-1;-1;-1;;Aegan Isle-Strait
 7304;4360;sea;8614;-1;-1;-1;-1;;New Foundland-Strait
 5407;5382;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar North
@@ -179,5 +182,13 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 13815;13373;sea;5812;-1;-1;-1;-1;;Yugoslavia
 13370;13372;sea;5838;-1;-1;-1;-1;;Yugoslavia
 8038;13071;sea;2246;-1;-1;-1;-1;;Canaries
+3373;15976;sea;3590;-1;-1;-1;-1;;Scotland(4)
+3373;15977;sea;3590;-1;-1;-1;-1;;Scotland(5)
+15981;6350;sea;3590;-1;-1;-1;-1;;Scotland(6)
+9458;13628;sea;2895;-1;1;-1;1;;Isle of Wight-Hampshire
+3083;14211;sea;990;-1;1;-1;1;;Turku
+14212;14213;sea;990;-1;1;-1;1;;Åland(1)
+14212;9228;sea;990;-1;1;-1;1;;Åland(2)
+14213;14214;sea;1211;-1;1;-1;1;;Åland(3)
 4269;7385;sea;8751;-1;-1;-1;-1;;Fictional Strait for making the Phillippines' name look prettier
 -1;-1;;-1;-1;-1;-1;-1;-1
