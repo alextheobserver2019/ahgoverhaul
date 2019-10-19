@@ -1491,8 +1491,8 @@ HOL_ORANGE = {
 }
 
 HUN_ORANGE = {
-	color = rgb { 85 137 90 }
-	color_ui = rgb { 255 164 127 }
+	color = rgb { 143 77 77 }
+	color_ui = rgb { 143 77 77 }
 }
 
 RAJ_ORANGE = {
