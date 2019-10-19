@@ -8,7 +8,6 @@ state={
 	
 	    owner = ABD
 		add_core_of = ABD
-														   
 	}
 	manpower=1000
 	buildings_max_level_factor=1.000
