@@ -1,0 +1,15 @@
+state={
+	id=5741
+	name="STATE_5741"
+	provinces={
+		15985
+	}
+	history={
+	    owner = LAT
+        add_core_of = LAT
+		add_core_of = LTG
+    }
+	manpower = 1000
+	state_category = small_town
+	buildings_max_level_factor=1.000
+}
