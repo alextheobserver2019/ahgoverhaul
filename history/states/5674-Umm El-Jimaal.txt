@@ -9,6 +9,6 @@ state={
         add_core_of = JOR
     }
 	manpower = 1000
-	stae_category = rural
+	state_category = rural
 	buildings_max_level_factor=1.000
 }
