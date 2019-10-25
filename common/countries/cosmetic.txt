@@ -1,9 +1,9 @@
 TUN_FRA = {
-	color = rgb { 37  72  155 }
-	color_ui = rgb { 37  72  155 }
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
 }
 MEN_ECA = {
-	color = rgb { 165  69  117 }
+	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
 CMR_FRA = {
@@ -340,76 +340,76 @@ FWA_FRA = {
 	color_ui = rgb { 37 72 155 }
 }
 BHU_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 KAS_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 BLO_KAL = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 SND_KHR = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 OMA_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 UAE_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 KUW_ENG = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 BHR_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 QAT_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 ADN_ENG = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 SKM_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 AJM_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 ABD_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 DUB_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 FUJ_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 UAQ_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 SHJ_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 RAK_RAJ = {
-	color = rgb { 170  10  10 }
-	color_ui = rgb { 200  10  10 }
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
 }
 EQG_SPR = {
 	color = rgb { 224 198 94 }
@@ -700,35 +700,35 @@ BRA_POR = {
 	color_ui = rgb { 51 151 91 }
 }
 HSP_unified = {
-	color = rgb { 141  103  125 }
-	color_ui = rgb { 141  103  125 }
+	color = rgb { 141 103 125 }
+	color_ui = rgb { 141 103 125 }
 }
 SGC = {
-	color = rgb { 117  191  234 }
-	color_ui = rgb { 117  191  234 }
+	color = rgb { 117 191 234 }
+	color_ui = rgb { 117 191 234 }
 }
 NGC = {
-	color = rgb { 65  78  93 }
-	color_ui = rgb { 65  78  93 }
+	color = rgb { 65 78 93 }
+	color_ui = rgb { 65 78 93 }
 }
 MEN_JAP = {
-	color = rgb { 165  69  117 }
+	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
 CHI_JAP = {
-	color = rgb { 165  69  117 }
+	color = rgb { 165 69  117 }
 	color_ui = rgb { 165 69 117 }
 }
 GXC_JAP = {
-	color = rgb { 165  69  117 }
+	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
 EHC_PGROC = {
-	color = rgb { 165  69  117 }
+	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
 CHI_RNGOC = {
-	color = rgb { 165  69  117 }
+	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
 YUN_JAP = {
@@ -1126,6 +1126,10 @@ IRE_GER = {
 ENG_ALL_GER = {
 	color = rgb { 54 54 54 }
 	color_ui = rgb { 115 115 115 }
+}
+SOV_USS = {
+	color = rgb { 125  13  24 }
+	color_ui = rgb { 125  13  24 }
 }
 ###Country Colours Mod
 

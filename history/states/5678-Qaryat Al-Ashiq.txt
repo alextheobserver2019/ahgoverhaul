@@ -1,0 +1,14 @@
+state={
+	id=5678
+	name="STATE_5678"
+	provinces={
+		16052 
+	}
+	history={
+	    owner = IRQ
+        add_core_of = IRQ
+    }
+	manpower = 1000
+	state_category = rural
+	buildings_max_level_factor=1.000
+}

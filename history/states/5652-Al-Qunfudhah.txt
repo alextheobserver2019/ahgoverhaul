@@ -1,0 +1,14 @@
+state={
+	id=5652
+	name="STATE_5652"
+	provinces={
+		16068 
+	}
+	history={
+	    owner = ADN
+        add_core_of = ADN
+    }	
+	manpower = 1000
+	state_category = town
+	buildings_max_level_factor=1.000
+}
