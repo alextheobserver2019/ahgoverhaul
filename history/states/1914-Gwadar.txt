@@ -9,7 +9,7 @@ state={
 		}
 		add_core_of = OMA
 		add_core_of = BLO
-		add_claim_by = PAK
+		add_core_of = PAK
 
 	}
 

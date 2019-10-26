@@ -83,6 +83,10 @@ if = {
 		target = PAC
 		autonomous_state = autonomy_integrated_puppet
 	}
+	set_autonomy = {
+		target = MEN
+		autonomous_state = autonomy_integrated_puppet
+	}
 	else = {
 		set_autonomy = {
 			target = MAN
@@ -94,6 +98,10 @@ if = {
 		}
 		set_autonomy = {
 			target = PAC
+			autonomous_state = autonomy_puppet
+		}
+		set_autonomy = {
+			target = men
 			autonomous_state = autonomy_puppet
 		}
 	}

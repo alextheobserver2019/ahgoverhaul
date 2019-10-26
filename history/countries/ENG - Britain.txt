@@ -260,6 +260,10 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
+		target = BAR
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
 		target = NFL
 		autonomous_state = autonomy_dominion
 	}
@@ -371,6 +375,7 @@ if = {
 		puppet = BAS
 		puppet = BSA
 		puppet = TRI
+		puppet = BAR
 		puppet = GIB
 		puppet = FAL
 		puppet = BER
