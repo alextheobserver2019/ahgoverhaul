@@ -9,6 +9,6 @@ state={
         add_core_of = POL
     }
 	manpower = 1000
-	state_cateogry = town
+	state_category = town
 	buildings_max_level_factor=1.000
 }
