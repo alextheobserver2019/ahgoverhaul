@@ -1,15 +1,14 @@
 state={
-	id=5734
-	name="STATE_5734"
+	id=5781
+	name="STATE_5781"
 	provinces={
-		3933
+		932 
 	}
 	history={
 	    owner = SPR
         add_core_of = SPR
-		add_core_of = BSQ
     }
 	manpower = 1000
-	state_category = small_town
+    state_category = rural
 	buildings_max_level_factor=1.000
 }

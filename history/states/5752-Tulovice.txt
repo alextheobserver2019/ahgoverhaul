@@ -1,17 +1,14 @@
 state={
-	id=5744
-	name="STATE_5744"
+	id=5752
+	name="STATE_5752"
 	provinces={
-		16070
+		16003 
 	}
 	history={
 	    owner = POL
         add_core_of = POL
-		add_core_of = PRS
-		add_core_of = PWP
-		add_core_of = WPR
     }
 	manpower = 1000
-	state_category = small_town
+	state_category = rural
 	buildings_max_level_factor=1.000
 }

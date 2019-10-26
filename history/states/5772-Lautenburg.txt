@@ -1,16 +1,14 @@
 state={
-	id=5742
-	name="STATE_5742"
+	id=5772
+	name="STATE_5772"
 	provinces={
-		15986
+		16070 
 	}
 	history={
 	    owner = GER
         add_core_of = GER
-		add_core_of = PRS
-		add_core_of = KON
     }
 	manpower = 1000
-	state_category = small_town
+	state_cateogry = small_town
 	buildings_max_level_factor=1.000
 }

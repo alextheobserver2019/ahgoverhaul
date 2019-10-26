@@ -1,0 +1,14 @@
+state={
+	id=5757
+	name="STATE_5757"
+	provinces={
+		16009 
+	}
+	history={
+	    owner = POL
+        add_core_of = POL
+    }
+	manpower = 1000
+	state_cateogry = town
+	buildings_max_level_factor=1.000
+}

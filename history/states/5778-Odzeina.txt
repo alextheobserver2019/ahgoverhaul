@@ -1,15 +1,14 @@
 state={
-	id=5741
-	name="STATE_5741"
+	id=5778
+	name="STATE_5778"
 	provinces={
-		15985
+		15985 
 	}
 	history={
 	    owner = LAT
         add_core_of = LAT
-		add_core_of = LTG
     }
 	manpower = 1000
-	state_category = small_town
+	state_cstegory = rural
 	buildings_max_level_factor=1.000
 }
