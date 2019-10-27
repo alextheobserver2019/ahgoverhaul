@@ -1,4 +1,4 @@
-﻿capital = 441
+﻿capital = 1190
 
 oob = "RAJ_gen"
 set_cosmetic_tag = KAS_RAJ
