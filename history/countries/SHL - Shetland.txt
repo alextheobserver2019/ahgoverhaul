@@ -1,6 +1,6 @@
-﻿capital = 
+﻿capital = 934
 
-oob = "STL_1936"
+oob = "SHL_1936"
 
 set_popularities = {
         democratic = 45

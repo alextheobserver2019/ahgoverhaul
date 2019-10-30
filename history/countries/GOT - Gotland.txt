@@ -1,4 +1,4 @@
-﻿capital = 
+﻿capital = 124
 
 oob = "GOT_1936"
 

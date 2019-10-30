@@ -1,4 +1,4 @@
-﻿capital = 
+﻿capital = 1130
 
 oob = "VDS_1936"
 

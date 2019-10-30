@@ -12,6 +12,7 @@ state={
 			}
 
 		}
+		add_core_of = BHM
 		add_core_of = DEN
 
 	}
