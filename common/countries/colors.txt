@@ -3115,3 +3115,28 @@ PHG = {
 color = rgb { 0 130 0 }
 color_ui = rgb { 0 130 0 }
 }
+
+STL = {
+color = rgb { 50 149 186 }
+color_ui = rgb { 50 149 186 }
+}
+ORK = {
+color = rgb { 58 77 107 }
+color_ui = rgb { 58 77 107 }
+}
+BHM = {
+color = rgb { 52 182 153 }
+color_ui = rgb { 52 182 153 }
+}
+GOT = {
+color = rgb { 230 81 118 }
+color_ui = rgb { 230 81 118 }
+}
+OLA = {
+color = rgb { 192 207 109 }
+color_ui = rgb { 192 207 109 }
+}
+VDS = {
+color = rgb { 91 28 130 }
+color_ui = rgb { 91 28 130 }
+}

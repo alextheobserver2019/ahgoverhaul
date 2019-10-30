@@ -427,153 +427,99 @@ EHC_JAP = {
 	color = rgb { 165 69 117 }
 	color_ui = rgb { 165 69 117 }
 }
-
 HUN_EMPIRE = {
 	color = rgb { 194 198 215 }
 	color_ui = rgb { 255 255 255 }
 }
-
 AUS_NOT_WHITE = {	
 	color = rgb { 249 126 98 }
 	color_ui = rgb { 85 137 90 }
 }
-
 SCAN = {
 	color = rgb { 0 102 204 }
 	color_ui = rgb { 0 102 204 }
 }
-
 NDC_UNIFIED = {
 	color = rgb { 0 76 153 }
 	color_ui = rgb { 0 76 153 }
 }
-
 GCO_UNIFIED = {
 	color = rgb { 255 255 51 }
 	color_ui = rgb { 255 255 51 }
 }
-
 PLC_UNIFIED = {
 	color = rgb { 255 125 160 }
 	color_ui = rgb { 255 125 160 }
 }
-
 UNL = {
 	color = rgb { 255 128 0 }
 	color_ui = rgb { 255 128 0 }
 }
-
 USC_UNIFIED = {
 	color = rgb { 103 204 255 }
 	color_ui = rgb { 103 204 255 }
 }
-
 BALT = {
 	color = rgb { 0 102 102 }
 	color_ui = rgb { 0 102 102 }
 }
-
 OTT_UNIFIED = {
 	#color = rgb { 178 255 102 }
 	color = rgb { 99 20 17 }
 	color_ui = rgb { 99 20 17 }
 }
-
 EUR_UNIFIED = {
 	color = rgb { 0 51 153 }
 	color_ui = rgb { 0 51 153 }
 }
-
 MUT_UNIFIED = {
 	color = rgb { 153 153 0 }
 	color_ui = rgb { 153 153 0 }
 }
-
 SPQR_UNIFIED = {
 	color = rgb { 153 0 0 }
 	color_ui = rgb { 153 0 0 }
 }
-
 PER_UNIFIED = {
 	color = rgb { 255 215 0 }
 	color_ui = rgb { 255 215 0 }
 }
-
 BYZ_UNIFIED = {
 	color = rgb { 143 12 125 }
 	color_ui = rgb { 143 12 125 }
 }
-
 ARA_UNIFIED = {
 	color = rgb { 85 102 0 }
 	color_ui = rgb { 85 102 0 }
 }
-
 MAJ_UNIFIED = {
 	color = rgb { 255 51 51 }
 	color_ui = rgb { 255 51 51 }
 }
-
 RAT_UNIFIED = {
 	color = rgb { 255 255 51 }
 	color_ui = rgb { 255 255 51 }
 }
-
 HRE_UNIFIED = {
 	color = rgb { 128 128 128 }
 	color_ui = rgb { 128 128 128 }
 }
-
-NOR_reichskommissariat = {
-	color = rgb { 63 63 63 }
-	color_ui = rgb { 63 63 63 }
-}
-
-HOL_reichskommissariat = {
-	color = rgb { 63 63 63 }
-	color_ui = rgb { 63 63 63 }
-}
-
-BEL_reichskommissariat = {
-	color = rgb { 63 63 63 }
-	color_ui = rgb { 63 63 63 }
-}
-
-BLR_reichskommissariat = {
-	color = rgb { 63 63 63 }
-	color_ui = rgb { 63 63 63 }
-}
-
-UKR_reichskommissariat = {
-	color = rgb { 63 63 63 }
-	color_ui = rgb { 63 63 63 }
-}
-
 SPR_civil_war = {
 	color = rgb { 200 100 31 }
 	color_ui = rgb { 245 123 38 }
 }
-
 GER_civil_war = {
 	color = rgb { 63 63 63 }
 	color_ui = rgb { 138 155 116 }
 }
-
 GER_provisional_gvt = {
 	color = rgb { 128 128 128 }
 	color_ui = rgb { 63 63 63 }
 }
-
 GER_german_empire = {
 	color = rgb { 128 128 128 }
 	color_ui = rgb { 63 63 63 }
 }
-
-GER_german_monarchy = {
-	color = rgb { 128 128 128 }
-	color_ui = rgb { 63 63 63 }
-}
-
 CHI_warlord_leader = {
 	color = hsv { 0.18 0.6 0.9 } #255 244 190
 	color_ui = hsv { 0.18 0.3 0.9 }
@@ -586,7 +532,6 @@ JAP_showa_restoration = {
 	color = rgb { 230 230 230 }
 	color_ui = rgb { 230 230 230 }
 }
-
 GER_GGR = {
 	color = rgb { 54 54 54 }
 	color_ui = rgb { 63 63 63 }
@@ -887,10 +832,6 @@ FRA_GER = {
 	color = rgb { 54 54 54 }
 	color_ui = rgb { 115 115 115 }
 }
-SLO_GER = {
-	color = rgb { 54 54 54 }
-	color_ui = rgb { 115 115 115 }
-}
 TSC_SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 125 13 24 }
@@ -1124,6 +1065,14 @@ IRE_GER = {
 	color_ui = rgb { 115 115 115 }
 }
 ENG_ALL_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+SLO_GER = {
+	color = rgb { 54 54 54 }
+	color_ui = rgb { 115 115 115 }
+}
+FRA_GER = {
 	color = rgb { 54 54 54 }
 	color_ui = rgb { 115 115 115 }
 }
