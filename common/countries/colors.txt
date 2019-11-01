@@ -3140,3 +3140,23 @@ VDS = {
 color = rgb { 91 28 130 }
 color_ui = rgb { 91 28 130 }
 }
+MSG = {
+color = rgb { 34 172 187 }
+color_ui = rgb { 34 172 187 }
+}
+CHK = {
+color = rgb { 45 57 170 }
+color_ui = rgb { 45 57 170 }
+}
+CRK = {
+color = rgb { 191 91 0 }
+color_ui = rgb { 191 91 0 }
+}
+SMN = {
+color = rgb { 155 190 255 }
+color_ui = rgb { 155 190 255 }
+}
+CHW = {
+color = rgb { 130 102 213 }
+color_ui = rgb { 130 102 213 }
+}

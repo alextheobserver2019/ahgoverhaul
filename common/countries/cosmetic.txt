@@ -142,6 +142,10 @@ FAL_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
+IRQ_ENG = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
 GIB_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }

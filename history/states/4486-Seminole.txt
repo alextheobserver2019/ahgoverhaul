@@ -11,6 +11,7 @@ state={
 		add_core_of = OKH
 		add_core_of = CSA
 		add_core_of = INT
+		add_core_of = SMN
 		buildings = {
 			infrastructure = 4
 			

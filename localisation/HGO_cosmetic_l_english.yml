@@ -1904,3 +1904,14 @@
  SOV_USS_fascism_DEF:0 "The Eurasian Empire"
  SOV_USS_communism:0 "Union of Sovereign States"
  SOV_USS_communism_DEF:0 "The Union of Sovereign States"
+ 
+ IRQ_ENG_autonomy_dominion:0 "Kingdom of Iraq under British Administration"
+ IRQ_ENG_autonomy_dominion_DEF:0 "The Kingdom of Iraq under British Administration"
+ IRQ_ENG_autonomy_colony:0 "British Mandate in Iraq"
+ IRQ_ENG_autonomy_colony_DEF:0 "The British Mandate in Iraq"
+ IRQ_ENG_autonomy_puppet:0 "British Colony in Iraq"
+ IRQ_ENG_autonomy_puppet_DEF:0 "The British Colony in Iraq"
+ IRQ_ENG_autonomy_integrated_puppet:0 "British Iraq"
+ IRQ_ENG_autonomy_integrated_puppet_DEF:0 "British Iraq"
+ IRQ_ENG_ADJ:0 "Iraqi"
+ 
