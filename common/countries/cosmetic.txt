@@ -653,8 +653,8 @@ HSP_unified = {
 	color_ui = rgb { 141 103 125 }
 }
 SGC = {
-	color = rgb { 117 191 234 }
-	color_ui = rgb { 117 191 234 }
+	color = rgb { 17 91 134 }
+	color_ui = rgb { 17 91 134 }
 }
 NGC = {
 	color = rgb { 65 78 93 }
