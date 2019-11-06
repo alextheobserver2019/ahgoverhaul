@@ -428,7 +428,7 @@
  CAT_communism_ADJ:0 "Catalan"   
  CAT_monarchism:0 "Kingdom of Catalonia"
  CAT_monarchism_DEF:0 "The Kingdom of Catalonia"
- CAT_monarchism_ADJ:0 ""
+ CAT_monarchism_ADJ:0 "Catalan"
  
  BOS_fascism:0 "Reorganized Bosnian State"   
  BOS_fascism_DEF:0 "The Reorganized Bosnian State"   
@@ -588,7 +588,7 @@
  PRS_communism_ADJ:0 "Prussian"   
  PRS_monarchism:0 "Kingdom of Prussia"
  PRS_monarchism_DEF:0 "The Kingdom of Prussia"
- PRS_monarchism_ADJ:0 ""
+ PRS_monarchism_ADJ:0 "Prussian"
  
  NIR_fascism:0 "Independent States of Northern Ireland"   
  NIR_fascism_DEF:0 "Independent States of Northern Ireland"   
@@ -764,7 +764,7 @@
  VCT_communism_ADJ:0 "Papal"   
  VCT_monarchism:0 "Vatican City of the Holy See"
  VCT_monarchism_DEF:0 "The Vatican City of the Holy See"
- VCT_monarchism_ADJ:0 ""
+ VCT_monarchism_ADJ:0 "Papal"
  
  ADR_fascism:0 "Greater State of Andorra"   
  ADR_fascism_DEF:0 "Greater State of Andorra"   
@@ -1004,7 +1004,7 @@
  SUR_HOL_communism_ADJ:0 "Surinamese"   
  SUR_HOL_monarchism:0 "Kingdom of Surinam"
  SUR_HOL_monarchism_DEF:0 "The Kingdom of Surinam"
- SUR_HOL_monarchism_ADJ:0 ""
+ SUR_HOL_monarchism_ADJ:0 "Surinamese"
  
  CRC_HOL_fascism:0 "Colony of Curaçao and Dependencies"   
  CRC_HOL_fascism_DEF:0 "The Colony of Curaçao and Dependencies"   
@@ -1228,7 +1228,7 @@
  MRV_communism_ADJ:0 "Moravian"   
  MRV_monarchism:0 "Margraviate of Moravia"
  MRV_monarchism_DEF:0 "The Margraviate of Moravia"
- MRV_monarchism_ADJ:0 ""
+ MRV_monarchism_ADJ:0 "Moravian"
  
  SAR_fascism:0 "Gau Westmark"   
  SAR_fascism_DEF:0 "Das Gau Westmark"   
@@ -1293,7 +1293,7 @@
  NFL_monarchism:0 "Kingdom of Newfoundland"
  NFL_monarchism_DEF:0 "The Kingdom of Newfoundland"
  NFL_monarchism_ADJ:0 "Newfoundlander"
- 
+
  MLW_fascism:0 "Malawian Military Government"   
  MLW_fascism_DEF:0 "The Malawian Military Government"   
  MLW_democratic:0 "Republic of Malawi"   
@@ -1420,7 +1420,7 @@
  BGN_communism_ADJ:0 "Burgundian"   
  BGN_monarchism:0 "Duchy of Burgundy"
  BGN_monarchism_DEF:0 "The Duchy of Burgundy"
- BGN_monarchism_ADJ:0 ""
+ BGN_monarchism_ADJ:0 "Burgundian"
  
  BRT_fascism:0 "Independent State of Bretagne"   
  BRT_fascism_DEF:0 "The Independent State of Bretagne"   
@@ -1564,7 +1564,7 @@
  TRS_communism_ADJ:0 "Triestinian"   
  TRS_monarchism:0 "Imperial Free City of Trieste"
  TRS_monarchism_DEF:0 "TriestinianThe Imperial Free City of Trieste"
- TRS_monarchism_ADJ:0 ""
+ TRS_monarchism_ADJ:0 "Triestinian"
  
  LOM_fascism:0 "Empire of Lombardy"   
  LOM_fascism_DEF:0 "The Empire of Lombardy"   
@@ -1612,7 +1612,7 @@
  SRD_communism_ADJ:0 "Sardinian"   
  SRD_monarchism:0 "Kingdom of Sardinia"
  SRD_monarchism_DEF:0 "The Kingdom of Sardinia"
- SRD_monarchism_ADJ:0 ""
+ SRD_monarchism_ADJ:0 "Sardinian"
  
  TUS_fascism:0 "Free State of Tuscany"   
  TUS_fascism_DEF:0 "The Free State of Tuscany"   
@@ -1676,7 +1676,7 @@
  HES_communism_ADJ:0 "Hesse-Darmstadter"   
  HES_monarchism:0 "Grand Duchy of Hesse-Darmstadt"
  HES_monarchism_DEF:0 "The Grand Duchy of Hesse-Darmstadt"
- HES_monarchism_ADJ:0 ""
+ HES_monarchism_ADJ:0 "Hesse-Darmstadter"
  
  WSF_fascism:0 "Empire of Westphalia"   
  WSF_fascism_DEF:0 "The Empire of Westphalia"   
@@ -1740,7 +1740,7 @@
  SCH_communism_ADJ:0 "Schleswig-Holsteiner"   
  SCH_monarchism:0 "Grand Duchy of Schleswig-Holstein"
  SCH_monarchism_DEF:0 "The Grand Duchy of Schleswig-Holstein"
- SCH_monarchism_ADJ:0 ""
+ SCH_monarchism_ADJ:0 "Schleswig-Holsteiner"
  
  SIL_fascism:0 "Empire of Silesia"   
  SIL_fascism_DEF:0 "The Empire of Silesia"   
@@ -1980,7 +1980,7 @@
  ALT_communism_ADJ:0 "Albertan"   
  ALT_monarchism:0 "Kingdom of Alberta"
  ALT_monarchism_DEF:0 "The Kingdom of Alberta"
- ALT_monarchism_ADJ:0 ""
+ ALT_monarchism_ADJ:0 "Albertan"
  
  SAS_fascism:0 "Free Province of Saskatchewan"   
  SAS_fascism_DEF:0 "The Province of Saskatchewan"   
@@ -2137,10 +2137,10 @@
  LUB_fascism_ADJ:0 "Lübecker"   
  LUB_democratic_ADJ:0 "Lübecker"   
  LUB_neutrality_ADJ:0 "Lübecker"   
- LUB_communism_ADJ:0 "Lübecer"   
+ LUB_communism_ADJ:0 "Lübecker"   
  LUB_monarchism:0 "Duchy of Lübeck"
  LUB_monarchism_DEF:0 "The Duchy of Lübeck"
- LUB_monarchism_ADJ:0 ""
+ LUB_monarchism_ADJ:0 "Lubecker"
  
  NAP_fascism:0 "Empire of Naples"   
  NAP_fascism_DEF:0 "The Empire of Naples"   
@@ -2348,7 +2348,7 @@
  NWY_communism_ADJ:0 "New Yorker"   
  NWY_monarchism:0 "Kingdom of New York"
  NWY_monarchism_DEF:0 "The Kingdom of New York"
- NWY_monarchism_ADJ:0 ""
+ NWY_monarchism_ADJ:0 "New Yorker"
  
  GLC_fascism:0 "Empire of Galicia"   
  GLC_fascism_DEF:0 "The Empire of Galicia"   
@@ -4837,7 +4837,7 @@
  TON_communism_ADJ:0 "Tongan"   
  TON_monarchism:0 "Kingdom of Tonga"
  TON_monarchism_DEF:0 "The Kingdom of Tonga"
- TON_monarchism_ADJ:0 ""
+ TON_monarchism_ADJ:0 "Tongan"
  
  TON_ENG_fascism:1 "National Socialist State of Tonga"   
  TON_ENG_fascism_DEF:1 "The National Socialist State of Tonga"   
@@ -5789,7 +5789,7 @@
  BRU_neutrality_ADJ:0 "Brunswicker"   
  BRU_monarchism:0 "Duchy of Brunswick "
  BRU_monarchism_DEF:0 "The Duchy of Brunswick"
- BRU_monarchism_ADJ:0 ""
+ BRU_monarchism_ADJ:0 "Brunswicker"
  
  SAL_democratic:0 "Duchy of Saxe-Altenburg"   
  SAL_democratic_DEF:0 "The Duchy of Saxe-Altenburg"   
@@ -6013,7 +6013,7 @@
  DOB_neutrality_ADJ:0 "Dobrogean"   
  DOB_monarchism:0 "Despotate of Dobruja"
  DOB_monarchism_DEF:0 "The Despotate of Dobruja"
- DOB_monarchism_ADJ:0 ""
+ DOB_monarchism_ADJ:0 "Dobrogean"
  
  BUK_democratic:0 "Republic of Bukovina"   
  BUK_democratic_DEF:0 "The Republic of Bukovina"   
@@ -6172,8 +6172,8 @@
  REU_neutrality_DEF:0 "Reunion"   
  REU_neutrality_ADJ:0 "Reunionese"   
  REU_monarchism:0 "Kingdom of Reunion"
- REU_monarchism_DEF:0 "ReunioneseThe Kingdom of Reunion"
- REU_monarchism_ADJ:0 ""
+ REU_monarchism_DEF:0 "The Kingdom of Reunion"
+ REU_monarchism_ADJ:0 "Reunionese"
  
  ATR_democratic:0 "Republic of Asturias"   
  ATR_democratic_DEF:0 "The Republic of Asturias"   
@@ -6205,7 +6205,7 @@
  BAL_neutrality_ADJ:0 "Balearic"   
  BAL_monarchism:0 "Kingdom of the Baleares"
  BAL_monarchism_DEF:0 "The Kingdom of the Baleares"
- BAL_monarchism_ADJ:0 Balearic""
+ BAL_monarchism_ADJ:0 "Balearic"
  
  VAL_democratic:0 "Republic of Valencia"   
  VAL_democratic_DEF:0 "The Republic of Valencia"   
@@ -7405,7 +7405,7 @@
  WVI_neutrality_ADJ:0 "West Virgin Islander"   
  WVI_monarchism:0 "Kingdom of the Western Virgin Islands"
  WVI_monarchism_DEF:0 "The Kingdom of the Western Virgin Islands"
- WVI_monarchism_ADJ:0 ""West Virgin Islander"
+ WVI_monarchism_ADJ:0 "West Virgin Islander"
  
  MSR_democratic:0 "Republic of Montserrat"   
  MSR_democratic_DEF:0 "The Republic of Montserrat"   
@@ -7837,7 +7837,7 @@
  RHO_democratic_ADJ:0 "Rhode Islander"   
  RHO_monarchism:0 "Duchy of Rhode Island"
  RHO_monarchism_DEF:0 "The Duchy of Rhode Island"
- RHO_monarchism_ADJ:0 ""
+ RHO_monarchism_ADJ:0 "Rhode Islander"
  
  VIR_fascism:1 "Commonwealth of Virginia"   
  VIR_fascism_DEF:1 "The Commonwealth of Virginia"   
@@ -9759,7 +9759,7 @@
  SIN_neutrality_ADJ:0 "Sinai"   
  SIN_monarchism:0 "Kingdom of the Sinai"
  SIN_monarchism_DEF:0 "The Kingdom of the Sinai"
- SIN_monarchism_ADJ:0 ""
+ SIN_monarchism_ADJ:0 "Sinai"
  
  AMZ_democratic:0 "Republic of Amazonas"   
  AMZ_democratic_DEF:0 "The Republic of Amazonas"   
@@ -10287,7 +10287,7 @@
  FZN_neutrality_ADJ:0 "Fezzani"   
  FZN_monarchism:0 "Sultanate of Fezzan"
  FZN_monarchism_DEF:0 "The Sultanate of Fezzan"
- FZN_monarchism_ADJ:0 ""
+ FZN_monarchism_ADJ:0 "Fezzani"
  
  TRP_democratic:0 "Republic of Tripolitania"   
  TRP_democratic_DEF:0 "The Republic of Tripolitania"   
