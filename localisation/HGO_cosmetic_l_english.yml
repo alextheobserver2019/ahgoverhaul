@@ -1929,7 +1929,7 @@
  NDA_SDA_communism_DEF:0 "the United Peoples' Republic of Dakota"
  NDA_SDA_neutrality:0 "Dakota Territory"
  NDA_SDA_neutrality_DEF:0 "the Dakota Territory"
- NDA_SDA_fascism::0 "Empire of Dakota"
+ NDA_SDA_fascism:0 "Empire of Dakota"
  NDA_SDA_fascism_DEF:0 "the Empire of Dakota"
  NDA_SDA_ADJ:0 "Dakotan"
  
@@ -1942,7 +1942,7 @@
  LOU_TER_neutrality:0 "Louisiana Territory"
  LOU_TER_neutrality_DEF:0 "the Louisiana Territory"
  LOU_TER_neutrality_ADJ:0 "Louisian"
- LOU_TER_fascism::0 "Empire of New France"
+ LOU_TER_fascism:0 "Empire of New France"
  LOU_TER_fascism_DEF:0 "the Empire of New France"
  LOU_TER_fascism_ADJ:0 "Louisian"
  
@@ -1955,7 +1955,7 @@
  LOU_ORL_neutrality:0 "Orleans Territory"
  LOU_ORL_neutrality_DEF:0 "the Orleans Territory"
  LOU_ORL_neutrality_ADJ:0 "Orleanite"
- LOU_ORL_fascism::0 "Free Territory of Orleans"
+ LOU_ORL_fascism:0 "Free Territory of Orleans"
  LOU_ORL_fascism_DEF:0 "the Free Territory of Orleans"
  LOU_ORL_fascism_ADJ:0 "Orleanite"
  
@@ -1968,7 +1968,7 @@
  INA_TER_neutrality:0 "Indiana Territory"
  INA_TER_neutrality_DEF:0 "the Indiana Territory"
  INA_TER_neutrality_ADJ:0 "Indianan"
- INA_TER_fascism::0 "Empire of the Indianas"
+ INA_TER_fascism:0 "Empire of the Indianas"
  INA_TER_fascism_DEF:0 "the Empire of the Indianas"
  INA_TER_fascism_ADJ:0 "Indianan"
  
@@ -1981,7 +1981,7 @@
  MCH_TER_neutrality:0 "Michigan Territory"
  MCH_TER_neutrality_DEF:0 "the Michigan Territory"
  MCH_TER_neutrality_ADJ:0 "Michigander"
- MCH_TER_fascism::0 "Authority of Lake Michigan"
+ MCH_TER_fascism:0 "Authority of Lake Michigan"
  MCH_TER_fascism_DEF:0 "the Authority of Lake Michigan"
  MCH_TER_fascism_ADJ:0 "Michigander"
  
@@ -1994,7 +1994,7 @@
  ILL_TER_neutrality:0 "Illinois Territory"
  ILL_TER_neutrality_DEF:0 "the Illinois Territory"
  ILL_TER_neutrality_ADJ:0 "Illinote"
- ILL_TER_fascism::0 "Great State of the Illinois"
+ ILL_TER_fascism:0 "Great State of the Illinois"
  ILL_TER_fascism_DEF:0 "the Great State of the Illinois"
  ILL_TER_fascism_ADJ:0 "Illinote"
  
@@ -2007,7 +2007,7 @@
  NEB_TER_neutrality:0 "Nebraska Territory"
  NEB_TER_neutrality_DEF:0 "the Nebraska Territory"
  NEB_TER_neutrality_ADJ:0 "Nebraski"
- NEB_TER_fascism::0 "Nebraska Governate"
+ NEB_TER_fascism:0 "Nebraska Governate"
  NEB_TER_fascism_DEF:0 "the Nebraska Governate"
  NEB_TER_fascism_ADJ:0 "Nebraski"
  
@@ -2020,7 +2020,7 @@
  AKS_TER_neutrality:0 "Arkansas Territory"
  AKS_TER_neutrality_DEF:0 "the Arkansas Territory"
  AKS_TER_neutrality_ADJ:0 "Arkansite"
- AKS_TER_fascism::0 "Empire of Arkhanzusia"
+ AKS_TER_fascism:0 "Empire of Arkhanzusia"
  AKS_TER_fascism_DEF:0 "the Empire of Arkhanzusia"
  AKS_TER_fascism_ADJ:0 "Arkhanzi"
  
@@ -2033,7 +2033,7 @@
  KAN_TER_neutrality:0 "Kansas Territory"
  KAN_TER_neutrality_DEF:0 "the Kansas Territory"
  KAN_TER_neutrality_ADJ:0 "Kansite"
- KAN_TER_fascism::0 "American Khanate
+ KAN_TER_fascism:0 "American Khanate
  KAN_TER_fascism_DEF:0 "the American Khanate"
  KAN_TER_fascism_ADJ:0 "Amerikhan"
  
@@ -2046,7 +2046,7 @@
  MSI_TER_neutrality:0 "Missouri Territory"
  MSI_TER_neutrality_DEF:0 "the Missouri Territory"
  MSI_TER_neutrality_ADJ:0 "Missourian"
- MSI_TER_fascism::0 "Empire of the Missouri"
+ MSI_TER_fascism:0 "Empire of the Missouri"
  MSI_TER_fascism_DEF:0 "the Empire of the Missouri"
  MSI_TER_fascism_ADJ:0 "Missourian"
  
@@ -2059,7 +2059,7 @@
  NCR_SCR_neutrality:0 "Carolina Confederacy"
  NCR_SCR_neutrality_DEF:0 "the Carolina Confederacy"
  NCR_SCR_neutrality_ADJ:0 "Caroline"
- NCR_SCR_fascism::0 "Imperialist Carolina"
+ NCR_SCR_fascism:0 "Imperialist Carolina"
  NCR_SCR_fascism_DEF:0 "Imperialist Carolina"
  NCR_SCR_fascism_ADJ:0 "Caroline"
  
@@ -2072,7 +2072,7 @@
  MSS_TER_neutrality:0 "Mississippi Territory"
  MSS_TER_neutrality_DEF:0 "the Mississippi Territory"
  MSS_TER_neutrality_ADJ:0 "Mississippian"
- MSS_TER_fascism::0 "White Mans State of Mississippi"
+ MSS_TER_fascism:0 "White Mans State of Mississippi"
  MSS_TER_fascism_DEF:0 "the White Mans State of Mississippi"
  MSS_TER_fascism_ADJ:0 "White Mississippian"
  
@@ -2085,7 +2085,7 @@
  ALM_TER_neutrality:0 "Alabama Territory"
  ALM_TER_neutrality_DEF:0 "the Alabama Territory"
  ALM_TER_neutrality_ADJ:0 "Alabamite"
- ALM_TER_fascism::0 "White Mans State of Alabama"
+ ALM_TER_fascism:0 "White Mans State of Alabama"
  ALM_TER_fascism_DEF:0 "the White Mans State of Alabama"
  ALM_TER_fascism_ADJ:0 "White Alabamite"
  
@@ -2098,7 +2098,7 @@
  CLR_TER_neutrality:0 "Alabama Territory"
  CLR_TER_neutrality_DEF:0 "the Alabama Territory"
  CLR_TER_neutrality_ADJ:0 "Coloradian"
- CLR_TER_fascism::0 "White Mans State of Alabama"
+ CLR_TER_fascism:0 "White Mans State of Alabama"
  CLR_TER_fascism_DEF:0 "the White Mans State of Alabama"
  CLR_TER_fascism_ADJ:0 "Coloradian"
  
@@ -2111,7 +2111,7 @@
  NVA_TER_neutrality:0 "Nevada Territory"
  NVA_TER_neutrality_DEF:0 "the Nevada Territory"
  NVA_TER_neutrality_ADJ:0 "Nevadan"
- NVA_TER_fascism::0 "Legionaries of the Wastes"
+ NVA_TER_fascism:0 "Legionaries of the Wastes"
  NVA_TER_fascism_DEF:0 "the Legionaries of the Wastes"
  NVA_TER_fascism_ADJ:0 "Legionary"
  
@@ -2124,7 +2124,7 @@
  ARZ_TER_neutrality:0 "Arizona Territory"
  ARZ_TER_neutrality_DEF:0 "the Arizona Territory"
  ARZ_TER_neutrality_ADJ:0 "Alabamite"
- ARZ_TER_fascism::0 "Empire of the Arisen"
+ ARZ_TER_fascism:0 "Empire of the Arisen"
  ARZ_TER_fascism_DEF:0 "the Empire of the Arisen"
  ARZ_TER_fascism_ADJ:0 "Arisen"
  
@@ -2137,7 +2137,7 @@
  WSC_TER_neutrality:0 "Wisconson Territory"
  WSC_TER_neutrality_DEF:0 "the Wisconson Territory"
  WSC_TER_neutrality_ADJ:0 "Wisconse"
- WSC_TER_fascism::0 "Wisconsia National State"
+ WSC_TER_fascism:0 "Wisconsia National State"
  WSC_TER_fascism_DEF:0 "the Wisconsia National State"
  WSC_TER_fascism_ADJ:0 "Wisconse"
  
@@ -2150,7 +2150,7 @@
  WYO_TER_neutrality:0 "Wyoming Territory"
  WYO_TER_neutrality_DEF:0 "the Wyoming Territory"
  WYO_TER_neutrality_ADJ:0 "Wyominite"
- WYO_TER_fascism::0 "Wyo-Ming Dynastic Empire"
+ WYO_TER_fascism:0 "Wyo-Ming Dynastic Empire"
  WYO_TER_fascism_DEF:0 "the Wyo-Ming Dynastic Empire"
  WYO_TER_fascism_ADJ:0 "Wyo-Mingite"
  
@@ -2163,7 +2163,7 @@
  IOW_TER_neutrality:0 "Iowa Territory"
  IOW_TER_neutrality_DEF:0 "the Iowa Territory"
  IOW_TER_neutrality_ADJ:0 "Iowan"
- IOW_TER_fascism::0 "Iowa Imperative Order"
+ IOW_TER_fascism:0 "Iowa Imperative Order"
  IOW_TER_fascism_DEF:0 "the Iowa Imperative Order"
  IOW_TER_fascism_ADJ:0 "Iowan"
  
@@ -2176,7 +2176,7 @@
  OKH_TER_neutrality:0 "Oklahoma Territory"
  OKH_TER_neutrality_DEF:0 "the Oklahoma Territory"
  OKH_TER_neutrality_ADJ:0 "Oklahoman"
- OKH_TER_fascism::0 "White Mans State of Oklahoma "
+ OKH_TER_fascism:0 "White Mans State of Oklahoma "
  OKH_TER_fascism_DEF:0 "the White Mans State of Oklahoma"
  OKH_TER_fascism_ADJ:0 "White Oklahoman"
  
@@ -2189,7 +2189,7 @@
  IDH_TER_neutrality:0 "The Idaho Territory"
  IDH_TER_neutrality_DEF:0 "the Idaho Territory"
  IDH_TER_neutrality_ADJ:0 "Idahoan"
- IDH_TER_fascism::0 "Idunno"
+ IDH_TER_fascism:0 "Idunno"
  IDH_TER_fascism_DEF:0 "the Idunno"
  IDH_TER_fascism_ADJ:0 "Idunno"
  
@@ -2202,7 +2202,7 @@
  MNA_TER_neutrality:0 "The Montana Territory"
  MNA_TER_neutrality_DEF:0 "the Montana Territory"
  MNA_TER_neutrality_ADJ:0 "Montanan"
- MNA_TER_fascism::0 "Montanegro Americano"
+ MNA_TER_fascism:0 "Montanegro Americano"
  MNA_TER_fascism_DEF:0 "Montanegro Americano"
  MNA_TER_fascism_ADJ:0 "Montanegran"
  
@@ -2215,7 +2215,7 @@
  MNS_TER_neutrality:0 "Minnesota Territory"
  MNS_TER_neutrality_DEF:0 "the Minnesota Territory"
  MNS_TER_neutrality_ADJ:0 "Minnesote"
- MNS_TER_fascism::0 "Authority of Minnesota"
+ MNS_TER_fascism:0 "Authority of Minnesota"
  MNS_TER_fascism_DEF:0 "the Authority of Minnesota"
  MNS_TER_fascism_ADJ:0 "Minnesote"
  
@@ -2228,7 +2228,7 @@
  UTH_TER_neutrality:0 "Utah Territory"
  UTH_TER_neutrality_DEF:0 "the Utah Territory"
  UTH_TER_neutrality_ADJ:0 "Utait"
- UTH_TER_fascism::0 "Holy Order of the Mormon republic of Deseret"
+ UTH_TER_fascism:0 "Holy Order of the Mormon republic of Deseret"
  UTH_TER_fascism_DEF:0 "the Holy Order of the Mormon Republic of Deseret"
  UTH_TER_fascism_ADJ:0 "Mormon"
  
@@ -2267,7 +2267,7 @@
  MEX_NEW_neutrality:0 "New Mexico Territory"
  MEX_NEW_neutrality_DEF:0 "the New Mexico Territory"
  MEX_NEW_neutrality_ADJ:0 "New Mexican"
- MEX_NEW_fascism::0 "New Mexican Empire"
+ MEX_NEW_fascism:0 "New Mexican Empire"
  MEX_NEW_fascism_DEF:0 "the New Mexican Empire"
  MEX_NEW_fascism_ADJ:0 "New Mexican"
 
@@ -2280,7 +2280,7 @@
  NWS_TER_neutrality:0 "Northwest Territory"
  NWS_TER_neutrality_DEF:0 "the Northwest Territory"
  NWS_TER_neutrality_ADJ:0 "Peoplee"
- NWS_TER_fascism::0 "Northwest Territory"
+ NWS_TER_fascism:0 "Northwest Territory"
  NWS_TER_fascism_DEF:0 "the Northwest Territory"
  NWS_TER_fascism_ADJ:0 "People"
 
@@ -2293,7 +2293,7 @@
  SWS_TER_neutrality:0 "Northeast Territory"
  SWS_TER_neutrality_DEF:0 "the Northeast Territory"
  SWS_TER_neutrality_ADJ:0 "Peoplee"
- SWS_TER_fascism::0 "Northeast Territory"
+ SWS_TER_fascism:0 "Northeast Territory"
  SWS_TER_fascism_DEF:0 "the Northeast Territory"
  SWS_TER_fascism_ADJ:0 "People"
 
@@ -2306,7 +2306,7 @@
  SEA_TER_neutrality:0 "Southeast Territory"
  SEA_TER_neutrality_DEF:0 "the Southeast Territory"
  SEA_TER_neutrality_ADJ:0 "Peoplee"
- SEA_TER_fascism::0 "Southeast Territory"
+ SEA_TER_fascism:0 "Southeast Territory"
  SEA_TER_fascism_DEF:0 "the Southeast Territory"
  SEA_TER_fascism_ADJ:0 "People"
 
@@ -2319,7 +2319,7 @@
  NEA_TER_neutrality:0 "Northheast Territory"
  NEA_TER_neutrality_DEF:0 "the Northheast Territory"
  NEA_TER_neutrality_ADJ:0 "Peoplee"
- NEA_TER_fascism::0 "Northheast Territory"
+ NEA_TER_fascism:0 "Northheast Territory"
  NEA_TER_fascism_DEF:0 "the Northheast Territory"
  NEA_TER_fascism_ADJ:0 "People"
 
@@ -2332,7 +2332,7 @@
  SOU_TER_neutrality:0 "Southern Territory"
  SOU_TER_neutrality_DEF:0 "the Southern Territory"
  SOU_TER_neutrality_ADJ:0 "Peoplee"
- SOU_TER_fascism::0 "Southern Territory"
+ SOU_TER_fascism:0 "Southern Territory"
  SOU_TER_fascism_DEF:0 "the Southern Territory"
  SOU_TER_fascism_ADJ:0 "People"
 
@@ -2345,7 +2345,7 @@
  NOR_TER_neutrality:0 "Northern Territory"
  NOR_TER_neutrality_DEF:0 "the Northern Territory"
  NOR_TER_neutrality_ADJ:0 "Peoplee"
- NOR_TER_fascism::0 "Northern Territory"
+ NOR_TER_fascism:0 "Northern Territory"
  NOR_TER_fascism_DEF:0 "the Northern Territory"
  NOR_TER_fascism_ADJ:0 "People"
 
@@ -2358,7 +2358,7 @@
  EAS_TER_neutrality:0 "Eastern Territory"
  EAS_TER_neutrality_DEF:0 "the Eastern Territory"
  EAS_TER_neutrality_ADJ:0 "Peoplee"
- EAS_TER_fascism::0 "Eastern Territory"
+ EAS_TER_fascism:0 "Eastern Territory"
  EAS_TER_fascism_DEF:0 "the Eastern Territory"
  EAS_TER_fascism_ADJ:0 "People"
 
@@ -2371,7 +2371,7 @@
  WES_TER_neutrality:0 "Western Territory"
  WES_TER_neutrality_DEF:0 "the Western Territory"
  WES_TER_neutrality_ADJ:0 "Peoplee"
- WES_TER_fascism::0 "Western Territory"
+ WES_TER_fascism:0 "Western Territory"
  WES_TER_fascism_DEF:0 "the Western Territory"
  WES_TER_fascism_ADJ:0 "People"
  
@@ -2384,7 +2384,7 @@
  PLA_TER_neutrality:0 "Plains Territory"
  PLA_TER_neutrality_DEF:0 "the Plains Territory"
  PLA_TER_neutrality_ADJ:0 "People"
- PLA_TER_fascism::0 "Plains Territory"
+ PLA_TER_fascism:0 "Plains Territory"
  PLA_TER_fascism_DEF:0 "the Plains Territory"
  PLA_TER_fascism_ADJ:0 "People"
  
@@ -2397,7 +2397,7 @@
  NEW_CAL_neutrality:0 "Caliphornia"
  NEW_CAL_neutrality_DEF:0 "Caliphornia"
  NEW_CAL_neutrality_ADJ:0 "Caliphornian"
- NEW_CAL_fascism::0 "California Pacifica"
+ NEW_CAL_fascism:0 "California Pacifica"
  NEW_CAL_fascism_DEF:0 "California Pacifica"
  NEW_CAL_fascism_ADJ:0 "Calipacifican"
  
