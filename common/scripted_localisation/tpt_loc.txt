@@ -1,3 +1,20 @@
+
+defined_text = {
+	name = TPT_RSS_NEG_OR_POS
+
+	text = {
+		trigger = {
+			check_variable = {
+				tpt_research_speed < 0
+			}
+		}
+		localization_key = TPT_RSS_NEG
+	}
+	text = {
+		localization_key = TPT_RSS_POS
+	}
+}
+
 defined_text = {
 	name = TPT_ACTIVITY
 
@@ -2924,6 +2941,732 @@ defined_text = {
 		localization_key = TPT_POP_100
 	}
 }
+
+
+####  ####   ###   #   #
+# ## ##  #  #   #  ##  #
+#  # #   # #     # # # #
+#  ###   #  #   #  #  ##
+#   #    #   ###   #   #
+
+
+defined_text = {
+	name = TPT_POP_MONARCHIST
+
+	text = {
+		trigger = {
+			monarchism < 0.01
+		}
+		localization_key = TPT_POP_0
+	}
+	text = {
+		trigger = {
+			monarchism > 0.008
+			monarchism < 0.019
+		}
+		localization_key = TPT_POP_1
+	}
+	text = {
+		trigger = {
+			monarchism > 0.018
+			monarchism < 0.029
+		}
+		localization_key = TPT_POP_2
+	}
+	text = {
+		trigger = {
+			monarchism > 0.028
+			monarchism < 0.039
+		}
+		localization_key = TPT_POP_3
+	}
+	text = {
+		trigger = {
+			monarchism > 0.038
+			monarchism < 0.049
+		}
+		localization_key = TPT_POP_4
+	}
+	text = {
+		trigger = {
+			monarchism > 0.048
+			monarchism < 0.059
+		}
+		localization_key = TPT_POP_5
+	}
+	text = {
+		trigger = {
+			monarchism > 0.058
+			monarchism < 0.069
+		}
+		localization_key = TPT_POP_6
+	}
+	text = {
+		trigger = {
+			monarchism > 0.068
+			monarchism < 0.079
+		}
+		localization_key = TPT_POP_7
+	}
+	text = {
+		trigger = {
+			monarchism > 0.078
+			monarchism < 0.089
+		}
+		localization_key = TPT_POP_8
+	}
+	text = {
+		trigger = {
+			monarchism > 0.088
+			monarchism < 0.099
+		}
+		localization_key = TPT_POP_9
+	}
+	text = {
+		trigger = {
+			monarchism > 0.098
+			monarchism < 0.109
+		}
+		localization_key = TPT_POP_10
+	}
+	text = {
+		trigger = {
+			monarchism > 0.108
+			monarchism < 0.119
+		}
+		localization_key = TPT_POP_11
+	}
+	text = {
+		trigger = {
+			monarchism > 0.118
+			monarchism < 0.129
+		}
+		localization_key = TPT_POP_12
+	}
+	text = {
+		trigger = {
+			monarchism > 0.128
+			monarchism < 0.139
+		}
+		localization_key = TPT_POP_13
+	}
+	text = {
+		trigger = {
+			monarchism > 0.138
+			monarchism < 0.149
+		}
+		localization_key = TPT_POP_14
+	}
+	text = {
+		trigger = {
+			monarchism > 0.148
+			monarchism < 0.159
+		}
+		localization_key = TPT_POP_15
+	}
+	text = {
+		trigger = {
+			monarchism > 0.158
+			monarchism < 0.169
+		}
+		localization_key = TPT_POP_16
+	}
+	text = {
+		trigger = {
+			monarchism > 0.168
+			monarchism < 0.179
+		}
+		localization_key = TPT_POP_17
+	}
+	text = {
+		trigger = {
+			monarchism > 0.178
+			monarchism < 0.189
+		}
+		localization_key = TPT_POP_18
+	}
+	text = {
+		trigger = {
+			monarchism > 0.188
+			monarchism < 0.199
+		}
+		localization_key = TPT_POP_19
+	}
+	text = {
+		trigger = {
+			monarchism > 0.198
+			monarchism < 0.209
+		}
+		localization_key = TPT_POP_20
+	}
+	text = {
+		trigger = {
+			monarchism > 0.208
+			monarchism < 0.219
+		}
+		localization_key = TPT_POP_21
+	}
+	text = {
+		trigger = {
+			monarchism > 0.218
+			monarchism < 0.229
+		}
+		localization_key = TPT_POP_22
+	}
+	text = {
+		trigger = {
+			monarchism > 0.228
+			monarchism < 0.239
+		}
+		localization_key = TPT_POP_23
+	}
+	text = {
+		trigger = {
+			monarchism > 0.238
+			monarchism < 0.249
+		}
+		localization_key = TPT_POP_24
+	}
+	text = {
+		trigger = {
+			monarchism > 0.248
+			monarchism < 0.259
+		}
+		localization_key = TPT_POP_25
+	}
+	text = {
+		trigger = {
+			monarchism > 0.258
+			monarchism < 0.269
+		}
+		localization_key = TPT_POP_26
+	}
+	text = {
+		trigger = {
+			monarchism > 0.268
+			monarchism < 0.279
+		}
+		localization_key = TPT_POP_27
+	}
+	text = {
+		trigger = {
+			monarchism > 0.278
+			monarchism < 0.289
+		}
+		localization_key = TPT_POP_28
+	}
+	text = {
+		trigger = {
+			monarchism > 0.288
+			monarchism < 0.299
+		}
+		localization_key = TPT_POP_29
+	}
+	text = {
+		trigger = {
+			monarchism > 0.298
+			monarchism < 0.309
+		}
+		localization_key = TPT_POP_30
+	}
+	text = {
+		trigger = {
+			monarchism > 0.308
+			monarchism < 0.319
+		}
+		localization_key = TPT_POP_31
+	}
+	text = {
+		trigger = {
+			monarchism > 0.318
+			monarchism < 0.329
+		}
+		localization_key = TPT_POP_32
+	}
+	text = {
+		trigger = {
+			monarchism > 0.328
+			monarchism < 0.339
+		}
+		localization_key = TPT_POP_33
+	}
+	text = {
+		trigger = {
+			monarchism > 0.338
+			monarchism < 0.349
+		}
+		localization_key = TPT_POP_34
+	}
+	text = {
+		trigger = {
+			monarchism > 0.348
+			monarchism < 0.359
+		}
+		localization_key = TPT_POP_35
+	}
+	text = {
+		trigger = {
+			monarchism > 0.358
+			monarchism < 0.369
+		}
+		localization_key = TPT_POP_36
+	}
+	text = {
+		trigger = {
+			monarchism > 0.368
+			monarchism < 0.379
+		}
+		localization_key = TPT_POP_37
+	}
+	text = {
+		trigger = {
+			monarchism > 0.378
+			monarchism < 0.389
+		}
+		localization_key = TPT_POP_38
+	}
+	text = {
+		trigger = {
+			monarchism > 0.388
+			monarchism < 0.399
+		}
+		localization_key = TPT_POP_39
+	}
+	text = {
+		trigger = {
+			monarchism > 0.398
+			monarchism < 0.409
+		}
+		localization_key = TPT_POP_40
+	}
+	text = {
+		trigger = {
+			monarchism > 0.408
+			monarchism < 0.419
+		}
+		localization_key = TPT_POP_41
+	}
+	text = {
+		trigger = {
+			monarchism > 0.418
+			monarchism < 0.429
+		}
+		localization_key = TPT_POP_42
+	}
+	text = {
+		trigger = {
+			monarchism > 0.428
+			monarchism < 0.439
+		}
+		localization_key = TPT_POP_43
+	}
+	text = {
+		trigger = {
+			monarchism > 0.438
+			monarchism < 0.449
+		}
+		localization_key = TPT_POP_44
+	}
+	text = {
+		trigger = {
+			monarchism > 0.448
+			monarchism < 0.459
+		}
+		localization_key = TPT_POP_45
+	}
+	text = {
+		trigger = {
+			monarchism > 0.458
+			monarchism < 0.469
+		}
+		localization_key = TPT_POP_46
+	}
+	text = {
+		trigger = {
+			monarchism > 0.468
+			monarchism < 0.479
+		}
+		localization_key = TPT_POP_47
+	}
+	text = {
+		trigger = {
+			monarchism > 0.478
+			monarchism < 0.489
+		}
+		localization_key = TPT_POP_48
+	}
+	text = {
+		trigger = {
+			monarchism > 0.488
+			monarchism < 0.499
+		}
+		localization_key = TPT_POP_49
+	}
+	text = {
+		trigger = {
+			monarchism > 0.498
+			monarchism < 0.509
+		}
+		localization_key = TPT_POP_50
+	}
+	text = {
+		trigger = {
+			monarchism > 0.508
+			monarchism < 0.519
+		}
+		localization_key = TPT_POP_51
+	}
+	text = {
+		trigger = {
+			monarchism > 0.518
+			monarchism < 0.529
+		}
+		localization_key = TPT_POP_52
+	}
+	text = {
+		trigger = {
+			monarchism > 0.528
+			monarchism < 0.539
+		}
+		localization_key = TPT_POP_53
+	}
+	text = {
+		trigger = {
+			monarchism > 0.538
+			monarchism < 0.549
+		}
+		localization_key = TPT_POP_54
+	}
+	text = {
+		trigger = {
+			monarchism > 0.548
+			monarchism < 0.559
+		}
+		localization_key = TPT_POP_55
+	}
+	text = {
+		trigger = {
+			monarchism > 0.558
+			monarchism < 0.569
+		}
+		localization_key = TPT_POP_56
+	}
+	text = {
+		trigger = {
+			monarchism > 0.568
+			monarchism < 0.579
+		}
+		localization_key = TPT_POP_57
+	}
+	text = {
+		trigger = {
+			monarchism > 0.578
+			monarchism < 0.589
+		}
+		localization_key = TPT_POP_58
+	}
+	text = {
+		trigger = {
+			monarchism > 0.588
+			monarchism < 0.599
+		}
+		localization_key = TPT_POP_59
+	}
+	text = {
+		trigger = {
+			monarchism > 0.598
+			monarchism < 0.609
+		}
+		localization_key = TPT_POP_60
+	}
+	text = {
+		trigger = {
+			monarchism > 0.608
+			monarchism < 0.619
+		}
+		localization_key = TPT_POP_61
+	}
+	text = {
+		trigger = {
+			monarchism > 0.618
+			monarchism < 0.629
+		}
+		localization_key = TPT_POP_62
+	}
+	text = {
+		trigger = {
+			monarchism > 0.628
+			monarchism < 0.639
+		}
+		localization_key = TPT_POP_63
+	}
+	text = {
+		trigger = {
+			monarchism > 0.638
+			monarchism < 0.649
+		}
+		localization_key = TPT_POP_64
+	}
+	text = {
+		trigger = {
+			monarchism > 0.648
+			monarchism < 0.659
+		}
+		localization_key = TPT_POP_65
+	}
+	text = {
+		trigger = {
+			monarchism > 0.658
+			monarchism < 0.669
+		}
+		localization_key = TPT_POP_66
+	}
+	text = {
+		trigger = {
+			monarchism > 0.668
+			monarchism < 0.679
+		}
+		localization_key = TPT_POP_67
+	}
+	text = {
+		trigger = {
+			monarchism > 0.678
+			monarchism < 0.689
+		}
+		localization_key = TPT_POP_68
+	}
+	text = {
+		trigger = {
+			monarchism > 0.688
+			monarchism < 0.699
+		}
+		localization_key = TPT_POP_69
+	}
+	text = {
+		trigger = {
+			monarchism > 0.698
+			monarchism < 0.709
+		}
+		localization_key = TPT_POP_70
+	}
+	text = {
+		trigger = {
+			monarchism > 0.708
+			monarchism < 0.719
+		}
+		localization_key = TPT_POP_71
+	}
+	text = {
+		trigger = {
+			monarchism > 0.718
+			monarchism < 0.729
+		}
+		localization_key = TPT_POP_72
+	}
+	text = {
+		trigger = {
+			monarchism > 0.728
+			monarchism < 0.739
+		}
+		localization_key = TPT_POP_73
+	}
+	text = {
+		trigger = {
+			monarchism > 0.738
+			monarchism < 0.749
+		}
+		localization_key = TPT_POP_74
+	}
+	text = {
+		trigger = {
+			monarchism > 0.748
+			monarchism < 0.759
+		}
+		localization_key = TPT_POP_75
+	}
+	text = {
+		trigger = {
+			monarchism > 0.758
+			monarchism < 0.769
+		}
+		localization_key = TPT_POP_76
+	}
+	text = {
+		trigger = {
+			monarchism > 0.768
+			monarchism < 0.779
+		}
+		localization_key = TPT_POP_77
+	}
+	text = {
+		trigger = {
+			monarchism > 0.778
+			monarchism < 0.789
+		}
+		localization_key = TPT_POP_78
+	}
+	text = {
+		trigger = {
+			monarchism > 0.788
+			monarchism < 0.799
+		}
+		localization_key = TPT_POP_79
+	}
+	text = {
+		trigger = {
+			monarchism > 0.798
+			monarchism < 0.809
+		}
+		localization_key = TPT_POP_80
+	}
+	text = {
+		trigger = {
+			monarchism > 0.808
+			monarchism < 0.819
+		}
+		localization_key = TPT_POP_81
+	}
+	text = {
+		trigger = {
+			monarchism > 0.818
+			monarchism < 0.829
+		}
+		localization_key = TPT_POP_82
+	}
+	text = {
+		trigger = {
+			monarchism > 0.828
+			monarchism < 0.839
+		}
+		localization_key = TPT_POP_83
+	}
+	text = {
+		trigger = {
+			monarchism > 0.838
+			monarchism < 0.849
+		}
+		localization_key = TPT_POP_84
+	}
+	text = {
+		trigger = {
+			monarchism > 0.848
+			monarchism < 0.859
+		}
+		localization_key = TPT_POP_85
+	}
+	text = {
+		trigger = {
+			monarchism > 0.858
+			monarchism < 0.869
+		}
+		localization_key = TPT_POP_86
+	}
+	text = {
+		trigger = {
+			monarchism > 0.868
+			monarchism < 0.879
+		}
+		localization_key = TPT_POP_87
+	}
+	text = {
+		trigger = {
+			monarchism > 0.878
+			monarchism < 0.889
+		}
+		localization_key = TPT_POP_88
+	}
+	text = {
+		trigger = {
+			monarchism > 0.888
+			monarchism < 0.899
+		}
+		localization_key = TPT_POP_89
+	}
+	text = {
+		trigger = {
+			monarchism > 0.898
+			monarchism < 0.909
+		}
+		localization_key = TPT_POP_90
+	}
+	text = {
+		trigger = {
+			monarchism > 0.908
+			monarchism < 0.919
+		}
+		localization_key = TPT_POP_91
+	}
+	text = {
+		trigger = {
+			monarchism > 0.918
+			monarchism < 0.929
+		}
+		localization_key = TPT_POP_92
+	}
+	text = {
+		trigger = {
+			monarchism > 0.928
+			monarchism < 0.939
+		}
+		localization_key = TPT_POP_93
+	}
+	text = {
+		trigger = {
+			monarchism > 0.938
+			monarchism < 0.949
+		}
+		localization_key = TPT_POP_94
+	}
+	text = {
+		trigger = {
+			monarchism > 0.948
+			monarchism < 0.959
+		}
+		localization_key = TPT_POP_95
+	}
+	text = {
+		trigger = {
+			monarchism > 0.958
+			monarchism < 0.969
+		}
+		localization_key = TPT_POP_96
+	}
+	text = {
+		trigger = {
+			monarchism > 0.968
+			monarchism < 0.979
+		}
+		localization_key = TPT_POP_97
+	}
+	text = {
+		trigger = {
+			monarchism > 0.978
+			monarchism < 0.989
+		}
+		localization_key = TPT_POP_88
+	}
+	text = {
+		trigger = {
+			monarchism > 0.988
+			monarchism < 0.999
+		}
+		localization_key = TPT_POP_99
+	}
+	text = {
+		trigger = {
+			monarchism > 0.998
+		}
+		localization_key = TPT_POP_100
+	}
+}
+
+
+
+
+
+
+
+
 
 defined_text = {
 	name = TPT_STABILITY

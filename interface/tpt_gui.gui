@@ -189,71 +189,109 @@ guiTypes = {
 			scale = 1
 		}
 ### IDEOLOGY ###
+		instantTextboxType = {
+			name = "tpt_leader_name"
+			position = { x = 225 y = 22 }
+			font = "hoi_20b"
+			text = "TPT_LEADER_NAME"
+			maxWidth = 281
+			maxHeight = 1
+			format = left
+			orientation = left
+			alwaystransparent = yes
+		}
+		buttonType = {
+			name = "tpt_retire_leader"
+			position = { x = 26 y = 109 }	
+			spriteType = "GFX_focus_CZE_german_puppet"
+			pdx_tooltip = "TPT_RETIRE_LEADER_TT"
+			scale = 0.35
+		}
+		buttonType = {
+			name = "tpt_kill_leader"
+			position = { x = 26 y = 148 }	
+			spriteType = "GFX_focus_mex_exile_calles"
+			pdx_tooltip = "TPT_KILL_LEADER_TT"
+			scale = 0.35
+		}
 		buttonType = {
 			name = "tpt_add_fascism"
-			position = { x = 392 y = 52 }	
+			position = { x = 392 y = 60 }	
 			spriteType = "GFX_tpt_fascism_idea"
 			pdx_tooltip = "TPT_ADD_FASCIST_IDEA_TT"
 		}
 		buttonType = {
 			name = "tpt_ban_fascism"
-			position = { x = 437 y = 52 }	
+			position = { x = 437 y = 60 }	
 			spriteType = "GFX_tpt_fascism_banned"
 			pdx_tooltip = "TPT_BAN_FASCIST_IDEA_TT"
 		}
 		buttonType = {
 			name = "tpt_add_communism"
-			position = { x = 392 y = 96 }	
+			position = { x = 392 y = 95 }	
 			spriteType = "GFX_tpt_communism_idea"
 			pdx_tooltip = "TPT_ADD_COMMUNIST_IDEA_TT"
 		}
 		buttonType = {
 			name = "tpt_ban_communism"
-			position = { x = 437 y = 96 }	
+			position = { x = 437 y = 95 }	
 			spriteType = "GFX_tpt_communism_banned"
 			pdx_tooltip = "TPT_BAN_COMMUNIST_IDEA_TT"
 		}
 		buttonType = {
 			name = "tpt_add_democratic"
-			position = { x = 392 y = 141 }
+			position = { x = 392 y = 131 }
 			spriteType = "GFX_tpt_democratic_idea"
 			pdx_tooltip = "TPT_ADD_DEMOCRATIC_IDEA_TT"
 		}
 		buttonType = {
 			name = "tpt_ban_democratic"
-			position = { x = 437 y = 141 }	
+			position = { x = 437 y = 131 }	
 			spriteType = "GFX_tpt_democratic_banned"
 			pdx_tooltip = "TPT_BAN_DEMOCRATIC_IDEA_TT"
 		}
 		buttonType = {
 			name = "tpt_add_neutrality"
-			position = { x = 392 y = 185 }	
+			position = { x = 392 y = 168 }	
 			spriteType = "GFX_tpt_neutrality_idea"
 			pdx_tooltip = "TPT_ADD_NEUTRAL_IDEA_TT"
 		}
 		buttonType = {
 			name = "tpt_ban_neutrality"
-			position = { x = 437 y = 185 }	
+			position = { x = 437 y = 169 }	
 			spriteType = "GFX_tpt_neutrality_banned"
 			pdx_tooltip = "TPT_BAN_NEUTRAL_IDEA_TT"
 		}
 		buttonType = {
+			name = "tpt_add_monarchism"
+			position = { x = 394 y = 207 }	
+			spriteType = "GFX_tpt_monarchism_idea"
+			pdx_tooltip = "TPT_ADD_NEUTRAL_IDEA_TT"
+			scale = 0.95
+		}
+		buttonType = {
+			name = "tpt_ban_monarchism"
+			position = { x = 437 y = 203 }	
+			spriteType = "GFX_tpt_monarchism_banned"
+			pdx_tooltip = "TPT_BAN_NEUTRAL_IDEA_TT"
+		}
+		buttonType = {
 			name = "tpt_fascist_on"
-			position = { x = 225 y = 60 }
+			position = { x = 225 y = 68 }
 			spriteType = "GFX_cat_button_off"
 			pdx_tooltip = "TPT_EN_FASCIST"
 			scale = 0.7
 		}
 		buttonType = {
 			name = "tpt_fascist_off" 
-			position = { x = 225 y = 60 }
+			position = { x = 225 y = 68 }
 			spriteType = "GFX_cat_button_on"
 			pdx_tooltip = "TPT_DE_FASCIST"
 			scale = 0.7
 		}
 		instantTextboxType = {
 			name = "tpt_fascist_text"
-			position = { x = 255 y = 61 }
+			position = { x = 255 y = 69 }
 			font = "hoi_16mbs"
 			text = "TPT_FASCIST"
 			maxWidth = 140
@@ -263,7 +301,7 @@ guiTypes = {
 		}
 		instantTextboxType = {
 			name = "tpt_fascist_number"
-			position = { x = 330 y = 59 }
+			position = { x = 330 y = 67 }
 			font = "hoi_18mbs"
 			text = "[TPT_POP_FASCIST]%"
 			maxWidth = 200
@@ -273,21 +311,21 @@ guiTypes = {
 		}
 		buttonType = {
 			name = "tpt_communist_on"
-			position = { x = 225 y = 105 }
+			position = { x = 225 y = 104 }
 			spriteType = "GFX_cat_button_off"
 			pdx_tooltip = "TPT_EN_COMMUNIST"
 			scale = 0.7
 		}
 		buttonType = {
 			name = "tpt_communist_off" 
-			position = { x = 225 y = 105 }
+			position = { x = 225 y = 104 }
 			spriteType = "GFX_cat_button_on"
 			pdx_tooltip = "TPT_DE_COMMUNIST"
 			scale = 0.7
 		}
 		instantTextboxType = {
 			name = "tpt_communist_text"
-			position = { x = 255 y = 106 }
+			position = { x = 255 y = 105 }
 			font = "hoi_16mbs"
 			text = "TPT_COMMUNIST"
 			maxWidth = 140
@@ -297,7 +335,7 @@ guiTypes = {
 		}
 		instantTextboxType = {
 			name = "tpt_communist_number"
-			position = { x = 330 y = 104 }
+			position = { x = 330 y = 103 }
 			font = "hoi_18mbs"
 			text = "[TPT_POP_COMMUNIST]%"
 			maxWidth = 200
@@ -307,21 +345,21 @@ guiTypes = {
 		}
 		buttonType = {
 			name = "tpt_democratic_on"
-			position = { x = 225 y = 150 }			
+			position = { x = 225 y = 140 }			
 			spriteType = "GFX_cat_button_off"
 			pdx_tooltip = "TPT_EN_DEMOCRATIC"
 			scale = 0.7
 		}
 		buttonType = {
 			name = "tpt_democratic_off" 
-			position = { x = 225 y = 150 }
+			position = { x = 225 y = 140 }
 			spriteType = "GFX_cat_button_on"
 			pdx_tooltip = "TPT_DE_DEMOCRATIC"
 			scale = 0.7
 		}
 		instantTextboxType = {
 			name = "tpt_democratic_text"
-			position = { x = 255 y = 151 }
+			position = { x = 255 y = 141 }
 			font = "hoi_16mbs"
 			text = "TPT_DEMOCRATIC"
 			maxWidth = 140
@@ -331,7 +369,7 @@ guiTypes = {
 		}
 		instantTextboxType = {
 			name = "tpt_democratic_number"
-			position = { x = 330 y = 149 }
+			position = { x = 330 y = 139 }
 			font = "hoi_18mbs"
 			text = "[TPT_POP_DEMOCRATIC]%"
 			maxWidth = 200
@@ -341,21 +379,21 @@ guiTypes = {
 		}
 		buttonType = {
 			name = "tpt_neutral_on"
-			position = { x = 225 y = 195 }
+			position = { x = 225 y = 176 }
 			spriteType = "GFX_cat_button_off"
 			pdx_tooltip = "TPT_EN_NEUTRAL"
 			scale = 0.7
 		}
 		buttonType = {
 			name = "tpt_neutral_off" 
-			position = { x = 225 y = 195 }
+			position = { x = 225 y = 176 }
 			spriteType = "GFX_cat_button_on"
 			pdx_tooltip = "TPT_DE_NEUTRAL"
 			scale = 0.7
 		}
 		instantTextboxType = {
 			name = "tpt_neutral_text"
-			position = { x = 255 y = 196 }
+			position = { x = 255 y = 177 }
 			font = "hoi_16mbs"
 			text = "TPT_NEUTRAL"
 			maxWidth = 140
@@ -365,9 +403,43 @@ guiTypes = {
 		}
 		instantTextboxType = {
 			name = "tpt_neutral_number"
-			position = { x = 330 y = 194 }
+			position = { x = 330 y = 175 }
 			font = "hoi_18mbs"
 			text = "[TPT_POP_NEUTRAL]%"
+			maxWidth = 200
+			maxHeight = 23
+			format = left
+			alwaystransparent = yes
+		}
+		buttonType = {
+			name = "tpt_monarchist_on"
+			position = { x = 225 y = 212 }
+			spriteType = "GFX_cat_button_off"
+			pdx_tooltip = "TPT_EN_MONARCHIST"
+			scale = 0.7
+		}
+		buttonType = {
+			name = "tpt_monarchist_off" 
+			position = { x = 225 y = 212 }
+			spriteType = "GFX_cat_button_on"
+			pdx_tooltip = "TPT_DE_MONARCHIST"
+			scale = 0.7
+		}
+		instantTextboxType = {
+			name = "tpt_monarchist_text"
+			position = { x = 255 y = 213 }
+			font = "hoi_16mbs"
+			text = "TPT_MONARCHIST"
+			maxWidth = 140
+			maxHeight = 23
+			format = left
+			alwaystransparent = yes
+		}
+		instantTextboxType = {
+			name = "tpt_monarchist_number"
+			position = { x = 330 y = 211 }
+			font = "hoi_18mbs"
+			text = "[TPT_POP_MONARCHIST]%"
 			maxWidth = 200
 			maxHeight = 23
 			format = left
@@ -900,27 +972,55 @@ guiTypes = {
 		}
 		buttonType = {
 			name = "tpt_set_0_rs_slots"
-			position = { x = 21 y = 145 }
-			shortcut = "shift+ctrl+r"			
+			position = { x = 321 y = 99 }	
 			spriteType = "GFX_tpt_0_rs_slots_icon"
 			pdx_tooltip = "TPT_SET_0_RS_SLOTS"
 			scale = 0.7
 		}
 		buttonType = {
 			name = "tpt_set_100_rs_slots"
-			position = { x = 73 y = 149 }
-			shortcut = "shift+ctrl+r"			
+			position = { x = 373 y = 103 }	
 			spriteType = "GFX_tpt_100_rs_slots_icon"
 			pdx_tooltip = "TPT_SET_100_RS_SLOTS"
 			scale = 0.7
 		}
 		buttonType = {
 			name = "tpt_reset_rs_slots"
-			position = { x = 109 y = 149 }
-			shortcut = "shift+ctrl+r"			
+			position = { x = 409 y = 103 }	
 			spriteType = "GFX_tpt_reset_slot_amount_icon"
 			pdx_tooltip = "TPT_RESET_RS_SLOTS"
 			scale = 0.7
+		}
+		buttonType = {
+			name = "tpt_dec_rs_speed"
+			position = { x = 33 y = 150 }
+			spriteType = "GFX_subtract_one"
+			pdx_tooltip = "TPT_DEC_RS_SPEED"
+		}
+		buttonType = {
+			name = "tpt_inc_rs_speed"
+			position = { x = 107 y = 150 }
+			spriteType = "GFX_add_one"
+			pdx_tooltip = "TPT_INC_RS_SPEED"
+		}
+		instantTextboxType = {
+			name = "tpt_rs_speed_value"
+			position = { x = 58 y = 152 }
+			font = "hoi_18mbs"
+			text = "TPT_RSS_VALUE"
+			maxWidth = 46
+			maxHeight = 23
+			format = center
+			alwaystransparent = yes
+		}
+		instantTextboxType = {
+			name = "tpt_rs_speed_text"
+			position = { x = 154 y = 152 }
+			font = "hoi_18mbs"
+			text = "TPT_RS_SPEED"
+			maxWidth = 106
+			maxHeight = 23
+			format = left
 		}
 	}
 
@@ -973,21 +1073,21 @@ guiTypes = {
 		}
 		buttonType = {
 			name = "tpt_cw_communist_on"
-			position = { x = 18 y = 60 }
+			position = { x = 18 y = 51 }
 			spriteType = "GFX_cat_button_off"
 			pdx_tooltip = "TPT_CW_EN_COMMUNIST"
 			scale = 0.7
 		}
 		buttonType = {
 			name = "tpt_cw_communist_off" 
-			position = { x = 18 y = 60 }
+			position = { x = 18 y = 51 }
 			spriteType = "GFX_cat_button_on"
 			pdx_tooltip = "TPT_CW_EN_COMMUNIST"
 			scale = 0.7
 		}
 		instantTextboxType = {
 			name = "tpt_cw_communist_text"
-			position = { x = 45 y = 61 }
+			position = { x = 45 y = 52 }
 			font = "hoi_16mbs"
 			text = "TPT_COMMUNIST"
 			maxWidth = 140
@@ -997,21 +1097,21 @@ guiTypes = {
 		}
 		buttonType = {
 			name = "tpt_cw_democratic_on"
-			position = { x = 18 y = 95 }			
+			position = { x = 18 y = 77 }			
 			spriteType = "GFX_cat_button_off"
 			pdx_tooltip = "TPT_CW_EN_DEMOCRATIC"
 			scale = 0.7
 		}
 		buttonType = {
 			name = "tpt_cw_democratic_off" 
-			position = { x = 18 y = 95 }
+			position = { x = 18 y = 77 }
 			spriteType = "GFX_cat_button_on"
 			pdx_tooltip = "TPT_CW_EN_DEMOCRATIC"
 			scale = 0.7
 		}
 		instantTextboxType = {
 			name = "tpt_cw_democratic_text"
-			position = { x = 45 y = 96 }
+			position = { x = 45 y = 78 }
 			font = "hoi_16mbs"
 			text = "TPT_DEMOCRATIC"
 			maxWidth = 140
@@ -1021,23 +1121,47 @@ guiTypes = {
 		}
 		buttonType = {
 			name = "tpt_cw_neutral_on"
-			position = { x = 18 y = 130 }
+			position = { x = 18 y = 103 }
 			spriteType = "GFX_cat_button_off"
 			pdx_tooltip = "TPT_CW_EN_NEUTRAL"
 			scale = 0.7
 		}
 		buttonType = {
 			name = "tpt_cw_neutral_off" 
-			position = { x = 18 y = 130 }
+			position = { x = 18 y = 103 }
 			spriteType = "GFX_cat_button_on"
 			pdx_tooltip = "TPT_CW_EN_NEUTRAL"
 			scale = 0.7
 		}
 		instantTextboxType = {
 			name = "tpt_cw_neutral_text"
-			position = { x = 45 y = 131 }
+			position = { x = 45 y = 104 }
 			font = "hoi_16mbs"
 			text = "TPT_NEUTRAL"
+			maxWidth = 140
+			maxHeight = 23
+			format = left
+			alwaystransparent = yes
+		}
+		buttonType = {
+			name = "tpt_cw_monarchist_on"
+			position = { x = 18 y = 130 }
+			spriteType = "GFX_cat_button_off"
+			pdx_tooltip = "TPT_CW_EN_NEUTRAL"
+			scale = 0.7
+		}
+		buttonType = {
+			name = "tpt_cw_monarchist_off" 
+			position = { x = 18 y = 130 }
+			spriteType = "GFX_cat_button_on"
+			pdx_tooltip = "TPT_CW_EN_NEUTRAL"
+			scale = 0.7
+		}
+		instantTextboxType = {
+			name = "tpt_cw_monarchist_text"
+			position = { x = 45 y = 131 }
+			font = "hoi_16mbs"
+			text = "TPT_MONARCHIST"
 			maxWidth = 140
 			maxHeight = 23
 			format = left

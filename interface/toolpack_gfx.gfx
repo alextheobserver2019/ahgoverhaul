@@ -1,8 +1,27 @@
 spriteTypes = {
+#############
+# HGO ADDON #
+#############
+	SpriteType = { 
+		name = "GFX_idea_tpt_monarchism_banned"
+		texturefile = "gfx/toolpack_interface/tpt_interface/HGO_addon/tpt_idea_monarchism_banned.dds"
+	}
+	SpriteType = { 
+		name = "GFX_idea_tpt_monarchism_idea"
+		texturefile = "gfx/toolpack_interface/tpt_interface/HGO_addon/tpt_idea_monarchism_idea.dds"
+	}
+	SpriteType = { 
+		name = "GFX_tpt_monarchism_banned"
+		texturefile = "gfx/toolpack_interface/tpt_interface/HGO_addon/tpt_monarchism_banned.dds"
+	}
+	SpriteType = { 
+		name = "GFX_tpt_monarchism_idea"
+		texturefile = "gfx/toolpack_interface/tpt_interface/HGO_addon/tpt_monarchism_idea.dds"
+	}
 
-###########
+##########
 ### TP ###
-###########
+##########
 	SpriteType = { 
 		name = "GFX_toolpack_expand_up"
 		texturefile = "gfx/toolpack_interface/toolpack_expand_up.dds"
@@ -255,6 +274,14 @@ spriteTypes = {
 	SpriteType = { 
 		name = "GFX_cpt_tab_button_frame_2"
 		texturefile = "gfx/toolpack_interface/cpt_interface/cpt_tab_button_frame_2.dds"
+	}
+	SpriteType = { 
+		name = "GFX_cpt_deploy_to_overlord"
+		texturefile = "gfx/toolpack_interface/cpt_interface/cpt_deploy_to_overlord.dds"
+	}
+	SpriteType = { 
+		name = "GFX_cpt_not_deploy_to_overlord"
+		texturefile = "gfx/toolpack_interface/cpt_interface/cpt_not_deploy_to_overlord.dds"
 	}
 ###########
 ### DST ###
@@ -628,6 +655,14 @@ spriteTypes = {
 	SpriteType = { 
 		name = "GFX_bst_refinery"
 		texturefile = "gfx/toolpack_interface/bst_interface/buildings/bst_refinery.dds"
+	}
+	SpriteType = { 
+		name = "GFX_bst_silo"
+		texturefile = "gfx/toolpack_interface/bst_interface/buildings/bst_silo.dds"
+	}
+	SpriteType = { 
+		name = "GFX_bst_slot"
+		texturefile = "gfx/toolpack_interface/bst_interface/buildings/bst_slot.dds"
 	}
 	SpriteType = { 
 		name = "GFX_bst_70pc_civf"
