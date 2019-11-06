@@ -2102,7 +2102,7 @@
  CLR_TER_fascism_DEF:0 "the Empire of the Colorado"
  CLR_TER_fascism_ADJ:0 "Coloradian"
  
- NVA TER_democratic:0 "State of Nevada"
+ NVA_TER_democratic:0 "State of Nevada"
  NVA_TER_democratic_DEF:0 "the State of Nevada"
  NVA_TER_democratic_ADJ:0 "Nevadan"
  NVA_TER_communism:0 "Co-Operative Confederation of Nevada"
