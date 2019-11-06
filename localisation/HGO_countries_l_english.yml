@@ -12373,7 +12373,7 @@
  MLK_neutrality_DEF:0 "The Commune of the Malaku Islands"
  MLK_monarchism:0 "Kingdom of the Malaku Islands"
  MLK_monarchism_DEF:0 "The Kingdom of the Malaku Islands"
- MLK ADJ:0 "Malaku Islander"
+ MLK_ADJ:0 "Malaku Islander"
  
  WAS_democratic:0 "Federal Republic of Austria"
  WAS_democratic_DEF:0 "The Federal Republic of Austria"
