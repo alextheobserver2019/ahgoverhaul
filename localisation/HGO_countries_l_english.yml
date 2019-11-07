@@ -11,8 +11,8 @@
  CRN_democratic_ADJ:0 "Cornish"
  CRN_neutrality_ADJ:0 "Cornish"
  CRN_communism_ADJ:0 "Cornish"
- CRN_monarchism:0 "Kingdom of Cornwall"
- CRN_monarchism_DEF:0 "The Kingdom of Cornwall"
+ CRN_monarchism:0 "Duchy of Cornwall"
+ CRN_monarchism_DEF:0 "The Duchy of Cornwall"
  CRN_monarchism_ADJ:0 "Cornish"
  
  UNC_fascism:0 "Unclaimed Land"
