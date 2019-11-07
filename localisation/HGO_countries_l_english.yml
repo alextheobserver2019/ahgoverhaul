@@ -10669,9 +10669,9 @@
  INT_neutrality:0 "Indian Territory"
  INT_neutrality_DEF:0 "The Indian Territory"
  INT_neutrality_ADJ:0 "Native American"
- INT_monarchism:0 "Iriquois Confederation"
- INT_monarchism_DEF:0 "The Iriquois Confederation"
- INT_monarchism_ADJ:0 "Iriquois"
+ INT_monarchism:0 "Native American Kingdom"
+ INT_monarchism_DEF:0 "the Native American Kingdom"
+ INT_monarchism_ADJ:0 "Native American"
  
  NAT_democratic:0 "Republic of Northern Australia"
  NAT_democratic_DEF:0 "The Republic of Northern Australia"
