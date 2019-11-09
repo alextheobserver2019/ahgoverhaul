@@ -314,7 +314,38 @@ BZE_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
-
+CAN_UK_RED = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+AST_RED = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+NMB_ENG_RED = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+NZL_RED = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+SAF_RED = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+NGU_AST_RED = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+NAU_AST_RED = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
+SAM_NZL_RED = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
 INS_HOL = {
     color = rgb { 173 116 64 }
     color_ui = rgb { 173 116 64 }
@@ -344,6 +375,22 @@ FWA_FRA = {
 	color_ui = rgb { 37 72 155 }
 }
 BHU_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+NEP_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+AFG_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+TIB_RAJ = {
+	color = rgb { 170 10 10 }
+	color_ui = rgb { 200 10 10 }
+}
+PER_RAJ = {
 	color = rgb { 170 10 10 }
 	color_ui = rgb { 200 10 10 }
 }
@@ -592,21 +639,37 @@ LTN_unified = {
 	color = rgb { 250 250 50 }
 	color_ui= rgb { 250 250 50 }
 }
-BAK = {
+BALK = {
     color = rgb { 10 94 128 }
 	color_ui = rgb { 10 94 128 }
 }
-NOA = {
+NORA = {
     color = rgb { 70 107 181 }
 	color_ui = rgb { 70 107 181 }
 }
-SOA = {
+SOUA = {
     color = rgb { 0 51 153 }
 	color_ui = rgb { 0 51 153 }
 }
 ENG_HOL = {
     color = rgb { 202 86 86 }
 	color_ui = rgb { 201 56 93 }
+}
+TURK = {
+    color = rgb { 102 204 255 }
+	color_ui = rgb { 102 204 255 }
+}
+WORL = {
+    color = rgb { 57 123 206 }
+	color_ui = rgb { 57 123 206 }
+}
+EURA = {
+    color = rgb { 0 51 153 }
+	color_ui = rgb { 0 51 153 }
+}
+ASIA = {
+    color = rgb { 255 15 65 }
+	color_ui = rgb { 255 15 65 }
 }
 ENG_FRA = {
     color = rgb { 136 82 154 }
@@ -1083,6 +1146,10 @@ FRA_GER = {
 SOV_USS = {
 	color = rgb { 125  13  24 }
 	color_ui = rgb { 125  13  24 }
+}
+AFRC = {
+    color = rgb { 49 148 0 }
+	color_ui = rgb { 49 148 0 }
 }
 ###Country Colours Mod
 
