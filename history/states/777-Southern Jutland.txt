@@ -11,12 +11,11 @@ state={
 		add_core_of = DEN
 		add_core_of = SCH
 		add_core_of = PRS
-		add_core_of = WGR
 
 	}
 
 	provinces={
-		332 11251 
+		11251 
 	}
 	manpower=130125
 	buildings_max_level_factor=1.000
