@@ -10,6 +10,9 @@ state={
 		add_core_of = USA
 		add_core_of = OKH
 		add_core_of = CSA
+		add_core_of = OSG
+		add_core_of = KAW
+		add_claim_by = PNC
 		buildings = {
 			infrastructure = 4
 			

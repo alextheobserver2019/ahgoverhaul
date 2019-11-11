@@ -14,6 +14,8 @@ state={
 		add_core_of = OKH
 		add_core_of = CSA
 		add_core_of = INT
+		add_core_of = PRI
+		add_claim_by = MIM
 		
 	}
 	manpower=1000
