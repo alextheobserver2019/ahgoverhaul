@@ -3320,3 +3320,7 @@ YOR = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
+RED = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}

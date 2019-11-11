@@ -84,10 +84,10 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Louvell Gibson"
+	name = "Lucille Ball"
 	desc = ""
-	picture = "gfx/leaders/USA/Portrait_USA_Generic_3.dds"
-	expire = "1965.1.1"
+	picture = "Portrait_Lucille_Ball.dds"
+	expire = "1975.1.1"
 	ideology = marxism
 	traits = {
 		
