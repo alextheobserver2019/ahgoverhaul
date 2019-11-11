@@ -3172,15 +3172,11 @@ KCA = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
-SEN = {
+SNC = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
 CYG = {
-color = rgb { 150 150 150 }
-color_ui = rgb { 150 150 150 }
-}
-PTS = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
@@ -3284,7 +3280,7 @@ ESX = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
-KEN = {
+KET = {
 color = rgb { 150 150 150 }
 color_ui = rgb { 150 150 150 }
 }
