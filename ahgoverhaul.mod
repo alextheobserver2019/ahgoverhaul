@@ -14,6 +14,7 @@ tags={
 	"Fixes"
 	"Events"
 	"Gameplay"
+	"Sound"
 }
 picture="hgoverhaulss.png"
 supported_version="1.7.*"
