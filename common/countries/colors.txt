@@ -3253,7 +3253,7 @@ color = rgb { 6 59 36 }
 color_ui = rgb { 6 59 36 }
 }
 IGU = {
-color = rgb { 59,87,184 }
+color = rgb { 59 87 184 }
 color_ui = rgb { 59 87 184 }
 }
 LON = {

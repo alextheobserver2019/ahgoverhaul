@@ -12743,8 +12743,8 @@
  VDS_monarchism_DEF:0 "The Kingdom of Vendsyssel"
  VDS_monarchism_ADJ:0 "Vendsysseler"
  
- MSG_democratic:0 "State of Muskogee"
- MSG_democratic_DEF:0 "State of Muskogee"
+ MSG_democratic:0 "Republic of Muskogee"
+ MSG_democratic_DEF:0 "Republic of Muskogee"
  MSG_democratic_ADJ:0 "Muskogee"
  MSG_communism:0 "People's Republic of Muskogee"
  MSG_communism_DEF:0 "People's Republic of Muskogee"
@@ -12759,8 +12759,8 @@
  MSG_monarchism_DEF:0 "The Chiefdom of Muskogee"
  MSG_monarchism_ADJ:0 "Muskogee"
  
- CHK_democratic:0 "State of Chickasaw"
- CHK_democratic_DEF:0 "State of Chickasaw"
+ CHK_democratic:0 "Republic of Chickasaw"
+ CHK_democratic_DEF:0 "Republic of Chickasaw"
  CHK_democratic_ADJ:0 "Chickasaw"
  CHK_communism:0 "People's Republic of Chickasaw"
  CHK_communism_DEF:0 "People's Republic of Chickasaw"
@@ -12775,8 +12775,8 @@
  CHK_monarchism_DEF:0 "The Chiefdom of Chickasaw"
  CHK_monarchism_ADJ:0 "Chickasaw"
  
- CRK_democratic:0 "State of Cherokee"
- CRK_democratic_DEF:0 "State of Cherokee"
+ CRK_democratic:0 "Republic of Cherokee"
+ CRK_democratic_DEF:0 "Republic of Cherokee"
  CRK_democratic_ADJ:0 "Cherokee"
  CRK_communism:0 "People's Republic of Cherokee"
  CRK_communism_DEF:0 "People's Republic of Cherokee"
@@ -12791,8 +12791,8 @@
  CRK_monarchism_DEF:0 "The Chiefdom of Cherokee"
  CRK_monarchism_ADJ:0 "Cherokee"
  
- SMN_democratic:0 "State of Seminole"
- SMN_democratic_DEF:0 "State of Seminole"
+ SMN_democratic:0 "Republic of Seminole"
+ SMN_democratic_DEF:0 "Republic of Seminole"
  SMN_democratic_ADJ:0 "Seminole"
  SMN_communism:0 "People's Republic of Seminole"
  SMN_communism_DEF:0 "People's Republic of Seminole"
@@ -12807,8 +12807,8 @@
  SMN_monarchism_DEF:0 "The Chiefdom of Seminole"
  SMN_monarchism_ADJ:0 "Seminole"
  
- CHW_democratic:0 "State of Choctaw"
- CHW_democratic_DEF:0 "State of Choctaw"
+ CHW_democratic:0 "Republic of Choctaw"
+ CHW_democratic_DEF:0 "Republic of Choctaw"
  CHW_democratic_ADJ:0 "Choctaw"
  CHW_communism:0 "People's Republic of Choctaw"
  CHW_communism_DEF:0 "People's Republic of Choctaw"
@@ -12822,6 +12822,7 @@
  CHW_monarchism:0 "Chiefdom of Choctaw"
  CHW_monarchism_DEF:0 "The Chiefdom of Choctaw"
  CHW_monarchism_ADJ:0 "Choctaw"
+ 
  CWD_democratic:0 "Republic of Caddo-Wichita-Delaware"
  CWD_democratic_DEF:0 "Republic of Caddo-Wichita-Delaware"
  CWD_democratic_ADJ:0 "Caddo-Wichita-Delaware"
