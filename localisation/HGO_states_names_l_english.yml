@@ -5781,7 +5781,7 @@
  STATE_5782:0 "Azpeitia"
  STATE_5783:0 "Lucena"
  STATE_5784:0 "Edjia"
- STATE_5785:0 "Mellit
+ STATE_5785:0 "Mellit"
  STATE_5786:0 "Alesd"
  STATE_5787:0 "Bogdand"
  STATE_5788:0 "Szarkowszczyna"
@@ -5836,3 +5836,8 @@
  STATE_5837:0 "Tondern"
  STATE_5838:0 "Husum"
  STATE_5839:0 "Esbjerg"
+ STATE_5840:0 "Chumikan"
+ STATE_5841:0 "Kuandian"
+ STATE_5842:0 "Tunghwa"
+ STATE_5843:0 "Nansan"
+ STATE_5844:0 "Weihsien"
