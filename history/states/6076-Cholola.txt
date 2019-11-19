@@ -4,6 +4,14 @@ state={
 	provinces={
 		16156 
 	}
-	manpower=0
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = ZMB
+		add_core_of = ZMB
+	}
+	
 	buildings_max_level_factor=1.000
 }

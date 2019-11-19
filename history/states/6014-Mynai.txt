@@ -4,6 +4,16 @@ state={
 	provinces={
 		16412 
 	}
-	manpower=0
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = CZE
+		add_core_of = CZE
+		add_core_of = CRP
+		add_core_of = SLO
+	}
+	
 	buildings_max_level_factor=1.000
 }

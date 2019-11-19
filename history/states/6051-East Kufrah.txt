@@ -4,6 +4,14 @@ state={
 	provinces={
 		16257 16262 16278 
 	}
-	manpower=0
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = LBA
+		add_core_of = LBA
+	}
+	
 	buildings_max_level_factor=1.000
 }

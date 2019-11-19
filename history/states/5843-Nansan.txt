@@ -4,6 +4,15 @@ state={
 	provinces={
 		16245 
 	}
-	manpower=0
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = VIN
+		add_core_of = PRC
+		add_core_of = CHI
+	}
+	
 	buildings_max_level_factor=1.000
 }
