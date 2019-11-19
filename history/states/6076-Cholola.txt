@@ -9,8 +9,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = ZMB
-		add_core_of = ZMB
+		owner = ZAM
+		add_core_of = ZAM
 	}
 	
 	buildings_max_level_factor=1.000
