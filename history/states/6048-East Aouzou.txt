@@ -12,6 +12,6 @@ state={
 		owner = LBA
 		add_core_of = LBA
 	}
-	
+	impassable = yes
 	buildings_max_level_factor=1.000
 }
