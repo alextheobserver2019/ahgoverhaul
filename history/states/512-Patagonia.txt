@@ -10,10 +10,6 @@ state={
 		owner = ARG
 		buildings = {
 			infrastructure = 3
-			10953 = {
-				naval_base = 1
-
-			}
 
 		}
 		add_core_of = ARG
@@ -22,7 +18,7 @@ state={
 	}
 
 	provinces={
-		2169 5173 10953 12946 12952 
+		5173 12946 12952 16125
 	}
 	manpower=226638
 	buildings_max_level_factor=1.000

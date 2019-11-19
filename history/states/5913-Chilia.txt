@@ -1,0 +1,17 @@
+state={
+	id=5913
+	name="STATE_5913"
+	provinces={
+		3704 16393 
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = ROM
+		add_core_of = ROM
+	}
+	
+	buildings_max_level_factor=1.000
+}

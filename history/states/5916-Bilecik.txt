@@ -1,0 +1,17 @@
+state={
+	id=5916
+	name="STATE_5916"
+	provinces={
+		3786 
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = TUR
+		add_core_of = TUR
+	}
+	
+	buildings_max_level_factor=1.000
+}
