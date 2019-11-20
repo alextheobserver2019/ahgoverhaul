@@ -1,11 +1,10 @@
-version="1.8"
+name="Historic Geographical Overhaul"
+path="mod/ahgoverhaul"
 tags={
 	"Fixes"
 	"Events"
 	"Gameplay"
 }
-name="Historic Geographical Overhaul"
-archive="mod/ahgoverhaul"
 picture="newhgoverhaulss.jpg"
 replace_path="history/states"
 replace_path="history/countries"
@@ -17,3 +16,4 @@ replace_path="music/"
 replace_path="common/ai_strategy"
 replace_path="sound/menu"
 remote_file_id="1756572799"
+supported_version="1.8.1"
