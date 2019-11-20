@@ -8,6 +8,7 @@ state=
 	history=
 	{
 		owner = PTC
+		add_core_of = PTC
 		buildings = {
 			infrastructure = 1
 			1280 = {
