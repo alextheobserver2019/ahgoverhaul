@@ -3324,3 +3324,7 @@ RED = {
 color = rgb { 251 24 12 }
 color_ui = rgb { 251 24 12 }
 }
+PTC = {
+color = rgb { 150 150 150 }
+color_ui = rgb { 150 150 150 }
+}

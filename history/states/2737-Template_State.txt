@@ -3,7 +3,7 @@ state={
 	name="STATE_2737"
 	history={
 		
-		owner = TUV 
+		owner = KIR 
 		add_core_of = KIR
 		buildings = {
 			infrastructure = 4

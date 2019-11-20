@@ -280,7 +280,15 @@ if = {
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
-		target = TUV
+		target = KIR
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = PTC
+		autonomous_state = autonomy_colony
+	}
+	set_autonomy = {
+		target = FIJ
 		autonomous_state = autonomy_colony
 	}
 	set_autonomy = {
@@ -365,7 +373,9 @@ if = {
 		puppet = IRE
 		puppet = MLT
 		puppet = CYP
-		puppet = TUV
+		puppet = KIR
+		puppet = FIJ
+		puppet = PTC
 		puppet = SLM
 		puppet = NCM
 		puppet = SCM

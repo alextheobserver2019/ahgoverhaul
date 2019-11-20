@@ -15,12 +15,12 @@ set_cosmetic_tag = QAT_RAJ
 			 = 0
 		communism
 			 = 0
-		neutrality 
+		monarchism 
 			 = 100
 		
 	}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = monarchism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -31,7 +31,7 @@ set_cosmetic_tag = QAT_RAJ
 	desc = ""
 	picture = "Portrait_Abdullah_bin_Jassim_At_Thani.dds"
 	expire = "1957.7.1"
-	ideology = despotism
+	ideology = absolutism
 	traits = {
 		#
 	}

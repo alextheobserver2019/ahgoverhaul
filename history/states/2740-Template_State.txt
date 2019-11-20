@@ -3,7 +3,7 @@ state={
 	name="STATE_2740"
 	history={
 		
-		owner = TUV 
+		owner = FIJ 
 		add_core_of = FIJ
 		buildings = {
 			infrastructure = 4

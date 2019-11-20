@@ -7,7 +7,7 @@ state=
 	
 	history=
 	{
-		owner = TUV
+		owner = PTC
 		buildings = {
 			infrastructure = 1
 			1280 = {
