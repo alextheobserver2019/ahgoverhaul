@@ -1,0 +1,16 @@
+state={
+	id=5296
+	name="STATE_5296"
+	provinces={
+		15778 16232
+	}
+	history = {
+		owner = FEA
+		add_core_of = CHA
+		add_core_of = WAD
+	}
+	manpower=1000
+state_category = pastoral
+	impassable = yes
+	buildings_max_level_factor=1.000
+}

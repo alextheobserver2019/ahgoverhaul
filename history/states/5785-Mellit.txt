@@ -1,0 +1,15 @@
+state={
+	id=5785
+	name="STATE_5785"
+	provinces={
+		14585 
+	}
+	history={
+	    owner = SUD
+        add_core_of = SUD
+    }
+	manpower = 1000
+	state_category = wasteland
+	impassable = yes
+	buildings_max_level_factor=1.000
+}

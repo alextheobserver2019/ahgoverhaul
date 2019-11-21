@@ -1,0 +1,16 @@
+state={
+	id=5561
+	name="STATE_5561"
+	
+	history = {
+		owner = POL
+		add_core_of = POL
+		add_core_of = BLR
+	}
+	manpower = 1000
+	state_category = pastoral
+	provinces={
+		318
+	}
+	buildings_max_level_factor=1.000
+}

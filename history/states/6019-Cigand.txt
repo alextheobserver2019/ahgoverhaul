@@ -1,0 +1,17 @@
+state={
+	id=6019
+	name="STATE_6019"
+	provinces={
+		3730 
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = HUN
+		add_core_of = HUN
+	}
+	
+	buildings_max_level_factor=1.000
+}

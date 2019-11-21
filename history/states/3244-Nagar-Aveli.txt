@@ -1,0 +1,20 @@
+state={
+	id=3244
+	name="STATE_3244"
+	provinces={
+		14334 
+	}
+	
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = POR
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	buildings_max_level_factor=1.000
+}

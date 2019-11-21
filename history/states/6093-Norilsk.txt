@@ -1,0 +1,19 @@
+state={
+	id=6093
+	name="STATE_6093"
+	provinces={
+		96 1729 1757 3336 3415 4733 4761 7809 10536 10564 10635 12517 12545 
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = RUS
+		add_core_of = SBR
+	}
+	
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,14 @@
+state={
+	id=5642
+	name="STATE_5642"
+	provinces={
+		8020 
+	}
+	history={
+		owner = OMA 
+		add_core_of = OMA
+	}
+	state_category = pastoral
+	manpower = 1000
+	buildings_max_level_factor=1.000
+}

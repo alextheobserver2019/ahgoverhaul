@@ -1,0 +1,16 @@
+state={
+	id=5615
+	name="STATE_5615"
+	provinces={
+		15975 
+	}
+	history={
+	
+	    owner = ABD
+		add_core_of = ABD
+	}
+	manpower=1000
+	impassable = yes
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,18 @@
+state={
+	id=5855
+	name="STATE_5855"
+	provinces={
+		4251 10134 10177 10467 16226 
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = VIN
+		add_core_of = VIN
+		add_core_of = CAM
+	}
+	
+	buildings_max_level_factor=1.000
+}

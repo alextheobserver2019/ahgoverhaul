@@ -1,0 +1,19 @@
+state={
+	id=5844
+	name="STATE_5844"
+	provinces={
+		1184 4157 16341 16344 
+	}
+	manpower = 1000
+	
+	state_category = pastoral
+
+	history={
+		owner = SHG
+		add_core_of = SHG
+		add_core_of = PRC
+		add_core_of = CHI
+	}
+	
+	buildings_max_level_factor=1.000
+}

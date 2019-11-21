@@ -1,0 +1,20 @@
+state={
+	id=3119
+	name="STATE_3119"
+	history={
+		
+		owner = INS 
+		add_core_of = INS
+		add_core_of = MLK
+		buildings = {
+			infrastructure = 4
+			
+		}
+	}
+	provinces={
+		10342 
+	}
+	manpower=1000 
+ state_category = small_island
+	buildings_max_level_factor=1.000
+}

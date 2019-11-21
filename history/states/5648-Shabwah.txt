@@ -1,0 +1,15 @@
+state={
+	id=5648
+	name="STATE_5648"
+	provinces={
+		16064 
+	}
+	history={
+	    owner = ADN
+        add_core_of = ADN
+    }	
+	manpower = 1000
+	state_category = pastoral
+	impassable = yes
+	buildings_max_level_factor=1.000
+}

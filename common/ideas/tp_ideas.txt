@@ -1,0 +1,845 @@
+ideas = {
+
+	country = {
+	
+		tp_fascist_nation = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = fascism
+			}
+
+			removal_cost = -1
+
+			picture = generic_fascism_drift_bonus
+
+			
+			modifier = {
+				fascism_drift = 100
+			}
+		}
+	
+		tp_fascism_banned = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				NOT = { has_government = fascism }
+			}
+
+			removal_cost = -1
+
+			picture = generic_fascism_banned
+
+			
+			modifier = {
+				fascism_drift = -100
+			}
+		}
+
+		tp_communist_nation = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = communism
+			}
+
+			removal_cost = -1
+
+			picture = generic_communism_drift_bonus
+
+			
+			modifier = {
+				communism_drift = 100
+			}
+		}
+	
+		tp_communism_banned = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				NOT = { has_government = communism }
+			}
+
+			removal_cost = -1
+
+			picture = anti_soviet_pact
+
+			
+			modifier = {
+				communism_drift = -100
+			}
+		}
+
+		tp_democratic_nation = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = democratic
+			}
+
+			removal_cost = -1
+
+			picture = generic_democratic_drift_bonus
+
+			
+			modifier = {
+				democratic_drift = 100
+			}
+		}
+	
+		tp_democratic_banned = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				NOT = { has_government = democratic }
+			}
+
+			removal_cost = -1
+
+			picture = tpt_democratic_banned
+
+			
+			modifier = {
+				democratic_drift = -100
+			}
+		}
+
+		tp_neutral_nation = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = neutrality
+			}
+
+			removal_cost = -1
+
+			picture = generic_neutrality_drift_bonus
+
+			
+			modifier = {
+				neutrality_drift = 100
+			}
+		}
+	
+		tp_neutrality_banned = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				NOT = { has_government = neutrality }
+			}
+
+			removal_cost = -1
+
+			picture = tpt_neutrality_banned
+
+			
+			modifier = {
+				neutrality_drift = -100
+			}
+		}
+	
+		tp_monarchist_nation = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				has_government = monarchism
+			}
+
+			removal_cost = -1
+
+			picture = tpt_monarchism_idea
+
+			
+			modifier = {
+				monarchism_drift = 100
+			}
+		}
+	
+		tp_monarchism_banned = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				NOT = { has_government = monarchism }
+			}
+
+			removal_cost = -1
+
+			picture = tpt_monarchism_banned
+
+			
+			modifier = {
+				monarchism_drift = -100
+			}
+		}
+
+		tpt_rss_5 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.05
+			}
+		}
+	
+		tpt_rss_10 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.10
+			}
+		}
+	
+		tpt_rss_15 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.15
+			}
+		}
+	
+		tpt_rss_20 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.20
+			}
+		}
+	
+		tpt_rss_25 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.25
+			}
+		}
+	
+		tpt_rss_30 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.30
+			}
+		}
+	
+		tpt_rss_35 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.35
+			}
+		}
+	
+		tpt_rss_40 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.40
+			}
+		}
+	
+		tpt_rss_45 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.45
+			}
+		}
+	
+		tpt_rss_50 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.50
+			}
+		}
+	
+		tpt_rss_55 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.55
+			}
+		}
+	
+		tpt_rss_60 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.60
+			}
+		}
+	
+		tpt_rss_65 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.65
+			}
+		}
+	
+		tpt_rss_70 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.70
+			}
+		}
+	
+		tpt_rss_75 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.75
+			}
+		}
+	
+		tpt_rss_80 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.80
+			}
+		}
+	
+		tpt_rss_85 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.85
+			}
+		}
+	
+		tpt_rss_90 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.90
+			}
+		}
+	
+		tpt_rss_95 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -0.95
+			}
+		}
+	
+		tpt_rss_100 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = -1
+			}
+		}
+	
+		tpt_rss5 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.05
+			}
+		}
+	
+		tpt_rss10 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.10
+			}
+		}
+	
+		tpt_rss15 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.15
+			}
+		}
+	
+		tpt_rss20 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.20
+			}
+		}
+	
+		tpt_rss25 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.25
+			}
+		}
+	
+		tpt_rss30 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.30
+			}
+		}
+	
+		tpt_rss35 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.35
+			}
+		}
+	
+		tpt_rss40 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.40
+			}
+		}
+	
+		tpt_rss45 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.45
+			}
+		}
+	
+		tpt_rss50 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.50
+			}
+		}
+	
+		tpt_rss55 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.55
+			}
+		}
+	
+		tpt_rss60 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.60
+			}
+		}
+	
+		tpt_rss65 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.65
+			}
+		}
+	
+		tpt_rss70 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.70
+			}
+		}
+	
+		tpt_rss75 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.75
+			}
+		}
+	
+		tpt_rss80 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.80
+			}
+		}
+	
+		tpt_rss85 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.85
+			}
+		}
+	
+		tpt_rss90 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.90
+			}
+		}
+	
+		tpt_rss95 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 0.95
+			}
+		}
+	
+		tpt_rss100 = {
+			
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_research_bonus
+
+			
+			modifier = {
+				research_speed_factor = 1
+			}
+		}
+	}
+}

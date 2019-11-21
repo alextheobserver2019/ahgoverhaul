@@ -1,0 +1,15 @@
+state={
+	id=5639
+	name="STATE_5639"
+	provinces={
+		2018 5049 
+	}
+	history={
+		owner = OMA 
+		add_core_of = OMA
+	}
+	state_category = pastoral
+	manpower = 1000
+	impassable = yes
+	buildings_max_level_factor=1.000
+}

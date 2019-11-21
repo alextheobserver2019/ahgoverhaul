@@ -1,0 +1,25 @@
+defined_text = {
+	name = Epic_Leader_Name
+	text = {
+		triggers = {
+			original_tag = USA
+		}
+		localization_key = GER_LEADER
+}
+}
+defined_text = {
+	name = get_my_portrait_texture
+	text = {
+		trigger = {
+			original_tag = ITA
+		}
+		localization_key = GFX_HOS_Italy
+	}
+	text = {
+		trigger = {
+			original_tag = BEL
+		}
+		localization_key = GFX_HOS_Belgium
+	}
+}
+}
