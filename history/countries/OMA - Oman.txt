@@ -33,7 +33,7 @@ create_country_leader = {
 	desc = "POLITICS_SAID_BIN_TAIMUR_DESC"
 	picture = "Portrait_Said_III_bin_Taimur.dds"
 	expire = "1965.1.1"
-	ideology = monarchism
+	ideology = absolutism
 	traits = {
 		#
 	}
