@@ -1,4 +1,4 @@
-﻿capital = 4013
+﻿capital = 444
 
 oob = "BLO_1936"
 set_cosmetic_tag = BLO_KAL

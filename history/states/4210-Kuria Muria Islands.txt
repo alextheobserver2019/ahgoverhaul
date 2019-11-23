@@ -10,7 +10,7 @@ state={
 
 	history={
 		owner = RAJ
-		add_core_of = OMA
+		add_core_of = OMN
 		buildings = {
 			infrastructure = 1
 		}

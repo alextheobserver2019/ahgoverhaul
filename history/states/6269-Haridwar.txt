@@ -5,6 +5,12 @@ state={
 		16647 
 	}
 	manpower=1000
+	history={
+		owner = SRM
+		add_core_of = RAJ
+		add_core_of = SRM
+	}
+ 
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

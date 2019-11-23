@@ -9,12 +9,13 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = RAJ
+		owner = LBE
 		buildings = {
 			infrastructure = 1
 		}
 		add_core_of = PAK
-		add_claim_by = BLO
+		add_core_of = LBE
+		add_core_of = BLO
 	}
 	buildings_max_level_factor=1.000
 }

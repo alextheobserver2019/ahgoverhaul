@@ -4,7 +4,12 @@ state={
 	provinces={
 		16521 
 	}
-	manpower=100
+	manpower=1000
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		add_core_of = SGI
+	}
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

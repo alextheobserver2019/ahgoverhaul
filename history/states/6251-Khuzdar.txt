@@ -5,6 +5,13 @@ state={
 		16629 
 	}
 	manpower=1000
+	history={
+		owner = LBE
+		add_core_of = BLO
+		add_core_of = LBE
+		add_core_of = PAK
+	}
+ 
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

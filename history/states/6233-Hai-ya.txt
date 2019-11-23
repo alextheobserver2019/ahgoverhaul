@@ -5,6 +5,12 @@ state={
 		16543 
 	}
 	manpower=1000
+	history={
+		owner = NMM
+		add_core_of = BUR
+		add_core_of = NMM
+	}
+ 
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

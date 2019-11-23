@@ -5,7 +5,7 @@ state={
 	state_category=wasteland
 	
 	history={
-		owner = RAJ
+		owner = SHA
 		add_core_of = BRM
 		add_core_of = SHA
 		add_core_of = CHI
