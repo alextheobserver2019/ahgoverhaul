@@ -6,9 +6,9 @@ state={
 	}
 	manpower=1000
 	history={
-		owner = SGI
+		owner = SGT
 		add_core_of = RAJ
-		add_core_of = SGI
+		add_core_of = SGT
 	}
  
 	buildings_max_level_factor=1.000

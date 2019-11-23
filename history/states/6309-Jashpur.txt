@@ -6,9 +6,9 @@ state={
 	}
 	manpower=1000
 	history={
-		owner = JSH
+		owner = JSP
 		add_core_of = RAJ
-		add_core_of = JSH
+		add_core_of = JSP
 	}
  
 	state_category=pastoral
