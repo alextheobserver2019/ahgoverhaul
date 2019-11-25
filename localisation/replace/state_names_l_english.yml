@@ -6339,3 +6339,7 @@
  STATE_6340:0 "Henderson"
  STATE_6341:0 "Ducie"
  STATE_6342:0 "Pathein"
+ STATE_6343:0 "South Mozyr"
+ STATE_6344:0 "North Mozyr"
+ STATE_6345:0 "West Mozyr"
+ STATE_6346:0 "East Mozyr"
