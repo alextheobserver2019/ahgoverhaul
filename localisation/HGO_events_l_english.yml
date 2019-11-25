@@ -1,24 +1,9 @@
 ﻿l_english:
-
- #Burma Event
- bs.2.t:0 "Separate Burma"
- bs.2.d:0 "For efficiently rule of Burmese, Burma region need to Separate from British Raj. Would you like to Separate Burma?"
- bs.2.a:0 "Separating Burma is better way."
- bs.2.b:0 "Burma must be remain at India."
- 
- bs_burma_seperate:0 "Burma separate with India"
- 
- #Lituania Move capital to Vilnius
- bs.3.t:0 "Transfer capital to Vilnius"
- bs.3.d:0 "After Polish-Soviet war, Poland taken Vilnius which was our former capital. so we have been moved capital to Kaunas temporary. we have been waiting for time to take it back. Finally We got Vilnius. Should we transfer capital to Vilnius which was former capital?"
- bs.3.a:0 "Must be."
- bs.3.b:0 "Kaunas is much better."
- 
- #Pope Died
- bs.100.t:0 "Pope Pius XI died" #Copied from Wikipedia https://en.wikipedia.org/wiki/Pope_Pius_XI#Death_and_burial
- bs.100.d:0 "Pope Pius XI had been ill for some time when, on 25 November 1938, he suffered two heart attacks within several hours. He had serious breathing problems and could not leave his apartment. \nMedical specialists reported that heart insufficiency combined with bronchial attacks had hopelessly complicated his already poor prospects. \nPope Pius XI died at 5:31 A.M. (Rome Time) of a third heart attack on 10 February 1939, at the age of 81. His last words to those near him at the time of his death were spoken with clarity and firmness: "My soul parts from you all in peace." "
- bs.100.a:0 "Oh, dear..."
- bs.100.b:0 "Pius XII is next Pope"
+ #Princely states
+ hgo.1.t:0 "Yeet the Princely States?"
+ hgo.1.d:0 "Listen, I get it. The princely states are a pain in the ass to map with. This event will probably take roughly 10 minutes to finish, but if you want the princely states gone, then wait ten minutes. This event could improve your game performance if you have a piece of shit computer."
+ hgo.1.a:0 "This bitch is empty. YEET!"
+ hgo.1.b:0 "How about no, you crazy Dutch bastard!"
  
  #Slovenia event
  germany.94.b:0 "Friendship is important."
@@ -54,46 +39,6 @@
  hungary.11.t:0 "Hungary declines our proposal!"
  hungary.10.d:0 "Unfortunately, the Hungarians have declined our fair proposal of joining the Axis in exchange for the Burgenland. The Führer is reportedly dissapointed, but the German population of the Burgenland seems to be content."
  hungary.10.a:0 "Damned Magyars..."
- 
- #Alpes to Italy
- bs_ger.1.t:0 "Alpes region Question"
- bs_ger.1.d:0 "Recently, We captured Alpes region which placed between Italy and France, And Italy have claimed this region. What should we do?"
- bs_ger.1.a:0 "Give it to Italy."
- bs_ger.1.b:0 "Ignore them."
- 
- bs_ger.2.t:0 "Germany gave Alpes region to us"
- bs_ger.2.d:0 "Germany have occupied Alpes region, And they decided to cede Alpes region to us."
- bs_ger.2.a:0 "What a great gift!"
- 
- #West Karelia to Finland
- bs_ger.3.t:0 "West Karelia Question"
- bs_ger.3.d:0 "Recently, We captured West Karelia, And Finland have claimed this region. What should we do?"
- bs_ger.3.a:0 "Give it to Finland."
- bs_ger.3.b:0 "Ignore them."
- 
- bs_ger.4.t:0 "Germany gave West Karelia to us"
- bs_ger.4.d:0 "Germany have occupied West Karelia. After we lose it from Soviet, Many Finnish people wanted reclaim that. so Germany decided to cede West Karelia to us."
- bs_ger.4.a:0 "Now We can trust Germany 100%!"
- 
- #East Karelia to Finland
- bs_ger.5.t:0 "East Karelia Question"
- bs_ger.5.d:0 "Recently, We captured East Karelia. It seems better Finland would controlling this region. What should we do?"
- bs_ger.5.a:0 "Give it to Finland."
- bs_ger.5.b:0 "That is Ours."
- 
- bs_ger.6.t:0 "Germany gave East Karelia to us"
- bs_ger.6.d:0 "Germany have occupied East Karelia, and Germany decided to cede East Karelia to us."
- bs_ger.6.a:0 "What a great news!"
- 
- #Transnistria to Romania
- bs_ger.7.t:0 "Transnitria Question"
- bs_ger.7.d:0 "Recently, We captured Transnitria. It seems better Romania would controlling this region. What should we do?"
- bs_ger.7.a:0 "Give it to Romania."
- bs_ger.7.b:0 "That is Ours."
- 
- bs_ger.8.t:0 "Germany gave Transnitria to us"
- bs_ger.8.d:0 "Germany have occupied East Karelia, and Germany decided to cede Transnitria to us."
- bs_ger.8.a:0 "What a great news!"
  
 #Romania stuff
  romania.7.t:0 "Supression of the Legion"

@@ -1,253 +1,210 @@
 ﻿
-add_namespace = bs
+add_namespace = hgo
 
-country_event = { #Burma seperate from India
-	id = bs.2
-	title = bs.2.t
-	desc = bs.2.d
+country_event = { #Yeet the princely states
+	id = hgo.1
+	title = hgo.2.t
+	desc = hgo.2.d
 	fire_only_once = yes
-	mean_time_to_happen = { days = 1}
-	picture = GFX_report_event_separate_burma
-	
-	trigger = {
-		TAG = ENG
-	    288 = { is_owned_by = RAJ }
-		640 = { is_owned_by = RAJ }
-		1015 = { is_owned_by = RAJ }
-		1016 = { is_owned_by = RAJ }
-		country_exists = ENG
-		country_exists = RAJ
-		date > 1937.4.12
-		NOT = { country_exists = BRM }
-		NOT = {
-		    OR = {
-		        has_global_flag = BRM_separated
-				has_global_flag = BRM_remained_india
-			}
-		}
-	}	
+	is_triggered_only = yes
 	
 	option = { #Agree
-		name = bs.2.a
-		custom_effect_tooltip = bs_burma_seperate
+		name = hgo.1.a
 		ai_chance = {
-			factor = 50
+			factor = 0
 		}
 
 		hidden_effect = {
-		    set_global_flag = BRM_separated
-			288 = {
-				if = {
-					limit = { is_owned_by = RAJ }
-				BRM = { transfer_state = 288 }
-				}
-			}
-			640 = {
-				if = {
-					limit = { is_owned_by = RAJ }
-				    BRM = { transfer_state = 640 }
-				}
-		    }
-			1015 = {
-				if = {
-					limit = { is_owned_by = RAJ }
-				    BRM = { transfer_state = 1015 }
-				}
-		    }
-			1016 = {
-				if = {
-					limit = { is_owned_by = RAJ }
-				    BRM = { transfer_state = 1016 }
-				}
-		    }
-		    1151 = {
-				if = {
-					limit = { is_owned_by = RAJ }
-				BRM = { transfer_state = 1151 }
-				}
-			}
-		    if = {
-			    limit = {
-				    has_dlc = "Together for Victory"
-			    }
-			    set_autonomy = {
-				    target = BRM
-				    autonomous_state = autonomy_colony
-				    freedom_level = 0.2
-			    }
-			    else = {
-				    puppet = BRM
-			    }
-		    }
-		    BRM = {
-			
-		        create_country_leader = {
-	                name = "Sir Archibald Douglas Cochrane"
-	                desc = ""
-	                picture = "Portrait_Burma_Archibald.dds"
-                  	expire = "1953.3.1"
-	                ideology = despotism
-	                traits = {
-		
-	                }
-                }
+		RAJ = {
+			annex_country = { target = SND }
+			annex_country = { target = SHA }
+			annex_country = { target = BLO }
+			annex_country = { target = KAS }
+			annex_country = { target = JJA }
+			annex_country = { target = JAF }
+			annex_country = { target = CHB }
+			annex_country = { target = DGH }
+			annex_country = { target = JRA }
+			annex_country = { target = JHL }
+			annex_country = { target = PLP }
+			annex_country = { target = PBD }
+			annex_country = { target = RPL }
+			annex_country = { target = TPA }
+			annex_country = { target = MNP }
+			annex_country = { target = CTL }
+			annex_country = { target = HYD }
+			annex_country = { target = MYS }
+			annex_country = { target = TVC }
+			annex_country = { target = COC }
+			annex_country = { target = PUD }
+			annex_country = { target = BDA }
+			annex_country = { target = JGH }
+			annex_country = { target = NVN }
+			annex_country = { target = KUT }
+			annex_country = { target = BHV }
+			annex_country = { target = IDR }
+			annex_country = { target = ORC }
+			annex_country = { target = REW }
+			annex_country = { target = BNR }
+			annex_country = { target = RMP }
+			annex_country = { target = RLM }
+			annex_country = { target = BHO }
+			annex_country = { target = INR }
+			annex_country = { target = GWA }
+			annex_country = { target = DWS }
+			annex_country = { target = DWJ }
+			annex_country = { target = DHA }
+			annex_country = { target = PRG }
+			annex_country = { target = BNS }
+			annex_country = { target = DGP }
+			annex_country = { target = JIP }
+			annex_country = { target = AWR }
+			annex_country = { target = KUL }
+			annex_country = { target = BHP }
+			annex_country = { target = DLP }
+			annex_country = { target = BDI }
+			annex_country = { target = KOT }
+			annex_country = { target = KHG }
+			annex_country = { target = UDP }
+			annex_country = { target = TNK }
+			annex_country = { target = SRH }
+			annex_country = { target = JDP }
+			annex_country = { target = BKN }
+			annex_country = { target = JSM }
+			annex_country = { target = BHW }
+			annex_country = { target = JND }
+			annex_country = { target = KPT }
+			annex_country = { target = PTI }
+			annex_country = { target = NBH }
+			annex_country = { target = NSE }
+			annex_country = { target = DTA }
+			annex_country = { target = KHP }
+			annex_country = { target = KHR }
+			annex_country = { target = LBE }
+			annex_country = { target = RJK }
+			annex_country = { target = VIJ }
+			annex_country = { target = DNT }
+			annex_country = { target = BNP }
+			annex_country = { target = SDR }
+			annex_country = { target = SVN }
+			annex_country = { target = SVV }
+			annex_country = { target = SGT }
+			annex_country = { target = MDH }
+			annex_country = { target = JMK }
+			annex_country = { target = JTH }
+			annex_country = { target = AUN }
+			annex_country = { target = KUN }
+			annex_country = { target = AKT }
+			annex_country = { target = BRR }
+			annex_country = { target = PHT }
+			annex_country = { target = GNL }
+			annex_country = { target = JWH }
+			annex_country = { target = DRP }
+			annex_country = { target = BND }
+			annex_country = { target = SRG }
+			annex_country = { target = MOV }
+			annex_country = { target = WKR }
+			annex_country = { target = DRL }
+			annex_country = { target = CBY }
+			annex_country = { target = THD }
+			annex_country = { target = RHP }
+			annex_country = { target = KSS }
+			annex_country = { target = KTW }
+			annex_country = { target = BWL }
+			annex_country = { target = KYY }
+			annex_country = { target = NMM }
+			annex_country = { target = BLS }
+			annex_country = { target = LNV }
+			annex_country = { target = SNT }
+			annex_country = { target = BRY }
+			annex_country = { target = KHH }
+			annex_country = { target = JHB }
+			annex_country = { target = SJM }
+			annex_country = { target = CUD }
+			annex_country = { target = ALR }
+			annex_country = { target = BWR }
+			annex_country = { target = MKR }
+			annex_country = { target = NRG }
+			annex_country = { target = KLC }
+			annex_country = { target = AMB }
+			annex_country = { target = DIR }
+			annex_country = { target = SWT }
+			annex_country = { target = MKN }
+			annex_country = { target = NAG }
+			annex_country = { target = HZA }
+			annex_country = { target = CHM }
+			annex_country = { target = BSP }
+			annex_country = { target = MHD }
+			annex_country = { target = SUT }
+			annex_country = { target = SRM }
+			annex_country = { target = TGW }
+			annex_country = { target = MKO }
+			annex_country = { target = FRK }
+			annex_country = { target = DJN }
+			annex_country = { target = GNW }
+			annex_country = { target = PTD }
+			annex_country = { target = KHD }
+			annex_country = { target = SMT }
+			annex_country = { target = CKH }
+			annex_country = { target = BRI }
+			annex_country = { target = BAO }
+			annex_country = { target = PNA }
+			annex_country = { target = CHH }
+			annex_country = { target = MHR }
+			annex_country = { target = BIJ }
+			annex_country = { target = AJG }
+			annex_country = { target = JSO }
+			annex_country = { target = UHH }
+			annex_country = { target = KOI }
+			annex_country = { target = BUN }
+			annex_country = { target = PLD }
+			annex_country = { target = BTR }
+			annex_country = { target = KNK }
+			annex_country = { target = KAH }
+			annex_country = { target = PAA }
+			annex_country = { target = CGG }
+			annex_country = { target = KRA }
+			annex_country = { target = SGJ }
+			annex_country = { target = JSP }
+			annex_country = { target = SKI }
+			annex_country = { target = RGH }
+			annex_country = { target = SGH }
+			annex_country = { target = GGP }
+			annex_country = { target = NGN }
+			annex_country = { target = KGH }
+			annex_country = { target = CKD }
+			annex_country = { target = KDH }
+			annex_country = { target = SNP }
+			annex_country = { target = BDH }
+			annex_country = { target = KHM }
+			annex_country = { target = DLL }
+			annex_country = { target = NYG }
+			annex_country = { target = RAP }
+			annex_country = { target = ATK }
+			annex_country = { target = RKL }
+			annex_country = { target = BMM }
+			annex_country = { target = BNJ }
+			annex_country = { target = DHK }
+			annex_country = { target = TLC }
+			annex_country = { target = PLH }
+			annex_country = { target = KJH }
+			annex_country = { target = NLG }
+			annex_country = { target = MBJ }
+			annex_country = { target = SKL }
+			annex_country = { target = KSW }
+			annex_country = { target = UP2 }
+			annex_country = { target = JGN }
+			annex_country = { target = LHR }
+			annex_country = { target = RJG }
+
 		    }
 		}
 	}
 	option = { #reject
-		name = bs.2.b
+		name = hgo.1.b
 		ai_chance = {
-			factor = 5
+			factor = 100
 		}
 
-		hidden_effect = {
-		    set_global_flag = BRM_remained_india
-		}
-	}
-}
-
-country_event = { #Lituania capital move
-	id = bs.3
-	title = bs.3.t
-	desc = bs.3.d
-	picture = GFX_report_event_vilnius_move
-	fire_only_once = yes
-	mean_time_to_happen = { days = 1 }
-	
-	trigger = {
-		tag = LIT
-		96 = {
-			AND = {
-				is_owned_by = LIT
-				if = {
-					limit = { 
-						NOT = { is_owned_by = POL }
-						LIT = { has_war = no }
-					}
-				}
-			}
-		}
-	}
-	
-	option = { #Move to Vilnius
-	    name = bs.3.a
-		ai_chance = {
-			factor = 50
-		}
-
-		96 = {
-			if = {
-				limit = { is_owned_by = LIT }
-				LIT = { set_capital = 96 }
-			}
-		}
-		set_global_flag = LIT_transfer_capital
-		set_province_name = { id = 3320 name = "Vilnius"}
-		96 = { set_state_name = "Vilnius" }
-	}
-	option = { #Nothing
-	    name = bs.3.b
-		ai_chance = {
-			factor = 5
-		}
-	}
-}
-
-country_event = {   #Vilnius to Wilno
-	id = bs.5
-	title = bs.5.t
-	desc = bs.5.d
-
-	hidden = yes
-
-	trigger = {
-		POL = {
-			owns_state = 863
-		}
-		has_global_flag = LIT_transfer_capital
-	}
-
-	mean_time_to_happen = { days = 2 }
-
-	option = {
-		name = bs.5.a
-		ai_chance = {
-			base = 100
-		}
-		reset_province_name = 3320
-		96 = { reset_state_name = yes }
-		clr_global_flag = LIT_transfer_capital
-	}
-}
-
-news_event = {                         #Pope dead
-	id = bs.100
-	title = bs.100.t
-	desc = bs.100.d
-	picture = GFX_news_event_pope_died
-	
-	major = yes
-	fire_only_once = yes
-	
-	trigger = {
-		tag = VCT
-		date > 1939.2.9
-	}	
-	
-	option = {
-		name = bs.100.a
-		trigger = {
-			NOT = {
-				TAG = VCT
-			}
-		}
-	}
-	option = {
-		name = bs.100.b
-		trigger = { TAG = VCT }
-		hidden_effect = {
-		    kill_country_leader = yes
-			create_country_leader = {
-		        name = "Pope Pius XII"
-		        desc = ""
-		        picture = "Portrait_Vatican_PiusXII.dds"
-		        expire = "1985.10.9"
-		        ideology = despotism
-		        traits = {
-			        #
-		        }
-	        }
-		}
-	}
-}
-
-country_event = {   #Karelo-Finnish SSR core on West Karelia 
-	id = bs.200
-	title = bs.200.t
-	desc = bs.200.d
-
-	hidden = yes
-
-	trigger = {
-		SOV = {
-			owns_state = 146
-			owns_state = 147
-		}
-		has_global_flag = KAR_core_of_west_karelia
-	}
-
-	mean_time_to_happen = { days = 2 }
-
-	option = {
-		name = bs.200.a
-		ai_chance = {
-			base = 100
-		}
-
-		KAR = { 
-			transfer_state = 146
-			add_state_core = 147
-		}
-		set_global_flag = KAR_core_of_west_karelia
 	}
 }
