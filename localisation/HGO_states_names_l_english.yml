@@ -1023,7 +1023,7 @@
  STATE_1022:0 "South Australia Desert"
  STATE_1023:0 "Inner Queensland"
  STATE_1024:0 "White Cliffs"
- STATE_1025:0 "Suez Canal"
+ STATE_1025:0 "North Suez Canal"
  STATE_1026:0 "Matanzas"
  STATE_1027:0 "Camaguey"
  STATE_1028:0 "Holguin"
@@ -6343,3 +6343,4 @@
  STATE_6344:0 "North Mozyr"
  STATE_6345:0 "West Mozyr"
  STATE_6346:0 "East Mozyr"
+ STATE_6347:0 "South Suez Canal"

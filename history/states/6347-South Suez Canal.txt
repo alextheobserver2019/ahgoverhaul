@@ -1,13 +1,13 @@
 
 state={
-	id=1025
-	name="STATE_1025"
+	id=6347
+	name="STATE_6347"
 
 	history={
 		owner = ENG
 		buildings = {
 			infrastructure = 4
-			4073 = {
+			6347 = {
 				naval_base = 2
 
 			}
@@ -19,7 +19,7 @@ state={
 	}
 
 	provinces={
-		4073 12049 
+		4073
 	}
 	manpower=1303022
 	buildings_max_level_factor=1.000
