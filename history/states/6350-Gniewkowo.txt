@@ -1,0 +1,16 @@
+state={
+	id=6350
+	name="Gniewkowow"
+	provinces={
+		16665
+	}
+	manpower=1000
+	history={
+		owner = POL
+		add_core_of = POL
+	
+	}
+ 
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}
