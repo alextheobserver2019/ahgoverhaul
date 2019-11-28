@@ -1,13 +1,13 @@
 state={
-	id=6351
-	name="Rypin"
+	id=6352
+	name="Vostochnoye"
 	provinces={
-		16668
+		16666
 	}
 	manpower=1000
 	history={
-		owner = POL
-		add_core_of = POL
+		owner = JAP
+		add_core_of = JAP
 	
 	}
  

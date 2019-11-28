@@ -2,7 +2,7 @@ state={
 	id=6349
 	name="Vauvillers"
 	provinces={
-		16664
+		16665
 	}
 	manpower=1000
 	history={
