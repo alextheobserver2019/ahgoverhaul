@@ -3,7 +3,7 @@ state={
 	name="STATE_6360"
 	provinces={
 		5093 10870 
-	}}
+	}
 	history={
 	    owner = SAU
         add_core_of = SAU
