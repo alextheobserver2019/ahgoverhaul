@@ -5,7 +5,7 @@ state={
 		14725
 	}
 	history={
-		owner = HON
+		owner = NIC
 		buildings = {
 			infrastructure = 4
 			
