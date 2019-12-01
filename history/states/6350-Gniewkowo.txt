@@ -1,6 +1,6 @@
 state={
 	id=6350
-	name="Gniewkowow"
+	name="STATE_6350"
 	provinces={
 		16667
 	}

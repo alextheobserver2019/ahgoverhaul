@@ -1,6 +1,6 @@
 state={
 	id=6352
-	name="Vostochnoye"
+	name="STATE_6352"
 	provinces={
 		16666
 	}

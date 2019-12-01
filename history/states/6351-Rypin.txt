@@ -1,6 +1,6 @@
 state={
 	id=6351
-	name="Rypin"
+	name="STATE_6351"
 	provinces={
 		16668
 	}
