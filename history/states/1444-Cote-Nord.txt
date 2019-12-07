@@ -14,7 +14,7 @@
 	}
 	
 	provinces={
-		7807 7893 10715 15288 15289 15290
+		7807 7893 10715 15288 15289
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
