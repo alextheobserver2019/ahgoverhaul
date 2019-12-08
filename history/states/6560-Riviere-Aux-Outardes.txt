@@ -8,5 +8,7 @@ state={
 	    owner = CAN
         add_core_of = CAN
     }	
+	manpower = 1000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }
