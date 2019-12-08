@@ -3,6 +3,7 @@ state={
 	name="STATE_6567"
 	provinces={
 		17181 
+	}
 	history={
 	    owner = NFL
         add_core_of = NFL
