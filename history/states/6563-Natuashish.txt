@@ -1,0 +1,14 @@
+state={
+	id=6563
+	name="STATE_6563"
+	provinces={
+		17186 
+	}
+	history={
+	    owner = NFL
+        add_core_of = NFL
+    }	
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
