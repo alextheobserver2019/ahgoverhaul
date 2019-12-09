@@ -1,0 +1,14 @@
+state={
+	id=6671
+	name="STATE_6671"
+	provinces={
+		16826 
+	}
+	history={
+	    owner = WTO
+        add_core_of = WTO
+    }	
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
