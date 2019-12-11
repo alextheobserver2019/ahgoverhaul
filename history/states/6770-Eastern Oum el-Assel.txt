@@ -1,0 +1,14 @@
+state={
+	id=6770
+	name="STATE_6770"
+	provinces={
+		16989 
+	}
+	history={
+	    owner = ALG
+        add_core_of = ALG
+    }	
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
