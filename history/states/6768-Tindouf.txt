@@ -5,7 +5,7 @@ state={
 		1958 
 	}
 	history={
-	    owner = ALG
+	    owner = FRA
         add_core_of = ALG
     }	
 	manpower = 1000
