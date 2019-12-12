@@ -2,7 +2,7 @@ state={
 	id=4995
 	name="STATE_4995"
 	provinces={
-		1897 10771 
+		10771 
 	}
 	history={
 		owner = FWA

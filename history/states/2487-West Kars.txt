@@ -2,7 +2,7 @@ state={
 	id=2487
 	name="STATE_2487"
 	provinces={
-		11753 789
+		789
 	}
 	history={
 		owner = TUR
