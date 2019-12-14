@@ -1,0 +1,14 @@
+state={
+	id=6906
+	name="STATE_6906"
+	provinces={
+		17336 
+	}
+	history={
+	    owner = SPR
+        add_core_of = WES
+    }	
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
