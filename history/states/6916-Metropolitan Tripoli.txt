@@ -5,7 +5,7 @@ state={
 		17362 
 	}
 	history={
-	    owner = KBA
+	    owner = LBA
         add_core_of = LBA
     }	
 	manpower = 1000
