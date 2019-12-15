@@ -4,6 +4,12 @@ state={
 	provinces={
 		17313 
 	}
-	manpower=0
+	history={
+	    owner = FWA
+        add_core_of = MLI
+        add_core_of = AZW
+    }	
+	manpower=1000
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 }

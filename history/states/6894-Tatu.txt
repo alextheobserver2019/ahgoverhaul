@@ -4,6 +4,12 @@ state={
 	provinces={
 		17273 
 	}
-	manpower=0
+	history={
+	    owner = FWA
+        add_core_of = IVO
+		add_claim_by = LIB
+    }	
+	manpower=1000
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 }

@@ -4,6 +4,10 @@ state={
 	provinces={
 		16780 
 	}
+	history={
+	    owner = UGA
+        add_core_of = UGA
+    }	
 	manpower=1000
 	state_category = pastoral
 	buildings_max_level_factor=1.000

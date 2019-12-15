@@ -4,6 +4,12 @@ state={
 	provinces={
 		17031 
 	}
-	manpower=0
+	history={
+	    owner = GRE
+        add_core_of = GRE
+        add_core_of = ION
+    }	
+	manpower=1000
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 }

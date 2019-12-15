@@ -4,6 +4,12 @@ state={
 	provinces={
 		17285 
 	}
-	manpower=0
+	history={
+	    owner = SIE
+        add_core_of = SIE
+		add_claim_by = LIB
+    }	
+	manpower=1000
+	state_category=pastoral
 	buildings_max_level_factor=1.000
 }

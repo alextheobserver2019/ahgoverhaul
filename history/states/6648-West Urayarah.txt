@@ -4,6 +4,10 @@ state={
 	provinces={
 		16972 
 	}
+	history={
+	    owner = SAU
+        add_core_of = SAU
+    }	
 	manpower=1000
 	state_category = pastoral
 	buildings_max_level_factor=1.000
