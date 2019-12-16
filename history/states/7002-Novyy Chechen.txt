@@ -1,0 +1,14 @@
+state={
+	id=7002
+	name="STATE_7002"
+	provinces={
+		700 
+	}
+	history={
+	    owner = SOV
+        add_core_of = SOV
+    }	
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
