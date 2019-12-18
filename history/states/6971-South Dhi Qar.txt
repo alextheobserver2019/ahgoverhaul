@@ -4,6 +4,11 @@ state={
 	provinces={
 		14603 14604 
 	}
-	manpower=0
+	history={
+	    owner = IRQ
+        add_core_of = IRQ
+    }	
+	manpower = 1000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }
