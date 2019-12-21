@@ -2,7 +2,7 @@ state={
 	id=6370
 	name="STATE_6370"
 	provinces={
-		4060 4962 13249 16998 
+		4060 4962 13249 
 	}
 	history={
 	    owner = LBA

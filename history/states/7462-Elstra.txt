@@ -1,0 +1,9 @@
+state={
+	id=7462
+	name="STATE_7462"
+	provinces={
+		17153 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
