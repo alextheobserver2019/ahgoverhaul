@@ -1,0 +1,14 @@
+state={
+	id=7557
+	name="STATE_7557"
+	provinces={
+		17261 
+	}
+	history={
+	    owner = BRA
+        add_core_of = BRA
+    }	
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
