@@ -5,9 +5,10 @@ state={
 		14372 
 	}
 	history={
-	    owner = ADN
+	    owner = AWH
+        add_core_of = YEM
         add_core_of = ADN
-       # add_core_of = add sultanate core here
+        add_core_of = AWH
     }	
 	manpower=1000
 	state_category = pastoral
