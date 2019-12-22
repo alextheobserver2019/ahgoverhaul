@@ -1,0 +1,14 @@
+state={
+	id=6672
+	name="STATE_6672"
+	provinces={
+		16819 
+	}
+	history={
+	    owner = GHA
+        add_core_of = GHA
+    }	
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

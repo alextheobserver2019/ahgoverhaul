@@ -1,0 +1,14 @@
+state={
+	id=6403
+	name="STATE_6403"
+	provinces={
+		10893 
+	}
+	history={
+	    owner = FEA
+        add_core_of = CHD
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

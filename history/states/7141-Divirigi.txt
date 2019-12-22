@@ -1,0 +1,14 @@
+state={
+	id=7141
+	name="STATE_7141"
+	provinces={
+		9761 
+	}
+	history={
+	    owner = TUR
+        add_core_of = TUR
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=7124
+	name="STATE_7124"
+	provinces={
+		3682 6701 
+	}
+	history={
+	    owner = SOV
+        add_core_of = SOV
+        add_core_of = RUS
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

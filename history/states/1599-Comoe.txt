@@ -13,7 +13,7 @@ state={
 	}
 	
 	provinces={
-		5013 16199
+		16199
 	}
 	manpower=802034
 	buildings_max_level_factor=1.000

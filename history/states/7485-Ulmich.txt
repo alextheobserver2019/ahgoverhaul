@@ -1,0 +1,14 @@
+state={
+	id=7485
+	name="STATE_7485"
+	provinces={
+		17123 
+	}
+	history={
+	    owner = SWI
+        add_core_of = SWI
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

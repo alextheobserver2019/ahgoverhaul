@@ -1,0 +1,14 @@
+state={
+	id=6989
+	name="STATE_6989"
+	provinces={
+		14594 
+	}
+	history={
+	    owner = SYR
+        add_core_of = SYR
+    }	
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

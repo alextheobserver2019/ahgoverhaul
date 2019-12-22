@@ -1,0 +1,15 @@
+state={
+	id=7073
+	name="STATE_7073"
+	provinces={
+		15638 
+	}
+	history={
+	    owner = RAJ
+		add_core_of = BUR
+        # add_core_of = add princely state here
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

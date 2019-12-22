@@ -1,0 +1,15 @@
+state={
+	id=7590
+	name="STATE_7590"
+	provinces={
+		12392 12433 
+	}
+	history={
+	    owner = VIN
+        add_core_of = LAO
+		add_claim_by = VIN
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

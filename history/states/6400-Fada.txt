@@ -1,0 +1,14 @@
+state={
+	id=6400
+	name="STATE_6400"
+	provinces={
+		16914 
+	}
+	history={
+	    owner = FEA
+        add_core_of = CHD
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

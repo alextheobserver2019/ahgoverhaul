@@ -1,0 +1,15 @@
+state={
+	id=6888
+	name="STATE_6888"
+	provinces={
+		1115 
+	}
+	history={
+	    owner = FWA
+        add_core_of = MLI
+        add_core_of = AZW
+    }	
+	manpower=1000
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}

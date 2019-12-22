@@ -9,7 +9,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = BUL
+		owner = GRE
+		add_core_of = GRE
 		add_core_of = BUL
 	}
 	

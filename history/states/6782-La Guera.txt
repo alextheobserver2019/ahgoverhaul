@@ -1,0 +1,15 @@
+state={
+	id=6782
+	name="STATE_6782"
+	provinces={
+		17215 
+	}
+	history={
+	    owner = SPR
+        add_core_of = WES
+        add_core_of = MOR
+    }	
+	manpower=1000
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}

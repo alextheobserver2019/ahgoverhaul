@@ -1,0 +1,14 @@
+state={
+	id=7119
+	name="STATE_7119"
+	provinces={
+		2071 
+	}
+	history={
+	    owner = PER
+        add_core_of = PER
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

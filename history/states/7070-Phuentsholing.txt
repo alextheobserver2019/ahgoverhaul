@@ -1,0 +1,15 @@
+state={
+	id=7070
+	name="STATE_7070"
+	provinces={
+		16982 
+	}
+	history={
+	    owner = RAJ
+        add_core_of = RAJ
+        add_core_of = ASM
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

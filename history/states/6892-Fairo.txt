@@ -1,0 +1,15 @@
+state={
+	id=6892
+	name="STATE_6892"
+	provinces={
+		17286 
+	}
+	history={
+	    owner = SIE
+        add_core_of = SIE
+		add_claim_by = LIB
+    }	
+	manpower=1000
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}

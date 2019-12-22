@@ -1,0 +1,14 @@
+state={
+	id=6479
+	name="STATE_6479"
+	provinces={
+		16687 
+	}
+	history={
+	    owner = POR
+        add_core_of = ANG
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

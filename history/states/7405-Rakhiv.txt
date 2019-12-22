@@ -1,0 +1,16 @@
+state={
+	id=7405
+	name="STATE_7405"
+	provinces={
+		17421 
+	}
+	history={
+	    owner = CZE
+        add_core_of = CZE
+        add_core_of = SLO
+        add_core_of = CRP
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

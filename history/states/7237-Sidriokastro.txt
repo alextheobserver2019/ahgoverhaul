@@ -1,0 +1,14 @@
+state={
+	id=7237
+	name="STATE_7237"
+	provinces={
+		17039 
+	}
+	history={
+	    owner = GRE
+        add_core_of = GRE
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

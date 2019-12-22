@@ -1,0 +1,14 @@
+state={
+	id=7326
+	name="STATE_7326"
+	provinces={
+		17397 
+	}
+	history={
+	    owner = YUG
+        add_core_of = YUG
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

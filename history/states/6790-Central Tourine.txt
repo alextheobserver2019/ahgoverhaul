@@ -1,0 +1,14 @@
+state={
+	id=6790
+	name="STATE_6790"
+	provinces={
+		10838 
+	}
+	history={
+	    owner = FWA
+        add_core_of = MRT
+    }	
+	manpower=1000
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+}

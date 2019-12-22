@@ -1,0 +1,14 @@
+state={
+	id=7482
+	name="STATE_7482"
+	provinces={
+		17443 
+	}
+	history={
+	    owner = IRE
+        add_core_of = IRE
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
