@@ -5,8 +5,10 @@ state={
 		9626 
 	}
 	history={
-	    owner = TUR
-        add_core_of = TUR
+	    owner = SOV
+        add_core_of = SOV
+        add_core_of = GEO
+        add_core_of = SOS
     }	
 	manpower=1000
 	state_category = pastoral
