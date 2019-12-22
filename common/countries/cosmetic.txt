@@ -727,6 +727,34 @@ BRA_POR = {
 	color = rgb { 39 116 70 }
 	color_ui = rgb { 51 151 91 }
 }
+MZB_POR = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
+MCU_POR = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
+ANG_POR = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
+GNB_POR = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
+CVD_POR = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
+SAO_POR = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
+ETM_POR = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
 HSP_unified = {
 	color = rgb { 141 103 125 }
 	color_ui = rgb { 141 103 125 }

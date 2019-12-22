@@ -3,7 +3,8 @@ state={
 	name="STATE_1182"
 	state_category = enclave
 	history={
-		owner = FRA
+		owner = FND
+		add_core_of = FND
 		add_core_of = RAJ
 		victory_points = {
 			13343 1 

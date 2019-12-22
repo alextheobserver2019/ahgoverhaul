@@ -5,7 +5,7 @@ state={
 	state_category=town
 
 	history={
-		owner = POR
+		owner = ETM
 		add_core_of = POR
 		add_core_of = ETM
 		add_core_of = LSU

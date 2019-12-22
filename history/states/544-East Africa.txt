@@ -4,7 +4,7 @@ state={
 	name="STATE_544"
 
 	history={
-		owner = POR
+		owner = MZB
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

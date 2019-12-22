@@ -54,350 +54,350 @@ add_ideas = {
 
 set_convoys = 800
 # DIPLOMACY
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = PLS
-		autonomous_state = autonomy_puppet
-		freedom_level = 0.2
-	  }
-	set_autonomy = {
-		target = TGA
-		autonomous_state = autonomy_puppet
-		freedom_level = 0.2
-	  }
-	set_autonomy = {
-		target = HKG
-		autonomous_state = autonomy_colony
-		freedom_level = 0.2
-	  }
-	set_autonomy = {
-		target = KEL
-		autonomous_state = autonomy_puppet
-		freedom_level = 0.2
-	  }
-	set_autonomy = {
-		target = JOH
-		autonomous_state = autonomy_puppet
-		freedom_level = 0.2
-	  }
-	set_autonomy = {
-		target = KED
-		autonomous_state = autonomy_puppet
-		freedom_level = 0.2
-	  }
-	set_autonomy = {
-		target = MAL
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = RAJ
-		autonomous_state = autonomy_colony
-		freedom_level = 0.35
-	}
-	set_autonomy = {
-		target = CAN
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.4
-	}
-	set_autonomy = {
-		target = SAF
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.4
-	}
-	set_autonomy = {
-		target = AST
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = NZL
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = PAL
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = JOR
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = EGY
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = BEI
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = SRW
-		autonomous_state = autonomy_dominion
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = BOT
-		autonomous_state = autonomy_puppet
-		freedom_level = 0.2
-	}
-	set_autonomy = {
-		target = ZIM
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = ZAM
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = BHU
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = TZN
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = MLW
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = UGA
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = KEN
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = SUD
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = SML
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = LES
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = SWZ
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = NGA
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = GHA
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = MRS
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = SEY
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = MLD
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = SIE
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = GAM
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = SRL
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = NBO
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = ZAN
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = GYA
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = BLZ
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = BAH
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = JAM
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = BAS
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = BSA
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = TRI
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = BAR
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = NFL
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = IRE
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = MLT
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = CYP
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = KIR
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = PTC
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = FIJ
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = SLM
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = NCM
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = SCM
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = WTO
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = STR
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = TON
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = SKM
-		autonomous_state = autonomy_dominion
-	}
-	set_autonomy = {
-		target = GIB
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = BER
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = STH
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = FAL
-		autonomous_state = autonomy_colony
-	}
-	else = {
-		puppet = MAL
-		puppet = RAJ
-		puppet = PAL
-		puppet = JOR
-		puppet = BEI
-		puppet = SRW
-		puppet = BOT
-		puppet = ZIM
-		puppet = ZAM
-		puppet = TZN
-		puppet = MLW
-		puppet = UGA
-		puppet = KEN
-		puppet = SUD
-		puppet = SML
-		puppet = LES
-		puppet = SWZ
-		puppet = NGA
-		puppet = GHA
-		puppet = MRS
-		puppet = SEY
-		puppet = MLD
-		puppet = SIE
-		puppet = GAM
-		puppet = SRL
-		puppet = NBO
-		puppet = ZAN
-		puppet = SKM
-		puppet = BHU
-		puppet = GYA
-		puppet = BLZ
-		puppet = BAH
-		puppet = JAM
-		puppet = NFL
-		puppet = IRE
-		puppet = MLT
-		puppet = CYP
-		puppet = KIR
-		puppet = FIJ
-		puppet = PTC
-		puppet = SLM
-		puppet = NCM
-		puppet = SCM
-		puppet = WTO
-		puppet = STR
-		puppet = TON
-		puppet = BAS
-		puppet = BSA
-		puppet = TRI
-		puppet = BAR
-		puppet = GIB
-		puppet = FAL
-		puppet = BER
-		puppet = STH
-		puppet = PLS
-		puppet = TGA
-		puppet = HKG
-		puppet = KEL
-		puppet = JOH
-		puppet = KED
-	}
-}
+#if = {
+	#limit = {
+	#	has_dlc = "Together for Victory"
+	#}
+	#set_autonomy = {
+	#	target = PLS
+	#	autonomous_state = autonomy_puppet
+	#	freedom_level = 0.2
+	#  }
+	#set_autonomy = {
+	#	target = TGA
+	#	autonomous_state = autonomy_puppet
+	#	freedom_level = 0.2
+	#  }
+	#set_autonomy = {
+	#	target = HKG
+	#	autonomous_state = autonomy_colony
+	#	freedom_level = 0.2
+	#  }
+	#set_autonomy = {
+	#	target = KEL
+	#	autonomous_state = autonomy_puppet
+	#	freedom_level = 0.2
+	#  }
+	#set_autonomy = {
+	#	target = JOH
+	#	autonomous_state = autonomy_puppet
+	#	freedom_level = 0.2
+	#  }
+	#set_autonomy = {
+	#	target = KED
+	#	autonomous_state = autonomy_puppet
+	#	freedom_level = 0.2
+	#  }
+	#set_autonomy = {
+	#	target = MAL
+	#	autonomous_state = autonomy_dominion
+	#}
+	#set_autonomy = {
+	#	target = RAJ
+	#	autonomous_state = autonomy_colony
+	#	freedom_level = 0.35
+	#}
+	#set_autonomy = {
+	#	target = CAN
+	#	autonomous_state = autonomy_dominion
+	#	freedom_level = 0.4
+	#}
+	#set_autonomy = {
+	#	target = SAF
+	#	autonomous_state = autonomy_dominion
+	#	freedom_level = 0.4
+	#}
+	#set_autonomy = {
+	#	target = AST
+	#	autonomous_state = autonomy_dominion
+	#	freedom_level = 0.2
+	#}
+	#set_autonomy = {
+	#	target = NZL
+	#	autonomous_state = autonomy_dominion
+	#	freedom_level = 0.2
+	#}
+	#set_autonomy = {
+	#	target = PAL
+	#	autonomous_state = autonomy_dominion
+	#	freedom_level = 0.2
+	#}
+	#set_autonomy = {
+	#	target = JOR
+	#	autonomous_state = autonomy_dominion
+	#	freedom_level = 0.2
+	#}
+	#set_autonomy = {
+	#	target = EGY
+	#	autonomous_state = autonomy_dominion
+	#	freedom_level = 0.2
+	#}
+	#set_autonomy = {
+	#	target = BEI
+	#	autonomous_state = autonomy_dominion
+	#	freedom_level = 0.2
+	#}
+	#set_autonomy = {
+	#	target = SRW
+	#	autonomous_state = autonomy_dominion
+	#	freedom_level = 0.2
+	#}
+	#set_autonomy = {
+	#	target = BOT
+	#	autonomous_state = autonomy_puppet
+	#	freedom_level = 0.2
+	#}
+	#set_autonomy = {
+	#	target = ZIM
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = ZAM
+	#	autonomous_state = autonomy_dominion
+	#}
+	#set_autonomy = {
+	#	target = BHU
+	#	autonomous_state = autonomy_dominion
+	#}
+	#set_autonomy = {
+	#	target = TZN
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = MLW
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = UGA
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = KEN
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = SUD
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = SML
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = LES
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = SWZ
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = NGA
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = GHA
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = MRS
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = SEY
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = MLD
+	#	autonomous_state = autonomy_dominion
+	#}
+	#set_autonomy = {
+	#	target = SIE
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = GAM
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = SRL
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = NBO
+	#	autonomous_state = autonomy_dominion
+	#}
+	#set_autonomy = {
+	#	target = ZAN
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = GYA
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = BLZ
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = BAH
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = JAM
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = BAS
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = BSA
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = TRI
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = BAR
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = NFL
+	#	autonomous_state = autonomy_dominion
+	#}
+	#set_autonomy = {
+	#	target = IRE
+	#	autonomous_state = autonomy_dominion
+	#}
+	#set_autonomy = {
+	#	target = MLT
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = CYP
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = KIR
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = PTC
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = FIJ
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = SLM
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = NCM
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = SCM
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = WTO
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = STR
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = TON
+	#	autonomous_state = autonomy_dominion
+	#}
+	#set_autonomy = {
+	#	target = SKM
+	#	autonomous_state = autonomy_dominion
+	#}
+	#set_autonomy = {
+	#	target = GIB
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = BER
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = STH
+	#	autonomous_state = autonomy_colony
+	#}
+	#set_autonomy = {
+	#	target = FAL
+	#	autonomous_state = autonomy_colony
+	#}
+	#else = {
+	#	puppet = MAL
+	#	puppet = RAJ
+	#	puppet = PAL
+	#	puppet = JOR
+	#	puppet = BEI
+	#	puppet = SRW
+	#	puppet = BOT
+	#	puppet = ZIM
+	#	puppet = ZAM
+	#	puppet = TZN
+	#	puppet = MLW
+	#	puppet = UGA
+	#	puppet = KEN
+	#	puppet = SUD
+	#	puppet = SML
+	#	puppet = LES
+	#	puppet = SWZ
+	#	puppet = NGA
+	#	puppet = GHA
+	#	puppet = MRS
+	#	puppet = SEY
+	#	puppet = MLD
+	#	puppet = SIE
+	#	puppet = GAM
+	#	puppet = SRL
+	#	puppet = NBO
+	#	puppet = ZAN
+	#	puppet = SKM
+	#	puppet = BHU
+	#	puppet = GYA
+	#	puppet = BLZ
+	#	puppet = BAH
+	#	puppet = JAM
+	#	puppet = NFL
+	#	puppet = IRE
+	#	puppet = MLT
+	#	puppet = CYP
+	#	puppet = KIR
+	#	puppet = FIJ
+	#	puppet = PTC
+	#	puppet = SLM
+	#	puppet = NCM
+	#	puppet = SCM
+	#	puppet = WTO
+	#	puppet = STR
+	#	puppet = TON
+	#	puppet = BAS
+	#	puppet = BSA
+	#	puppet = TRI
+	#	puppet = BAR
+	#	puppet = GIB
+	#	puppet = FAL
+	#	puppet = BER
+	#	puppet = STH
+	#	puppet = PLS
+	#	puppet = TGA
+	#	puppet = HKG
+	#	puppet = KEL
+	#	puppet = JOH
+	#	puppet = KED
+	#}
+#}
 
 
 if = {

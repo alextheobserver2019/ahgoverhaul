@@ -3,7 +3,7 @@ state={
 	name="STATE_2811"
 	history={
 		
-		owner = POR 
+		owner = CVD 
 		add_core_of = CVD
 		buildings = {
 			infrastructure = 4

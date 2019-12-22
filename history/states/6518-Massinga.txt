@@ -5,7 +5,7 @@ state={
 		2193 
 	}
 	history={
-	    owner = POR
+	    owner = MZB
         add_core_of = MZB
     }	
 	manpower=1000
