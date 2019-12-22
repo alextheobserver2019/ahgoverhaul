@@ -5,9 +5,9 @@ state={
 		15638 
 	}
 	history={
-	    owner = RAJ
+	    owner = NNP
 		add_core_of = BUR
-        # add_core_of = add princely state here
+        add_core_of = NNP
     }	
 	manpower=1000
 	state_category = pastoral

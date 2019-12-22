@@ -5,10 +5,10 @@ state={
 		14834 
 	}
 	history={
-	    owner = ADN
+	    owner = AQR
         add_core_of = ADN
         add_core_of = YEM
-		#Yemen Sultanate core here
+        add_core_of = AQR
     }	
 	manpower=1000
 	state_category = pastoral

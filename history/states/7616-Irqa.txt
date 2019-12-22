@@ -5,9 +5,9 @@ state={
 		17203 
 	}
 	history={
-	    owner = ADN
+	    owner = AIQ
         add_core_of = ADN
-       # add_core_of = add sultanate core here
+        add_core_of = AIQ
     }	
 	manpower=1000
 	state_category = pastoral

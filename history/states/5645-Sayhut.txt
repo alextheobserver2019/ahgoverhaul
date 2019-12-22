@@ -5,8 +5,10 @@ state={
 		14561 
 	}
 	history={
-	    owner = ADN
+	    owner = WBA
         add_core_of = ADN
+        add_core_of = YEM
+        add_core_of = WBA
     }	
 	manpower = 1000
 	state_category = rural
