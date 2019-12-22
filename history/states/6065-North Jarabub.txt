@@ -5,6 +5,7 @@ state={
 		1060 
 	}
 	manpower = 1000
+	impassable = yes
 	
 	state_category = pastoral
 

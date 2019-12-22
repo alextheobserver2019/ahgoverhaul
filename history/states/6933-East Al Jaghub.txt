@@ -9,6 +9,7 @@ state={
         add_core_of = EGY
     }	
 	manpower = 1000
+	impassable = yes
 	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

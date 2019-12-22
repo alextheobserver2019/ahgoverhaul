@@ -6,9 +6,10 @@ state={
 	}
 	history={
 	    owner = FWA
-        add_core_of = FWA
+        add_core_of = MLI
     }	
 	manpower = 1000
 	state_category = pastoral
+	impassable = yes
 	buildings_max_level_factor=1.000
 }

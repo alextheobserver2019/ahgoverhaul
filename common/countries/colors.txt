@@ -3804,3 +3804,115 @@ RJG = {
 color = rgb { 170 10 10 }
 color_ui = rgb { 170 10 10 }
 }
+NNP = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+WDN = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+EDN = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+ADE = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+LHJ = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+AQR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+AWI = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+HSH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MFL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+SHB = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+UYF = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+LYF = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+FDH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+ADH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+LAQ = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+ASL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+ASH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+BHN = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+DTH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+AHL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+QTI = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+KTR = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+MHA = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+WBL = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+WBH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+WBA = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+AWH = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
+AIQ = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
