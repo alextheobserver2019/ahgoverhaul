@@ -4,6 +4,12 @@ state={
 	provinces={
 		15638 
 	}
-	manpower=0
+	history={
+	    owner = RAJ
+		add_core_of = BUR
+        # add_core_of = add princely state here
+    }	
+	manpower=1000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

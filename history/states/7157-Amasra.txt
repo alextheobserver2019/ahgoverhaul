@@ -4,6 +4,11 @@ state={
 	provinces={
 		11883 
 	}
-	manpower=0
+	history={
+	    owner = TUR
+        add_core_of = TUR
+    }	
+	manpower=1000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }

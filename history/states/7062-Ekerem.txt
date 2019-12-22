@@ -4,6 +4,12 @@ state={
 	provinces={
 		12359 
 	}
-	manpower=0
+	history={
+	    owner = SOV
+        add_core_of = SOV
+        add_core_of = TMS
+    }	
+	manpower=1000
+	state_category = pastoral
 	buildings_max_level_factor=1.000
 }
