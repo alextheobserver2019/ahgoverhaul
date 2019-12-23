@@ -9,6 +9,7 @@ set_technology = {
 	early_fighter = 1
 }
 
+set_cosmetic_tag = MTQ_FRA
 
 set_convoys = 10
 

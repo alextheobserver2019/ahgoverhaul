@@ -5,7 +5,8 @@ state={
 		17337 
 	}
 	history={
-	    owner = SPR
+	    owner = RDO
+        add_core_of = RDO
         add_core_of = WES
     }	
 	manpower = 1000

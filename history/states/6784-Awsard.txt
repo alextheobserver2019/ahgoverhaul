@@ -5,7 +5,8 @@ state={
 		17217 
 	}
 	history={
-	    owner = SPR
+	    owner = SEH
+        add_core_of = SEH
         add_core_of = WES
         add_core_of = MOR
     }	

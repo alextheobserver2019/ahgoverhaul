@@ -5,7 +5,7 @@ state={
 	state_category=rural
 
 	history={
-		owner = FRA
+		owner = CAY
 		add_core_of = CAY
 		buildings = {
 			infrastructure = 2

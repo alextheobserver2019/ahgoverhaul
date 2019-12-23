@@ -4,7 +4,7 @@ state={
 	name="STATE_547"
 
 	history={
-		owner = KEN
+		owner = MMB
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -17,6 +17,7 @@ state={
 		victory_points = {
 			5210 1 
 		}
+		add_core_of = MMB
 		add_core_of = KEN
 		add_claim_by = ZAN
 

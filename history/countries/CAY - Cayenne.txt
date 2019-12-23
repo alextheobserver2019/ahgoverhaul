@@ -9,7 +9,7 @@ set_technology = {
 
 set_convoys = 5
 
-
+set_cosmetic_tag = CAY_FRA
 
 	set_popularities = {
 		democratic 
