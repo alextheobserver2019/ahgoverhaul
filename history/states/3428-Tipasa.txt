@@ -9,8 +9,7 @@ state={
 	state_category = pastoral
 
 	history={
-	    owner = SGR
-        add_core_of = SGR
+	    owner = FRA
         add_core_of = ALG
 		buildings = {
 			infrastructure = 1
