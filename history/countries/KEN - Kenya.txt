@@ -1,4 +1,4 @@
-﻿capital = 547
+﻿capital = 1537
 
 oob = "KEN_1936"
 

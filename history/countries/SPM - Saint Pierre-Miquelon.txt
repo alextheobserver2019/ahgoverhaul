@@ -10,6 +10,7 @@ set_technology = {
 }
 
 
+set_cosmetic_tag = SPM_FRA
 set_convoys = 10
 
 

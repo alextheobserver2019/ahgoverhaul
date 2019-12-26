@@ -3920,3 +3920,35 @@ FND = {
 color = rgb { 37 72 155 }
 color_ui = rgb { 37 72 155 }
 }
+WAF = {
+color = rgb { 37 72 155 }
+color_ui = rgb { 37 72 155 }
+}
+INI = {
+color = rgb { 37 72 155 }
+color_ui = rgb { 37 72 155 }
+}
+SGR = {
+color = rgb { 37 72 155 }
+color_ui = rgb { 37 72 155 }
+}
+IFN = {
+color = rgb { 224 198 94 }
+color_ui = rgb { 224 198 94 }
+}
+RDO = {
+color = rgb { 224 198 94 }
+color_ui = rgb { 224 198 94 }
+}
+SEH = {
+color = rgb { 224 198 94 }
+color_ui = rgb { 224 198 94 }
+}
+MMB = {
+color = rgb { 150 26 10 }
+color_ui = rgb { 150 26 10 }
+}
+HSL = {
+color = rgb { 150 26 10 }
+color_ui = rgb { 150 26 10 }
+}

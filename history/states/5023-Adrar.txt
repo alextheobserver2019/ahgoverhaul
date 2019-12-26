@@ -5,12 +5,9 @@ state={
 		12839 
 	}
 	history={
-		owner = FRA
-		buildings = {
-			infrastructure = 3
-
-		}
-		add_core_of = ALG
+	    owner = SGR
+        add_core_of = SGR
+        add_core_of = ALG
 
 	}
 	manpower=1030

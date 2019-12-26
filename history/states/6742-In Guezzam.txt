@@ -5,10 +5,12 @@ state={
 		16926 
 	}
 	history={
-	    owner = FRA
+	    owner = SGR
+        add_core_of = SGR
         add_core_of = ALG
     }	
 	manpower = 1000
 	state_category = pastoral
+	impassable = yes
 	buildings_max_level_factor=1.000
 }

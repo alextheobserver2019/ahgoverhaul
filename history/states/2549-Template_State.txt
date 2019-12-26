@@ -2,7 +2,8 @@ state={
 	id=2549
 	name="STATE_2549"
 	history={
-		owner = FRA 
+		owner = WAF 
+		add_core_of = WAF
 		buildings = {
 			infrastructure = 4
 			

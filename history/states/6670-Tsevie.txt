@@ -5,8 +5,8 @@ state={
 		16827 
 	}
 	history={
-	    owner = WTO
-        add_core_of = WTO
+	    owner = GHA
+        add_core_of = GHA
     }	
 	manpower = 1000
 	state_category = pastoral

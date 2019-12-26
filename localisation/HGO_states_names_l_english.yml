@@ -2215,7 +2215,7 @@
  STATE_2214:0 "Medina"
  STATE_2215:0 "Ryiadh"
  STATE_2216:0 "Inner Cape Juby"
- STATE_2217:0 "Upper Shan"
+ STATE_2217:0 "Taunggyi"
  STATE_2218:0 "Kokang"
  STATE_2219:0 "Buraydah"
  STATE_2220:0 "Kachin"
@@ -7614,4 +7614,8 @@
  STATE_7613:0 "Haverhill"
  STATE_7614:0 "Thetford Mines"
  STATE_7615:0 "Lark Harbour"
+ STATE_7616:0 "Irqa"
+ STATE_7617:0 "Haura"
+ STATE_7618:0 "East Djelfa"
+ STATE_7619:0 "South Bou Saada"
 

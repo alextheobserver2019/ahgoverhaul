@@ -3,7 +3,7 @@ state={
 	name="STATE_853"
 
 	history={
-		owner = SPR
+		owner = IFN
 		buildings = {
 			infrastructure = 2
 			12857 = {
@@ -12,6 +12,7 @@ state={
 			}
 
 		}
+		add_core_of = IFN
 		add_core_of = MOR
 
 	}
