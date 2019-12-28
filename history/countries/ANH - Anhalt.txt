@@ -11,20 +11,44 @@ set_technology = {
 
 set_convoys = 10
 
+set_popularities = {
+	democratic 
+		= 0
+	fascism
+		= 30
+	communism
+		= 0
+	neutrality
+		= 0
+	monarchism
+		= 70
+		}
 
-
-	set_popularities = {
-        democratic =  25
-        communism =  25
-        fascism =  25
-        neutrality =  25
-
-	}
-	
-	set_politics = { 
- ruling_party = neutrality
-	last_election = "1936.1.1"
-	election_frequency = 48
+set_politics = { 
+	ruling_party = monarchism
+	last_election = "1960.1.1"
+	election_frequency = 50
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Joachim Ernst von Askanier"
+	desc = ""
+	picture = "ANH_Joachim.tga"
+	expire = "1960.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Fritz Sauckel"
+	desc = ""
+	picture = "ANH_Sauckel.tga"
+	expire = "1960.1.1"
+	ideology = nazism
+	traits = {
+		#
+	}
+}

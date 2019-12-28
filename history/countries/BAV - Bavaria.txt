@@ -18,29 +18,30 @@ set_technology = {
 	transport = 1
 }
 
-
-
-	set_popularities = {
-		democratic 
-			 = 10
-		fascism
-			 = 30
-		communism
-			 = 10
-		neutrality
-			 = 50
-		}
-	set_politics = { 
- ruling_party = democratic
+set_popularities = {
+	democratic 
+		= 10
+	fascism
+		= 30
+	communism
+		= 10
+	neutrality
+		= 0
+	monarchism
+		= 50
+	}
+	
+set_politics = { 
+	ruling_party = monarchism
 	last_election = "1960.1.1"
 	election_frequency = 50
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Paul Giesler"
+	name = "Franz Ritter von Epp"
 	desc = ""
-	picture = "Portrait_Bavaria_Paul Giesler.dds"
+	picture = "BAV_Epp.tga"
 	expire = "1960.1.1"
 	ideology = nazism
 	traits = {
@@ -51,7 +52,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Ernst Toller"
 	desc = ""
-	picture = "Portrait_Bavaria_Ernst.dds"
+	picture = "BAV_Toller.tga"
 	expire = "1960.1.1"
 	ideology = stalinism
 	traits = {
@@ -60,22 +61,22 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Fritz Schäffer"
+	name = "Heinrich Held"
 	desc = ""
-	picture = "Portrait_Bavaria_Fritz.dds"
+	picture = "BAV_Held.tga"
 	expire = "1960.1.1"
-	ideology = socialism
+	ideology = conservatism
 	traits = {
 		
 	}
 }
 
 create_country_leader = {
-	name = "Prince Rupprecht"
+	name = "Rupprecht von Wittelsbach"
 	desc = ""
-	picture = "Portrait_Bavaria_Rupprecht.dds"
+	picture = "BAV_Rupprecht.tga"
 	expire = "1951.1.1"
-	ideology = despotism
+	ideology = absolutism
 	traits = {
 	}
 }

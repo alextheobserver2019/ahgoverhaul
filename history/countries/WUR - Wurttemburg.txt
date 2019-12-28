@@ -17,55 +17,44 @@ set_technology = {
 	early_battleship = 1
 	transport = 1
 }
-
-
-
-	set_popularities = {
-		democratic 
-			 = 20
-		fascism
-			 = 20
-		communism
-			 = 10
-		neutrality
-			 = 50
+set_popularities = {
+	democratic 
+		= 0
+	fascism
+		= 30
+	communism
+		= 0
+	neutrality
+		= 0
+	monarchism
+		= 70
 		}
-	set_politics = { 
- ruling_party = democratic
+
+set_politics = { 
+	ruling_party = monarchism
 	last_election = "1960.1.1"
 	election_frequency = 50
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Karl Wendlinger"
+	name = "Albrecht von Württemberg"
 	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_Generic_3.dds"
+	picture = "WUR_Albrecht.tga"
 	expire = "1960.1.1"
-	ideology = nazism
+	ideology = absolutism
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Heinrich Daluege"
+	name = "Wilhelm Murr"
 	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_Generic_1.dds"
+	picture = "WUR_Murr.tga"
 	expire = "1960.1.1"
-	ideology = stalinism
+	ideology = nazism
 	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Johann Ungerer"
-	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_Generic_2.dds"
-	expire = "1960.1.1"
-	ideology = socialism
-	traits = {
-		
+		#
 	}
 }

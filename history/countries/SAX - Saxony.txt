@@ -18,54 +18,44 @@ set_technology = {
 	transport = 1
 }
 
+set_popularities = {
+	democratic 
+		= 0
+	fascism
+		= 30
+	communism
+		= 0
+	neutrality
+		= 0
+	monarchism
+		= 70
+	}
 
-
-	set_popularities = {
-		democratic 
-			 = 20
-		fascism
-			 = 39
-		communism
-			 = 0
-		neutrality
-			 = 41
-		}
-	set_politics = { 
- ruling_party = neutrality
+set_politics = { 
+	ruling_party = monarchism
 	last_election = "1960.1.1"
 	election_frequency = 50
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Martin Mutschmann"
+	name = "Georg von Wettin"
 	desc = ""
-	picture = "Portrait_Saxony_Martin_Mutschmann.dds"
+	picture = "SAX_Georg.tga"
 	expire = "1960.1.1"
-	ideology = nazism
+	ideology = absolutism
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Hugo Eberlein"
+	name = "Martin Mutschmann"
 	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_Generic_1.dds"
+	picture = "PRS_Mutschmann.tga"
 	expire = "1960.1.1"
-	ideology = stalinism
+	ideology = nazism
 	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Friedrich Christian"
-	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_Generic_2.dds"
-	expire = "1960.1.1"
-	ideology = socialism
-	traits = {
-		
+		#
 	}
 }

@@ -111,6 +111,16 @@ create_country_leader = {
 }
 
 create_country_leader = {
+	name = "Wilhelm II von Hohenzollern"
+	desc = ""
+	picture = "Portrait_Germany_Wilhelm_II.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+	}
+}
+
+create_country_leader = {
 	name = "Wilhelm Pieck"
 	desc = "POLITICS_WILHELM_PIECK_DESC"
 	picture = "Portrait_Germany_Wilhelm_Pieck.dds"

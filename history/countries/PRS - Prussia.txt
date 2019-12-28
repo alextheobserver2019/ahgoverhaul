@@ -18,64 +18,44 @@ set_technology = {
 	transport = 1
 }
 
-
-
-	set_popularities = {
-		democratic 
-			 = 10
-		fascism
-			 = 60
-		communism
-			 = 0
-		neutrality
-			 = 30
+set_popularities = {
+	democratic 
+		= 0
+	fascism
+		= 30
+	communism
+		= 0
+	neutrality
+		= 0
+	monarchism
+		= 70
 		}
-	set_politics = { 
- ruling_party = fascism
+
+set_politics = { 
+	ruling_party = monarchism
 	last_election = "1960.1.1"
 	election_frequency = 50
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Hermann Göring"
+	name = "Wilhelm II von Hohenzollern"
 	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_Hermann_Goring.dds"
+	picture = "PRS_WilhelmII.tga"
 	expire = "1960.1.1"
-	ideology = nazism
+	ideology = absolutism
 	traits = {
 		#
 	}
 }
 
 create_country_leader = {
-	name = "Hugo Eberlein"
+	name = "Hermann Göring"
 	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_Generic_1.dds"
+	picture = "PRS_Goering.tga"
 	expire = "1960.1.1"
-	ideology = stalinism
+	ideology = nazism
 	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Gustav Bauer"
-	desc = ""
-	picture = "Portrait_Prussia_Gustav.dds"
-	expire = "1960.1.1"
-	ideology = socialism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Wilhelm II"
-	desc = ""
-	picture = "gfx/leaders/GER/Portrait_Germany_wilhelm_ii.dds"
-	expire = "1951.1.1"
-	ideology = despotism
-	traits = {
+		#
 	}
 }
