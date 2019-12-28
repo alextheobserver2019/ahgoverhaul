@@ -5,8 +5,7 @@ state={
 		16859 
 	}
 	history={
-	    owner = NCM
-        add_core_of = NCM
+	    owner = NGA
         add_core_of = NGA
     }	
 	manpower=1000
