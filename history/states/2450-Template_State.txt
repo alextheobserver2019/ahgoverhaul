@@ -2,8 +2,9 @@ state={
 	id=2450
 	name="STATE_2450"
 	history={
-		owner = USA
+		owner = HON
 		add_core_of = HON 
+		add_claim_by = BLZ
 		buildings = {
 			infrastructure = 4
 			
