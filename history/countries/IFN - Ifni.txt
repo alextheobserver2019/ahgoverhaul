@@ -24,9 +24,9 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "To Be Added"
+	name = "Benigno Martínez Portillo"
 	desc = ""
-	picture = "To_be_added.dds"
+	picture = "RDO_Portillo.tga"
 	expire = "1965.1.1"
 	ideology = absolutism
 	traits = {

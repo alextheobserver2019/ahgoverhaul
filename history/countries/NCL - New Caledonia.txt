@@ -12,44 +12,30 @@ set_technology = {
 
 set_convoys = 5
 
+set_popularities = {
+	democratic 
+		= 5
+	fascism
+		= 5
+	communism
+		= 5
+	neutrality 
+		= 85
+	}
 
-
-	set_popularities = {
-		democratic 
-			 = 5
-		fascism
-			 = 5
-		communism
-			 = 5
-		neutrality 
-			 = 85
-		}
-	set_politics = { 
- ruling_party = neutrality
+set_politics = { 
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	
-	name = "Léonce Jore"
-	picture = "gfx/leaders/French Colonial/Leonce_Jore.dds"
+	name = "Bernard Jacques Victorin Siadous"
+	picture = "NCL_Siadous.tga"
 	expire = "1975.3.17"
 	ideology = despotism
 	traits = {
 		#
 	}
 }
-
-create_country_leader = {
-	
-	name = "Maurice Lenormand"
-	picture = "gfx/leaders/France/Maurice_Lenormand.dds"
-	expire = "2006.9.8"
-	ideology = conservatism
-	traits = {
-		#
-	}
-}
-

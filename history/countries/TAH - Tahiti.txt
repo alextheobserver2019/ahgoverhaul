@@ -12,55 +12,30 @@ set_technology = {
 
 set_convoys = 5
 
+set_popularities = {
+	democratic 
+		= 5
+	fascism
+		= 5
+	communism
+		= 5
+	neutrality 
+		= 85
+	}
 
-
-	set_popularities = {
-		democratic 
-			 = 5
-		fascism
-			 = 5
-		communism
-			 = 5
-		neutrality 
-			 = 85
-		}
-	set_politics = { 
- ruling_party = neutrality
+set_politics = { 
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
-
-create_country_leader = {
-	
-	name = "Teri'i nui o Tahiti"
-	picture = "gfx/leaders/Pacific/Teri'i.dds"
-	expire = "1989.6.4"
-	ideology = fascism_ideology
-	traits = {
-		#
-	}
-}
-
 create_country_leader = {
 	
 	name = "Henri Sautot"
-	picture = "gfx/leaders/French Colonial/Henri_Sautot.dds"
+	picture = "TAH_Sautot.tga"
 	expire = "1963.5.23"
 	ideology = despotism
 	traits = {
 		#
 	}
 }
-
-create_country_leader = {
-	
-	name = "Pouvanaa a Oopa"
-	picture = "gfx/leaders/Pacific/Pouvanaa_a_Oopa.dds"
-	expire = "1977.1.10"
-	ideology = conservatism
-	traits = {
-		#
-	}
-}
-

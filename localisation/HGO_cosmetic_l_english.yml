@@ -1730,6 +1730,12 @@
  VNC_GER_autonomy_colony_DEF:0 "Das Reichsland Venetien"
  VNC_GER_autonomy_dominion_DEF:0 "Venetien"
  
+ GER_NFRA:0 "Reichskommissariat Nordfrankreich"
+ GER_NFRA_DEF:0 "Das Reichskommissariat Nordfrankreich"
+ 
+ GER_SFRA:0 "Reichskommissariat Südfrankreich"
+ GER_SFRA_DEF:0 "Das Reichskommissariat Südfrankreich"
+ 
  NJD_fascism:0 "Sultanate of Nejd"
  NJD_fascism_DEF:0 "The Sultanate of Nejd"
  NJD_democratic:0 "Arabian Republic"
@@ -2960,3 +2966,15 @@
  BRI_REP_communism:0 "British Commune"
  BRI_REP_communism_DEF:0 "The British Commune"
  BRI_REP_ADJ:0 "British" 
+ 
+ OCEANIA:0 "Oceania"
+ OCEANIA_DEF:0 "Oceania"
+ OCEANIA_ADJ:0 "Oceanian"
+ 
+ EASTASIA:0 "Eastasia"
+ EASTASIA_DEF:0 "Eastasia"
+ EASTASIA_ADJ:0 "Eastasian"
+ 
+ EURASIA:0 "Eurasia"
+ EURASIA_DEF:0 "Eurasia"
+ EURASIA_ADJ:0 "Eurasian"

@@ -15,7 +15,6 @@ set_popularities = {
 }
 
 set_politics = {
-	
 	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
@@ -24,11 +23,12 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "To Be Added"
+	name = "Max de Masson de Saint-Félix"
 	desc = ""
-	picture = "To_be_added.dds"
+	picture = "CAY_SaintFelix.tga"
 	expire = "1965.1.1"
-	ideology = absolutism
+	ideology = despotism
 	traits = {
+		#
 	}
 }
