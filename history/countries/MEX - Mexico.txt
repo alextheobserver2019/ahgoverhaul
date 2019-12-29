@@ -57,9 +57,9 @@ create_country_leader = {
 		#
 	}
 }
-
+#wait, why Maximillian? he wasn't born until 1944?
 create_country_leader = {
-	name = "Maximilian II de Habsburgo-Lorena"
+	name = "Maximiliano II de Habsburgo-Iturbide"
 	desc = ""
 	picture = "MEX_MaximilianII.tga"
 	expire = "1965.1.1"
