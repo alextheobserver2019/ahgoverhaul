@@ -26,6 +26,7 @@ set_popularities = {
 	monarchism
 		= 0
 	}
+
 set_politics = { 
 	ruling_party = neutrality
 	last_election = "1934.7.1"
@@ -58,10 +59,11 @@ create_country_leader = {
 	}
 }
 #wait, why Maximillian? he wasn't born until 1944?
+#because i am a fool
 create_country_leader = {
-	name = "Maximiliano II de Habsburgo-Iturbide"
+	name = "Maria I de Habsburgo-Iturbide"
 	desc = ""
-	picture = "MEX_MaximilianII.tga"
+	picture = "MEX_MariaI.tga"
 	expire = "1965.1.1"
 	ideology = absolutism
 	traits = {
