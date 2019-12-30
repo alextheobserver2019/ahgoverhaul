@@ -1,0 +1,15 @@
+state={
+	id=7625
+	name="STATE_7625"
+	provinces={
+		17463 
+	}
+	history={
+	    owner = YUG
+        add_core_of = YUG
+        add_core_of = CRO
+    }	
+	manpower=1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
