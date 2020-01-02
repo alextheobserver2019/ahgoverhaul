@@ -2,16 +2,15 @@ state={
 	id=6021
 	name="STATE_6021"
 	provinces={
-		10876 12711 
+		12711 
 	}
 	manpower = 1000
 	
 	state_category = pastoral
 
 	history={
-	    owner = SGR
-        add_core_of = SGR
-        add_core_of = ALG
+		owner = FRA
+		add_core_of = ALG
 	}
 	
 	impassable = yes

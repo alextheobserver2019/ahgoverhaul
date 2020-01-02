@@ -11,7 +11,7 @@ state={
 		}
 	}
 	provinces={
-		8246 10993 
+		10993 
 	}
 	manpower=1000 
  state_category = small_island

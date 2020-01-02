@@ -1,4 +1,4 @@
-﻿capital = 853
+﻿ capital = 853
 
 oob = "IFN_1936"
 set_cosmetic_tag = IFN_SPR
@@ -28,7 +28,7 @@ create_country_leader = {
 	desc = ""
 	picture = "RDO_Portillo.tga"
 	expire = "1965.1.1"
-	ideology = absolutism
+	ideology = despotism
 	traits = {
 	}
 }
