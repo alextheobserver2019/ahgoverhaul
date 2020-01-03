@@ -9,9 +9,10 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = FRA
+		owner = SGR
+		add_core_of = SGR
 		add_core_of = ALG
 	}
-	
+	impassable = yes
 	buildings_max_level_factor=1.000
 }

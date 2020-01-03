@@ -1,0 +1,15 @@
+state={
+	id=7657
+	name="STATE_7657"
+	provinces={
+		4176 
+	}
+	history={
+	    owner = LBA
+        add_core_of = LBA
+    }	
+	manpower=1000
+	state_category = pastoral
+	impassable = yes
+	buildings_max_level_factor=1.000
+}
