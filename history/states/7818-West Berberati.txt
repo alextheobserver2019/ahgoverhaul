@@ -1,0 +1,15 @@
+state={
+	id=7818
+	name="STATE_7818"
+	provinces={
+		17612 17616 17619 
+	}
+	history={
+		owner = FEA
+		add_core_of = CAR
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

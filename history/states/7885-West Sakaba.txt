@@ -1,0 +1,15 @@
+state={
+	id=7885
+	name="STATE_7885"
+	provinces={
+		17642 
+	}
+	history={
+		owner = NGA
+		add_core_of = NGA
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

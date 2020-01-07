@@ -1,0 +1,18 @@
+state={
+	id=7901
+	name="STATE_7901"
+	provinces={
+		2010 5011 8068 10755 
+	}
+	history={
+		owner = TIB
+		add_core_of = TIB
+		add_core_of = CHI
+		add_core_of = PRC
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	impassable = yes
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,17 @@
+state={
+	id=7905
+	name="STATE_7905"
+	provinces={
+		1796 17691 
+	}
+	history={
+		owner = PIL
+		add_core_of = PIL
+		add_core_of = CHI
+		add_core_of = PRC
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

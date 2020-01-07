@@ -2,7 +2,7 @@ state={
 	id=2430
 	name="STATE_2430"
 	provinces={
-		4655 1796 12448 1551 4222 10372 1608
+		12448 1551 4222 10372 1608
 	}
 	history={
 		owner = PIL
