@@ -5,7 +5,8 @@ state={
 		17303 
 	}
 	history={
-	    owner = ERI
+	    owner = DJI
+        add_core_of = DJI
         add_core_of = ERI
     }	
 	manpower=1000

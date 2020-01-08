@@ -3952,3 +3952,11 @@ HSL = {
 color = rgb { 150 26 10 }
 color_ui = rgb { 150 26 10 }
 }
+MUL = {
+color = rgb { 250 190 70 }
+color_ui = rgb { 250 190 70 }
+}
+GB2 = {
+color = rgb { 150 26 10 }
+color_ui = rgb { 150 26 10 }
+}

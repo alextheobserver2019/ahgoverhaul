@@ -1,0 +1,16 @@
+state={
+	id=7973
+	name="STATE_7973"
+	provinces={
+		3283 
+	}
+	history={
+		owner = GER
+		add_core_of = GER
+		add_core_of = PRS
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

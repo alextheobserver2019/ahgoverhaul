@@ -1,0 +1,15 @@
+state={
+	id=7957
+	name="STATE_7957"
+	provinces={
+		653 9679 
+	}
+	history={
+		owner = AUS
+		add_core_of = AUS
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

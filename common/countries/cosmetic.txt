@@ -110,6 +110,10 @@ NCM_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
 }
+GB2_ENG = {
+	color = rgb { 150 26 10 }
+	color_ui = rgb { 150 26 10 }
+}
 SCM_ENG = {
 	color = rgb { 150 26 10 }
 	color_ui = rgb { 150 26 10 }
