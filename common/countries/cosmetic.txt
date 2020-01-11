@@ -22,6 +22,18 @@ ALW_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
 }
+OCEANIA = {
+	color = rgb { 102 15 15 }
+	color_ui = rgb { 102 15 15 }
+}
+EASTASIA = {
+	color = rgb { 176 99 23 }
+	color_ui = rgb { 176 99 23 }
+}
+EURASIA = {
+	color = rgb { 131 74 31 }
+	color_ui = rgb { 131 74 31 }
+}
 MAD_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
