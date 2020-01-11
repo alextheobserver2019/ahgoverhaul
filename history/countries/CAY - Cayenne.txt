@@ -1,4 +1,4 @@
-﻿capital = 3731
+﻿capital = 2101
 
 #oob = ""
 

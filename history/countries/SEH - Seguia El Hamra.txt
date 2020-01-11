@@ -1,4 +1,4 @@
-﻿capital = 2144
+﻿capital = 6783
 
 oob = "SEH_1936"
 set_cosmetic_tag = SEH_SPR

@@ -1,4 +1,4 @@
-﻿capital = 6783
+﻿capital = 2144
 
 oob = "RDO_1936"
 set_cosmetic_tag = RDO_SPR
