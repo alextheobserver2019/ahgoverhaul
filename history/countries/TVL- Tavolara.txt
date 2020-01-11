@@ -17,7 +17,7 @@ set_convoys = 10
         
         communism =  15
         fascism =  5
-        neutrality =  80
+        monarchism =  80
 
 	}
 	
@@ -34,6 +34,15 @@ create_country_leader = {
 	picture = "Portrait_Paolo_II.dds"
 	expire = "1965.1.1"
 	ideology = despotism
+	traits = {
+	}
+}
+create_country_leader = {
+	
+	name = "Paolo II di Bertoleoni"
+	picture = "Portrait_Paolo_II.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
 	traits = {
 	}
 }

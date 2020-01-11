@@ -3960,3 +3960,7 @@ GB2 = {
 color = rgb { 150 26 10 }
 color_ui = rgb { 150 26 10 }
 }
+KBA = {
+color = rgb { 170 10 10 }
+color_ui = rgb { 170 10 10 }
+}
