@@ -113,14 +113,15 @@ if = {
 	set_popularities = {
 		democratic 
 			 = 0
-		fascism
-			 = 100
+		neutrality
+			 = 60
 		communism
 			 = 0
+		fascism = 40
 			
 		}
 	set_politics = { 
- ruling_party = fascism
+ ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -133,6 +134,19 @@ create_country_leader = {
 	picture = "Portrait_Japan_Hirohito.dds"
 	expire = "1989.1.1"
 	ideology = fascism_ideology
+	traits = {
+		warrior_code
+		emperor_showa
+		imperial_sanction
+	}
+	id = 700 #Hirohito
+}
+create_country_leader = {
+	name = "Hirohito"
+	desc = "POLITICS_Hirohito_DESC"
+	picture = "Portrait_Japan_Hirohito.dds"
+	expire = "1989.1.1"
+	ideology = despotism
 	traits = {
 		warrior_code
 		emperor_showa

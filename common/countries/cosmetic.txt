@@ -31,8 +31,8 @@ EASTASIA = {
 	color_ui = rgb { 176 99 23 }
 }
 EURASIA = {
-	color = rgb { 131 74 31 }
-	color_ui = rgb { 131 74 31 }
+	color = rgb { 120 0 0 }
+	color_ui = rgb { 120 0 0 }
 }
 MAD_FRA = {
 	color = rgb { 37 72 155 }

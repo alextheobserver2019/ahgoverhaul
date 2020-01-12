@@ -16,25 +16,25 @@ set_convoys = 5
 		democratic 
 			 = 5
 		fascism
-			 = 60
+			 = 30
 		communism
 			 = 5
 		neutrality 
-			 = 30
+			 = 60
 		}
 	set_politics = { 
- ruling_party = fascism
+ ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	
-	name = "Louis E. Denfeld"
-	picture = "gfx/leaders/North America/Louis_Denfeld.dds"
-	expire = "1972.3.28"
+	name = "Hisao Hayashi"
+	desc = ""
+	picture = "Portrait_Hisao_Hayashi.dds"
 	ideology = despotism
+	expire = "1963.12.21"
 	traits = {
 		#
 	}
