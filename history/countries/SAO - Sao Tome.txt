@@ -15,16 +15,16 @@ set_convoys = 5
 
 	set_popularities = {
 		democratic 
-			 = 10
+			 = 5
 		fascism
-			 = 10
+			 = 70
 		communism
-			 = 40
+			 = 5
 		neutrality 
-			 = 40
+			 = 10
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -33,10 +33,10 @@ set_convoys = 5
 
 create_country_leader = {
 	
-	name = "Ricardo Vaz Monteiro"
-	picture = "gfx/leaders/Portuguese Colonial/Ricardo_Vaz_Monteiro.dds"
+	name = "To Be Added"
+	picture = ""
 	expire = "1975.11.22"
-	ideology = despotism
+	ideology = fascism_ideology
 	traits = {
 		#
 	}

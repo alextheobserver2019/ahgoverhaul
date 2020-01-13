@@ -13,41 +13,30 @@ set_cosmetic_tag = CVD_POR
 set_convoys = 5
 
 
-
 	set_popularities = {
 		democratic 
-			 = 10
+			 = 5
 		fascism
-			 = 10
+			 = 70
 		communism
-			 = 40
+			 = 5
 		neutrality 
-			 = 40
+			 = 10
 		}
 	set_politics = { 
- ruling_party = neutrality
+ ruling_party = fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-create_country_leader = {
-	
-	name = "Amílcar Cabral"
-	picture = "gfx/leaders/Africa/Amilcar_Cabral.dds"
-	expire = "1973.1.20"
-	ideology = marxism
-	traits = {
-		#
-	}
-}
 
 create_country_leader = {
 	
-	name = "Amadeu Gomes de Figueiredo"
-	picture = "gfx/leaders/Portuguese Colonial/Amadeu_de_Figueiredo.dds"
-	expire = "1965.10.29"
-	ideology = despotism
+	name = "To Be Added"
+	picture = ""
+	expire = "1975.11.22"
+	ideology = fascism_ideology
 	traits = {
 		#
 	}

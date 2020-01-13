@@ -3,7 +3,8 @@ state={
 	name="STATE_1178"
 	state_category = enclave
 	history={
-		owner = POR
+		owner = GOA
+		add_core_of = GOA
 		add_core_of = RAJ
 		victory_points = {
 			13346 1 

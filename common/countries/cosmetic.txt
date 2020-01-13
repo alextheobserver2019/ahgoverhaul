@@ -18,6 +18,30 @@ PHI_USA = {
 	color = rgb { 53 105 165 }
 	color_ui = rgb { 53 105 165 }
 }
+ALA_USA = {
+	color = rgb { 53 105 165 }
+	color_ui = rgb { 53 105 165 }
+}
+HAW_USA = {
+	color = rgb { 53 105 165 }
+	color_ui = rgb { 53 105 165 }
+}
+PUE_USA = {
+	color = rgb { 53 105 165 }
+	color_ui = rgb { 53 105 165 }
+}
+WVI_USA = {
+	color = rgb { 53 105 165 }
+	color_ui = rgb { 53 105 165 }
+}
+ESM_USA = {
+	color = rgb { 53 105 165 }
+	color_ui = rgb { 53 105 165 }
+}
+PCZ_USA = {
+	color = rgb { 53 105 165 }
+	color_ui = rgb { 53 105 165 }
+}
 ALW_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
@@ -808,6 +832,10 @@ BRA_POR = {
 	color_ui = rgb { 51 151 91 }
 }
 MZB_POR = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
+GOA_POR = {
 	color = rgb { 39 116 70 }
 	color_ui = rgb { 51 151 91 }
 }

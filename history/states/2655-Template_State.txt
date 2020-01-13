@@ -4,6 +4,7 @@ state={
 	history={
 		owner = PAC
 		add_core_of = PAC
+		add_core_of = NMI
 		buildings = {
 			infrastructure = 4
 			

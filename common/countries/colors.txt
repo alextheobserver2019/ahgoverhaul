@@ -3972,3 +3972,19 @@ JFR = {
 color = rgb { 0 151 0 }
 color_ui = rgb { 0 151 0 }
 }
+GOA = {
+color = rgb { 39 116 70 }
+color_ui = rgb { 39 116 70 }
+}
+LIN = {
+color = rgb { 185 125 2 }
+color_ui = rgb { 185 125 2 }
+}
+NMI = {
+color = rgb { 53 105 65 }
+color_ui = rgb { 53 105 65 }
+}
+NCZ = {
+color = rgb { 53 105 65 }
+color_ui = rgb { 53 105 65 }
+}

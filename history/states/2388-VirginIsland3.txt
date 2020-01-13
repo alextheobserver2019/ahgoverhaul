@@ -6,7 +6,7 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = USA
+		owner = WVI
 		add_core_of = USA
 		add_core_of = CSA
 		add_core_of = WVI

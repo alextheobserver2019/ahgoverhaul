@@ -10,7 +10,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = POR
+		owner = GOA
+		add_core_of = GOA
 		add_core_of = RAJ
 		buildings = {
 			infrastructure = 1

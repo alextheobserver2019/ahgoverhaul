@@ -7,6 +7,7 @@ state={
 		add_core_of = USA
 		add_core_of = CAS
 		add_core_of = WSH
+		add_core_of = LIN
 		buildings = {
 			infrastructure = 4
 			

@@ -3,7 +3,7 @@ state={
 	name="STATE_2088"
 
 	history={
-		owner = USA
+		owner = ALA
 		buildings = {
 			infrastructure = 2
 

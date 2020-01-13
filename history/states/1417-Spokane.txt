@@ -14,6 +14,7 @@ state={
 		add_core_of = USA
 		add_core_of = CAS
 		add_core_of = WSH
+		add_core_of = LIN
 		victory_points = {
 			1690 1 
 		}

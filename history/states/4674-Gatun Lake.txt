@@ -6,7 +6,7 @@ state={
 	}
 	history={
 		
-		owner = USA 
+		owner = PCZ 
 		add_core_of = PAN
 		add_core_of = PCZ
 		buildings = {

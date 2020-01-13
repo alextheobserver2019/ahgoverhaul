@@ -1,6 +1,7 @@
 ﻿capital = 685
 
 oob = "PCZ_1936"
+set_cosmetic_tag = PCZ_USA
 
 # Starting tech
 set_technology = {
@@ -13,16 +14,16 @@ set_technology = {
 set_convoys = 10
 
 set_popularities = {
-	        democratic = 10
+	        democratic = 70
         communism = 5
-        fascism = 70
-        neutrality = 15
+        fascism = 15
+        neutrality = 10
 
 }
 
 set_politics = {
 	
-	ruling_party = neutrality
+	ruling_party = democratic
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no

@@ -3,7 +3,7 @@ state={
 	name="STATE_929"
 
 	history={
-		owner = USA
+		owner = WVI
 		buildings = {
 			infrastructure = 4
 
