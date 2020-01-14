@@ -42,6 +42,10 @@ PCZ_USA = {
 	color = rgb { 53 105 165 }
 	color_ui = rgb { 53 105 165 }
 }
+GUM_USA = {
+	color = rgb { 53 105 165 }
+	color_ui = rgb { 53 105 165 }
+}
 ALW_FRA = {
 	color = rgb { 37 72 155 }
 	color_ui = rgb { 37 72 155 }
