@@ -1,0 +1,14 @@
+state={
+	id=8107
+	name="STATE_8107"
+	provinces={
+		10921 
+	}
+	history={
+		owner = SML
+		add_core_of = SML
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

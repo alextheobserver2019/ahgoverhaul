@@ -1,0 +1,15 @@
+state={
+	id=8029
+	name="STATE_8029"
+	provinces={
+		304 360 3759 11313 
+	}
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = BLR
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

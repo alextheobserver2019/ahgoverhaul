@@ -1,0 +1,14 @@
+state={
+	id=8111
+	name="STATE_8111"
+	provinces={
+		17759 
+	}
+	history={
+		owner = SOM
+		add_core_of = SOM
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

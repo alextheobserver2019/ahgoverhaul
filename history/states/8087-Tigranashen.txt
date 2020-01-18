@@ -1,0 +1,15 @@
+state={
+	id=8087
+	name="STATE_8087"
+	provinces={
+		17858 
+	}
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = AZR
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -14,7 +14,7 @@ state={
 		add_core_of = BLR
 	}
 	provinces={
-		14364 14383 
+		14364 
 	}
 	buildings_max_level_factor=1.000
 }

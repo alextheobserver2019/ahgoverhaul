@@ -1,0 +1,16 @@
+state={
+	id=8066
+	name="STATE_8066"
+	provinces={
+		17880 
+	}
+	history={
+		owner = GER
+		add_core_of = GER
+		add_core_of = PRS
+		set_demilitarized_zone = yes
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

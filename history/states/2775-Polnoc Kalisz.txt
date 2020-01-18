@@ -11,7 +11,7 @@ state={
 		}
 	}
 	provinces={
-		6401 11515 
+		11515 
 	}
 	manpower=1000 
   state_category=pastoral

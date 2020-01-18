@@ -1,0 +1,15 @@
+state={
+	id=8062
+	name="STATE_8062"
+	provinces={
+		17892 
+	}
+	history={
+		owner = POL
+		add_core_of = POL
+		add_core_of = PRS
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

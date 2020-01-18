@@ -3988,3 +3988,11 @@ NCZ = {
 color = rgb { 53 105 65 }
 color_ui = rgb { 53 105 65 }
 }
+PVD = {
+color = rgb { 103 97 228 }
+color_ui = rgb { 103 97 228 }
+}
+JUL = {
+color = rgb { 179 213 77 }
+color_ui = rgb { 179 213 77 }
+}

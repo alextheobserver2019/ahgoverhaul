@@ -1,0 +1,16 @@
+state={
+	id=8105
+	name="STATE_8105"
+	provinces={
+		17898 
+	}
+	history={
+		owner = DEN
+		add_core_of = DEN
+		add_core_of = SCH
+		add_core_of = PRS
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=8124
+	name="STATE_8124"
+	provinces={
+		17770 17772 
+	}
+	history={
+		owner = FWA
+		add_core_of = NGR
+	}
+	manpower = 1000
+	state_category = pastoral
+	impassable = yes
+	buildings_max_level_factor=1.000
+}

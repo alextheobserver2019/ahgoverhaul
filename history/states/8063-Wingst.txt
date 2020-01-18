@@ -1,0 +1,15 @@
+state={
+	id=8063
+	name="STATE_8063"
+	provinces={
+		374 
+	}
+	history={
+		owner = GER
+		add_core_of = GER
+		add_core_of = PRS
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

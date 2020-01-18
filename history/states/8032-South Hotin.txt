@@ -1,0 +1,15 @@
+state={
+	id=8032
+	name="STATE_8032"
+	provinces={
+		17865 
+	}
+	history={
+		owner = ROM
+		add_core_of = ROM
+		add_core_of = MOL
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
