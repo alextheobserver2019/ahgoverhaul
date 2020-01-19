@@ -3996,3 +3996,11 @@ JUL = {
 color = rgb { 179 213 77 }
 color_ui = rgb { 179 213 77 }
 }
+LBC = {
+color = rgb { 255 145 145 }
+color_ui = rgb { 255 145 145 }
+}
+HUM = {
+color = rgb { 0 190 0 }
+color_ui = rgb { 0 190 0 }
+}
