@@ -1,0 +1,18 @@
+state={
+	id=8409
+	name="STATE_8409"
+	provinces={
+		17905 17907 
+	}
+	history={
+		owner = ITA
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 4
+		}
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}

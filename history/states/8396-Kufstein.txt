@@ -1,0 +1,18 @@
+state={
+	id=8396
+	name="STATE_8396"
+	provinces={
+		17917 
+	}
+	history={
+		owner = AUS
+		add_core_of = AUS
+		buildings = {
+			infrastructure = 4
+		}
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
