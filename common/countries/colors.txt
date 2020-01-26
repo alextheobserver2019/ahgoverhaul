@@ -4004,3 +4004,143 @@ HUM = {
 color = rgb { 0 190 0 }
 color_ui = rgb { 0 190 0 }
 }
+BEG = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+RGB = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+WRZ = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+AHB = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+AHD = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+AHK = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+ARB = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+HHS = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+HHH = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+ISB = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+RSE = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+RSL = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+RSS = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+SM1 = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+SCB = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+SGA = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+SH2 = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+SW2 = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+TEU = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+BAY = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+ASB = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+NOF = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+KNB = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+HNU = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+FPR = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+HGL = {
+color = rgb { 192 192 192 }
+color_ui = rgb { 192 192 192 }
+}
+NGC = {
+color = rgb { 150 26 10 }
+color_ui = rgb { 150 26 10 }
+}
+ORV = {
+color = rgb { 150 26 10 }
+color_ui = rgb { 150 26 10 }
+}
+LGC = {
+color = rgb { 150 26 10 }
+color_ui = rgb { 150 26 10 }
+}
+LGP = {
+color = rgb { 150 26 10 }
+color_ui = rgb { 150 26 10 }
+}
+NNI = {
+color = rgb { 150 26 10 }
+color_ui = rgb { 150 26 10 }
+}
+SNI = {
+color = rgb { 150 26 10 }
+color_ui = rgb { 150 26 10 }
+}
+BOR = {
+color = rgb { 0 204 0 }
+color_ui = rgb { 0 204 0 }
+}
+SOK = {
+color = rgb { 0 98 0 }
+color_ui = rgb { 0 98 0 }
+}
+TES = {
+color = rgb { 113 0 0 }
+color_ui = rgb { 113 0 0 }
+}

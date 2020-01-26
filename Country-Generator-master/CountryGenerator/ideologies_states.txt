@@ -1,4 +1,5 @@
+monarchism|Kingdom of [NAME]
 democratic|Republic of [NAME]
 communism|Soviet Republic of [NAME]
-fascism|State of [NAME] 
+fascism|[ADJ] State
 neutrality|[NAME]
