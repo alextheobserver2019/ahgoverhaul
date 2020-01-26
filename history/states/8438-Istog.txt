@@ -1,0 +1,21 @@
+state={
+	id=8438
+	name="STATE_8438"
+	provinces={
+		17901 
+	}
+	history={
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = SER
+		add_core_of = KOS
+		add_core_of = MNT
+		buildings = {
+			infrastructure = 4
+		}
+
+	}
+	manpower = 1000
+	state_category = pastoral
+	buildings_max_level_factor=1.000
+}
