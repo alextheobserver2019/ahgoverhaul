@@ -11,6 +11,8 @@ state={
 	history={
 		owner = YUG
 		add_core_of = YUG
+        add_core_of = MNT
+        add_core_of = SDJ
 	}
 	
 	buildings_max_level_factor=1.000

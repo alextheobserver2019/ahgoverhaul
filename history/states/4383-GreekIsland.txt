@@ -5,6 +5,7 @@ state={
 		owner = ROM
 		add_core_of = ROM
 		add_core_of = TRV
+		add_core_of = BNT
 		add_claim_by = TUR
 		buildings = {
 			infrastructure = 2

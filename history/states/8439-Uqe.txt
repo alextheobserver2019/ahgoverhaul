@@ -9,6 +9,7 @@ state={
 		add_core_of = YUG
 		add_core_of = SER
 		add_core_of = MNT
+        add_core_of = SDJ
 		add_core_of = KOS
 		buildings = {
 			infrastructure = 4
