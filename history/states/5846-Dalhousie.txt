@@ -11,6 +11,7 @@ state={
 	history={
 		owner = KAS
 		add_core_of = KAS
+		add_claim_by = PAK
 		add_core_of = RAJ
 	}
 	

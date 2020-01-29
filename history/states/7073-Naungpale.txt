@@ -6,7 +6,7 @@ state={
 	}
 	history={
 	    owner = NNP
-		add_core_of = BUR
+		add_core_of = BRM
         add_core_of = NNP
     }	
 	manpower=1000

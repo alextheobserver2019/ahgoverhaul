@@ -8,6 +8,7 @@ state={
 	history={
 		owner = CHM
 		add_core_of = RAJ
+		add_claim_by = PAK
 		add_core_of = CHM
 	}
  

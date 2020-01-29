@@ -5,7 +5,8 @@ state={
 		17879 
 	}
 	history={
-		owner = GER
+		owner = GER 
+	 add_core_of = WGR
 		add_core_of = GER
 		add_core_of = PRS
 		set_demilitarized_zone = yes
