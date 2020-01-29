@@ -11,7 +11,6 @@ state={
 			1086 5 
 		}
 		add_core_of = PAL
-		add_core_of = ISR
 		add_claim_by = OML
 
 	}

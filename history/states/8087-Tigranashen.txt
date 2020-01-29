@@ -8,6 +8,8 @@ state={
 		owner = SOV
 		add_core_of = SOV
 		add_core_of = AZR
+        add_core_of = ARM
+        add_core_of = NAK
 	}
 	manpower = 1000
 	state_category = pastoral

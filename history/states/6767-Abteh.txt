@@ -7,6 +7,7 @@ state={
 	history={
 	    owner = RIF
         add_core_of = RIF
+        add_core_of = MOR
     }	
 	manpower = 1000
 	state_category = pastoral

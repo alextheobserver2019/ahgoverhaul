@@ -12,6 +12,7 @@ state={
 		}
 		add_core_of = USA
 		add_core_of = MSI
+		add_core_of = CSA
 
 	}
 	manpower = 1000

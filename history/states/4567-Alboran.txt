@@ -7,6 +7,8 @@ state={
 	history={
 		
 		owner = SPR 
+        add_core_of = MOR
+		add_claim_by = RIF
 		buildings = {
 			infrastructure = 4
 			

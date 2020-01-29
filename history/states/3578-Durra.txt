@@ -17,7 +17,6 @@ state={
 		add_core_of = SOV
 		add_core_of = AZR
 		add_core_of = NGK
-		add_core_of = ARM
 		add_core_of = TSC
 
 	}

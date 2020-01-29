@@ -11,6 +11,7 @@ state={
 	history={
 		owner = IRE
 		add_core_of = IRE
+        add_core_of = NIR
 	}
 	
 	buildings_max_level_factor=1.000

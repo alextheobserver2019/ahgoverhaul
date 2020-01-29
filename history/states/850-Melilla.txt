@@ -15,7 +15,7 @@ state={
 			}
 
 		}
-		add_claim_by = MOR
+        add_core_of = MOR
 		add_claim_by = RIF
 
 	}

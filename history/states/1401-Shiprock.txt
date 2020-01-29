@@ -11,6 +11,7 @@ state={
 		add_core_of = USA
 		add_core_of = NMX
 		add_core_of = NVJ
+		add_core_of = CSA
 
 	}
 
