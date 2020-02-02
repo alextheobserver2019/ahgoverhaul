@@ -1,0 +1,16 @@
+state={
+	id=8631
+	name="STATE_8631"
+	provinces={
+		3076 
+	}
+	history={
+		owner = ROM
+		add_core_of = ROM
+		add_core_of = DOB
+
+	}
+	manpower = 1
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}
