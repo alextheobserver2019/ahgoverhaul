@@ -699,7 +699,7 @@ IBRA = {
 	color = rgb { 67 210 17 }
 	color_ui = rgb { 67 210 17 }
 }
-NFR = {
+NFRA = {
 	color = rgb { 13 59 132 }
 	color_ui = rgb { 13 59 132 }
 }
@@ -715,15 +715,15 @@ BOH = {
 	color = rgb { 170 125 30 }
 	color_ui= rgb { 170 125 30 }
 }
-IBER_unified = {
+IBER = {
 	color = rgb { 141 161 82 }
 	color_ui= rgb { 141 161 82 }
 }
-FRA_IBER_unified = {
+FRA_IBER = {
 	color = rgb { 99 137 155 }
 	color_ui= rgb { 99 137 155 }
 }
-LTN_unified = {
+LATN = {
 	color = rgb { 250 250 50 }
 	color_ui= rgb { 250 250 50 }
 }
@@ -867,15 +867,15 @@ ETM_POR = {
 	color = rgb { 39 116 70 }
 	color_ui = rgb { 51 151 91 }
 }
-HSP_unified = {
+HISP = {
 	color = rgb { 141 103 125 }
 	color_ui = rgb { 141 103 125 }
 }
-SGC = {
+SOGC = {
 	color = rgb { 17 91 134 }
 	color_ui = rgb { 17 91 134 }
 }
-NGC = {
+NOGC = {
 	color = rgb { 65 78 93 }
 	color_ui = rgb { 65 78 93 }
 }
