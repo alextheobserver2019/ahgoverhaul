@@ -7,8 +7,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 10141;1419;sea;5267;-1;-1;-1;-1;;Moluccas
 480;9431;sea;8621;-1;-1;-1;-1;;Netherlands outlier
 8857;2284;sea;7617;1560;1009;1556;1016;PANAMA_CANAL;Panama
-2729;2408;sea;3231;2946;449;2963;1614;KAISER_WILHELM_CANAL;Kiel Canal
-5388;803;sea;1155;-1;-1;-1;-1;SUEZ_CANAL;Suez
 299;211;sea;2282;-1;-1;-1;-1;;Småland-Öland
 14212;6066;sea;990;-1;-1;-1;-1;;Finald-Aland
 6345;6287;sea;2382;-1;-1;-1;-1;;Skåne-Sjaelland
@@ -161,9 +159,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 14212;14213;sea;990;-1;1;-1;1;;Åland(1)
 14212;9228;sea;990;-1;1;-1;1;;Åland(2)
 14213;14214;sea;1211;-1;1;-1;1;;Åland(3)
-12278;6610;sea;13155;-1;1;-1;1;;Canada(1)
-12582;15496;sea;13155;-1;1;-1;1;;Canada(2)
-15494;15397;sea;13155;-1;1;-1;1;;USA(1)
 13840;4430;sea;8614;-1;1;-1;1;;Canada(3)
 15289;10715;sea;13164;-1;1;-1;1;;Canada(4)
 15293;12698;sea;2935;-1;1;-1;1;;Canada(5)

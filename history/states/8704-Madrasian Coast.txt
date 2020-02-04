@@ -1,0 +1,15 @@
+state={
+	id=8704
+	name="STATE_8704"
+	provinces={
+		6443 6633 6825 7029 7253 8339
+	}
+	history={
+		owner = WTR
+		add_core_of = WTR
+
+	}
+	manpower = 1
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=8723
+	name="STATE_8723"
+	provinces={
+		24 229 430 807 1011 1231 1456 1681 1906 2289 2315 2558 2611 2686 5763 5790 5842 5868 5917 6819 7010 7022 7235 7461 7690 8139 8794 8820 8846 8872 8896 8919 8942 9014 9052 
+	}
+	history={
+		owner = WTR
+		add_core_of = WTR
+
+	}
+	manpower = 1
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}
