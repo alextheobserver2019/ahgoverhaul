@@ -1307,6 +1307,26 @@ AFRC = {
     color = rgb { 49 148 0 }
 	color_ui = rgb { 49 148 0 }
 }
+SIL_CZE = { 
+	color = rgb { 65 151 145 }
+	color_ui = rgb { 65 151 145 }
+}
+SCH_DEN = {
+	color = rgb { 142 68 62 }
+	color_ui = rgb { 142 68 62 }
+}
+SAR_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
+RHI_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
+WSF_FRA = {
+	color = rgb { 37 72 155 }
+	color_ui = rgb { 37 72 155 }
+}
 ###Country Colours Mod
 
 ########
