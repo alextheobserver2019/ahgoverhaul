@@ -1,0 +1,17 @@
+state={
+	id=8968
+	name="STATE_8968"
+	history={
+		owner = AST
+		add_core_of = AST
+		buildings = {
+			infrastructure = 2
+			
+		}
+	}
+	provinces={
+		7453 8243
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+}
